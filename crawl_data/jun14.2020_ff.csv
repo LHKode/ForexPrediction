@@ -1,0 +1,108 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 14 2020,6:45pm,NZD,Low,FPI m/m,-0.8%,,1.0%
+,,NZD,Low,Visitor Arrivals m/m,-98.9%,,-40.8%
+,10:00pm,CNY,Medium,Fixed Asset Investment ytd/y,-6.3%,-6.0%,-10.3%
+,,CNY,Medium,Industrial Production y/y,4.4%,5.0%,3.9%
+,,CNY,Low,Retail Sales y/y,-2.8%,-2.3%,-7.5%
+,10:02pm,CNY,Low,Unemployment Rate,5.9%,5.9%,6.0%
+Mon Jun 15 2020,12:30am,JPY,Low,Tertiary Industry Activity m/m,-6.0%,-7.5%,-3.8%
+,2:30am,CHF,Low,PPI m/m,-0.5%,-0.4%,-1.3%
+,5:00am,EUR,Low,Trade Balance,1.2B,20.3B,25.5B
+,8:30am,CAD,Low,Manufacturing Sales m/m,-28.5%,-20.2%,-9.8%
+,,USD,Low,Empire State Manufacturing Index,-0.2,-30.0,-48.5
+,11:00am,USD,Low,FOMC Member Kaplan Speaks,,,
+,2:00pm,USD,High,Fed Announcement,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,-128.4B,86.7B,-111.6B
+,5:00pm,NZD,Low,Westpac Consumer Sentiment,97.2,,104.2
+,9:30pm,AUD,Medium,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,HPI q/q,1.6%,2.5%,3.9%
+,10:33pm,JPY,High,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Tue Jun 16 2020,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,1:59am,EUR,Low,German WPI m/m,-0.6%,-1.0%,-1.4%
+,2:00am,EUR,Low,German Final CPI m/m,-0.1%,-0.1%,-0.1%
+,,GBP,High,Claimant Count Change,528.9K,405.3K,1032.7K
+,,GBP,Low,Unemployment Rate,3.9%,4.7%,3.9%
+,2:02am,GBP,Low,Average Earnings Index 3m/y,1.0%,1.4%,2.3%
+,2:30am,JPY,Medium,BOJ Press Conference,,,
+,5:00am,EUR,Low,ZEW Economic Sentiment,58.6,53.4,46.0
+,,EUR,Low,German ZEW Economic Sentiment,63.4,60.0,51.0
+,6:33am,GBP,Low,10-y Bond Auction,0.22|3.3,,0.26|2.8
+,8:30am,CAD,Low,Foreign Securities Purchases,49.04B,5.00B,-9.82B
+,,USD,High,Core Retail Sales m/m,12.4%,5.5%,-15.2%
+,,USD,High,Retail Sales m/m,17.7%,7.9%,-14.7%
+,9:15am,USD,Low,Capacity Utilization Rate,64.8%,66.8%,64.0%
+,,USD,Low,Industrial Production m/m,1.4%,3.0%,-12.5%
+,10:00am,USD,High,Fed Chair Powell Testifies,,,
+,,USD,Low,Business Inventories m/m,-1.3%,-0.8%,-0.3%
+,,USD,Low,NAHB Housing Market Index,58,43,37
+,10:44am,NZD,Low,GDT Price Index,1.9%,,0.1%
+,3:00pm,CAD,High,BOC Gov Macklem Speaks,,,
+,4:00pm,USD,Low,FOMC Member Clarida Speaks,,,
+,6:45pm,NZD,Low,Current Account,1.56B,1.59B,-2.77B
+,7:50pm,JPY,Low,Trade Balance,-0.60T,-0.68T,-1.04T
+,8:30pm,AUD,Low,MI Leading Index m/m,0.2%,,-1.5%
+Wed Jun 17 2020,2:00am,GBP,Medium,CPI y/y,0.5%,0.5%,0.8%
+,,GBP,Low,Core CPI y/y,1.2%,1.3%,1.4%
+,,GBP,Low,PPI Input m/m,0.3%,4.1%,-5.5%
+,,GBP,Low,PPI Output m/m,-0.3%,0.0%,-0.8%
+,2:02am,GBP,Low,RPI y/y,1.0%,1.2%,1.5%
+,5:00am,EUR,Low,Final CPI y/y,0.1%,0.1%,0.1%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,5:37am,EUR,Low,German 10-y Bond Auction,-0.38|1.8,,-0.47|2.4
+,8:30am,CAD,Medium,CPI m/m,0.3%,0.8%,-0.7%
+,,CAD,Low,Common CPI y/y,1.4%,1.6%,1.5%
+,,CAD,Low,Median CPI y/y,1.9%,1.9%,2.0%
+,,CAD,Low,Trimmed CPI y/y,1.7%,1.7%,1.9%
+,,USD,Medium,Building Permits,1.22M,1.23M,1.07M
+,,USD,Low,Housing Starts,0.97M,1.10M,0.93M
+,8:32am,CAD,Low,Core CPI m/m,-0.1%,,-0.4%
+,10:30am,AUD,Low,CB Leading Index m/m,0.9%,,-0.2%
+,,USD,Low,Crude Oil Inventories,1.2M,0.0M,5.7M
+,12:00pm,USD,High,Fed Chair Powell Testifies,,,
+,4:00pm,USD,Low,FOMC Member Mester Speaks,,,
+,6:45pm,NZD,High,GDP q/q,-1.6%,-1.0%,0.5%
+,9:30pm,AUD,High,Employment Change,-227.7K,-105.0K,-607.4K
+,,AUD,High,Unemployment Rate,7.1%,6.9%,6.4%
+,,AUD,Low,RBA Bulletin,,,
+Thu Jun 18 2020,12:30am,CHF,Medium,SNB Financial Stability Report,,,
+,2:00am,CHF,Low,Trade Balance,2.80B,3.95B,3.99B
+,3:10am,CNY,Low,Foreign Direct Investment ytd/y,-3.8%,,-6.1%
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,SNB Policy Rate,-0.75%,-0.75%,-0.75%
+,4:00am,CHF,High,SNB Press Conference,,,
+,,EUR,Low,ECB Economic Bulletin,,,
+,4:03am,EUR,Low,Italian Trade Balance,-1.16B,4.88B,5.68B
+,4:57am,EUR,Low,Spanish 10-y Bond Auction,0.53|3.9,,0.55|1.4
+,7:00am,GBP,High,Asset Purchase Facility,745B,745B,645B
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.10%,0.10%,0.10%
+,7:02am,GBP,High,MPC Asset Purchase Facility Votes,8-0-1,9-0-0,2-0-7
+,7:20am,GBP,Medium,BOE Inflation Letter,,,
+,8:30am,CAD,Medium,ADP Non-Farm Employment Change,208.4K,,-2361.7K
+,,CAD,Low,Wholesale Sales m/m,-21.6%,-11.6%,-2.7%
+,,USD,Medium,Philly Fed Manufacturing Index,27.5,-23.0,-43.1
+,,USD,Medium,Unemployment Claims,1508K,1300K,1566K
+,8:32am,CAD,Low,NHPI m/m,0.1%,0.2%,0.0%
+,9:30am,GBP,High,BOE Gov Bailey Speaks,,,
+,10:00am,USD,Medium,CB Leading Index m/m,2.8%,2.4%,-6.1%
+,10:30am,USD,Low,Natural Gas Storage,85B,83B,93B
+,12:15pm,USD,Low,FOMC Member Mester Speaks,,,
+,1:30pm,CAD,Low,Gov Council Member Schembri Speaks,,,
+,7:01pm,GBP,Low,GfK Consumer Confidence,-30,-36,-36
+,7:30pm,JPY,Low,National Core CPI y/y,-0.2%,-0.1%,-0.2%
+,Apr Data,JPY,Low,Monetary Policy Meeting Minutes,,,
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,9:30pm,AUD,Medium,Retail Sales m/m,16.3%,,-17.7%
+Fri Jun 19 2020,2:00am,EUR,Low,German PPI m/m,-0.4%,-0.3%,-0.7%
+,,GBP,Medium,Retail Sales m/m,12.0%,6.3%,-18.0%
+,,GBP,Low,Public Sector Net Borrowing,54.5B,49.3B,47.8B
+,4:00am,EUR,Low,Current Account,14.4B,16.3B,27.4B
+,All Day,EUR,High,EU Economic Summit,,,
+,8:30am,CAD,High,Core Retail Sales m/m,-22.0%,-12.7%,-0.2%
+,,CAD,Medium,Retail Sales m/m,-26.4%,-15.0%,-9.9%
+,,USD,Low,Current Account,-104B,-101B,-104B
+,12:00pm,USD,Low,FOMC Member Quarles Speaks,,,
+,1:00pm,USD,Medium,Fed Chair Powell Speaks,,,
+Sat Jun 20 2020,,,No specified,,,,

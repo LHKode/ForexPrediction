@@ -1,0 +1,78 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 10 2016,4:45pm,NZD,Low,Building Consents m/m,1.8%,,5.4%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,-0.1%,,1.1%
+Mon Jan 11 2016,3:15am,CHF,Low,Retail Sales y/y,-2.1%,0.3%,-1.1%
+,4:30am,EUR,Low,Sentix Investor Confidence,9.6,11.5,15.7
+,8:13am,CAD,Low,Housing Starts,173K,202K,212K
+,9:59am,USD,Low,Labor Market Conditions Index m/m,2.9,,2.7
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,6:50pm,JPY,Medium,Current Account,1.42T,1.52T,1.49T
+,,JPY,Low,Bank Lending y/y,2.2%,,2.3%
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,-1.8%,,-5.6%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.1%,,-0.4%
+Tue Jan 12 2016,12:00am,JPY,Low,Consumer Confidence,42.7,42.3,42.6
+,1:00am,JPY,Low,Economy Watchers Sentiment,48.7,46.7,46.1
+,4:30am,GBP,High,Manufacturing Production m/m,-0.4%,0.1%,-0.4%
+,,GBP,Low,Industrial Production m/m,-0.7%,0.0%,0.0%
+,5:30am,JPY,High,BOJ Gov Kuroda Speaks,,,
+,,USD,Medium,FOMC Member Fischer Speaks,,,
+,6:00am,USD,Low,NFIB Small Business Index,95.2,95.4,94.8
+,9:15am,GBP,High,BOE Gov Carney Speaks,,,
+,9:47am,GBP,Low,NIESR GDP Estimate,0.6%,,0.6%
+,10:00am,USD,Medium,JOLTS Job Openings,5.43M,5.41M,5.35M
+,,USD,Low,IBD/TIPP Economic Optimism,47.3,47.6,47.2
+,6:50pm,JPY,Low,M2 Money Stock y/y,3.0%,3.4%,3.3%
+,9:00pm,CNY,High,Trade Balance,382B,339B,343B
+,,USD,Low,President Obama Speaks,,,
+,9:56pm,CNY,Low,USD-Denominated Trade Balance,60.1B,52.2B,54.1B
+Wed Jan 13 2016,2:45am,EUR,Low,French Final CPI m/m,0.2%,0.1%,-0.2%
+,5:00am,EUR,Low,Industrial Production m/m,-0.7%,-0.2%,0.8%
+,5:34am,EUR,Low,German 10-y Bond Auction,0.59|1.1,,0.49|1.1
+,8:00am,CHF,Medium,Gov Board Member Zurbrugg Speaks,,,
+,10:30am,USD,High,Crude Oil Inventories,0.2M,1.9M,-5.1M
+,1:03pm,USD,Low,10-y Bond Auction,2.09|2.8,,2.23|2.6
+,2:00pm,USD,Low,Beige Book,,,
+,,USD,Low,Federal Budget Balance,-14.4B,-2.7B,-64.6B
+,6:50pm,JPY,Low,Core Machinery Orders m/m,-14.4%,-7.3%,10.7%
+,,JPY,Low,PPI y/y,-3.4%,-0.4%,-3.6%
+,7:30pm,AUD,High,Employment Change,-1.0K,-11.0K,74.9K
+,,AUD,High,Unemployment Rate,5.8%,5.9%,5.8%
+Thu Jan 14 2016,12:58am,JPY,Low,Prelim Machine Tool Orders y/y,-25.8%,,-17.7%
+,2:00am,EUR,Low,German WPI m/m,-0.8%,0.1%,-0.2%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.5%,0.3%,0.5%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,7:00am,GBP,High,MPC Official Bank Rate Votes,1-0-8,1-0-8,1-0-8
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,NHPI m/m,0.2%,0.2%,0.3%
+,,USD,High,Unemployment Claims,284K,275K,277K
+,,USD,Medium,Import Prices m/m,-1.2%,-1.4%,-0.5%
+,9:15am,USD,Medium,FOMC Member Bullard Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,-168B,-152B,-113B
+,1:01pm,USD,Low,30-y Bond Auction,2.91|2.3,,2.98|2.4
+,4:45pm,NZD,Low,FPI m/m,-0.8%,,-0.2%
+,7:30pm,AUD,Medium,Home Loans m/m,1.8%,-0.4%,-0.3%
+,9:00pm,CNY,Low,M2 Money Supply y/y,13.3%,13.6%,13.7%
+,,CNY,Low,New Loans,598B,700B,709B
+Fri Jan 15 2016,2:45am,EUR,Low,French Gov Budget Balance,-82.8B,,-76.2B
+,4:30am,GBP,Medium,BOE Credit Conditions Survey,,,
+,,GBP,Low,Construction Output m/m,-0.5%,0.5%,0.2%
+,5:00am,EUR,Low,Trade Balance,22.7B,21.1B,19.8B
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:30am,USD,High,Core Retail Sales m/m,-0.1%,0.2%,0.3%
+,,USD,High,PPI m/m,-0.2%,-0.2%,0.3%
+,,USD,High,Retail Sales m/m,-0.1%,-0.1%,0.4%
+,,USD,Medium,Core PPI m/m,0.1%,0.1%,0.3%
+,,USD,Medium,Empire State Manufacturing Index,-19.4,-4.1,-4.6
+,9:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,9:15am,USD,Medium,Capacity Utilization Rate,76.5%,76.8%,76.9%
+,,USD,Medium,Industrial Production m/m,-0.4%,-0.2%,-0.9%
+,9:30am,GBP,Low,CB Leading Index m/m,0.3%,,-0.1%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,93.3,92.7,92.6
+,,USD,Low,Business Inventories m/m,-0.2%,0.0%,-0.1%
+,,USD,Low,Prelim UoM Inflation Expectations,2.4%,,2.6%
+Sat Jan 16 2016,,,No specified,,,,

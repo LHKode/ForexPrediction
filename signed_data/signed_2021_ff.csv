@@ -1,0 +1,1078 @@
+Time,Currency,Impact,Event,Actual,Forecast,Previous,EffectDay,Effect60,Effect30,Effect15,SignEffectDay,SignEffect60,SignEffect30,SignEffect15
+1/4/2021 14:15,EUR,Low,Spanish Manufacturing PMI,51,52.6,49.8,83,14,8,8,0,0,0,0
+1/4/2021 14:45,EUR,Low,Italian Manufacturing PMI,52.8,53.5,51.5,83,29,14,12,0,0,0,1
+1/4/2021 14:50,EUR,Low,French Final Manufacturing PMI,51.1,51.1,51.1,83,29,17,13,0,0,0,0
+1/4/2021 14:55,EUR,Low,German Final Manufacturing PMI,58.3,58.6,58.6,83,29,17,14,0,0,0,0
+1/4/2021 15:00,EUR,Low,Final Manufacturing PMI,55.2,55.5,55.5,83,24,12,9,0,0,0,0
+1/4/2021 20:45,USD,Low,Final Manufacturing PMI,57.1,56.3,56.5,83,20,12,12,0,0,0,0
+1/4/2021 21:00,USD,Low,Construction Spending m/m,0.90%,1.10%,1.60%,83,26,16,10,0,1,0,1
+1/5/2021 13:00,EUR,Low,German Retail Sales m/m,1.90%,-2.00%,2.60%,55,8,6,6,0,1,1,1
+1/5/2021 14:00,EUR,Low,Spanish Unemployment Change,36.8K,30.5K,25.3K,55,16,10,9,0,1,0,1
+1/5/2021 14:55,EUR,Low,German Unemployment Change,-37K,10K,-40K,55,23,23,12,0,0,0,0
+1/5/2021 15:00,EUR,Low,M3 Money Supply y/y,11.00%,10.60%,10.50%,55,20,20,14,0,0,0,0
+1/5/2021 15:00,EUR,Low,Private Loans y/y,3.10%,3.30%,3.20%,55,20,20,14,0,0,0,0
+1/5/2021 21:00,USD,Medium,ISM Manufacturing PMI,60.7,56.6,57.5,55,19,12,9,0,0,0,0
+1/5/2021 21:00,USD,Low,ISM Manufacturing Prices,77.6,66,65.4,55,19,12,9,0,0,0,0
+1/5/2021 21:00,USD,Low,Wards Total Vehicle Sales,16.3M,15.8M,15.6M,55,19,12,9,0,0,0,0
+1/6/2021 23:00,EUR,Low,German Prelim CPI m/m,0.50%,0.60%,-0.80%,84,27,18,16,1,0,0,1
+1/6/2021 13:45,EUR,Low,French Prelim CPI m/m,0.20%,0.40%,0.20%,84,36,25,12,1,0,0,0
+1/6/2021 14:15,EUR,Low,Spanish Services PMI,48,44.5,39.5,84,25,25,14,1,1,0,1
+1/6/2021 14:45,EUR,Low,Italian Services PMI,39.7,45,39.4,84,21,14,8,1,1,1,0
+1/6/2021 14:50,EUR,Low,French Final Services PMI,49.1,49.2,49.2,84,21,16,11,1,1,1,1
+1/6/2021 14:55,EUR,Low,German Final Services PMI,47,47.7,47.7,84,18,18,11,1,1,1,1
+1/6/2021 15:00,EUR,Low,Final Services PMI,46.4,47.4,47.3,84,18,18,11,1,1,1,1
+1/6/2021 16:00,EUR,Low,PPI m/m,0.40%,0.20%,0.40%,84,18,17,16,1,0,0,0
+1/6/2021 19:15,USD,Medium,ADP Non-Farm Employment Change,-123K,60K,304K,84,19,13,6,1,1,1,1
+1/6/2021 20:45,USD,Low,Final Services PMI,54.8,55.2,55.3,84,44,43,20,1,1,1,1
+1/6/2021 21:00,USD,Low,Factory Orders m/m,1.00%,0.70%,1.30%,84,28,27,27,1,1,1,1
+1/6/2021 21:30,USD,Low,Crude Oil Inventories,-8.0M,-2.8M,-6.1M,84,28,28,18,1,0,0,0
+1/7/2021 13:00,EUR,Low,German Factory Orders m/m,2.30%,-0.60%,3.30%,99,18,12,6,1,0,0,0
+1/7/2021 16:00,EUR,Low,CPI Flash Estimate y/y,-0.30%,-0.20%,-0.30%,99,31,14,10,1,1,1,1
+1/7/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,0.20%,0.20%,0.20%,99,31,14,10,1,1,1,1
+1/7/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.30%,0.20%,-0.10%,99,31,14,10,1,1,1,1
+1/7/2021 16:00,EUR,Low,Retail Sales m/m,-6.10%,-3.40%,1.40%,99,31,14,10,1,1,1,1
+1/7/2021 19:30,USD,Medium,Unemployment Claims,787K,798K,790K,99,15,10,7,1,0,0,0
+1/7/2021 19:30,USD,Low,Trade Balance,-68.1B,-66.7B,-63.1B,99,15,10,7,1,0,0,0
+1/7/2021 21:00,USD,Medium,ISM Services PMI,57.2,54.5,55.9,99,29,17,16,1,1,0,0
+1/7/2021 21:30,USD,Low,Natural Gas Storage,-130B,-142B,-114B,99,30,23,23,1,1,1,1
+1/8/2021 13:00,EUR,Low,German Industrial Production m/m,0.90%,0.70%,3.40%,71,10,9,6,1,0,0,0
+1/8/2021 13:00,EUR,Low,German Trade Balance,16.4B,18.5B,18.2B,71,10,9,6,1,0,0,0
+1/8/2021 13:45,EUR,Low,French Consumer Spending m/m,-18.90%,-15.80%,3.90%,71,23,10,6,1,1,1,1
+1/8/2021 13:45,EUR,Low,French Industrial Production m/m,-0.90%,-1.00%,1.90%,71,23,10,6,1,1,1,1
+1/8/2021 13:45,EUR,Low,French Trade Balance,-3.6B,-4.9B,-4.6B,71,23,10,6,1,1,1,1
+1/8/2021 16:00,EUR,Low,Italian Monthly Unemployment Rate,8.90%,10.00%,9.50%,71,23,16,13,1,0,0,0
+1/8/2021 16:00,EUR,Low,Unemployment Rate,8.30%,8.50%,8.40%,71,23,16,13,1,0,0,0
+1/8/2021 19:30,USD,High,Average Hourly Earnings m/m,0.80%,0.20%,0.30%,71,9,7,6,1,0,1,1
+1/8/2021 19:30,USD,High,Non-Farm Employment Change,-140K,60K,336K,71,9,7,6,1,0,1,1
+1/8/2021 19:30,USD,High,Unemployment Rate,6.70%,6.80%,6.70%,71,9,7,6,1,0,1,1
+1/8/2021 21:00,USD,Low,Final Wholesale Inventories m/m,0.00%,-0.10%,-0.10%,71,40,25,15,1,1,0,1
+1/9/2021 2:00,USD,Low,Consumer Credit m/m,15.3B,9.0B,4.5B,60,22,16,16,1,0,0,0
+1/11/2021 15:30,EUR,Low,Sentix Investor Confidence,1.3,2,-2.7,90,21,16,9,1,1,1,0
+1/12/2021 15:00,EUR,Low,Italian Retail Sales m/m,-6.90%,-4.50%,0.50%,42,16,15,13,1,1,1,1
+1/12/2021 17:00,USD,Low,NFIB Small Business Index,95.9,100.1,101.4,42,22,14,13,1,1,1,1
+1/12/2021 21:00,USD,Low,JOLTS Job Openings,6.53M,6.42M,6.63M,42,21,20,12,1,0,0,0
+1/12/2021 21:02,USD,Low,IBD/TIPP Economic Optimism,50.1,50.1,49,42,21,20,15,1,0,0,0
+1/13/2021 13:00,EUR,Low,German WPI m/m,0.60%,0.10%,0.10%,71,9,9,7,1,0,0,0
+1/13/2021 15:00,EUR,Low,Italian Industrial Production m/m,-1.40%,-0.40%,1.40%,71,22,13,13,1,1,1,0
+1/13/2021 16:00,EUR,Low,Industrial Production m/m,2.50%,0.20%,2.30%,71,10,10,10,1,1,1,1
+1/13/2021 19:30,USD,Medium,CPI m/m,0.40%,0.40%,0.20%,71,13,8,6,1,0,0,0
+1/13/2021 19:30,USD,Medium,Core CPI m/m,0.10%,0.10%,0.20%,71,13,8,6,1,0,0,0
+1/13/2021 21:30,USD,Low,Crude Oil Inventories,-3.2M,-3.2M,-8.0M,71,27,18,16,1,0,0,0
+1/14/2021 1:00,USD,Low,Federal Budget Balance,-143.6B,-144.5B,-145.3B,64,14,9,9,1,1,1,0
+1/14/2021 19:30,USD,Low,Import Prices m/m,0.90%,0.70%,0.20%,64,38,24,10,1,1,1,0
+1/14/2021 19:30,USD,Low,Unemployment Claims,965K,785K,784K,64,38,24,10,1,1,1,0
+1/14/2021 21:30,USD,Low,Natural Gas Storage,-134B,-129B,-130B,64,14,12,9,1,1,1,1
+1/15/2021 13:45,EUR,Low,French Final CPI m/m,0.20%,0.20%,0.20%,97,13,10,4,1,0,0,0
+1/15/2021 16:00,EUR,Low,Trade Balance,25.1B,22.3B,25.2B,97,13,13,13,1,0,0,0
+1/15/2021 19:30,USD,High,Core Retail Sales m/m,-1.40%,-0.10%,-1.30%,97,13,10,8,1,0,0,1
+1/15/2021 19:30,USD,High,Retail Sales m/m,-0.70%,0.00%,-1.40%,97,13,10,8,1,0,0,1
+1/15/2021 19:30,USD,Low,Core PPI m/m,0.10%,0.10%,0.10%,97,13,10,8,1,0,0,1
+1/15/2021 19:30,USD,Low,Empire State Manufacturing Index,3.5,5.7,4.9,97,13,10,8,1,0,0,1
+1/15/2021 19:30,USD,Low,PPI m/m,0.30%,0.40%,0.10%,97,13,10,8,1,0,0,1
+1/15/2021 20:15,USD,Low,Capacity Utilization Rate,74.50%,73.40%,73.40%,97,27,11,4,1,1,0,0
+1/15/2021 20:15,USD,Low,Industrial Production m/m,1.60%,0.50%,0.50%,97,27,11,4,1,1,0,0
+1/15/2021 21:00,USD,Low,Business Inventories m/m,0.50%,0.50%,0.80%,97,24,12,11,1,1,1,1
+1/15/2021 21:00,USD,Low,Prelim UoM Consumer Sentiment,79.2,79.5,80.7,97,24,12,11,1,1,1,1
+1/19/2021 13:00,EUR,Low,German Final CPI m/m,0.50%,0.50%,0.50%,74,5,4,4,0,0,1,1
+1/19/2021 15:00,EUR,Low,Current Account,24.6B,28.2B,25.6B,74,15,15,15,0,0,0,0
+1/19/2021 15:00,EUR,Low,Italian Trade Balance,6.77B,6.23B,7.58B,74,15,15,15,0,0,0,0
+1/19/2021 16:00,EUR,Low,ZEW Economic Sentiment,58.3,54.1,54.4,74,20,11,7,0,0,0,1
+1/19/2021 16:00,EUR,Low,German ZEW Economic Sentiment,61.8,55.1,55,74,20,11,7,0,0,0,1
+1/20/2021 3:00,USD,Low,TIC Long-Term Purchases,149.2B,45.4B,51.9B,81,5,4,3,1,0,1,0
+1/20/2021 13:00,EUR,Low,German PPI m/m,0.80%,0.30%,0.20%,81,15,4,4,1,0,1,1
+1/20/2021 16:00,EUR,Low,Final CPI y/y,-0.30%,-0.30%,-0.30%,81,19,14,14,1,1,1,1
+1/20/2021 16:00,EUR,Low,Final Core CPI y/y,0.20%,0.20%,0.20%,81,19,14,14,1,1,1,1
+1/20/2021 21:00,USD,Low,NAHB Housing Market Index,83,86,86,81,37,18,11,1,1,1,1
+1/21/2021 18:45,EUR,Medium,Main Refinancing Rate,0.00%,0.00%,0.00%,74,10,7,5,0,0,0,1
+1/21/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,26.5,11.2,11.1,74,24,12,6,0,0,1,1
+1/21/2021 19:30,USD,Medium,Unemployment Claims,900K,930K,926K,74,24,12,6,0,0,1,1
+1/21/2021 19:30,USD,Low,Building Permits,1.71M,1.60M,1.64M,74,24,12,6,0,0,1,1
+1/21/2021 19:30,USD,Low,Housing Starts,1.67M,1.56M,1.58M,74,24,12,6,0,0,1,1
+1/21/2021 20:30,EUR,Low,Consumer Confidence,-16,-15,-14,74,33,22,19,0,1,1,0
+1/22/2021 14:15,EUR,High,French Flash Services PMI,46.5,48.3,49.1,54,8,7,7,0,0,1,1
+1/22/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,51.5,50.6,51.1,54,8,7,7,0,0,1,1
+1/22/2021 14:30,EUR,High,German Flash Manufacturing PMI,57,57.3,58.3,54,9,7,3,0,0,0,0
+1/22/2021 14:30,EUR,High,German Flash Services PMI,46.8,45.1,47,54,9,7,3,0,0,0,0
+1/22/2021 15:00,EUR,Medium,Flash Manufacturing PMI,54.7,54.5,55.2,54,32,9,6,0,0,0,0
+1/22/2021 15:00,EUR,Medium,Flash Services PMI,45,44.4,46.4,54,32,9,6,0,0,0,0
+1/22/2021 20:45,USD,Medium,Flash Manufacturing PMI,59.1,56.6,57.1,54,16,16,6,0,1,1,0
+1/22/2021 20:45,USD,Low,Flash Services PMI,57.5,53.3,54.8,54,16,16,6,0,1,1,0
+1/22/2021 21:00,USD,Low,Existing Home Sales,6.76M,6.55M,6.71M,54,20,13,13,0,0,1,1
+1/22/2021 21:30,USD,Low,Natural Gas Storage,-187B,-162B,-134B,54,30,20,10,0,0,0,0
+1/22/2021 22:00,USD,Low,Crude Oil Inventories,4.4M,-1.2M,-3.2M,54,23,12,11,0,1,0,0
+1/25/2021 15:00,EUR,Low,German ifo Business Climate,90.1,91.5,92.2,67,11,11,7,1,1,1,1
+1/25/2021 20:00,EUR,Low,Belgian NBB Business Climate,-7.5,-8,-8.4,67,10,3,3,1,1,1,1
+1/26/2021 20:00,USD,Low,HPI m/m,1.00%,0.90%,1.50%,68,21,7,6,0,0,1,1
+1/26/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,9.10%,8.80%,8.00%,68,21,7,6,0,0,1,1
+1/26/2021 20:59,USD,Low,Richmond Manufacturing Index,14,18,19,68,10,8,8,0,0,0,0
+1/26/2021 21:00,USD,Medium,CB Consumer Confidence,89.3,88.9,87.1,68,10,7,7,0,0,0,0
+1/27/2021 13:00,EUR,Low,German GfK Consumer Climate,-15.6,-7.8,-7.5,111,7,5,5,1,1,1,1
+1/27/2021 19:30,USD,Low,Core Durable Goods Orders m/m,0.70%,0.50%,0.40%,111,15,14,10,1,0,1,1
+1/27/2021 19:30,USD,Low,Durable Goods Orders m/m,0.20%,1.00%,1.00%,111,15,14,10,1,0,1,1
+1/27/2021 21:30,USD,Low,Crude Oil Inventories,-9.9M,1.6M,4.4M,111,47,47,45,1,1,1,1
+1/28/2021 1:00,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%,61,10,8,7,0,0,1,1
+1/28/2021 13:00,EUR,Low,German Prelim CPI m/m,0.80%,0.40%,0.50%,61,12,12,12,0,0,1,1
+1/28/2021 14:00,EUR,Low,Spanish Unemployment Rate,16.10%,16.70%,16.30%,61,23,20,16,0,1,1,1
+1/28/2021 19:30,USD,High,Advance GDP q/q,4.00%,4.20%,33.40%,61,23,13,11,0,1,1,1
+1/28/2021 19:30,USD,Medium,Unemployment Claims,847K,880K,914K,61,23,13,11,0,1,1,1
+1/28/2021 19:30,USD,Low,Goods Trade Balance,-82.5B,-83.4B,-85.5B,61,23,13,11,0,1,1,1
+1/28/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,0.10%,0.50%,0.00%,61,23,13,11,0,1,1,1
+1/28/2021 19:32,USD,Medium,Advance GDP Price Index q/q,2.00%,2.20%,3.50%,61,19,9,8,0,1,1,1
+1/28/2021 21:00,USD,Medium,CB Leading Index m/m,0.30%,0.30%,0.70%,61,20,20,16,0,1,1,1
+1/28/2021 21:00,USD,Low,New Home Sales,842K,860K,829K,61,20,20,16,0,1,1,1
+1/28/2021 21:30,USD,Low,Natural Gas Storage,-128B,-140B,-187B,61,18,14,13,0,0,0,0
+1/29/2021 12:30,EUR,Low,French Consumer Spending m/m,23.00%,24.00%,-18.00%,61,9,7,5,0,0,0,1
+1/29/2021 12:30,EUR,Low,French Flash GDP q/q,-1.30%,-4.00%,18.70%,61,9,7,5,0,0,0,1
+1/29/2021 13:00,EUR,Low,German Import Prices m/m,0.60%,1.00%,0.50%,61,9,5,4,0,0,0,1
+1/29/2021 14:00,EUR,Low,Spanish Flash CPI y/y,0.60%,-0.50%,-0.50%,61,9,9,4,0,1,1,1
+1/29/2021 14:00,EUR,Low,Spanish Flash GDP q/q,0.40%,-1.40%,16.40%,61,9,9,4,0,1,1,1
+1/29/2021 14:55,EUR,Low,German Unemployment Change,-41K,7K,-40K,61,17,16,9,0,0,0,1
+1/29/2021 15:00,EUR,Medium,German Prelim GDP q/q,0.10%,0.00%,8.50%,61,22,16,9,0,0,0,0
+1/29/2021 15:00,EUR,Low,M3 Money Supply y/y,12.30%,11.00%,11.00%,61,22,16,9,0,0,0,0
+1/29/2021 15:00,EUR,Low,Private Loans y/y,3.10%,3.20%,3.10%,61,22,16,9,0,0,0,0
+1/29/2021 19:30,USD,Low,Core PCE Price Index m/m,0.30%,0.10%,0.00%,61,22,15,9,0,1,1,1
+1/29/2021 19:30,USD,Low,Employment Cost Index q/q,0.70%,0.50%,0.50%,61,22,15,9,0,1,1,1
+1/29/2021 19:30,USD,Low,Personal Income m/m,0.60%,0.10%,-1.30%,61,22,15,9,0,1,1,1
+1/29/2021 19:30,USD,Low,Personal Spending m/m,-0.20%,-0.40%,-0.70%,61,22,15,9,0,1,1,1
+1/29/2021 20:45,USD,Low,Chicago PMI,63.8,58.4,59.5,61,15,11,7,0,1,0,1
+1/29/2021 21:00,USD,Low,Pending Home Sales m/m,-0.30%,-0.50%,-2.50%,61,16,10,10,0,1,1,0
+1/29/2021 21:00,USD,Low,Revised UoM Consumer Sentiment,79,79.2,79.2,61,16,10,10,0,1,1,0
+2/1/2021 13:00,EUR,Low,German Retail Sales m/m,-9.60%,-2.00%,1.10%,68,5,4,4,1,1,0,0
+2/1/2021 14:15,EUR,Low,Spanish Manufacturing PMI,49.3,50.2,51,68,12,7,5,1,0,0,0
+2/1/2021 14:45,EUR,Low,Italian Manufacturing PMI,55.1,52.5,52.8,68,23,12,5,1,1,0,0
+2/1/2021 14:50,EUR,Low,French Final Manufacturing PMI,51.6,51.5,51.5,68,28,13,11,1,1,1,1
+2/1/2021 14:55,EUR,Low,German Final Manufacturing PMI,57.1,57,57,68,33,13,11,1,1,1,1
+2/1/2021 15:00,EUR,Low,Final Manufacturing PMI,54.8,54.7,54.7,68,43,18,12,1,1,1,0
+2/1/2021 15:00,EUR,Low,Italian Monthly Unemployment Rate,9.00%,9.00%,8.80%,68,43,18,12,1,1,1,0
+2/1/2021 16:00,EUR,Low,Unemployment Rate,8.30%,8.30%,8.30%,68,21,18,12,1,0,0,0
+2/1/2021 20:45,USD,Low,Final Manufacturing PMI,59.2,59.1,59.1,68,16,9,9,1,0,0,0
+2/1/2021 21:00,USD,High,ISM Manufacturing PMI,58.7,60,60.7,68,16,15,9,1,0,0,0
+2/1/2021 21:00,USD,Low,Construction Spending m/m,1.00%,0.80%,1.10%,68,16,15,9,1,0,0,0
+2/1/2021 21:00,USD,Low,ISM Manufacturing Prices,82.1,72,77.6,68,16,15,9,1,0,0,0
+2/2/2021 13:45,EUR,Low,French Prelim CPI m/m,0.20%,0.00%,0.20%,69,12,6,2,1,0,1,1
+2/2/2021 14:00,EUR,Low,Spanish Unemployment Change,76.2K,35.3K,36.8K,69,12,7,5,1,1,1,1
+2/2/2021 15:00,EUR,Low,Italian Prelim GDP q/q,-2.00%,-2.00%,15.90%,69,20,16,7,1,0,0,0
+2/2/2021 16:00,EUR,Low,Prelim Flash GDP q/q,-0.70%,-0.90%,12.50%,69,23,12,8,1,1,1,1
+2/2/2021 21:00,USD,Low,IBD/TIPP Economic Optimism,51.9,51,50.1,69,29,9,9,1,1,1,1
+2/2/2021 21:00,USD,Low,Wards Total Vehicle Sales,16.6M,16.1M,16.3M,69,29,9,9,1,1,1,1
+2/3/2021 14:15,EUR,Low,Spanish Services PMI,41.7,45.1,48,46,14,9,6,0,0,1,1
+2/3/2021 14:45,EUR,Low,Italian Services PMI,44.7,39.5,39.7,46,14,14,10,0,0,0,0
+2/3/2021 14:50,EUR,Low,French Final Services PMI,47.3,46.5,46.5,46,14,14,14,0,0,0,0
+2/3/2021 14:55,EUR,Low,German Final Services PMI,46.7,46.8,46.8,46,11,11,10,0,0,0,0
+2/3/2021 15:00,EUR,Low,Final Services PMI,45.4,45,45,46,11,11,9,0,1,0,0
+2/3/2021 16:00,EUR,Low,CPI Flash Estimate y/y,0.90%,0.60%,-0.30%,46,22,21,21,0,1,1,1
+2/3/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,1.40%,0.90%,0.20%,46,22,21,21,0,1,1,1
+2/3/2021 16:00,EUR,Low,PPI m/m,0.80%,0.70%,0.40%,46,22,21,21,0,1,1,1
+2/3/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.50%,0.20%,0.20%,46,22,21,21,0,1,1,1
+2/3/2021 19:15,USD,Medium,ADP Non-Farm Employment Change,174K,48K,-78K,46,18,18,12,0,0,0,0
+2/3/2021 20:45,USD,Low,Final Services PMI,58.3,57.4,57.5,46,19,15,9,0,0,0,0
+2/3/2021 21:00,USD,Medium,ISM Services PMI,58.7,56.7,57.2,46,17,13,13,0,0,0,0
+2/3/2021 21:30,USD,Medium,Crude Oil Inventories,-1.0M,-0.6M,-9.9M,46,21,8,8,0,1,1,0
+2/4/2021 16:00,EUR,Low,Retail Sales m/m,2.00%,2.40%,-5.70%,76,13,10,8,1,1,1,1
+2/4/2021 19:30,USD,Medium,Unemployment Claims,779K,828K,812K,76,13,9,5,1,0,0,0
+2/4/2021 19:30,USD,Low,Prelim Nonfarm Productivity q/q,-4.80%,-2.90%,4.60%,76,13,9,5,1,0,0,0
+2/4/2021 19:30,USD,Low,Prelim Unit Labor Costs q/q,6.80%,4.10%,-6.60%,76,13,9,5,1,0,0,0
+2/4/2021 21:00,USD,Low,Factory Orders m/m,1.10%,0.70%,1.30%,76,13,8,5,1,1,0,1
+2/4/2021 21:30,USD,Low,Natural Gas Storage,-192B,-194B,-128B,76,19,12,11,1,1,1,1
+2/5/2021 13:00,EUR,Low,German Factory Orders m/m,-1.90%,-1.20%,2.70%,88,7,4,4,0,0,0,1
+2/5/2021 13:45,EUR,Low,French Prelim Private Payrolls q/q,-0.20%,-0.70%,1.60%,88,7,4,4,0,1,0,0
+2/5/2021 13:45,EUR,Low,French Trade Balance,-3.4B,-4.2B,-3.8B,88,7,4,4,0,1,0,0
+2/5/2021 15:00,EUR,Low,Italian Retail Sales m/m,2.50%,1.50%,-6.90%,88,24,19,19,0,0,0,0
+2/5/2021 19:30,USD,High,Average Hourly Earnings m/m,0.20%,0.30%,1.00%,88,12,7,7,0,1,1,1
+2/5/2021 19:30,USD,High,Non-Farm Employment Change,49K,85K,-227K,88,12,7,7,0,1,1,1
+2/5/2021 19:30,USD,High,Unemployment Rate,6.30%,6.70%,6.70%,88,12,7,7,0,1,1,1
+2/5/2021 19:30,USD,Low,Trade Balance,-66.6B,-66.0B,-69.0B,88,12,7,7,0,1,1,1
+2/6/2021 2:00,USD,Low,Consumer Credit m/m,9.7B,12.1B,13.9B,16,5,5,2,0,1,1,1
+2/8/2021 13:00,EUR,Low,German Industrial Production m/m,0.00%,0.10%,1.50%,46,7,5,3,0,0,1,0
+2/8/2021 15:30,EUR,Low,Sentix Investor Confidence,-0.2,4.1,1.3,46,11,10,6,0,1,1,0
+2/9/2021 13:00,EUR,Low,German Trade Balance,16.1B,14.2B,16.0B,74,8,6,5,0,1,0,0
+2/9/2021 15:00,EUR,Low,Italian Industrial Production m/m,-0.20%,2.10%,-1.40%,74,30,18,8,0,0,1,0
+2/9/2021 17:00,USD,Low,NFIB Small Business Index,95,96.6,95.9,74,10,8,4,0,1,1,1
+2/9/2021 21:00,USD,Low,JOLTS Job Openings,6.65M,6.42M,6.57M,74,13,10,10,0,1,0,1
+2/10/2021 13:00,EUR,Low,German Final CPI m/m,0.80%,0.80%,0.80%,42,4,4,3,0,0,1,0
+2/10/2021 13:45,EUR,Low,French Industrial Production m/m,-0.80%,0.40%,-0.70%,42,11,4,3,0,0,0,0
+2/10/2021 19:30,USD,High,CPI m/m,0.30%,0.30%,0.40%,42,14,5,3,0,0,0,0
+2/10/2021 19:30,USD,Medium,Core CPI m/m,0.00%,0.20%,0.10%,42,14,5,3,0,0,0,0
+2/10/2021 21:00,USD,Low,Final Wholesale Inventories m/m,0.30%,0.10%,0.10%,42,15,12,11,0,1,0,0
+2/10/2021 21:30,USD,Medium,Crude Oil Inventories,-6.6M,-0.9M,-1.0M,42,16,15,12,0,1,1,1
+2/11/2021 1:00,USD,Low,Federal Budget Balance,-162.8B,-152.4B,-143.6B,36,10,7,4,1,1,1,1
+2/11/2021 13:00,EUR,Low,German WPI m/m,2.10%,0.40%,0.60%,36,4,3,3,1,0,1,0
+2/11/2021 19:30,USD,Medium,Unemployment Claims,793K,755K,812K,36,20,5,3,1,0,0,1
+2/11/2021 21:30,USD,Low,Natural Gas Storage,-171B,-180B,-192B,36,13,13,10,1,0,1,0
+2/12/2021 21:00,USD,Low,Prelim UoM Consumer Sentiment,76.2,80.8,79,56,15,11,7,1,0,0,0
+2/15/2021 16:00,EUR,Low,Industrial Production m/m,-1.60%,-0.40%,2.60%,30,12,8,8,0,1,0,0
+2/15/2021 16:00,EUR,Low,Trade Balance,27.5B,22.3B,24.9B,30,12,8,8,0,1,0,0
+2/16/2021 15:00,EUR,Low,Italian Trade Balance,6.84B,6.25B,6.75B,74,27,15,13,1,0,0,0
+2/16/2021 16:00,EUR,Low,Flash Employment Change q/q,0.30%,0.90%,1.00%,74,10,9,9,1,1,1,1
+2/16/2021 16:00,EUR,Low,Flash GDP q/q,-0.60%,-0.70%,-0.70%,74,10,9,9,1,1,1,1
+2/16/2021 16:00,EUR,Low,ZEW Economic Sentiment,69.6,59.2,58.3,74,10,9,9,1,1,1,1
+2/16/2021 16:00,EUR,Low,German ZEW Economic Sentiment,71.2,59.7,61.8,74,10,9,9,1,1,1,1
+2/16/2021 19:30,USD,Low,Empire State Manufacturing Index,12.1,6.2,3.5,74,35,19,7,1,1,1,1
+2/17/2021 3:00,USD,Low,TIC Long-Term Purchases,121.0B,103.5B,149.2B,95,7,3,3,1,1,0,0
+2/17/2021 19:30,USD,High,Core Retail Sales m/m,5.90%,1.10%,-1.80%,95,11,7,7,1,1,0,0
+2/17/2021 19:30,USD,High,Retail Sales m/m,5.30%,1.10%,-1.00%,95,11,7,7,1,1,0,0
+2/17/2021 19:30,USD,Low,Core PPI m/m,1.20%,0.20%,0.10%,95,11,7,7,1,1,0,0
+2/17/2021 19:30,USD,Low,PPI m/m,1.30%,0.40%,0.30%,95,11,7,7,1,1,0,0
+2/17/2021 20:15,USD,Low,Capacity Utilization Rate,75.60%,74.90%,74.90%,95,29,21,5,1,1,1,1
+2/17/2021 20:15,USD,Low,Industrial Production m/m,0.90%,0.40%,1.30%,95,29,21,5,1,1,1,1
+2/17/2021 21:00,USD,Low,Business Inventories m/m,0.60%,0.50%,0.50%,95,17,14,7,1,0,0,0
+2/17/2021 21:00,USD,Low,NAHB Housing Market Index,84,83,83,95,17,14,7,1,0,0,0
+2/18/2021 19:29,USD,Medium,Philly Fed Manufacturing Index,23.1,20.3,26.5,55,21,19,8,0,0,0,0
+2/18/2021 19:30,USD,Low,Building Permits,1.88M,1.67M,1.70M,55,21,19,10,0,0,0,0
+2/18/2021 19:30,USD,Low,Housing Starts,1.58M,1.66M,1.68M,55,21,19,10,0,0,0,0
+2/18/2021 19:30,USD,Low,Import Prices m/m,1.40%,1.00%,1.00%,55,21,19,10,0,0,0,0
+2/18/2021 19:30,USD,Low,Unemployment Claims,861K,775K,848K,55,21,19,10,0,0,0,0
+2/18/2021 20:10,EUR,Low,Consumer Confidence,-15,-15,-16,55,13,10,7,0,1,0,0
+2/18/2021 21:30,USD,Low,Natural Gas Storage,-237B,-250B,-171B,55,21,15,12,0,1,1,1
+2/18/2021 22:00,USD,Medium,Crude Oil Inventories,-7.3M,-2.1M,-6.6M,55,22,13,8,0,1,1,1
+2/19/2021 13:00,EUR,Low,German PPI m/m,1.40%,0.90%,0.80%,69,6,6,4,0,0,0,0
+2/19/2021 13:45,EUR,Low,French Final CPI m/m,0.20%,0.20%,0.20%,69,16,8,2,0,0,0,1
+2/19/2021 14:15,EUR,High,French Flash Services PMI,43.6,47,47.3,69,16,9,9,0,0,0,0
+2/19/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,55,51.7,51.6,69,16,9,9,0,0,0,0
+2/19/2021 14:30,EUR,High,German Flash Manufacturing PMI,60.6,56.6,57.1,69,18,14,5,0,0,0,0
+2/19/2021 14:30,EUR,High,German Flash Services PMI,45.9,46.5,46.7,69,18,14,5,0,0,0,0
+2/19/2021 15:00,EUR,Medium,Flash Manufacturing PMI,57.7,54.6,54.8,69,25,9,6,0,0,0,1
+2/19/2021 15:00,EUR,Medium,Flash Services PMI,44.7,45.9,45.4,69,25,9,6,0,0,0,1
+2/19/2021 15:00,EUR,Low,Current Account,36.7B,22.0B,25.1B,69,25,9,6,0,0,0,1
+2/19/2021 20:45,USD,Medium,Flash Manufacturing PMI,58.5,58.4,59.2,69,16,10,6,0,1,1,0
+2/19/2021 20:45,USD,Low,Flash Services PMI,58.9,57.9,58.3,69,16,10,6,0,1,1,0
+2/19/2021 21:00,USD,Low,Existing Home Sales,6.69M,6.59M,6.65M,69,15,13,9,0,1,1,1
+2/22/2021 15:00,EUR,Medium,German ifo Business Climate,92.4,90.5,90.3,65,32,23,15,0,1,1,0
+2/22/2021 20:00,EUR,Low,Belgian NBB Business Climate,-4.4,-7.2,-7.5,65,25,10,10,0,0,1,1
+2/22/2021 21:00,USD,Low,CB Leading Index m/m,0.50%,0.40%,0.40%,65,20,12,8,0,1,1,1
+2/23/2021 16:00,EUR,Low,Final CPI y/y,0.90%,0.90%,0.90%,44,14,9,8,1,1,1,1
+2/23/2021 16:00,EUR,Low,Final Core CPI y/y,1.40%,1.40%,1.40%,44,14,9,8,1,1,1,1
+2/23/2021 20:00,USD,Low,HPI m/m,1.10%,1.00%,1.00%,44,11,7,4,1,0,0,0
+2/23/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,10.10%,9.90%,9.20%,44,11,7,4,1,0,0,0
+2/23/2021 20:59,USD,Low,Richmond Manufacturing Index,14,16,14,44,18,8,5,1,1,0,1
+2/23/2021 21:00,USD,Medium,CB Consumer Confidence,91.3,90.2,88.9,44,18,8,5,1,1,0,0
+2/24/2021 13:00,EUR,Low,German Final GDP q/q,0.30%,0.10%,0.10%,66,13,8,3,1,0,0,0
+2/24/2021 21:00,USD,Low,New Home Sales,923K,853K,885K,66,10,8,8,1,0,0,0
+2/24/2021 21:30,USD,Medium,Crude Oil Inventories,1.3M,-6.5M,-7.3M,66,27,7,7,1,1,0,0
+2/25/2021 13:00,EUR,Low,German GfK Consumer Climate,-12.9,-14,-15.5,104,8,6,5,0,0,0,1
+2/25/2021 15:00,EUR,Low,M3 Money Supply y/y,12.50%,12.60%,12.40%,104,21,16,13,0,0,0,0
+2/25/2021 15:02,EUR,Low,Private Loans y/y,3.00%,3.20%,3.10%,104,20,15,11,0,0,0,0
+2/25/2021 19:30,USD,Medium,Prelim GDP q/q,4.10%,4.20%,4.00%,104,13,12,6,0,1,1,1
+2/25/2021 19:30,USD,Low,Core Durable Goods Orders m/m,1.40%,0.60%,1.10%,104,13,12,6,0,1,1,1
+2/25/2021 19:30,USD,Low,Durable Goods Orders m/m,3.40%,0.90%,0.50%,104,13,12,6,0,1,1,1
+2/25/2021 19:30,USD,Low,Prelim GDP Price Index q/q,2.10%,2.00%,2.00%,104,13,12,6,0,1,1,1
+2/25/2021 19:30,USD,Low,Unemployment Claims,730K,828K,841K,104,13,12,6,0,1,1,1
+2/25/2021 21:00,USD,Low,Pending Home Sales m/m,-2.80%,0.20%,0.50%,104,34,16,10,0,0,0,0
+2/25/2021 21:30,USD,Low,Natural Gas Storage,-338B,-323B,-237B,104,24,24,20,0,0,0,0
+2/26/2021 13:00,EUR,Low,German Import Prices m/m,1.90%,1.10%,0.60%,148,12,8,4,1,0,0,0
+2/26/2021 13:45,EUR,Low,French Consumer Spending m/m,-4.60%,-3.50%,22.40%,148,29,20,10,1,1,1,1
+2/26/2021 13:45,EUR,Low,French Prelim CPI m/m,-0.10%,-0.30%,0.20%,148,29,20,10,1,1,1,1
+2/26/2021 13:45,EUR,Low,French Prelim GDP q/q,-1.40%,-1.30%,-1.30%,148,29,20,10,1,1,1,1
+2/26/2021 14:00,EUR,Low,Spanish Flash CPI y/y,0.00%,0.60%,0.50%,148,26,17,17,1,1,1,1
+2/26/2021 19:30,USD,Low,Core PCE Price Index m/m,0.30%,0.10%,0.30%,148,16,10,10,1,1,1,0
+2/26/2021 19:30,USD,Low,Goods Trade Balance,-83.7B,-83.0B,-83.2B,148,16,10,10,1,1,1,0
+2/26/2021 19:30,USD,Low,Personal Income m/m,10.00%,9.40%,0.60%,148,16,10,10,1,1,1,0
+2/26/2021 19:30,USD,Low,Personal Spending m/m,2.40%,2.60%,-0.40%,148,16,10,10,1,1,1,0
+2/26/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,1.30%,0.30%,0.30%,148,16,10,10,1,1,1,0
+2/26/2021 20:45,USD,Medium,Chicago PMI,59.5,61,63.8,148,17,17,10,1,0,0,0
+2/26/2021 21:00,USD,Low,Revised UoM Consumer Sentiment,76.8,76.5,76.2,148,22,16,10,1,1,0,1
+3/1/2021 23:30,EUR,Low,German Prelim CPI m/m,0.70%,0.50%,0.80%,73,9,9,9,1,1,1,1
+3/1/2021 14:15,EUR,Low,Spanish Manufacturing PMI,52.9,52.1,49.3,73,27,8,8,1,1,1,1
+3/1/2021 14:45,EUR,Low,Italian Manufacturing PMI,56.9,57,55.1,73,39,23,14,1,1,1,1
+3/1/2021 14:50,EUR,Low,French Final Manufacturing PMI,56.1,55,55,73,35,20,13,1,1,1,1
+3/1/2021 14:55,EUR,Low,German Final Manufacturing PMI,60.7,60.6,60.6,73,34,21,16,1,1,1,1
+3/1/2021 15:00,EUR,Low,Final Manufacturing PMI,57.9,57.7,57.7,73,29,20,13,1,1,1,1
+3/1/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.10%,0.40%,0.70%,73,27,19,10,1,1,1,1
+3/1/2021 20:45,USD,Medium,Final Manufacturing PMI,58.6,58.5,58.5,73,26,23,9,1,1,0,0
+3/1/2021 21:00,USD,High,ISM Manufacturing PMI,60.8,58.7,58.7,73,28,23,23,1,1,1,0
+3/1/2021 21:00,USD,Low,Construction Spending m/m,1.70%,0.70%,1.10%,73,28,23,23,1,1,1,0
+3/1/2021 21:00,USD,Low,ISM Manufacturing Prices,86,80,82.1,73,28,23,23,1,1,1,0
+3/2/2021 13:00,EUR,Low,German Retail Sales m/m,-4.50%,0.20%,-9.10%,69,7,6,6,1,1,0,0
+3/2/2021 14:00,EUR,Low,Spanish Unemployment Change,44.4K,10.5K,76.2K,69,20,19,7,1,1,1,1
+3/2/2021 14:55,EUR,Low,German Unemployment Change,9K,-9K,-37K,69,17,12,8,1,0,1,1
+3/2/2021 16:00,EUR,Low,CPI Flash Estimate y/y,0.90%,0.90%,0.90%,69,23,16,14,1,0,0,0
+3/2/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,1.10%,1.10%,1.40%,69,23,16,14,1,0,0,0
+3/4/2021 16:00,EUR,Low,Retail Sales m/m,-5.90%,-1.40%,1.80%,41,15,15,6,1,1,1,1
+3/4/2021 16:00,EUR,Low,Unemployment Rate,8.10%,8.30%,8.10%,41,15,15,6,1,1,1,1
+3/4/2021 19:30,USD,Low,Revised Nonfarm Productivity q/q,-4.20%,-4.70%,-4.80%,41,9,7,5,1,0,1,1
+3/4/2021 19:30,USD,Low,Revised Unit Labor Costs q/q,6.00%,6.70%,6.80%,41,9,7,5,1,0,1,1
+3/4/2021 19:30,USD,Low,Unemployment Claims,745K,758K,736K,41,9,7,5,1,0,1,1
+3/4/2021 21:00,USD,Low,Factory Orders m/m,2.60%,2.20%,1.60%,41,9,8,5,1,0,1,0
+3/4/2021 21:30,USD,Low,Natural Gas Storage,-98B,-149B,-338B,41,20,9,9,1,1,0,0
+3/5/2021 13:00,EUR,Low,German Factory Orders m/m,1.40%,0.40%,-2.20%,157,7,4,4,1,1,1,1
+3/5/2021 13:45,EUR,Low,French Trade Balance,-3.9B,-3.4B,-3.6B,157,10,8,5,1,0,1,1
+3/5/2021 15:00,EUR,Low,Italian Retail Sales m/m,-3.00%,-0.60%,2.40%,157,38,28,20,1,1,1,1
+3/5/2021 19:30,USD,High,Average Hourly Earnings m/m,0.20%,0.20%,0.10%,157,13,13,9,1,1,1,1
+3/5/2021 19:30,USD,High,Non-Farm Employment Change,379K,197K,166K,157,13,13,9,1,1,1,1
+3/5/2021 19:30,USD,High,Unemployment Rate,6.20%,6.30%,6.30%,157,13,13,9,1,1,1,1
+3/5/2021 19:30,USD,Low,Trade Balance,-68.2B,-67.5B,-67.0B,157,13,13,9,1,1,1,1
+3/6/2021 2:00,USD,Low,Consumer Credit m/m,-1.3B,11.8B,8.8B,18,10,8,3,1,0,1,1
+3/8/2021 13:00,EUR,Low,German Industrial Production m/m,-2.50%,-1.40%,1.90%,87,26,9,4,1,1,1,1
+3/8/2021 15:30,EUR,Low,Sentix Investor Confidence,5,0.3,-0.2,87,27,18,12,1,1,1,1
+3/8/2021 21:00,USD,Low,Final Wholesale Inventories m/m,1.30%,1.30%,1.30%,87,16,9,9,1,0,0,0
+3/9/2021 12:30,EUR,Low,French Final Private Payrolls q/q,-0.10%,-0.20%,-0.20%,80,9,5,4,0,0,1,1
+3/9/2021 13:00,EUR,Low,German Trade Balance,22.2B,17.9B,16.4B,80,9,9,8,0,0,0,0
+3/9/2021 15:00,EUR,Low,Italian Industrial Production m/m,1.00%,0.80%,0.20%,80,22,8,5,0,0,0,0
+3/9/2021 16:00,EUR,Low,Final Employment Change q/q,0.30%,0.30%,0.30%,80,17,11,11,0,0,0,0
+3/9/2021 16:00,EUR,Low,Revised GDP q/q,-0.70%,-0.60%,-0.60%,80,17,11,11,0,0,0,0
+3/9/2021 16:55,USD,Low,NFIB Small Business Index,95.8,96.7,95,80,12,8,6,0,1,1,0
+3/10/2021 13:45,EUR,Low,French Industrial Production m/m,3.30%,0.50%,-0.70%,56,9,5,4,0,0,1,1
+3/10/2021 19:30,USD,High,CPI m/m,0.40%,0.40%,0.30%,56,14,14,5,0,1,1,1
+3/10/2021 19:30,USD,High,Core CPI m/m,0.10%,0.20%,0.00%,56,14,14,5,0,1,1,1
+3/10/2021 21:30,USD,Medium,Crude Oil Inventories,13.8M,3.0M,21.6M,56,31,13,9,0,1,1,0
+3/11/2021 1:00,USD,Low,Federal Budget Balance,-310.9B,-298.6B,-162.8B,82,20,20,20,0,0,0,0
+3/11/2021 18:45,EUR,Medium,Main Refinancing Rate,0.00%,0.00%,0.00%,82,10,10,6,0,1,1,0
+3/11/2021 19:30,USD,Low,Unemployment Claims,712K,730K,754K,82,31,22,5,0,1,1,1
+3/11/2021 21:00,USD,Low,JOLTS Job Openings,6.92M,6.65M,6.75M,82,34,20,14,0,1,1,0
+3/11/2021 21:30,USD,Low,Natural Gas Storage,-52B,-76B,-98B,82,23,20,19,0,1,1,1
+3/12/2021 13:00,EUR,Low,German Final CPI m/m,0.70%,0.70%,0.70%,80,17,15,9,1,1,1,1
+3/12/2021 15:00,EUR,Low,Italian Quarterly Unemployment Rate,9.20%,9.80%,9.60%,80,19,12,12,1,1,1,1
+3/12/2021 16:00,EUR,Low,Industrial Production m/m,0.80%,0.30%,-0.10%,80,26,21,6,1,1,1,0
+3/12/2021 19:30,USD,Low,Core PPI m/m,0.20%,0.20%,1.20%,80,13,10,6,1,0,0,0
+3/12/2021 19:30,USD,Low,PPI m/m,0.50%,0.40%,1.30%,80,13,10,6,1,0,0,0
+3/12/2021 21:00,USD,Low,Prelim UoM Consumer Sentiment,83,78.4,76.8,80,15,9,9,1,0,0,1
+3/15/2021 14:00,EUR,Low,German WPI m/m,1.40%,0.70%,2.10%,57,19,14,10,1,1,1,1
+3/15/2021 19:30,USD,Low,Empire State Manufacturing Index,17.4,14.6,12.1,57,11,6,5,1,1,1,1
+3/16/2021 3:00,USD,Low,TIC Long-Term Purchases,90.8B,107.3B,121.0B,69,5,4,4,1,1,1,0
+3/16/2021 14:45,EUR,Low,French Final CPI m/m,0.00%,-0.10%,-0.10%,69,14,11,8,1,0,0,1
+3/16/2021 17:00,EUR,Low,ZEW Economic Sentiment,74,72,69.6,69,18,13,7,1,0,0,0
+3/16/2021 17:00,EUR,Low,German ZEW Economic Sentiment,76.6,74,71.2,69,18,13,7,1,0,0,0
+3/16/2021 19:30,USD,High,Core Retail Sales m/m,-2.70%,0.20%,8.30%,69,30,24,15,1,1,1,1
+3/16/2021 19:30,USD,High,Retail Sales m/m,-3.00%,-0.50%,7.60%,69,30,24,15,1,1,1,1
+3/16/2021 19:30,USD,Low,Import Prices m/m,1.30%,1.10%,1.40%,69,30,24,15,1,1,1,1
+3/16/2021 20:15,USD,Low,Capacity Utilization Rate,73.80%,75.60%,75.50%,69,30,12,12,1,1,1,1
+3/16/2021 20:15,USD,Low,Industrial Production m/m,-2.20%,0.40%,1.10%,69,30,12,12,1,1,1,1
+3/16/2021 21:00,USD,Low,Business Inventories m/m,0.30%,0.30%,0.80%,69,14,14,11,1,0,0,0
+3/16/2021 21:00,USD,Low,NAHB Housing Market Index,82,84,84,69,14,14,11,1,0,0,0
+3/17/2021 17:00,EUR,Low,Final CPI y/y,0.90%,0.90%,0.90%,30,9,7,4,0,0,0,0
+3/17/2021 17:00,EUR,Low,Final Core CPI y/y,1.10%,1.10%,1.10%,30,9,7,4,0,0,0,0
+3/17/2021 19:30,USD,Low,Building Permits,1.68M,1.74M,1.89M,30,19,19,10,0,0,0,0
+3/17/2021 19:30,USD,Low,Housing Starts,1.42M,1.56M,1.58M,30,19,19,10,0,0,0,0
+3/17/2021 21:30,USD,Medium,Crude Oil Inventories,2.4M,2.8M,13.8M,30,8,7,4,0,1,1,1
+3/18/2021 1:00,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%,91,70,50,46,0,0,0,0
+3/18/2021 16:00,EUR,Low,Italian Trade Balance,1.59B,7.05B,6.86B,91,13,13,5,0,1,1,0
+3/18/2021 17:00,EUR,Low,Trade Balance,24.2B,28.8B,27.5B,91,10,10,8,0,0,1,1
+3/18/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,51.8,22.5,23.1,91,23,12,12,0,1,1,1
+3/18/2021 19:30,USD,Low,Unemployment Claims,770K,704K,725K,91,23,12,12,0,1,1,1
+3/18/2021 21:00,USD,Low,CB Leading Index m/m,0.20%,0.30%,0.50%,91,17,15,15,0,0,0,0
+3/18/2021 21:30,USD,Low,Natural Gas Storage,-11B,-21B,-52B,91,15,13,11,0,0,0,0
+3/19/2021 14:00,EUR,Low,German PPI m/m,0.70%,0.80%,1.40%,63,17,10,5,1,0,0,1
+3/22/2021 16:00,EUR,Low,Current Account,30.5B,34.5B,36.7B,70,12,11,5,0,1,1,0
+3/22/2021 21:00,USD,Low,Existing Home Sales,6.22M,6.55M,6.66M,70,14,9,7,0,0,0,1
+3/23/2021 19:30,USD,Low,Current Account,-188B,-189B,-181B,89,21,10,9,1,1,0,0
+3/23/2021 20:59,USD,Low,Richmond Manufacturing Index,17,15,14,89,14,14,13,1,1,1,1
+3/23/2021 21:00,USD,Low,New Home Sales,775K,872K,948K,89,14,14,13,1,0,0,1
+3/24/2021 15:15,EUR,High,French Flash Services PMI,47.8,45.5,45.6,54,22,20,13,1,0,1,1
+3/24/2021 15:15,EUR,Medium,French Flash Manufacturing PMI,58.8,56.4,56.1,54,22,20,13,1,0,1,1
+3/24/2021 15:30,EUR,High,German Flash Manufacturing PMI,66.6,60.4,60.7,54,28,16,14,1,0,1,1
+3/24/2021 15:30,EUR,High,German Flash Services PMI,50.8,46.4,45.7,54,28,16,14,1,0,1,1
+3/24/2021 16:00,EUR,Medium,Flash Manufacturing PMI,62.4,57.5,57.9,54,22,21,11,1,0,0,0
+3/24/2021 16:00,EUR,Medium,Flash Services PMI,48.8,46.1,45.7,54,22,21,11,1,0,0,0
+3/24/2021 19:30,USD,Low,Core Durable Goods Orders m/m,-0.90%,0.60%,1.30%,54,17,10,7,1,1,0,1
+3/24/2021 19:30,USD,Low,Durable Goods Orders m/m,-1.10%,0.70%,3.50%,54,17,10,7,1,1,0,1
+3/24/2021 20:45,USD,Medium,Flash Manufacturing PMI,59,59.6,58.6,54,11,9,8,1,1,1,1
+3/24/2021 20:45,USD,Low,Flash Services PMI,60,60.1,59.8,54,11,9,8,1,1,1,1
+3/24/2021 21:28,EUR,Low,Consumer Confidence,-11,-15,-15,54,13,12,5,1,0,0,0
+3/24/2021 21:30,USD,Medium,Crude Oil Inventories,1.9M,1.4M,2.4M,54,13,12,5,1,0,0,0
+3/25/2021 14:00,EUR,Low,German GfK Consumer Climate,-6.2,-12.1,-12.7,68,13,9,7,1,1,1,1
+3/25/2021 16:00,EUR,Low,M3 Money Supply y/y,12.30%,12.50%,12.50%,68,10,5,3,1,0,0,0
+3/25/2021 16:02,EUR,Low,Private Loans y/y,3.00%,3.20%,3.00%,68,10,5,5,1,0,0,0
+3/25/2021 19:30,USD,Medium,Final GDP q/q,4.30%,4.10%,4.10%,68,22,16,16,1,0,1,1
+3/25/2021 19:30,USD,Low,Final GDP Price Index q/q,2.00%,2.10%,2.10%,68,22,16,16,1,0,1,1
+3/25/2021 19:30,USD,Low,Unemployment Claims,684K,727K,781k,68,22,16,16,1,0,1,1
+3/25/2021 20:55,EUR,Low,Belgian NBB Business Climate,-1,-3,-4.4,68,20,15,10,1,1,1,0
+3/25/2021 21:30,USD,Low,Natural Gas Storage,-36B,-21B,-11B,68,17,10,9,1,1,1,1
+3/26/2021 16:00,EUR,Medium,German ifo Business Climate,96.6,93.1,92.7,46,14,12,7,0,0,0,1
+3/26/2021 19:30,USD,Low,Core PCE Price Index m/m,0.10%,0.10%,0.20%,46,14,12,9,0,0,0,0
+3/26/2021 19:30,USD,Low,Goods Trade Balance,-86.7B,-85.5B,-84.6B,46,14,12,9,0,0,0,0
+3/26/2021 19:30,USD,Low,Personal Income m/m,-7.10%,-7.30%,10.10%,46,14,12,9,0,0,0,0
+3/26/2021 19:30,USD,Low,Personal Spending m/m,-1.00%,-0.80%,3.40%,46,14,12,9,0,0,0,0
+3/26/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,0.50%,1.20%,1.30%,46,14,12,9,0,0,0,0
+3/26/2021 21:00,USD,Low,Revised UoM Consumer Sentiment,84.9,83.6,83,46,14,11,6,0,0,0,0
+3/30/2021 13:00,EUR,Low,German Import Prices m/m,1.70%,1.20%,1.90%,67,25,12,4,1,1,1,0
+3/30/2021 13:00,EUR,Low,German Prelim CPI m/m,0.50%,0.50%,0.70%,67,25,12,4,1,1,1,0
+3/30/2021 14:00,EUR,Low,Spanish Flash CPI y/y,1.30%,0.70%,0.00%,67,22,14,12,1,1,1,0
+3/30/2021 20:00,USD,Low,HPI m/m,1.00%,1.20%,1.20%,67,26,17,5,1,1,1,0
+3/30/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,11.10%,11.40%,10.20%,67,26,17,5,1,1,1,0
+3/30/2021 21:00,USD,Medium,CB Consumer Confidence,109.7,96.9,90.4,67,15,12,10,1,0,0,0
+3/31/2021 13:45,EUR,Low,French Consumer Spending m/m,0.00%,1.20%,-4.90%,56,17,13,6,0,0,0,0
+3/31/2021 13:45,EUR,Low,French Prelim CPI m/m,0.60%,0.70%,0.00%,56,17,13,6,0,0,0,0
+3/31/2021 14:55,EUR,Low,German Unemployment Change,-8K,-4K,9K,56,17,15,6,0,0,0,1
+3/31/2021 16:00,EUR,Low,CPI Flash Estimate y/y,1.30%,1.40%,0.90%,56,16,6,6,0,1,0,1
+3/31/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,0.90%,1.10%,1.10%,56,16,6,6,0,1,0,1
+3/31/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.30%,0.10%,0.10%,56,16,6,6,0,1,0,1
+3/31/2021 19:15,USD,High,ADP Non-Farm Employment Change,517K,552K,176K,56,10,9,8,0,1,0,0
+3/31/2021 20:45,USD,Low,Chicago PMI,66.3,61.2,59.5,56,19,18,11,0,0,0,0
+3/31/2021 21:00,USD,Medium,Pending Home Sales m/m,-10.60%,-3.10%,-2.40%,56,24,11,10,0,0,0,0
+3/31/2021 21:30,USD,Medium,Crude Oil Inventories,-0.9M,-1.3M,1.9M,56,29,19,7,0,1,0,1
+4/1/2021 13:00,EUR,Low,German Retail Sales m/m,1.20%,2.00%,-4.50%,67,21,13,6,0,0,0,0
+4/1/2021 14:15,EUR,Low,Spanish Manufacturing PMI,56.9,56,52.9,67,16,16,15,0,0,0,0
+4/1/2021 14:45,EUR,Low,Italian Manufacturing PMI,59.8,59.7,56.9,67,14,11,11,0,0,0,0
+4/1/2021 14:50,EUR,Low,French Final Manufacturing PMI,59.3,58.8,58.8,67,14,14,11,0,0,0,0
+4/1/2021 14:55,EUR,Low,German Final Manufacturing PMI,66.6,66.6,66.6,67,11,10,7,0,1,1,1
+4/1/2021 15:00,EUR,Low,Final Manufacturing PMI,62.5,62.4,62.4,67,17,10,7,0,1,1,1
+4/1/2021 19:30,USD,Low,Unemployment Claims,719K,678K,658K,67,20,12,9,0,0,1,1
+4/1/2021 20:45,USD,Low,Final Manufacturing PMI,59.1,59.2,59,67,22,22,7,0,1,1,1
+4/1/2021 21:00,USD,Medium,ISM Manufacturing PMI,64.7,61.5,60.8,67,26,17,17,0,0,1,1
+4/1/2021 21:00,USD,Low,Construction Spending m/m,-0.80%,-0.90%,1.20%,67,26,17,17,0,0,1,1
+4/1/2021 21:00,USD,Low,ISM Manufacturing Prices,85.6,83.5,86,67,26,17,17,0,0,1,1
+4/1/2021 21:00,USD,Low,Wards Total Vehicle Sales,17.7M,16.4M,15.7M,67,26,17,17,0,0,1,1
+4/1/2021 21:30,USD,Low,Natural Gas Storage,14B,-20B,-36B,67,26,23,8,0,0,0,0
+4/2/2021 19:30,USD,High,Average Hourly Earnings m/m,-0.10%,0.10%,0.30%,37,37,29,29,1,1,0,0
+4/2/2021 19:30,USD,High,Non-Farm Employment Change,916K,652K,468K,37,37,29,29,1,1,0,0
+4/2/2021 19:30,USD,High,Unemployment Rate,6.00%,6.00%,6.20%,37,37,29,29,1,1,0,0
+4/5/2021 20:45,USD,Low,Final Services PMI,60.4,60.3,60,79,28,20,15,0,0,0,0
+4/5/2021 21:00,USD,Medium,ISM Services PMI,63.7,58.3,55.3,79,18,15,10,0,1,0,0
+4/5/2021 21:00,USD,Low,Factory Orders m/m,-0.80%,-0.50%,2.70%,79,18,15,10,0,1,0,0
+4/6/2021 14:00,EUR,Low,Spanish Unemployment Change,-59.1K,-45.0K,44.4K,61,24,14,9,0,0,0,1
+4/6/2021 14:00,EUR,Low,Italian Monthly Unemployment Rate,10.30%,9.00%,9.80%,61,24,14,9,0,0,0,1
+4/6/2021 15:00,EUR,Low,Italian Monthly Unemployment Rate,10.20%,8.90%,10.30%,61,25,16,5,0,1,1,1
+4/6/2021 15:30,EUR,Low,Sentix Investor Confidence,13.1,6.8,5,61,27,22,12,0,0,0,1
+4/6/2021 16:00,EUR,Low,Unemployment Rate,8.30%,8.10%,8.30%,61,15,11,10,0,1,1,0
+4/6/2021 20:37,USD,Low,IBD/TIPP Economic Optimism,56.4,56.2,55.4,61,11,6,4,0,0,1,1
+4/6/2021 21:00,USD,Low,JOLTS Job Openings,7.37M,6.91M,7.10M,61,10,10,7,0,1,0,0
+4/7/2021 14:15,EUR,Low,Spanish Services PMI,48.1,45.6,43.1,63,17,10,7,0,0,0,0
+4/7/2021 14:45,EUR,Low,Italian Services PMI,48.6,49.2,48.8,63,16,12,12,0,0,0,0
+4/7/2021 14:50,EUR,Low,French Final Services PMI,48.2,47.8,47.8,63,16,15,8,0,0,1,0
+4/7/2021 14:55,EUR,Low,German Final Services PMI,51.5,50.8,50.8,63,21,16,7,0,0,1,0
+4/7/2021 15:00,EUR,Low,Final Services PMI,49.6,48.8,48.8,63,22,14,8,0,0,1,1
+4/7/2021 19:30,USD,Low,Trade Balance,-71.1B,-70.2B,-67.8B,63,21,8,6,0,0,0,1
+4/7/2021 21:30,USD,Medium,Crude Oil Inventories,-3.5M,-2.0M,-0.9M,63,25,18,13,0,1,1,0
+4/8/2021 2:00,USD,Low,Consumer Credit m/m,27.6B,2.9B,0.1B,67,12,7,7,0,0,1,1
+4/8/2021 13:00,EUR,Low,German Factory Orders m/m,1.20%,1.30%,0.80%,67,14,4,4,0,0,0,0
+4/8/2021 13:45,EUR,Low,French Trade Balance,-5.2B,-3.8B,-4.2B,67,21,21,10,0,0,0,0
+4/8/2021 16:00,EUR,Low,PPI m/m,0.50%,0.60%,1.70%,67,16,12,9,0,1,1,1
+4/8/2021 19:30,USD,Medium,Unemployment Claims,744K,682K,728K,67,17,17,11,0,0,0,0
+4/8/2021 21:30,USD,Low,Natural Gas Storage,20B,22B,14B,67,15,14,5,0,1,1,0
+4/9/2021 13:00,EUR,Low,German Industrial Production m/m,-1.60%,1.60%,-2.00%,56,14,12,9,1,1,1,1
+4/9/2021 13:00,EUR,Low,German Trade Balance,19.1B,23.4B,21.3B,56,14,12,9,1,1,1,1
+4/9/2021 13:45,EUR,Low,French Industrial Production m/m,-4.70%,0.50%,3.20%,56,11,11,6,1,0,0,0
+4/9/2021 15:00,EUR,Low,Italian Retail Sales m/m,6.60%,2.00%,-2.70%,56,15,12,9,1,1,1,1
+4/9/2021 19:56,USD,Low,Core PPI m/m,0.70%,0.20%,0.20%,56,17,12,8,1,0,0,0
+4/9/2021 19:56,USD,Low,PPI m/m,1.00%,0.50%,0.50%,56,17,12,8,1,0,0,0
+4/9/2021 21:00,USD,Low,Final Wholesale Inventories m/m,0.60%,0.50%,0.50%,56,16,10,9,1,0,0,0
+4/12/2021 16:00,EUR,Low,Retail Sales m/m,3.00%,1.30%,-5.20%,48,25,20,8,0,0,0,0
+4/13/2021 1:00,USD,Low,Federal Budget Balance,-659.6B,-665.5B,-310.9B,65,12,12,2,0,1,1,1
+4/13/2021 13:00,EUR,Low,German WPI m/m,1.70%,0.60%,1.40%,65,18,11,9,0,1,0,0
+4/13/2021 15:00,EUR,Low,Italian Industrial Production m/m,0.20%,0.70%,1.10%,65,9,9,9,0,1,1,1
+4/13/2021 16:00,EUR,Low,ZEW Economic Sentiment,66.3,77.2,74,65,11,10,8,0,1,0,0
+4/13/2021 16:00,EUR,Low,German ZEW Economic Sentiment,70.7,79.1,76.6,65,11,10,8,0,1,0,0
+4/13/2021 17:00,USD,Low,NFIB Small Business Index,98.2,98.2,95.8,65,8,7,3,0,1,1,0
+4/13/2021 19:30,USD,High,CPI m/m,0.60%,0.50%,0.40%,65,60,56,51,0,0,0,0
+4/13/2021 19:30,USD,High,Core CPI m/m,0.30%,0.20%,0.10%,65,60,56,51,0,0,0,0
+4/14/2021 16:00,EUR,Low,Industrial Production m/m,-1.00%,-1.20%,0.80%,49,18,12,3,0,1,1,0
+4/14/2021 19:30,USD,Low,Import Prices m/m,1.20%,1.00%,1.30%,49,8,5,5,0,1,1,1
+4/14/2021 21:30,USD,Medium,Crude Oil Inventories,-5.9M,-2.4M,-3.5M,49,21,20,13,0,0,0,0
+4/15/2021 13:00,EUR,Low,German Final CPI m/m,0.50%,0.50%,0.50%,37,8,6,6,1,0,0,0
+4/15/2021 13:45,EUR,Low,French Final CPI m/m,0.60%,0.60%,0.60%,37,17,11,7,1,0,0,1
+4/15/2021 19:30,USD,High,Core Retail Sales m/m,8.40%,5.10%,-2.50%,37,25,24,19,1,0,1,0
+4/15/2021 19:30,USD,High,Retail Sales m/m,9.80%,5.80%,-2.70%,37,25,24,19,1,0,1,0
+4/15/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,50.2,41,51.8,37,25,24,19,1,0,1,0
+4/15/2021 19:30,USD,Medium,Unemployment Claims,576K,703K,769K,37,25,24,19,1,0,1,0
+4/15/2021 19:30,USD,Low,Empire State Manufacturing Index,26.3,19.3,17.4,37,25,24,19,1,0,1,0
+4/15/2021 20:15,USD,Low,Capacity Utilization Rate,74.40%,75.60%,73.80%,37,20,12,8,1,0,0,0
+4/15/2021 20:15,USD,Low,Industrial Production m/m,1.40%,2.70%,-2.20%,37,20,12,8,1,0,0,0
+4/15/2021 21:00,USD,Low,Business Inventories m/m,0.50%,0.50%,0.40%,37,19,10,10,1,1,0,0
+4/15/2021 21:00,USD,Low,NAHB Housing Market Index,83,84,82,37,19,10,10,1,1,0,0
+4/15/2021 21:30,USD,Low,Natural Gas Storage,61B,67B,20B,37,19,14,7,1,1,1,1
+4/16/2021 3:00,USD,Low,TIC Long-Term Purchases,4.2B,120.5B,91.0B,44,11,6,4,0,1,1,1
+4/16/2021 15:05,EUR,Low,Italian Trade Balance,4.75B,4.95B,1.58B,44,15,7,5,0,1,1,0
+4/16/2021 16:00,EUR,Low,Final CPI y/y,1.30%,1.30%,1.30%,44,11,7,6,0,0,1,1
+4/16/2021 16:00,EUR,Low,Final Core CPI y/y,0.90%,0.90%,0.90%,44,11,7,6,0,0,1,1
+4/16/2021 16:00,EUR,Low,Trade Balance,18.4B,21.9B,28.7B,44,11,7,6,0,0,1,1
+4/16/2021 19:30,USD,Low,Building Permits,1.77M,1.75M,1.72M,44,9,8,6,0,0,0,1
+4/16/2021 19:30,USD,Low,Housing Starts,1.74M,1.60M,1.46M,44,9,8,6,0,0,0,1
+4/16/2021 21:00,USD,Medium,Prelim UoM Consumer Sentiment,86.5,88.9,84.9,44,19,16,9,0,0,0,0
+4/19/2021 15:00,EUR,Low,Current Account,25.9B,31.2B,34.7B,105,19,14,9,0,0,0,0
+4/20/2021 13:00,EUR,Low,German PPI m/m,0.90%,0.60%,0.70%,54,26,12,7,1,0,1,1
+4/21/2021 21:30,USD,Medium,Crude Oil Inventories,0.6M,-3.7M,-5.9M,45,25,20,9,1,0,0,0
+4/22/2021 18:45,EUR,Medium,Main Refinancing Rate,0.00%,0.00%,0.00%,67,15,14,14,1,1,1,1
+4/22/2021 19:30,USD,Medium,Unemployment Claims,547K,607K,586K,67,41,25,10,1,1,0,0
+4/22/2021 20:30,EUR,Low,Consumer Confidence,-8,-11,-11,67,31,15,11,1,1,1,1
+4/22/2021 21:00,USD,Low,CB Leading Index m/m,1.30%,1.00%,-0.10%,67,29,29,16,1,1,1,1
+4/22/2021 21:00,USD,Low,Existing Home Sales,6.01M,6.18M,6.24M,67,29,29,16,1,1,1,1
+4/22/2021 21:30,USD,Low,Natural Gas Storage,38B,47B,61B,67,20,20,10,1,0,0,0
+4/23/2021 14:15,EUR,High,French Flash Services PMI,50.4,46.6,48.2,84,12,9,7,0,0,0,0
+4/23/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,59.2,59,59.3,84,12,9,7,0,0,0,0
+4/23/2021 14:30,EUR,High,German Flash Manufacturing PMI,66.4,65.8,66.6,84,16,12,9,0,0,0,0
+4/23/2021 14:30,EUR,High,German Flash Services PMI,50.1,51.1,51.5,84,16,12,9,0,0,0,0
+4/23/2021 15:00,EUR,Medium,Flash Manufacturing PMI,63.3,62,62.5,84,9,8,4,0,0,0,1
+4/23/2021 15:00,EUR,Medium,Flash Services PMI,50.3,49.1,49.6,84,9,8,4,0,0,0,1
+4/23/2021 20:45,USD,Medium,Flash Manufacturing PMI,60.6,60.9,59.1,84,19,14,10,0,1,1,1
+4/23/2021 20:45,USD,Low,Flash Services PMI,63.1,61.6,60.4,84,19,14,10,0,1,1,1
+4/23/2021 21:00,USD,Low,New Home Sales,1021K,885K,846K,84,20,14,7,0,1,0,1
+4/26/2021 15:00,EUR,Medium,German ifo Business Climate,96.8,97.8,96.6,56,13,12,11,1,0,0,0
+4/26/2021 19:30,USD,Low,Core Durable Goods Orders m/m,1.60%,1.60%,-0.30%,56,10,8,8,1,1,0,0
+4/26/2021 19:30,USD,Low,Durable Goods Orders m/m,0.50%,2.50%,-1.20%,56,10,8,8,1,1,0,0
+4/26/2021 19:58,EUR,Low,Belgian NBB Business Climate,4.4,1.7,-1,56,22,10,7,1,1,1,1
+4/27/2021 20:00,USD,Low,HPI m/m,0.90%,1.00%,1.00%,37,17,14,11,1,1,1,0
+4/27/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,11.90%,11.80%,11.10%,37,17,14,11,1,1,1,0
+4/27/2021 20:59,USD,Low,Richmond Manufacturing Index,17,22,17,37,14,10,8,1,1,0,0
+4/27/2021 21:00,USD,Medium,CB Consumer Confidence,121.7,113.1,109,37,14,10,8,1,1,1,0
+4/28/2021 13:00,EUR,Low,German GfK Consumer Climate,-8.8,-4.1,-6.1,46,19,14,8,0,1,1,0
+4/28/2021 19:30,USD,Low,Goods Trade Balance,-90.6B,-88.2B,-87.1B,46,12,11,11,0,0,0,0
+4/28/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,1.40%,0.50%,0.60%,46,12,11,11,0,0,0,0
+4/28/2021 21:30,USD,Medium,Crude Oil Inventories,0.1M,-0.9M,0.6M,46,15,15,7,0,0,1,0
+4/29/2021 1:00,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%,84,69,40,32,0,0,0,0
+4/29/2021 13:00,EUR,Low,German Import Prices m/m,1.80%,0.90%,1.70%,84,20,11,10,0,1,1,1
+4/29/2021 13:00,EUR,Low,German Prelim CPI m/m,0.70%,0.50%,0.50%,84,20,11,10,0,1,1,1
+4/29/2021 14:00,EUR,Low,Spanish Flash CPI y/y,2.20%,1.90%,1.30%,84,11,7,7,0,1,1,0
+4/29/2021 14:00,EUR,Low,Spanish Unemployment Rate,16.00%,16.50%,16.10%,84,11,7,7,0,1,1,0
+4/29/2021 14:55,EUR,Low,German Unemployment Change,9K,-10K,-6K,84,13,12,7,0,0,0,0
+4/29/2021 15:00,EUR,Low,M3 Money Supply y/y,10.10%,10.20%,12.20%,84,13,10,10,0,0,1,0
+4/29/2021 15:00,EUR,Low,Private Loans y/y,3.30%,3.20%,3.00%,84,13,10,10,0,0,1,0
+4/29/2021 19:30,USD,High,Advance GDP q/q,6.40%,6.80%,4.30%,84,23,14,12,0,1,1,0
+4/29/2021 19:30,USD,Medium,Advance GDP Price Index q/q,4.10%,2.60%,2.00%,84,23,14,12,0,1,1,0
+4/29/2021 19:30,USD,Medium,Unemployment Claims,553K,545K,566K,84,23,14,12,0,1,1,0
+4/29/2021 21:00,USD,Medium,Pending Home Sales m/m,1.90%,4.20%,-11.50%,84,16,16,16,0,0,0,0
+4/29/2021 21:30,USD,Low,Natural Gas Storage,15B,8B,38B,84,14,12,11,0,0,1,1
+4/30/2021 12:30,EUR,Low,French Consumer Spending m/m,-1.10%,0.50%,0.30%,105,8,2,2,1,1,0,0
+4/30/2021 12:30,EUR,Low,French Flash GDP q/q,0.40%,0.00%,-1.40%,105,8,2,2,1,1,0,0
+4/30/2021 13:45,EUR,Low,French Prelim CPI m/m,0.20%,0.20%,0.60%,105,11,7,4,1,1,1,1
+4/30/2021 14:00,EUR,Low,Spanish Flash GDP q/q,-0.50%,-0.50%,0.00%,105,13,9,6,1,1,1,1
+4/30/2021 14:00,EUR,Low,Italian Monthly Unemployment Rate,10.10%,10.30%,10.20%,105,13,9,6,1,1,1,1
+4/30/2021 15:00,EUR,Medium,German Prelim GDP q/q,-1.70%,-1.50%,0.30%,105,10,10,9,1,1,1,0
+4/30/2021 15:00,EUR,Low,Italian Prelim GDP q/q,-0.40%,-0.50%,-1.90%,105,10,10,9,1,1,1,0
+4/30/2021 16:00,EUR,Low,CPI Flash Estimate y/y,1.60%,1.60%,1.30%,105,6,5,3,1,1,1,1
+4/30/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,0.80%,0.80%,0.90%,105,6,5,3,1,1,1,1
+4/30/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.40%,0.30%,0.30%,105,6,5,3,1,1,1,1
+4/30/2021 16:00,EUR,Low,Prelim Flash GDP q/q,-0.60%,-0.80%,-0.70%,105,6,5,3,1,1,1,1
+4/30/2021 16:00,EUR,Low,Unemployment Rate,8.10%,8.30%,8.20%,105,6,5,3,1,1,1,1
+4/30/2021 19:30,USD,Low,Core PCE Price Index m/m,0.40%,0.30%,0.10%,105,15,10,10,1,0,1,0
+4/30/2021 19:30,USD,Low,Employment Cost Index q/q,0.90%,0.70%,0.70%,105,15,10,10,1,0,1,0
+4/30/2021 19:30,USD,Low,Personal Income m/m,21.10%,20.10%,-7.00%,105,15,10,10,1,0,1,0
+4/30/2021 19:30,USD,Low,Personal Spending m/m,4.20%,4.30%,-1.00%,105,15,10,10,1,0,1,0
+4/30/2021 20:45,USD,Low,Chicago PMI,72.1,65.4,66.3,105,24,24,16,1,1,1,1
+4/30/2021 21:00,USD,Low,Revised UoM Consumer Sentiment,88.3,87.3,86.5,105,44,17,17,1,1,0,1
+5/3/2021 13:00,EUR,Low,German Retail Sales m/m,7.70%,2.90%,2.70%,63,26,9,8,0,0,0,1
+5/3/2021 14:15,EUR,Low,Spanish Manufacturing PMI,57.7,59.1,56.9,63,10,9,8,0,1,0,1
+5/3/2021 14:45,EUR,Low,Italian Manufacturing PMI,60.7,60.9,59.8,63,13,10,6,0,0,1,1
+5/3/2021 14:50,EUR,Low,French Final Manufacturing PMI,58.9,59.2,59.2,63,13,10,9,0,0,1,1
+5/3/2021 14:55,EUR,Low,German Final Manufacturing PMI,66.2,66.4,66.4,63,17,10,10,0,0,1,1
+5/3/2021 15:00,EUR,Low,Final Manufacturing PMI,62.9,63.3,63.3,63,18,6,6,0,0,1,1
+5/3/2021 20:45,USD,Low,Final Manufacturing PMI,60.5,60.7,60.6,63,24,19,10,0,0,0,0
+5/3/2021 21:00,USD,Medium,ISM Manufacturing PMI,60.7,65,64.7,63,19,16,12,0,0,0,0
+5/3/2021 21:00,USD,Low,Construction Spending m/m,0.20%,1.70%,-0.60%,63,19,16,12,0,0,0,0
+5/3/2021 21:00,USD,Low,ISM Manufacturing Prices,89.6,86,85.6,63,19,16,12,0,0,0,0
+5/3/2021 21:00,USD,Low,Wards Total Vehicle Sales,18.5M,17.5M,17.7M,63,19,16,12,0,0,0,0
+5/4/2021 19:30,USD,Low,Trade Balance,-74.4B,-74.5B,-70.5B,68,14,10,8,1,1,0,0
+5/4/2021 20:52,USD,Low,IBD/TIPP Economic Optimism,54.4,56.1,56.4,68,13,13,13,1,1,1,1
+5/4/2021 21:00,USD,Low,Factory Orders m/m,1.10%,1.30%,-0.50%,68,16,11,11,1,0,0,0
+5/5/2021 14:00,EUR,Low,Spanish Unemployment Change,-39.0K,-70.0K,-59.1K,41,19,18,18,1,1,1,1
+5/5/2021 14:15,EUR,Low,Spanish Services PMI,54.6,50,48.1,41,12,9,8,1,1,1,1
+5/5/2021 14:45,EUR,Low,Italian Services PMI,47.3,50,48.6,41,11,10,8,1,0,1,0
+5/5/2021 14:50,EUR,Low,French Final Services PMI,50.3,50.4,50.4,41,11,10,8,1,0,1,1
+5/5/2021 14:55,EUR,Low,German Final Services PMI,49.9,50.1,50.1,41,11,11,8,1,0,1,1
+5/5/2021 15:00,EUR,Low,Final Services PMI,50.5,50.3,50.3,41,10,7,7,1,0,1,1
+5/5/2021 16:00,EUR,Low,PPI m/m,1.10%,1.10%,0.50%,41,11,5,4,1,0,0,1
+5/5/2021 19:15,USD,Medium,ADP Non-Farm Employment Change,742K,872K,565K,41,20,20,18,1,1,1,1
+5/5/2021 20:45,USD,Low,Final Services PMI,64.7,63.1,63.1,41,14,13,12,1,0,1,1
+5/5/2021 21:00,USD,Medium,ISM Services PMI,62.7,64.2,63.7,41,18,8,6,1,0,0,1
+5/5/2021 21:30,USD,Medium,Crude Oil Inventories,-8.0M,-1.9M,0.1M,41,14,13,8,1,1,0,0
+5/6/2021 13:00,EUR,Low,German Factory Orders m/m,3.00%,1.50%,1.40%,80,15,6,5,0,0,0,1
+5/6/2021 16:00,EUR,Low,Retail Sales m/m,2.70%,1.50%,4.20%,80,16,11,5,0,0,0,1
+5/6/2021 19:30,USD,Medium,Unemployment Claims,498K,540K,590K,80,13,13,8,0,0,0,0
+5/6/2021 19:30,USD,Low,Prelim Nonfarm Productivity q/q,5.40%,4.30%,-4.20%,80,13,13,8,0,0,0,0
+5/6/2021 19:30,USD,Low,Prelim Unit Labor Costs q/q,-0.30%,-1.10%,6.00%,80,13,13,8,0,0,0,0
+5/6/2021 21:30,USD,Low,Natural Gas Storage,60B,68B,15B,80,17,11,7,0,1,0,0
+5/7/2021 13:00,EUR,Low,German Industrial Production m/m,2.50%,2.10%,-1.90%,117,11,11,5,0,1,1,1
+5/7/2021 13:00,EUR,Low,German Trade Balance,14.3B,22.3B,18.9B,117,11,11,5,0,1,1,1
+5/7/2021 13:45,EUR,Low,French Industrial Production m/m,0.80%,2.10%,-4.80%,117,33,27,3,0,0,0,0
+5/7/2021 13:45,EUR,Low,French Prelim Private Payrolls q/q,0.30%,-0.20%,-0.10%,117,33,27,3,0,0,0,0
+5/7/2021 13:45,EUR,Low,French Trade Balance,-6.1B,-5.4B,-5.1B,117,33,27,3,0,0,0,0
+5/7/2021 15:00,EUR,Low,Italian Retail Sales m/m,-0.10%,-0.60%,5.90%,117,16,9,8,0,0,0,0
+5/7/2021 19:30,USD,High,Average Hourly Earnings m/m,0.70%,0.00%,-0.10%,117,77,77,68,0,0,0,0
+5/7/2021 19:30,USD,High,Non-Farm Employment Change,266K,990K,770K,117,77,77,68,0,0,0,0
+5/7/2021 19:30,USD,High,Unemployment Rate,6.10%,5.80%,6.00%,117,77,77,68,0,0,0,0
+5/7/2021 21:00,USD,Low,Final Wholesale Inventories m/m,1.30%,1.40%,1.40%,117,32,26,18,0,0,0,0
+5/8/2021 2:00,USD,Low,Consumer Credit m/m,25.8B,19.5B,26.1B,22,8,4,2,0,0,0,0
+5/10/2021 15:30,EUR,Low,Sentix Investor Confidence,21,14.9,13.1,41,18,18,12,1,0,0,0
+5/11/2021 13:00,EUR,Low,German WPI m/m,1.10%,1.80%,1.70%,58,14,9,8,0,1,1,1
+5/11/2021 15:00,EUR,Low,Italian Industrial Production m/m,-0.10%,0.50%,0.10%,58,23,7,7,0,0,0,0
+5/11/2021 16:00,EUR,Low,ZEW Economic Sentiment,84,68,66.3,58,9,9,9,0,0,0,0
+5/11/2021 16:00,EUR,Low,German ZEW Economic Sentiment,84.4,72,70.7,58,9,9,9,0,0,0,0
+5/11/2021 17:00,USD,Low,NFIB Small Business Index,99.8,100.7,98.2,58,15,9,7,0,1,0,0
+5/11/2021 21:00,USD,Low,JOLTS Job Openings,8.12M,7.50M,7.53M,58,15,8,6,0,1,1,1
+5/12/2021 13:00,EUR,Low,German Final CPI m/m,0.70%,0.70%,0.70%,99,15,10,7,1,0,0,0
+5/12/2021 13:45,EUR,Low,French Final CPI m/m,0.10%,0.20%,0.20%,99,16,9,6,1,0,1,1
+5/12/2021 16:00,EUR,Low,Industrial Production m/m,0.10%,0.80%,-1.20%,99,11,7,6,1,0,1,1
+5/12/2021 19:30,USD,High,CPI m/m,0.80%,0.20%,0.60%,99,80,75,49,1,0,0,0
+5/12/2021 19:30,USD,High,Core CPI m/m,0.90%,0.30%,0.30%,99,80,75,49,1,0,0,0
+5/12/2021 21:30,USD,Medium,Crude Oil Inventories,-0.4M,-2.1M,-8.0M,99,22,22,14,1,1,1,1
+5/13/2021 1:00,USD,Low,Federal Budget Balance,-225.6B,-212.5B,-659.6B,55,9,8,5,0,0,0,0
+5/13/2021 19:30,USD,Medium,Unemployment Claims,473K,487K,507K,55,20,20,20,0,0,0,0
+5/13/2021 19:30,USD,Low,Core PPI m/m,0.70%,0.40%,0.70%,55,20,20,20,0,0,0,0
+5/13/2021 19:30,USD,Low,PPI m/m,0.60%,0.30%,1.00%,55,20,20,20,0,0,0,0
+5/13/2021 21:30,USD,Low,Natural Gas Storage,71B,74B,60B,55,21,17,9,0,1,1,0
+5/14/2021 19:30,USD,High,Retail Sales m/m,0.00%,1.00%,10.70%,85,24,21,21,0,0,0,0
+5/14/2021 19:30,USD,Low,Import Prices m/m,0.70%,0.60%,1.40%,85,24,21,21,0,0,0,0
+5/14/2021 19:32,USD,High,Core Retail Sales m/m,-0.80%,0.50%,9.00%,85,20,12,11,0,0,1,1
+5/14/2021 20:15,USD,Medium,Industrial Production m/m,0.70%,0.90%,2.40%,85,16,12,12,0,0,0,0
+5/14/2021 20:15,USD,Low,Capacity Utilization Rate,74.90%,75.00%,74.40%,85,16,12,12,0,0,0,0
+5/14/2021 21:00,USD,Medium,Prelim UoM Consumer Sentiment,82.8,90.2,88.3,85,16,13,11,0,1,0,0
+5/14/2021 21:00,USD,Low,Business Inventories m/m,0.30%,0.30%,0.60%,85,16,13,11,0,1,0,0
+5/17/2021 19:30,USD,Low,Empire State Manufacturing Index,24.3,23.9,26.3,43,12,10,10,0,0,0,0
+5/17/2021 21:00,USD,Low,NAHB Housing Market Index,83,83,83,43,14,14,8,0,0,0,1
+5/18/2021 3:00,USD,Low,TIC Long-Term Purchases,262.2B,67.0B,4.3B,84,9,4,3,0,1,1,1
+5/18/2021 15:00,EUR,Low,Italian Trade Balance,5.19B,4.40B,4.75B,84,19,14,6,0,0,0,1
+5/18/2021 16:00,EUR,Low,Flash Employment Change q/q,-0.30%,0.10%,0.40%,84,10,7,5,0,0,1,1
+5/18/2021 16:00,EUR,Low,Flash GDP q/q,-0.60%,-0.60%,-0.60%,84,10,7,5,0,0,1,1
+5/18/2021 16:00,EUR,Low,Trade Balance,13.0B,20.3B,23.1B,84,10,7,5,0,0,1,1
+5/18/2021 19:30,USD,Low,Building Permits,1.76M,1.77M,1.76M,84,22,14,14,0,1,0,0
+5/18/2021 19:30,USD,Low,Housing Starts,1.57M,1.71M,1.73M,84,22,14,14,0,1,0,0
+5/19/2021 16:00,EUR,Low,Final CPI y/y,1.60%,1.60%,1.60%,56,13,12,7,1,1,1,1
+5/19/2021 16:00,EUR,Low,Final Core CPI y/y,0.70%,0.80%,0.80%,56,13,12,7,1,1,1,1
+5/19/2021 21:30,USD,Medium,Crude Oil Inventories,1.3M,1.5M,-0.4M,56,17,17,15,1,1,1,1
+5/20/2021 13:00,EUR,Low,German PPI m/m,0.80%,0.80%,0.90%,66,20,14,10,0,0,0,0
+5/20/2021 15:00,EUR,Low,Current Account,17.8B,24.3B,25.9B,66,19,7,7,0,1,1,0
+5/20/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,31.5,40.8,50.2,66,16,9,6,0,0,1,0
+5/20/2021 19:30,USD,Medium,Unemployment Claims,444K,453K,478K,66,16,9,6,0,0,1,0
+5/20/2021 21:00,USD,Low,CB Leading Index m/m,1.60%,1.30%,1.30%,66,12,8,8,0,0,0,1
+5/20/2021 21:30,USD,Low,Natural Gas Storage,71B,60B,71B,66,13,12,7,0,1,0,1
+5/21/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,59.2,58.6,58.9,79,26,25,9,1,1,1,1
+5/21/2021 14:15,EUR,Medium,French Flash Services PMI,56.6,53,50.3,79,26,25,9,1,1,1,1
+5/21/2021 14:30,EUR,High,German Flash Manufacturing PMI,64,66,66.2,79,18,18,17,1,1,1,1
+5/21/2021 14:30,EUR,High,German Flash Services PMI,52.8,52,49.9,79,18,18,17,1,1,1,1
+5/21/2021 15:00,EUR,Medium,Flash Manufacturing PMI,62.8,62.5,62.9,79,12,9,8,1,0,0,1
+5/21/2021 15:00,EUR,Medium,Flash Services PMI,55.1,52.5,50.5,79,12,9,8,1,0,0,1
+5/21/2021 20:32,EUR,Low,Consumer Confidence,-5,-7,-8,79,25,21,15,1,1,1,1
+5/21/2021 20:45,USD,Medium,Flash Manufacturing PMI,61.5,60,60.5,79,21,16,16,1,1,1,0
+5/21/2021 20:45,USD,Low,Flash Services PMI,70.1,64.3,64.7,79,21,16,16,1,1,1,0
+5/21/2021 21:00,USD,Low,Existing Home Sales,5.85M,6.09M,6.01M,79,19,15,10,1,0,1,1
+5/25/2021 13:00,EUR,Low,German Final GDP q/q,-1.80%,-1.70%,-1.70%,61,32,18,8,0,0,0,0
+5/25/2021 15:00,EUR,Medium,German ifo Business Climate,99.2,98.2,96.6,61,17,17,15,0,0,1,1
+5/25/2021 20:00,EUR,Low,Belgian NBB Business Climate,6.5,5.6,4.4,61,16,11,4,0,1,1,0
+5/25/2021 20:00,USD,Low,HPI m/m,1.40%,1.10%,1.10%,61,16,11,4,0,1,1,0
+5/25/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,13.30%,12.60%,12.00%,61,16,11,4,0,1,1,0
+5/25/2021 20:59,USD,Low,Richmond Manufacturing Index,18,19,17,61,13,10,10,0,1,0,1
+5/25/2021 21:00,USD,Medium,CB Consumer Confidence,117.2,119,117.5,61,13,10,10,0,1,0,0
+5/25/2021 21:00,USD,Low,New Home Sales,863K,950K,917K,61,13,10,10,0,1,0,0
+5/26/2021 21:30,USD,Medium,Crude Oil Inventories,-1.7M,-1.0M,1.3M,67,34,23,4,1,1,1,1
+5/27/2021 13:00,EUR,Low,German GfK Consumer Climate,-7,-5.3,-8.6,40,15,15,11,1,0,1,0
+5/27/2021 19:30,USD,High,Prelim GDP q/q,6.40%,6.50%,6.40%,40,20,17,10,1,1,1,1
+5/27/2021 19:30,USD,Medium,Unemployment Claims,406K,427K,444K,40,20,17,10,1,1,1,1
+5/27/2021 19:30,USD,Low,Core Durable Goods Orders m/m,1.00%,0.80%,1.90%,40,20,17,10,1,1,1,1
+5/27/2021 19:30,USD,Low,Durable Goods Orders m/m,-1.30%,0.80%,0.80%,40,20,17,10,1,1,1,1
+5/27/2021 19:30,USD,Low,Prelim GDP Price Index q/q,4.30%,4.10%,4.10%,40,20,17,10,1,1,1,1
+5/27/2021 21:00,USD,Medium,Pending Home Sales m/m,-4.40%,0.60%,1.70%,40,19,19,11,1,0,0,0
+5/27/2021 21:30,USD,Low,Natural Gas Storage,115B,105B,71B,40,17,11,9,1,1,1,1
+5/28/2021 13:00,EUR,Low,German Import Prices m/m,1.40%,1.00%,1.80%,72,13,8,7,0,0,0,1
+5/28/2021 13:45,EUR,Low,French Consumer Spending m/m,-8.30%,-4.10%,-0.30%,72,16,13,10,0,0,0,1
+5/28/2021 13:45,EUR,Low,French Prelim CPI m/m,0.30%,0.30%,0.10%,72,16,13,10,0,0,0,1
+5/28/2021 13:45,EUR,Low,French Prelim GDP q/q,-0.10%,0.40%,0.40%,72,16,13,10,0,0,0,1
+5/28/2021 19:30,USD,Medium,Core PCE Price Index m/m,0.70%,0.60%,0.40%,72,19,19,12,0,0,1,0
+5/28/2021 19:30,USD,Low,Goods Trade Balance,-85.2B,-92.0B,-92.0B,72,19,19,12,0,0,1,0
+5/28/2021 19:30,USD,Low,Personal Income m/m,-13.10%,-14.20%,20.90%,72,19,19,12,0,0,1,0
+5/28/2021 19:30,USD,Low,Personal Spending m/m,0.50%,0.50%,4.70%,72,19,19,12,0,0,1,0
+5/28/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,0.80%,0.70%,1.30%,72,19,19,12,0,0,1,0
+5/28/2021 20:45,USD,Medium,Chicago PMI,75.2,67.9,72.1,72,31,15,10,0,0,0,0
+5/28/2021 21:00,USD,Low,Revised UoM Consumer Sentiment,82.9,83.1,82.8,72,25,8,8,0,0,0,0
+5/31/2021 12:00,EUR,Low,German Prelim CPI m/m,0.50%,0.30%,0.70%,48,10,4,1,0,1,0,0
+5/31/2021 14:00,EUR,Low,Spanish Flash CPI y/y,2.70%,2.40%,2.20%,48,12,9,7,0,0,0,0
+5/31/2021 15:00,EUR,Low,M3 Money Supply y/y,9.20%,9.60%,10.00%,48,15,9,6,0,0,0,0
+5/31/2021 15:00,EUR,Low,Private Loans y/y,3.80%,3.40%,3.30%,48,15,9,6,0,0,0,0
+5/31/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.00%,0.10%,0.40%,48,15,11,11,0,1,1,1
+6/1/2021 14:15,EUR,Low,Spanish Manufacturing PMI,59.4,59.3,57.7,41,19,12,7,0,1,0,1
+6/1/2021 14:45,EUR,Low,Italian Manufacturing PMI,62.3,62,60.7,41,28,19,9,0,1,1,0
+6/1/2021 14:50,EUR,Low,French Final Manufacturing PMI,59.4,59.2,59.2,41,28,21,9,0,1,1,1
+6/1/2021 14:55,EUR,Medium,German Final Manufacturing PMI,64.4,64,64,41,28,23,12,0,1,1,1
+6/1/2021 14:55,EUR,Low,German Unemployment Change,-15K,-9K,8K,41,28,23,12,0,1,1,1
+6/1/2021 15:00,EUR,Low,Final Manufacturing PMI,63.1,62.8,62.8,41,28,27,19,0,1,1,1
+6/1/2021 15:02,EUR,Low,Italian Monthly Unemployment Rate,10.70%,10.10%,10.40%,41,23,21,13,0,0,1,1
+6/1/2021 16:00,EUR,Low,CPI Flash Estimate y/y,2.00%,1.90%,1.60%,41,9,9,6,0,1,0,0
+6/1/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,0.90%,0.90%,0.70%,41,9,9,6,0,1,0,0
+6/1/2021 16:00,EUR,Low,Unemployment Rate,8.00%,8.10%,8.10%,41,9,9,6,0,1,0,0
+6/1/2021 20:45,USD,Low,Final Manufacturing PMI,62.1,61.5,61.5,41,24,23,11,0,0,0,0
+6/1/2021 21:00,USD,High,ISM Manufacturing PMI,61.2,60.8,60.7,41,17,16,16,0,1,0,1
+6/1/2021 21:00,USD,Low,Construction Spending m/m,0.20%,0.50%,1.00%,41,17,16,16,0,1,0,1
+6/1/2021 21:00,USD,Low,ISM Manufacturing Prices,88,88.9,89.6,41,17,16,16,0,1,0,1
+6/2/2021 13:00,EUR,Low,German Retail Sales m/m,-5.50%,-2.40%,7.70%,70,12,5,5,1,1,0,0
+6/2/2021 14:00,EUR,Low,Spanish Unemployment Change,-129.4K,-115.2K,-39.0K,70,17,7,5,1,1,1,1
+6/2/2021 16:00,EUR,Low,PPI m/m,1.00%,0.90%,1.10%,70,21,9,6,1,1,0,0
+6/2/2021 20:45,USD,Low,IBD/TIPP Economic Optimism,56.4,55.8,54.4,70,9,8,8,1,0,0,0
+6/2/2021 20:45,USD,Low,Wards Total Vehicle Sales,17.0M,17.4M,18.5M,70,9,8,8,1,0,0,0
+6/3/2021 14:15,EUR,Low,Spanish Services PMI,59.4,57.8,54.6,97,9,6,6,1,0,0,0
+6/3/2021 14:45,EUR,Low,Italian Services PMI,53.1,52.4,47.3,97,15,7,7,1,0,1,1
+6/3/2021 14:50,EUR,Low,French Final Services PMI,56.6,56.6,56.6,97,15,7,5,1,0,0,1
+6/3/2021 14:55,EUR,Low,German Final Services PMI,52.8,52.8,52.8,97,15,9,5,1,0,0,0
+6/3/2021 15:00,EUR,Low,Final Services PMI,55.2,55.2,55.1,97,15,9,6,1,0,0,0
+6/3/2021 19:15,USD,Medium,ADP Non-Farm Employment Change,978K,645K,654K,97,34,28,28,1,1,1,1
+6/3/2021 19:30,USD,Medium,Unemployment Claims,385K,400K,405K,97,18,15,11,1,1,1,0
+6/3/2021 19:30,USD,Low,Revised Nonfarm Productivity q/q,5.40%,5.50%,5.40%,97,18,15,11,1,1,1,0
+6/3/2021 19:30,USD,Low,Revised Unit Labor Costs q/q,1.70%,-0.40%,-0.30%,97,18,15,11,1,1,1,0
+6/3/2021 20:45,USD,Low,Final Services PMI,70.4,70.1,70.1,97,20,13,12,1,1,1,0
+6/3/2021 21:00,USD,High,ISM Services PMI,64,63,62.7,97,23,20,13,1,1,1,1
+6/3/2021 21:30,USD,Low,Natural Gas Storage,98B,95B,115B,97,16,13,7,1,1,0,1
+6/3/2021 22:00,USD,Medium,Crude Oil Inventories,-5.1M,-1.0M,-1.7M,97,17,15,11,1,1,1,1
+6/4/2021 16:00,EUR,Low,Retail Sales m/m,-3.10%,-1.40%,3.30%,81,8,5,4,0,0,1,1
+6/4/2021 19:30,USD,High,Average Hourly Earnings m/m,0.50%,0.20%,0.70%,81,56,54,37,0,0,0,0
+6/4/2021 19:30,USD,High,Non-Farm Employment Change,559K,645K,278K,81,56,54,37,0,0,0,0
+6/4/2021 19:30,USD,High,Unemployment Rate,5.80%,5.90%,6.10%,81,56,54,37,0,0,0,0
+6/4/2021 21:00,USD,Low,Factory Orders m/m,-0.60%,-0.30%,1.40%,81,23,19,13,0,1,1,1
+6/7/2021 12:58,EUR,Low,German Factory Orders m/m,-0.20%,0.40%,3.90%,57,10,8,4,0,1,1,1
+6/7/2021 15:30,EUR,Low,Sentix Investor Confidence,28.1,25.5,21,57,12,12,7,0,0,0,0
+6/8/2021 2:00,USD,Low,Consumer Credit m/m,18.6B,19.5B,18.6B,35,3,3,2,1,1,0,1
+6/8/2021 12:55,EUR,Low,German Industrial Production m/m,-1.00%,0.30%,2.20%,35,9,9,9,1,0,0,0
+6/8/2021 13:45,EUR,Low,French Trade Balance,-6.2B,-5.3B,-6.1B,35,20,7,4,1,1,1,1
+6/8/2021 15:00,EUR,Low,Italian Retail Sales m/m,-0.40%,0.20%,0.00%,35,12,8,7,1,0,1,0
+6/8/2021 16:00,EUR,Medium,ZEW Economic Sentiment,81.3,85.5,84,35,9,9,4,1,1,1,1
+6/8/2021 16:00,EUR,Medium,German ZEW Economic Sentiment,79.8,86,84.4,35,9,9,4,1,1,1,1
+6/8/2021 16:00,EUR,Low,Final Employment Change q/q,-0.30%,-0.30%,-0.30%,35,9,9,4,1,1,1,1
+6/8/2021 16:00,EUR,Low,Revised GDP q/q,-0.30%,-0.60%,-0.60%,35,9,9,4,1,1,1,1
+6/8/2021 17:00,USD,Low,NFIB Small Business Index,99.6,101.2,99.8,35,11,11,8,1,0,0,0
+6/8/2021 19:30,USD,Low,Trade Balance,-68.9B,-68.5B,-75.0B,35,16,16,7,1,1,1,1
+6/8/2021 21:00,USD,Low,JOLTS Job Openings,9.29M,8.18M,8.29M,35,13,8,8,1,0,0,0
+6/9/2021 13:00,EUR,Low,German Trade Balance,15.9B,15.7B,14.0B,49,10,6,4,1,0,0,0
+6/9/2021 21:00,USD,Low,Final Wholesale Inventories m/m,0.80%,0.80%,0.80%,49,35,18,13,1,1,1,1
+6/9/2021 21:30,USD,Medium,Crude Oil Inventories,-5.2M,-3.3M,-5.1M,49,19,19,10,1,1,1,1
+6/10/2021 12:30,EUR,Low,French Final Private Payrolls q/q,0.50%,0.30%,0.30%,51,10,4,4,1,0,1,1
+6/10/2021 13:45,EUR,Low,French Industrial Production m/m,-0.10%,0.50%,1.00%,51,20,10,7,1,1,1,1
+6/10/2021 15:00,EUR,Low,Italian Industrial Production m/m,1.80%,0.30%,0.30%,51,12,8,4,1,0,0,0
+6/10/2021 18:45,EUR,Medium,Main Refinancing Rate,0.00%,0.00%,0.00%,51,40,26,21,1,0,1,1
+6/10/2021 19:30,USD,High,CPI m/m,0.60%,0.40%,0.80%,51,51,43,40,1,1,0,0
+6/10/2021 19:30,USD,High,Core CPI m/m,0.70%,0.50%,0.90%,51,51,43,40,1,1,0,0
+6/10/2021 19:30,USD,Medium,Unemployment Claims,376K,370K,385K,51,51,43,40,1,1,0,0
+6/10/2021 21:30,USD,Low,Natural Gas Storage,98B,99B,98B,51,28,19,15,1,1,1,1
+6/11/2021 1:00,USD,Low,Federal Budget Balance,-132.0B,-245.0B,-225.6B,100,5,3,3,1,1,0,0
+6/11/2021 13:00,EUR,Low,German WPI m/m,1.70%,0.90%,1.10%,100,11,8,7,1,1,0,0
+6/11/2021 15:00,EUR,Low,Italian Quarterly Unemployment Rate,10.40%,10.50%,10.00%,100,20,14,6,1,1,1,1
+6/11/2021 21:00,USD,Medium,Prelim UoM Consumer Sentiment,86.4,84.1,82.9,100,26,16,16,1,1,1,1
+6/14/2021 16:00,EUR,Low,Industrial Production m/m,0.80%,0.40%,0.40%,36,11,10,8,0,0,0,0
+6/15/2021 13:00,EUR,Low,German Final CPI m/m,0.50%,0.50%,0.50%,46,13,10,4,0,0,0,0
+6/15/2021 13:45,EUR,Low,French Final CPI m/m,0.30%,0.30%,0.30%,46,15,11,6,0,0,0,1
+6/15/2021 16:00,EUR,Low,Trade Balance,9.4B,14.9B,18.3B,46,10,10,10,0,1,1,1
+6/15/2021 19:30,USD,High,Core Retail Sales m/m,-0.70%,0.40%,0.00%,46,23,17,13,0,0,1,1
+6/15/2021 19:30,USD,High,PPI m/m,0.80%,0.50%,0.60%,46,23,17,13,0,0,1,1
+6/15/2021 19:30,USD,High,Retail Sales m/m,-1.30%,-0.60%,0.90%,46,23,17,13,0,0,1,1
+6/15/2021 19:30,USD,Medium,Core PPI m/m,0.70%,0.50%,0.70%,46,23,17,13,0,0,1,1
+6/15/2021 19:30,USD,Low,Empire State Manufacturing Index,17.4,22.2,24.3,46,23,17,13,0,0,1,1
+6/15/2021 20:15,USD,Medium,Industrial Production m/m,0.80%,0.60%,0.10%,46,15,10,10,0,0,0,0
+6/15/2021 20:15,USD,Low,Capacity Utilization Rate,75.20%,75.20%,74.60%,46,15,10,10,0,0,0,0
+6/15/2021 21:00,USD,Low,Business Inventories m/m,-0.20%,-0.10%,0.20%,46,12,7,5,0,1,1,0
+6/15/2021 21:00,USD,Low,NAHB Housing Market Index,81,83,83,46,12,7,5,0,1,1,0
+6/16/2021 3:00,USD,Low,TIC Long-Term Purchases,100.7B,119.5B,262.4B,25,5,4,3,1,1,0,0
+6/16/2021 19:30,USD,Low,Building Permits,1.68M,1.73M,1.73M,25,16,9,5,1,1,1,1
+6/16/2021 19:30,USD,Low,Housing Starts,1.57M,1.64M,1.52M,25,16,9,5,1,1,1,1
+6/16/2021 19:30,USD,Low,Import Prices m/m,1.10%,0.80%,0.80%,25,16,9,5,1,1,1,1
+6/16/2021 21:30,USD,Medium,Crude Oil Inventories,-7.4M,-2.1M,-5.2M,25,10,9,3,1,1,1,1
+6/17/2021 1:00,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%,225,94,70,61,1,1,1,1
+6/17/2021 15:00,EUR,Low,Italian Trade Balance,5.87B,6.23B,5.19B,225,28,18,11,1,1,1,0
+6/17/2021 16:00,EUR,Low,Final CPI y/y,2.00%,2.00%,2.00%,225,14,10,8,1,0,0,0
+6/17/2021 16:00,EUR,Low,Final Core CPI y/y,1.00%,0.90%,0.90%,225,14,10,8,1,0,0,0
+6/17/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,30.7,30.3,31.5,225,20,17,13,1,0,1,1
+6/17/2021 19:30,USD,Medium,Unemployment Claims,412K,360K,375k,225,20,17,13,1,0,1,1
+6/17/2021 21:00,USD,Low,CB Leading Index m/m,1.30%,1.30%,1.30%,225,21,14,14,1,0,1,1
+6/17/2021 21:30,USD,Low,Natural Gas Storage,16B,71B,98B,225,30,19,10,1,1,0,0
+6/18/2021 13:00,EUR,Low,German PPI m/m,1.50%,0.70%,0.80%,78,23,12,9,1,1,1,0
+6/18/2021 15:00,EUR,Low,Current Account,22.8B,20.3B,17.8B,78,14,13,7,1,1,0,1
+6/22/2021 20:59,USD,Low,Richmond Manufacturing Index,22,18,18,61,14,11,10,0,1,0,0
+6/22/2021 21:00,EUR,Low,Consumer Confidence,-3,-3,-5,61,14,11,10,0,1,0,0
+6/22/2021 21:00,USD,Low,Existing Home Sales,5.80M,5.71M,5.85M,61,14,11,10,0,1,0,0
+6/23/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,58.6,59,59.4,58,33,25,14,1,0,0,0
+6/23/2021 14:15,EUR,Medium,French Flash Services PMI,57.4,59.6,56.6,58,33,25,14,1,0,0,0
+6/23/2021 14:30,EUR,High,German Flash Manufacturing PMI,64.9,63,64.4,58,21,14,12,1,0,0,0
+6/23/2021 14:30,EUR,High,German Flash Services PMI,58.1,55.8,52.8,58,21,14,12,1,0,0,0
+6/23/2021 15:00,EUR,Medium,Flash Manufacturing PMI,63.1,62.4,63.1,58,13,8,8,1,1,0,0
+6/23/2021 15:00,EUR,Medium,Flash Services PMI,58,58.1,55.2,58,13,8,8,1,1,0,0
+6/23/2021 19:30,USD,Low,Current Account,-196B,-205B,-175B,58,11,9,8,1,0,0,1
+6/23/2021 20:45,USD,High,Flash Manufacturing PMI,62.6,61.5,62.1,58,15,12,12,1,1,1,0
+6/23/2021 20:45,USD,High,Flash Services PMI,64.8,70,70.4,58,15,12,12,1,1,1,0
+6/23/2021 21:00,USD,Low,New Home Sales,769K,864K,817K,58,22,12,9,1,1,1,1
+6/23/2021 21:30,USD,Medium,Crude Oil Inventories,-7.6M,-3.6M,-7.4M,58,21,16,8,1,1,1,1
+6/24/2021 15:00,EUR,Medium,German ifo Business Climate,101.8,100.8,99.2,38,15,13,9,1,1,0,1
+6/24/2021 19:30,USD,Medium,Final GDP q/q,6.40%,6.40%,6.40%,38,15,14,8,1,1,0,0
+6/24/2021 19:30,USD,Medium,Unemployment Claims,411K,382K,418K,38,15,14,8,1,1,0,0
+6/24/2021 19:30,USD,Low,Core Durable Goods Orders m/m,0.30%,0.80%,1.70%,38,15,14,8,1,1,0,0
+6/24/2021 19:30,USD,Low,Durable Goods Orders m/m,2.30%,2.90%,-0.80%,38,15,14,8,1,1,0,0
+6/24/2021 19:30,USD,Low,Goods Trade Balance,-88.1B,-87.4B,-85.7B,38,15,14,8,1,1,0,0
+6/24/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,1.10%,0.80%,1.00%,38,15,14,8,1,1,0,0
+6/24/2021 19:36,USD,Low,Final GDP Price Index q/q,4.30%,4.30%,4.30%,38,16,12,7,1,1,0,0
+6/24/2021 19:56,EUR,Low,Belgian NBB Business Climate,9.8,8.5,6.5,38,16,14,7,1,1,1,1
+6/24/2021 21:30,USD,Low,Natural Gas Storage,55B,64B,16B,38,23,23,15,1,1,1,1
+6/25/2021 13:00,EUR,Low,German GfK Consumer Climate,-0.3,-3.9,-6.9,49,13,8,5,0,0,0,1
+6/25/2021 15:00,EUR,Low,M3 Money Supply y/y,8.40%,8.60%,9.20%,49,9,8,8,0,1,1,1
+6/25/2021 15:00,EUR,Low,Private Loans y/y,3.90%,3.70%,3.80%,49,9,8,8,0,1,1,1
+6/25/2021 19:30,USD,Medium,Core PCE Price Index m/m,0.50%,0.60%,0.70%,49,19,16,16,0,0,0,0
+6/25/2021 19:30,USD,Low,Personal Income m/m,-2.00%,-2.50%,-13.10%,49,19,16,16,0,0,0,0
+6/25/2021 19:30,USD,Low,Personal Spending m/m,0.00%,0.40%,0.90%,49,19,16,16,0,0,0,0
+6/25/2021 21:00,USD,Medium,Revised UoM Consumer Sentiment,85.5,86.5,86.4,49,24,13,13,0,1,1,1
+6/28/2021 13:00,EUR,Low,German Import Prices m/m,1.70%,1.30%,1.40%,42,10,9,5,1,0,0,0
+6/29/2021 13:00,EUR,Low,German Prelim CPI m/m,0.40%,0.40%,0.50%,52,8,7,4,1,0,1,0
+6/29/2021 14:00,EUR,Low,Spanish Flash CPI y/y,2.60%,2.70%,2.70%,52,16,16,9,1,1,1,1
+6/29/2021 20:00,USD,Low,HPI m/m,1.80%,1.50%,1.60%,52,22,16,9,1,0,0,1
+6/29/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,14.90%,14.80%,13.40%,52,22,16,9,1,0,0,1
+6/29/2021 21:00,USD,Medium,CB Consumer Confidence,127.3,118.9,120,52,27,14,12,1,0,0,0
+6/30/2021 13:45,EUR,Low,French Consumer Spending m/m,10.40%,7.40%,-8.70%,64,15,13,8,1,1,1,0
+6/30/2021 13:45,EUR,Low,French Prelim CPI m/m,0.20%,0.20%,0.30%,64,15,13,8,1,1,1,0
+6/30/2021 14:55,EUR,Low,German Unemployment Change,-38K,-20K,-19K,64,18,18,10,1,1,1,1
+6/30/2021 16:00,EUR,Medium,CPI Flash Estimate y/y,1.90%,1.90%,2.00%,64,12,10,8,1,0,0,0
+6/30/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,0.90%,0.90%,1.00%,64,12,10,8,1,0,0,0
+6/30/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.10%,0.20%,0.00%,64,12,10,8,1,0,0,0
+6/30/2021 19:15,USD,Medium,ADP Non-Farm Employment Change,692K,555K,886K,64,21,17,17,1,1,1,1
+6/30/2021 20:45,USD,Medium,Chicago PMI,66.1,70.2,75.2,64,19,13,9,1,1,1,0
+6/30/2021 21:00,USD,Medium,Pending Home Sales m/m,8.00%,-1.10%,-4.40%,64,25,19,13,1,1,1,1
+6/30/2021 21:30,USD,Medium,Crude Oil Inventories,-6.7M,-4.2M,-7.6M,64,22,22,14,1,1,1,0
+7/1/2021 13:00,EUR,Low,German Retail Sales m/m,4.20%,4.50%,-6.80%,47,18,7,6,1,0,1,1
+7/1/2021 14:15,EUR,Low,Spanish Manufacturing PMI,60.4,59.6,59.4,47,17,9,7,1,1,1,1
+7/1/2021 14:45,EUR,Low,Italian Manufacturing PMI,62.2,62.3,62.3,47,15,11,7,1,1,1,1
+7/1/2021 14:50,EUR,Low,French Final Manufacturing PMI,59,58.6,58.6,47,15,11,7,1,1,1,0
+7/1/2021 14:55,EUR,Medium,German Final Manufacturing PMI,65.1,64.9,64.9,47,15,11,11,1,1,1,1
+7/1/2021 15:00,EUR,Low,Final Manufacturing PMI,63.4,63.1,63.1,47,12,8,8,1,1,1,1
+7/1/2021 15:00,EUR,Low,Italian Monthly Unemployment Rate,10.50%,10.70%,10.70%,47,12,8,8,1,1,1,1
+7/1/2021 16:00,EUR,Low,Unemployment Rate,7.90%,8.00%,8.10%,47,16,13,8,1,0,0,0
+7/1/2021 19:30,USD,Medium,Unemployment Claims,364K,388K,415K,47,13,8,6,1,1,0,0
+7/1/2021 20:45,USD,Low,Final Manufacturing PMI,62.1,62.6,62.6,47,23,20,10,1,1,1,0
+7/1/2021 21:00,USD,High,ISM Manufacturing PMI,60.6,61,61.2,47,23,22,20,1,1,1,1
+7/1/2021 21:00,USD,Low,Construction Spending m/m,-0.30%,0.40%,0.10%,47,23,22,20,1,1,1,1
+7/1/2021 21:00,USD,Low,ISM Manufacturing Prices,92.1,86,88,47,23,22,20,1,1,1,1
+7/1/2021 21:00,USD,Low,Wards Total Vehicle Sales,15.4M,16.9M,17.0M,47,23,22,20,1,1,1,1
+7/1/2021 21:30,USD,Low,Natural Gas Storage,76B,68B,55B,47,21,12,9,1,1,0,0
+7/2/2021 14:00,EUR,Medium,Spanish Unemployment Change,-166.9K,-110.5K,-129.4K,52,17,16,16,1,1,1,1
+7/2/2021 16:00,EUR,Low,PPI m/m,1.30%,1.20%,0.90%,52,9,7,3,1,1,1,0
+7/2/2021 19:30,USD,High,Average Hourly Earnings m/m,0.30%,0.30%,0.40%,52,52,49,49,1,0,0,0
+7/2/2021 19:30,USD,High,Non-Farm Employment Change,850K,725K,583K,52,52,49,49,1,0,0,0
+7/2/2021 19:30,USD,High,Unemployment Rate,5.90%,5.60%,5.80%,52,52,49,49,1,0,0,0
+7/2/2021 19:30,USD,Low,Trade Balance,-71.2B,-71.4B,-69.1B,52,52,49,49,1,0,0,0
+7/2/2021 21:00,USD,Low,Factory Orders m/m,1.70%,1.70%,-0.10%,52,17,17,17,1,1,0,1
+7/5/2021 13:45,EUR,Low,French Industrial Production m/m,-0.30%,0.80%,0.10%,29,20,11,6,0,0,1,1
+7/5/2021 14:15,EUR,Low,Spanish Services PMI,62.5,60.6,59.4,29,21,20,6,0,0,0,1
+7/5/2021 14:45,EUR,Low,Italian Services PMI,56.7,56.3,53.1,29,8,6,6,0,0,0,0
+7/5/2021 14:50,EUR,Low,French Final Services PMI,57.8,57.4,57.4,29,8,6,6,0,0,0,0
+7/5/2021 14:55,EUR,Low,German Final Services PMI,57.5,58.1,58.1,29,8,6,6,0,0,0,1
+7/5/2021 15:00,EUR,Low,Final Services PMI,58.3,58,58,29,8,5,5,0,1,1,0
+7/5/2021 15:30,EUR,Low,Sentix Investor Confidence,29.8,30.2,28.1,29,12,8,8,0,0,0,0
+7/6/2021 13:00,EUR,Low,German Factory Orders m/m,-3.70%,0.90%,1.20%,88,15,15,15,1,0,0,0
+7/6/2021 16:00,EUR,Medium,ZEW Economic Sentiment,61.2,79,81.3,88,20,15,10,1,1,1,1
+7/6/2021 16:00,EUR,Medium,German ZEW Economic Sentiment,63.3,75,79.8,88,20,15,10,1,1,1,1
+7/6/2021 16:00,EUR,Low,Retail Sales m/m,4.60%,4.30%,-3.90%,88,20,15,10,1,1,1,1
+7/6/2021 20:45,USD,Low,Final Services PMI,64.6,64.8,64.8,88,22,16,9,1,0,0,0
+7/6/2021 21:00,USD,High,ISM Services PMI,60.1,63.4,64,88,22,18,11,1,1,1,0
+7/7/2021 13:00,EUR,Low,German Industrial Production m/m,-0.30%,0.50%,-0.30%,54,9,9,9,1,1,1,1
+7/7/2021 13:45,EUR,Low,French Trade Balance,-6.8B,-6.0B,-6.3B,54,18,17,7,1,1,1,1
+7/7/2021 15:00,EUR,Low,Italian Retail Sales m/m,0.20%,3.10%,-0.10%,54,17,9,9,1,0,0,0
+7/7/2021 21:00,USD,Medium,JOLTS Job Openings,9.21M,9.30M,9.19M,54,24,21,12,1,1,1,1
+7/7/2021 21:01,USD,Low,IBD/TIPP Economic Optimism,54.3,57.3,56.4,54,24,21,13,1,1,1,1
+7/8/2021 13:00,EUR,Low,German Trade Balance,12.6B,15.8B,15.6B,84,13,6,6,0,1,1,1
+7/8/2021 19:30,USD,Medium,Unemployment Claims,373K,345K,371K,84,23,23,15,0,0,0,0
+7/8/2021 21:30,USD,Low,Natural Gas Storage,16B,29B,76B,84,26,15,7,0,1,1,0
+7/8/2021 22:00,USD,Medium,Crude Oil Inventories,-6.9M,-4.0M,-6.7M,84,23,17,10,0,1,1,0
+7/9/2021 2:00,USD,Low,Consumer Credit m/m,35.3B,17.9B,20.0B,50,9,6,4,0,0,0,0
+7/9/2021 15:00,EUR,Low,Italian Industrial Production m/m,-1.50%,0.30%,1.50%,50,15,10,9,0,1,0,0
+7/9/2021 21:00,USD,Low,Final Wholesale Inventories m/m,1.30%,1.10%,1.10%,50,13,7,6,0,1,0,1
+7/12/2021 13:00,EUR,Low,German WPI m/m,1.50%,0.90%,1.70%,44,12,8,5,1,1,1,1
+7/13/2021 13:00,EUR,Low,German Final CPI m/m,0.40%,0.40%,0.40%,83,12,7,5,1,1,0,0
+7/13/2021 13:45,EUR,Low,French Final CPI m/m,0.10%,0.20%,0.20%,83,12,12,12,1,1,1,1
+7/13/2021 16:57,USD,Low,NFIB Small Business Index,102.5,99.5,99.6,83,11,7,6,1,0,0,0
+7/13/2021 19:30,USD,High,CPI m/m,0.90%,0.50%,0.60%,83,56,53,42,1,1,1,1
+7/13/2021 19:30,USD,High,Core CPI m/m,0.90%,0.40%,0.70%,83,56,53,42,1,1,1,1
+7/14/2021 1:00,USD,Low,Federal Budget Balance,-174.2B,-205.0B,-132.0B,65,9,9,6,0,1,0,1
+7/14/2021 16:00,EUR,Low,Industrial Production m/m,-1.00%,-0.30%,0.60%,65,18,10,8,0,0,0,0
+7/14/2021 19:30,USD,High,PPI m/m,1.00%,0.60%,0.80%,65,19,19,19,0,0,0,0
+7/14/2021 19:30,USD,Medium,Core PPI m/m,1.00%,0.50%,0.70%,65,19,19,19,0,0,0,0
+7/14/2021 22:30,USD,Medium,Crude Oil Inventories,-7.9M,-4.3M,-6.9M,65,14,6,6,0,0,0,0
+7/15/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,21.9,28.1,30.7,50,12,12,5,1,0,1,0
+7/15/2021 19:30,USD,Medium,Unemployment Claims,360K,350K,386K,50,12,12,5,1,0,1,0
+7/15/2021 19:30,USD,Low,Empire State Manufacturing Index,43,17.9,17.4,50,12,12,5,1,0,1,0
+7/15/2021 19:30,USD,Low,Import Prices m/m,1.00%,1.10%,1.40%,50,12,12,5,1,0,1,0
+7/15/2021 20:15,USD,Medium,Industrial Production m/m,0.40%,0.60%,0.70%,50,14,11,6,1,0,0,0
+7/15/2021 20:15,USD,Low,Capacity Utilization Rate,75.40%,75.70%,75.10%,50,14,11,6,1,0,0,0
+7/15/2021 21:30,USD,Low,Natural Gas Storage,55B,45B,16B,50,12,12,11,1,1,0,1
+7/16/2021 15:03,EUR,Low,Italian Trade Balance,5.64B,5.27B,5.87B,30,20,12,8,0,0,0,0
+7/16/2021 16:00,EUR,Low,Final CPI y/y,1.90%,1.90%,1.90%,30,9,8,5,0,0,1,0
+7/16/2021 16:00,EUR,Low,Final Core CPI y/y,0.90%,0.90%,0.90%,30,9,8,5,0,0,1,0
+7/16/2021 16:00,EUR,Low,Trade Balance,9.4B,7.9B,13.4B,30,9,8,5,0,0,1,0
+7/16/2021 19:30,USD,High,Core Retail Sales m/m,1.30%,0.40%,-0.90%,30,18,11,11,0,0,0,0
+7/16/2021 19:30,USD,High,Retail Sales m/m,0.60%,-0.40%,-1.70%,30,18,11,11,0,0,0,0
+7/16/2021 21:00,USD,Medium,Prelim UoM Consumer Sentiment,80.8,86.5,85.5,30,13,8,8,0,0,1,1
+7/16/2021 21:00,USD,Low,Business Inventories m/m,0.50%,0.60%,0.10%,30,13,8,8,0,0,1,1
+7/17/2021 3:00,USD,Low,TIC Long-Term Purchases,-30.2B,95.5B,100.7B,16,4,4,2,1,0,0,0
+7/19/2021 21:00,USD,Low,NAHB Housing Market Index,80,82,81,60,20,14,14,1,1,1,1
+7/20/2021 13:00,EUR,Low,German PPI m/m,1.30%,1.30%,1.50%,47,9,7,7,1,1,1,1
+7/20/2021 15:00,EUR,Low,Current Account,11.7B,24.3B,22.1B,47,13,13,10,1,0,0,0
+7/20/2021 19:30,USD,Low,Building Permits,1.60M,1.69M,1.68M,47,15,8,8,1,1,0,1
+7/20/2021 19:30,USD,Low,Housing Starts,1.64M,1.59M,1.55M,47,15,8,8,1,1,0,1
+7/21/2021 21:30,USD,Medium,Crude Oil Inventories,2.1M,-4.6M,-7.9M,52,19,13,9,0,0,1,0
+7/22/2021 18:45,EUR,Medium,Main Refinancing Rate,0.00%,0.00%,0.00%,73,43,43,31,1,1,1,1
+7/22/2021 19:30,USD,Medium,Unemployment Claims,419K,350K,368K,73,51,21,20,1,0,0,0
+7/22/2021 20:26,EUR,Low,Consumer Confidence,-4,-3,-3,73,47,14,13,1,1,1,1
+7/22/2021 21:00,USD,Low,CB Leading Index m/m,0.70%,0.80%,1.20%,73,34,34,34,1,1,1,1
+7/22/2021 21:00,USD,Low,Existing Home Sales,5.86M,5.89M,5.78M,73,34,34,34,1,1,1,1
+7/22/2021 21:30,USD,Low,Natural Gas Storage,49B,42B,55B,73,20,12,12,1,1,1,1
+7/23/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,58.1,58.4,59,32,19,11,11,0,0,1,1
+7/23/2021 14:15,EUR,Medium,French Flash Services PMI,57,58.7,57.8,32,19,11,11,0,0,1,1
+7/23/2021 14:30,EUR,High,German Flash Manufacturing PMI,65.6,64.2,65.1,32,17,12,8,0,0,0,1
+7/23/2021 14:30,EUR,High,German Flash Services PMI,62.2,59.4,57.5,32,17,12,8,0,0,0,1
+7/23/2021 15:00,EUR,Medium,Flash Manufacturing PMI,62.6,62.6,63.4,32,12,9,9,0,1,0,0
+7/23/2021 15:00,EUR,Medium,Flash Services PMI,60.4,59.4,58.3,32,12,9,9,0,1,0,0
+7/23/2021 20:45,USD,Medium,Flash Manufacturing PMI,63.1,62,62.1,32,14,10,9,0,1,1,1
+7/23/2021 20:45,USD,Medium,Flash Services PMI,59.8,64.6,64.6,32,14,10,9,0,1,1,1
+7/26/2021 15:00,EUR,Medium,German ifo Business Climate,100.8,102.3,101.7,54,19,17,13,0,0,1,1
+7/26/2021 19:59,EUR,Low,Belgian NBB Business Climate,10.1,10.3,9.8,54,31,8,7,0,0,0,0
+7/26/2021 21:00,USD,Low,New Home Sales,676K,800K,724K,54,15,15,8,0,0,0,0
+7/27/2021 15:00,EUR,Low,M3 Money Supply y/y,8.30%,8.20%,8.50%,67,13,13,9,0,1,1,1
+7/27/2021 15:00,EUR,Low,Private Loans y/y,4.00%,4.00%,3.90%,67,13,13,9,0,1,1,1
+7/27/2021 19:30,USD,Low,Core Durable Goods Orders m/m,0.30%,0.80%,0.50%,67,15,8,8,0,0,0,0
+7/27/2021 19:30,USD,Low,Durable Goods Orders m/m,0.80%,2.10%,3.20%,67,15,8,8,0,0,0,0
+7/27/2021 20:00,USD,Low,HPI m/m,1.70%,1.60%,1.80%,67,26,11,5,0,1,0,1
+7/27/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,17.00%,16.10%,15.00%,67,26,11,5,0,1,0,1
+7/27/2021 20:59,USD,Low,Richmond Manufacturing Index,27,20,22,67,20,11,8,0,0,1,1
+7/27/2021 21:00,USD,High,CB Consumer Confidence,129.1,123.9,128.9,67,21,11,8,0,0,1,1
+7/28/2021 13:00,EUR,Low,German GfK Consumer Climate,-0.3,0.9,-0.3,58,17,6,4,1,1,1,1
+7/28/2021 13:00,EUR,Low,German Import Prices m/m,1.60%,1.60%,1.70%,58,17,6,4,1,1,1,1
+7/28/2021 19:30,USD,Low,Goods Trade Balance,-91.2B,-88.0B,-88.1B,58,13,8,8,1,1,0,1
+7/28/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,0.80%,1.20%,1.30%,58,13,8,8,1,1,0,1
+7/28/2021 21:30,USD,Medium,Crude Oil Inventories,-4.1M,-2.6M,2.1M,58,19,15,9,1,0,0,0
+7/29/2021 1:00,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%,119,71,44,41,0,0,0,0
+7/29/2021 8:30,EUR,Low,German Prelim CPI m/m,0.90%,0.60%,0.40%,119,6,6,4,0,0,0,0
+7/29/2021 14:00,EUR,Low,Spanish Flash CPI y/y,2.90%,2.70%,2.70%,119,18,18,18,0,0,0,0
+7/29/2021 14:00,EUR,Low,Spanish Unemployment Rate,15.30%,15.10%,16.00%,119,18,18,18,0,0,0,0
+7/29/2021 14:55,EUR,Low,German Unemployment Change,-91K,-29K,-39K,119,14,10,4,0,0,0,1
+7/29/2021 19:30,USD,High,Advance GDP q/q,6.50%,8.50%,6.40%,119,13,13,11,0,0,0,0
+7/29/2021 19:30,USD,Medium,Unemployment Claims,400K,382K,424K,119,13,13,11,0,0,0,0
+7/29/2021 19:32,USD,Medium,Advance GDP Price Index q/q,6.00%,5.40%,4.30%,119,11,11,6,0,0,0,1
+7/29/2021 21:00,USD,Medium,Pending Home Sales m/m,-1.90%,0.10%,8.30%,119,12,12,8,0,0,0,1
+7/29/2021 21:30,USD,Low,Natural Gas Storage,36B,41B,49B,119,11,9,3,0,0,1,0
+7/30/2021 12:30,EUR,Low,French Consumer Spending m/m,0.30%,0.60%,10.60%,57,7,3,2,1,0,0,1
+7/30/2021 12:30,EUR,Low,French Flash GDP q/q,0.90%,0.80%,-0.10%,57,7,3,2,1,0,0,1
+7/30/2021 13:45,EUR,Low,French Prelim CPI m/m,0.10%,-0.10%,0.10%,57,14,8,4,1,0,0,0
+7/30/2021 14:00,EUR,Low,Spanish Flash GDP q/q,2.80%,2.10%,-0.40%,57,11,11,5,1,0,0,0
+7/30/2021 14:00,EUR,Low,Italian Monthly Unemployment Rate,9.70%,10.60%,10.20%,57,11,11,5,1,0,0,0
+7/30/2021 15:00,EUR,Medium,German Prelim GDP q/q,1.50%,2.00%,-1.80%,57,15,6,6,1,0,0,0
+7/30/2021 15:00,EUR,Low,Italian Prelim GDP q/q,2.70%,1.30%,0.10%,57,15,6,6,1,0,0,0
+7/30/2021 16:00,EUR,Low,CPI Flash Estimate y/y,2.20%,2.00%,1.90%,57,13,7,4,1,1,1,0
+7/30/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,0.70%,0.70%,0.90%,57,13,7,4,1,1,1,0
+7/30/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.30%,0.10%,0.10%,57,13,7,4,1,1,1,0
+7/30/2021 16:00,EUR,Low,Prelim Flash GDP q/q,2.00%,1.50%,-0.30%,57,13,7,4,1,1,1,0
+7/30/2021 16:00,EUR,Low,Unemployment Rate,7.70%,7.90%,8.00%,57,13,7,4,1,1,1,0
+7/30/2021 19:30,USD,High,Core PCE Price Index m/m,0.40%,0.60%,0.50%,57,22,20,13,1,1,1,1
+7/30/2021 19:30,USD,Low,Employment Cost Index q/q,0.70%,0.90%,0.90%,57,22,20,13,1,1,1,1
+7/30/2021 19:30,USD,Low,Personal Income m/m,0.10%,-0.40%,-2.20%,57,22,20,13,1,1,1,1
+7/30/2021 19:30,USD,Low,Personal Spending m/m,1.00%,0.70%,-0.10%,57,22,20,13,1,1,1,1
+7/30/2021 20:45,USD,Medium,Chicago PMI,73.4,64.2,66.1,57,25,11,8,1,1,1,1
+7/30/2021 21:00,USD,Medium,Revised UoM Consumer Sentiment,81.2,80.8,80.8,57,31,16,8,1,1,1,1
+8/2/2021 13:00,EUR,Low,German Retail Sales m/m,4.20%,1.90%,4.60%,37,20,6,5,0,0,0,0
+8/2/2021 14:15,EUR,Low,Spanish Manufacturing PMI,59,59.4,60.4,37,8,7,6,0,0,0,0
+8/2/2021 14:45,EUR,Low,Italian Manufacturing PMI,60.3,61.4,62.2,37,7,6,6,0,0,0,0
+8/2/2021 14:50,EUR,Low,French Final Manufacturing PMI,58,58.1,58.1,37,9,6,6,0,1,0,1
+8/2/2021 14:55,EUR,Medium,German Final Manufacturing PMI,65.9,65.6,65.6,37,9,6,5,0,1,0,1
+8/2/2021 15:00,EUR,Low,Final Manufacturing PMI,62.8,62.6,62.6,37,9,6,5,0,0,0,0
+8/2/2021 20:45,USD,Low,Final Manufacturing PMI,63.4,63.1,63.1,37,13,13,9,0,1,1,1
+8/2/2021 21:00,USD,High,ISM Manufacturing PMI,59.5,60.8,60.6,37,12,10,7,0,1,1,1
+8/2/2021 21:00,USD,Low,Construction Spending m/m,0.10%,0.40%,-0.20%,37,12,10,7,0,1,1,1
+8/2/2021 21:00,USD,Low,ISM Manufacturing Prices,85.7,87.9,92.1,37,12,10,7,0,1,1,1
+8/3/2021 14:00,EUR,Medium,Spanish Unemployment Change,-197.8K,-115.5K,-166.9K,39,11,9,5,1,0,0,1
+8/3/2021 16:00,EUR,Low,PPI m/m,1.40%,1.40%,1.30%,39,8,4,3,1,0,1,1
+8/3/2021 21:00,USD,Low,Factory Orders m/m,1.50%,1.00%,2.30%,39,17,12,9,1,1,1,0
+8/3/2021 21:01,USD,Low,IBD/TIPP Economic Optimism,53.6,55.3,54.3,39,17,12,9,1,1,1,0
+8/3/2021 21:01,USD,Low,Wards Total Vehicle Sales,14.8M,15.2M,15.4M,39,17,12,9,1,1,1,0
+8/4/2021 14:15,EUR,Low,Spanish Services PMI,61.9,63.1,62.5,67,18,8,8,1,1,1,1
+8/4/2021 14:45,EUR,Low,Italian Services PMI,58,58.8,56.7,67,35,18,5,1,1,1,0
+8/4/2021 14:50,EUR,Low,French Final Services PMI,56.8,57,57,67,35,23,4,1,1,1,1
+8/4/2021 14:55,EUR,Low,German Final Services PMI,61.8,62.2,62.2,67,35,25,11,1,1,1,1
+8/4/2021 15:00,EUR,Low,Final Services PMI,59.8,60.4,60.4,67,35,28,18,1,1,1,1
+8/4/2021 15:00,EUR,Low,Italian Retail Sales m/m,0.70%,1.90%,-0.10%,67,35,28,18,1,1,1,1
+8/4/2021 16:00,EUR,Low,Retail Sales m/m,1.50%,1.60%,4.10%,67,11,10,6,1,0,0,0
+8/4/2021 19:15,USD,High,ADP Non-Farm Employment Change,330K,695K,680K,67,35,25,14,1,0,0,0
+8/4/2021 20:45,USD,Low,Final Services PMI,59.9,59.8,59.8,67,57,40,4,1,1,1,1
+8/4/2021 21:00,USD,High,ISM Services PMI,64.1,60.5,60.1,67,50,50,33,1,1,1,1
+8/4/2021 21:30,USD,Medium,Crude Oil Inventories,3.6M,-3.2M,-4.1M,67,16,11,11,1,1,0,0
+8/5/2021 13:00,EUR,Low,German Factory Orders m/m,4.10%,2.10%,-3.20%,28,9,8,5,1,0,0,0
+8/5/2021 13:45,EUR,Low,French Industrial Production m/m,0.50%,0.50%,-0.40%,28,14,9,5,1,0,0,0
+8/5/2021 19:30,USD,Medium,Unemployment Claims,385K,382K,399K,28,11,11,8,1,1,1,1
+8/5/2021 19:30,USD,Low,Trade Balance,-75.7B,-74.2B,-71.0B,28,11,11,8,1,1,1,1
+8/5/2021 21:30,USD,Low,Natural Gas Storage,13B,19B,36B,28,13,10,6,1,1,1,1
+8/6/2021 13:00,EUR,Low,German Industrial Production m/m,-1.30%,0.60%,-0.80%,85,7,5,4,1,0,0,0
+8/6/2021 13:45,EUR,Low,French Prelim Private Payrolls q/q,1.20%,0.60%,0.50%,85,11,8,4,1,1,1,0
+8/6/2021 13:45,EUR,Low,French Trade Balance,-5.8B,-6.1B,-6.6B,85,11,8,4,1,1,1,0
+8/6/2021 15:00,EUR,Low,Italian Industrial Production m/m,1.00%,1.10%,-1.60%,85,17,14,4,1,1,1,1
+8/6/2021 19:30,USD,High,Average Hourly Earnings m/m,0.40%,0.30%,0.40%,85,32,31,26,1,1,1,1
+8/6/2021 19:30,USD,High,Non-Farm Employment Change,943K,870K,938K,85,32,31,26,1,1,1,1
+8/6/2021 19:30,USD,High,Unemployment Rate,5.40%,5.70%,5.90%,85,32,31,26,1,1,1,1
+8/6/2021 21:00,USD,Low,Final Wholesale Inventories m/m,1.10%,0.80%,0.80%,85,21,18,6,1,1,1,1
+8/7/2021 2:00,USD,Low,Consumer Credit m/m,37.7B,23.2B,36.7B,8,4,4,4,0,0,0,0
+8/9/2021 13:00,EUR,Low,German Trade Balance,13.6B,13.9B,12.8B,28,10,9,9,1,0,0,0
+8/9/2021 15:30,EUR,Low,Sentix Investor Confidence,22.2,29.2,29.8,28,11,10,7,1,1,1,0
+8/9/2021 21:00,USD,Medium,JOLTS Job Openings,10.07M,9.27M,9.48M,28,20,17,12,1,1,1,1
+8/10/2021 16:00,EUR,Medium,ZEW Economic Sentiment,42.7,55.3,61.2,39,10,10,6,1,1,1,0
+8/10/2021 16:00,EUR,Medium,German ZEW Economic Sentiment,40.4,54.9,63.3,39,10,10,6,1,1,1,0
+8/10/2021 17:00,USD,Low,NFIB Small Business Index,99.7,101.9,102.5,39,12,8,6,1,0,1,1
+8/10/2021 19:30,USD,Low,Prelim Nonfarm Productivity q/q,2.30%,3.30%,4.30%,39,12,9,5,1,1,1,1
+8/10/2021 19:30,USD,Low,Prelim Unit Labor Costs q/q,1.00%,0.90%,1.70%,39,12,9,5,1,1,1,1
+8/11/2021 13:00,EUR,Low,German Final CPI m/m,0.90%,0.90%,0.90%,43,10,8,6,0,1,1,1
+8/11/2021 19:30,USD,High,CPI m/m,0.50%,0.50%,0.90%,43,31,31,31,0,0,0,0
+8/11/2021 19:30,USD,High,Core CPI m/m,0.30%,0.40%,0.90%,43,31,31,31,0,0,0,0
+8/11/2021 21:30,USD,Medium,Crude Oil Inventories,-0.4M,-0.8M,3.6M,43,13,12,8,0,0,0,0
+8/12/2021 1:00,USD,Low,Federal Budget Balance,-302.1B,-305.0B,-174.2B,30,10,6,2,1,1,1,1
+8/12/2021 15:00,EUR,Low,Italian Trade Balance,5.68B,5.59B,5.63B,30,11,5,5,1,0,1,1
+8/12/2021 16:00,EUR,Low,Industrial Production m/m,-0.30%,-0.30%,-1.10%,30,6,6,4,1,1,1,1
+8/12/2021 19:30,USD,High,PPI m/m,1.00%,0.60%,1.00%,30,14,14,11,1,0,0,1
+8/12/2021 19:30,USD,Medium,Core PPI m/m,1.00%,0.50%,1.00%,30,14,14,11,1,0,0,1
+8/12/2021 19:30,USD,Medium,Unemployment Claims,375K,375K,387K,30,14,14,11,1,0,0,1
+8/12/2021 21:30,USD,Low,Natural Gas Storage,49B,47B,13B,30,11,9,4,1,0,0,1
+8/13/2021 13:00,EUR,Low,German WPI m/m,1.10%,0.90%,1.50%,78,6,4,3,0,1,0,1
+8/13/2021 13:45,EUR,Low,French Final CPI m/m,0.10%,0.10%,0.10%,78,8,7,6,0,1,1,1
+8/13/2021 16:00,EUR,Low,Trade Balance,12.4B,10.9B,13.8B,78,9,3,2,0,0,0,1
+8/13/2021 19:30,USD,Low,Import Prices m/m,0.30%,0.60%,1.10%,78,11,7,7,0,0,0,0
+8/13/2021 21:00,USD,Medium,Prelim UoM Consumer Sentiment,70.2,81.2,81.2,78,31,27,14,0,0,0,0
+8/16/2021 19:30,USD,Low,Empire State Manufacturing Index,18.3,28.9,43,34,17,7,6,1,0,0,0
+8/17/2021 3:00,USD,Low,TIC Long-Term Purchases,110.9B,110.9B,-30.0B,76,5,3,3,1,1,1,1
+8/17/2021 16:00,EUR,Low,Flash Employment Change q/q,0.50%,0.20%,-0.20%,76,13,13,6,1,1,1,1
+8/17/2021 16:00,EUR,Low,Flash GDP q/q,2.00%,2.00%,2.00%,76,13,13,6,1,1,1,1
+8/17/2021 19:30,USD,High,Core Retail Sales m/m,-0.40%,0.20%,1.60%,76,38,29,21,1,1,1,1
+8/17/2021 19:30,USD,High,Retail Sales m/m,-1.10%,-0.20%,0.70%,76,38,29,21,1,1,1,1
+8/17/2021 20:15,USD,Medium,Industrial Production m/m,0.90%,0.50%,0.20%,76,12,8,6,1,1,0,0
+8/17/2021 20:15,USD,Low,Capacity Utilization Rate,76.10%,75.70%,75.40%,76,12,8,6,1,1,0,0
+8/17/2021 21:00,USD,Low,Business Inventories m/m,0.80%,0.80%,0.60%,76,24,15,10,1,1,1,1
+8/17/2021 21:00,USD,Low,NAHB Housing Market Index,75,80,80,76,24,15,10,1,1,1,1
+8/18/2021 16:00,EUR,Low,Final CPI y/y,2.20%,2.20%,1.90%,36,9,4,4,1,1,0,1
+8/18/2021 16:00,EUR,Low,Final Core CPI y/y,0.70%,0.70%,0.70%,36,9,4,4,1,1,0,1
+8/18/2021 19:30,USD,Low,Building Permits,1.64M,1.61M,1.59M,36,14,11,6,1,1,1,1
+8/18/2021 19:30,USD,Low,Housing Starts,1.53M,1.60M,1.65M,36,14,11,6,1,1,1,1
+8/18/2021 21:30,USD,Medium,Crude Oil Inventories,-3.2M,-1.5M,-0.4M,36,20,6,6,1,1,1,1
+8/19/2021 15:00,EUR,Low,Current Account,21.8B,12.3B,13.9B,78,17,14,5,1,0,0,1
+8/19/2021 19:30,USD,Medium,Philly Fed Manufacturing Index,19.4,23.2,21.9,78,12,9,9,1,0,0,0
+8/19/2021 19:30,USD,Medium,Unemployment Claims,348K,362K,377K,78,12,9,9,1,0,0,0
+8/19/2021 21:00,USD,Low,CB Leading Index m/m,0.90%,0.70%,0.50%,78,18,11,11,1,1,1,1
+8/19/2021 21:30,USD,Low,Natural Gas Storage,46B,28B,49B,78,18,15,6,1,1,1,1
+8/20/2021 13:00,EUR,Low,German PPI m/m,1.90%,0.80%,1.30%,40,9,5,5,0,1,0,0
+8/23/2021 14:15,EUR,Medium,French Flash Manufacturing PMI,57.3,57.1,58,50,22,20,7,0,0,0,0
+8/23/2021 14:15,EUR,Medium,French Flash Services PMI,56.4,56.2,56.8,50,22,20,7,0,0,0,0
+8/23/2021 14:30,EUR,High,German Flash Manufacturing PMI,62.7,65.1,65.9,50,22,20,20,0,0,0,0
+8/23/2021 14:30,EUR,High,German Flash Services PMI,61.5,61,61.8,50,22,20,20,0,0,0,0
+8/23/2021 15:00,EUR,Medium,Flash Manufacturing PMI,61.5,62,62.8,50,11,8,8,0,0,0,0
+8/23/2021 15:00,EUR,Medium,Flash Services PMI,59.7,59.6,59.8,50,11,8,8,0,0,0,0
+8/23/2021 20:33,EUR,Low,Consumer Confidence,-5,-5,-4,50,19,16,9,0,1,1,1
+8/23/2021 20:45,USD,Medium,Flash Manufacturing PMI,61.2,62.4,63.4,50,17,17,12,0,1,1,1
+8/23/2021 20:45,USD,Medium,Flash Services PMI,55.2,59.1,59.9,50,17,17,12,0,1,1,1
+8/23/2021 21:00,USD,Low,Existing Home Sales,5.99M,5.82M,5.87M,50,18,9,7,0,0,0,0
+8/24/2021 13:00,EUR,Low,German Final GDP q/q,1.60%,1.50%,1.50%,38,8,7,6,0,1,0,0
+8/24/2021 20:59,USD,Low,Richmond Manufacturing Index,9,25,27,38,23,15,12,0,0,0,1
+8/24/2021 21:00,USD,Low,New Home Sales,708K,698K,701K,38,23,15,15,0,0,0,1
+8/25/2021 15:00,EUR,Medium,German ifo Business Climate,99.4,100.2,100.7,37,26,23,14,0,0,0,0
+8/25/2021 19:30,USD,Medium,Core Durable Goods Orders m/m,0.70%,0.50%,0.50%,37,19,10,10,0,0,1,1
+8/25/2021 19:30,USD,Low,Durable Goods Orders m/m,-0.10%,-0.30%,0.90%,37,19,10,10,0,0,1,1
+8/25/2021 19:56,EUR,Low,Belgian NBB Business Climate,7.6,9.1,10.1,37,15,14,14,0,0,0,0
+8/25/2021 21:30,USD,Medium,Crude Oil Inventories,-3.0M,-1.9M,-3.2M,37,9,9,9,0,0,0,0
+8/26/2021 13:00,EUR,Low,German GfK Consumer Climate,-1.2,-0.5,-0.4,33,12,8,4,1,1,1,1
+8/26/2021 15:00,EUR,Low,M3 Money Supply y/y,7.60%,7.60%,8.30%,33,11,11,7,1,1,1,1
+8/26/2021 15:00,EUR,Low,Private Loans y/y,4.20%,4.10%,4.00%,33,11,11,7,1,1,1,1
+8/26/2021 19:30,USD,High,Prelim GDP q/q,6.60%,6.70%,6.50%,33,27,24,20,1,1,1,1
+8/26/2021 19:30,USD,Medium,Unemployment Claims,353K,345K,349K,33,27,24,20,1,1,1,1
+8/26/2021 19:30,USD,Low,Prelim GDP Price Index q/q,6.10%,6.00%,6.00%,33,27,24,20,1,1,1,1
+8/26/2021 21:30,USD,Low,Natural Gas Storage,29B,40B,46B,33,19,19,13,1,1,1,1
+8/27/2021 13:00,EUR,Low,German Import Prices m/m,2.20%,1.20%,1.60%,67,11,7,3,0,0,0,0
+8/27/2021 19:30,USD,High,Core PCE Price Index m/m,0.30%,0.30%,0.50%,67,30,11,7,0,1,1,1
+8/27/2021 19:30,USD,Low,Goods Trade Balance,-86.4B,-90.8B,-92.1B,67,30,11,7,0,1,1,1
+8/27/2021 19:30,USD,Low,Personal Income m/m,1.10%,0.20%,0.20%,67,30,11,7,0,1,1,1
+8/27/2021 19:30,USD,Low,Personal Spending m/m,0.30%,0.40%,1.10%,67,30,11,7,0,1,1,1
+8/27/2021 19:30,USD,Low,Prelim Wholesale Inventories m/m,0.60%,1.00%,1.10%,67,30,11,7,0,1,1,1
+8/27/2021 21:00,USD,Medium,Revised UoM Consumer Sentiment,70.3,70.9,70.2,67,59,59,57,0,0,0,0
+8/30/2021 8:30,EUR,Low,German Prelim CPI m/m,0.00%,0.10%,0.90%,27,5,3,3,0,1,1,1
+8/30/2021 14:00,EUR,Low,Spanish Flash CPI y/y,3.30%,3.00%,2.90%,27,9,9,7,0,0,1,1
+8/30/2021 21:00,USD,Medium,Pending Home Sales m/m,-1.80%,0.50%,-2.00%,27,16,10,8,0,0,1,0
+8/31/2021 13:45,EUR,Low,French Consumer Spending m/m,-2.20%,0.10%,0.30%,50,7,7,5,0,1,0,1
+8/31/2021 13:45,EUR,Low,French Prelim CPI m/m,0.60%,0.40%,0.10%,50,7,7,5,0,1,0,1
+8/31/2021 13:45,EUR,Low,French Prelim GDP q/q,1.10%,0.90%,0.90%,50,7,7,5,0,1,0,1
+8/31/2021 14:55,EUR,Low,German Unemployment Change,-53K,-40K,-90K,50,8,7,5,0,1,1,0
+8/31/2021 16:00,EUR,Low,CPI Flash Estimate y/y,3.00%,2.70%,2.20%,50,10,10,10,0,1,0,0
+8/31/2021 16:00,EUR,Low,Core CPI Flash Estimate y/y,1.60%,1.50%,0.70%,50,10,10,10,0,1,0,0
+8/31/2021 16:00,EUR,Low,Italian Prelim CPI m/m,0.50%,0.40%,0.50%,50,10,10,10,0,1,0,0
+8/31/2021 20:00,USD,Low,HPI m/m,1.60%,1.90%,1.80%,50,21,21,19,0,1,1,1
+8/31/2021 20:00,USD,Low,S&P/CS Composite-20 HPI y/y,19.10%,18.70%,17.10%,50,21,21,19,0,1,1,1
+8/31/2021 20:45,USD,Medium,Chicago PMI,66.8,68,73.4,50,14,9,9,0,1,0,1
+8/31/2021 21:00,USD,Medium,CB Consumer Confidence,113.8,122.9,125.1,50,33,10,8,0,1,0,0

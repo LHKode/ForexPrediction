@@ -1,0 +1,67 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 22 2017,All Day,JPY,High,Lower House Elections,,,
+,All Day,JPY,Medium,Upper House Elections,,,
+,All Day,NZD,Holiday,Bank Holiday,,,
+Mon Oct 23 2017,6:00am,EUR,Low,German Buba Monthly Report,,,
+,,GBP,Low,CBI Industrial Order Expectations,-2,9,7
+,8:30am,CAD,Medium,Wholesale Sales m/m,0.5%,1.1%,1.7%
+,10:00am,EUR,Low,Consumer Confidence,-1,-1,-1
+,10:30am,AUD,Low,CB Leading Index m/m,0.1%,,0.2%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,52.5,53.1,52.9
+Tue Oct 24 2017,3:00am,EUR,Medium,French Flash Manufacturing PMI,56.7,56.2,56.1
+,,EUR,Medium,French Flash Services PMI,57.4,57.0,57.0
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,60.5,60.1,60.6
+,,EUR,Medium,German Flash Services PMI,55.2,55.5,55.6
+,4:00am,EUR,Medium,Flash Manufacturing PMI,58.6,57.9,58.1
+,,EUR,Medium,Flash Services PMI,54.9,55.7,55.8
+,8:57am,EUR,Low,Belgian NBB Business Climate,0.5,-2.9,-3.5
+,9:00am,CNY,Low,CB Leading Index m/m,1.0%,,1.3%
+,9:45am,USD,Low,Flash Manufacturing PMI,54.5,53.3,53.1
+,,USD,Low,Flash Services PMI,55.9,55.2,55.3
+,9:59am,USD,Low,Richmond Manufacturing Index,12,17,19
+,8:30pm,AUD,High,CPI q/q,0.6%,0.8%,0.2%
+,,AUD,High,Trimmed Mean CPI q/q,0.4%,0.5%,0.5%
+Wed Oct 25 2017,2:00am,CHF,Low,UBS Consumption Indicator,1.56,,1.50
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,32.0,,28.0
+,,EUR,Medium,German ifo Business Climate,116.7,115.2,115.3
+,4:30am,GBP,High,Prelim GDP q/q,0.4%,0.3%,0.3%
+,,GBP,Low,High Street Lending,41.6K,41.8K,41.8K
+,,GBP,Low,Index of Services 3m/3m,0.4%,0.4%,0.5%
+,5:34am,EUR,Low,German 10-y Bond Auction,0.48|1.7,,0.44|1.6
+,8:30am,USD,High,Core Durable Goods Orders m/m,0.7%,0.5%,0.5%
+,,USD,Medium,Durable Goods Orders m/m,2.2%,1.0%,2.0%
+,9:00am,USD,Low,HPI m/m,0.7%,0.4%,0.4%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,Medium,Overnight Rate,1.00%,1.00%,1.00%
+,,USD,Medium,New Home Sales,667K,555K,561K
+,10:30am,USD,High,Crude Oil Inventories,0.9M,-2.6M,-5.7M
+,11:15am,CAD,High,BOC Press Conference,,,
+,5:45pm,NZD,Medium,Trade Balance,-1143M,-900M,-1179M
+,7:50pm,JPY,Low,SPPI y/y,0.9%,0.8%,0.8%
+,8:30pm,AUD,Low,Import Prices q/q,-1.6%,-1.5%,-0.1%
+Thu Oct 26 2017,2:00am,EUR,Low,German GfK Consumer Climate,10.7,10.8,10.8
+,3:00am,EUR,Medium,Spanish Unemployment Rate,16.4%,16.6%,17.2%
+,3:45am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.1%,5.0%,5.0%
+,,EUR,Low,Private Loans y/y,2.7%,2.8%,2.7%
+,6:00am,GBP,Low,CBI Realized Sales,-36,14,42
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,233K,235K,223K
+,,USD,Low,Goods Trade Balance,-64.1B,-63.8B,-63.3B
+,,USD,Low,Prelim Wholesale Inventories m/m,0.3%,0.4%,0.9%
+,10:00am,USD,Medium,Pending Home Sales m/m,0.0%,0.2%,-2.8%
+,10:30am,USD,Low,Natural Gas Storage,64B,61B,51B
+,7:30pm,JPY,Low,National Core CPI y/y,0.7%,0.7%,0.7%
+,,JPY,Low,Tokyo Core CPI y/y,0.6%,0.5%,0.5%
+,8:30pm,AUD,Low,PPI q/q,0.2%,0.4%,0.5%
+Fri Oct 27 2017,2:00am,EUR,Low,German Import Prices m/m,0.9%,0.5%,0.0%
+,8:30am,USD,High,Advance GDP q/q,3.0%,2.6%,3.1%
+,,USD,Medium,Advance GDP Price Index q/q,2.2%,1.7%,1.0%
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,100.7,100.8,101.1
+,,USD,Low,Revised UoM Inflation Expectations,2.4%,,2.3%
+Sat Oct 28 2017,10:00pm,CHF,Holiday,Daylight Saving Time Shift,,,
+,,EUR,Holiday,Daylight Saving Time Shift,,,
+,,GBP,Holiday,Daylight Saving Time Shift,,,

@@ -1,0 +1,78 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 22 2015,5:00pm,NZD,Low,Westpac Consumer Sentiment,117.4,,114.8
+Mon Mar 23 2015,7:00am,EUR,Low,German Buba Monthly Report,,,
+,,GBP,Medium,CBI Industrial Order Expectations,0,9,10
+,10:00am,EUR,High,ECB President Draghi Speaks,,,
+,,USD,Medium,Existing Home Sales,4.88M,4.91M,4.82M
+,11:00am,EUR,Low,Consumer Confidence,-4,-6,-7
+,12:20pm,USD,High,FOMC Member Fischer Speaks,,,
+,7:00pm,AUD,Low,CB Leading Index m/m,0.4%,,0.3%
+,9:15pm,USD,Medium,FOMC Member Williams Speaks,,,
+,9:35pm,JPY,Low,Flash Manufacturing PMI,50.4,52.1,51.6
+,9:45pm,CNY,High,Caixin Flash Manufacturing PMI,49.2,50.5,50.7
+,10:00pm,CNY,Low,CB Leading Index m/m,1.5%,,0.5%
+Tue Mar 24 2015,12:50am,AUD,Medium,RBA Assist Gov Edey Speaks,,,
+,4:00am,EUR,High,French Flash Manufacturing PMI,48.2,48.9,47.6
+,,EUR,Medium,French Flash Services PMI,52.8,53.1,53.4
+,4:30am,EUR,High,German Flash Manufacturing PMI,52.4,51.5,51.1
+,,EUR,Medium,German Flash Services PMI,55.3,55.0,54.7
+,5:00am,EUR,Medium,Flash Manufacturing PMI,51.9,51.6,51.0
+,,EUR,Medium,Flash Services PMI,54.3,53.9,53.7
+,5:30am,GBP,High,CPI y/y,0.0%,0.1%,0.3%
+,,GBP,Medium,PPI Input m/m,0.2%,1.6%,-3.6%
+,,GBP,Medium,RPI y/y,1.0%,0.9%,1.1%
+,,GBP,Low,Core CPI y/y,1.2%,1.3%,1.4%
+,,GBP,Low,ONS HPI y/y,8.4%,10.2%,9.8%
+,,GBP,Low,PPI Output m/m,0.2%,-0.1%,-0.4%
+,8:30am,USD,High,CPI m/m,0.2%,0.2%,-0.7%
+,,USD,High,Core CPI m/m,0.2%,0.1%,0.2%
+,9:00am,USD,Low,HPI m/m,0.3%,0.5%,0.7%
+,9:45am,USD,Medium,Flash Manufacturing PMI,55.3,54.9,55.1
+,9:59am,USD,Low,Richmond Manufacturing Index,-8,2,0
+,10:00am,EUR,Low,Belgian NBB Business Climate,-6.3,-7.5,-8.3
+,,USD,Medium,New Home Sales,539K,466K,500K
+,5:45pm,NZD,High,Trade Balance,50M,375M,33M
+,7:50pm,JPY,Low,SPPI y/y,3.3%,3.3%,3.5%
+,8:30pm,AUD,Medium,RBA Financial Stability Review,,,
+Wed Mar 25 2015,3:00am,CHF,Low,UBS Consumption Indicator,1.19,,1.11
+,5:00am,EUR,High,German ifo Business Climate,107.9,107.4,106.8
+,5:30am,GBP,Low,High Street Lending,37.3K,36.9K,36.5K
+,6:30am,USD,Medium,FOMC Member Evans Speaks,,,
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.4%,0.3%,0.0%
+,,USD,Medium,Durable Goods Orders m/m,-1.4%,0.3%,2.0%
+,10:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,10:30am,USD,Medium,Crude Oil Inventories,8.2M,5.0M,9.6M
+,3:45pm,CAD,Medium,Gov Council Member Lane Speaks,,,
+Thu Mar 26 2015,3:00am,EUR,Medium,German GfK Consumer Climate,10.0,9.8,9.7
+,5:00am,EUR,Medium,M3 Money Supply y/y,4.0%,4.3%,3.7%
+,,EUR,Medium,Private Loans y/y,-0.1%,0.1%,-0.2%
+,5:30am,GBP,High,Retail Sales m/m,0.7%,0.4%,0.1%
+,,GBP,Medium,FPC Statement,,,
+,7:00am,GBP,Medium,CBI Realized Sales,18,16,1
+,8:30am,USD,High,Unemployment Claims,282K,291K,291K
+,9:00am,USD,Medium,FOMC Member Lockhart Speaks,,,
+,9:30am,CAD,High,BOC Gov Poloz Speaks,,,
+,9:45am,USD,Low,Flash Services PMI,58.6,57.2,57.1
+,10:30am,USD,Low,Natural Gas Storage,12B,10B,-45B
+,1:00pm,CHF,High,Gov Board Member Zurbrugg Speaks,,,
+,1:30pm,GBP,Medium,BOE Gov Carney Speaks,,,
+,7:30pm,JPY,Medium,Household Spending y/y,-2.9%,-3.1%,-5.1%
+,,JPY,Medium,Tokyo Core CPI y/y,2.2%,2.2%,2.2%
+,,JPY,Low,National Core CPI y/y,2.0%,2.1%,2.2%
+,,JPY,Low,Unemployment Rate,3.5%,3.5%,3.6%
+,7:50pm,JPY,Medium,Retail Sales y/y,-1.8%,-1.4%,-2.0%
+Fri Mar 27 2015,3:00am,EUR,Low,German Import Prices m/m,1.4%,0.5%,-0.8%
+,,GBP,Medium,Nationwide HPI m/m,0.1%,0.2%,-0.1%
+,4:00am,GBP,Medium,MPC Member Haldane Speaks,,,
+,4:45am,GBP,Medium,BOE Gov Carney Speaks,,,
+,5:15am,GBP,Medium,MPC Member Broadbent Speaks,,,
+,6:00am,EUR,Low,Italian Retail Sales m/m,0.1%,0.1%,-0.1%
+,6:30am,USD,Medium,FOMC Member Fischer Speaks,,,
+,8:30am,USD,High,Final GDP q/q,2.2%,2.4%,2.2%
+,,USD,Low,Final GDP Price Index q/q,0.1%,0.1%,0.1%
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,93.0,92.5,91.2
+,,USD,Low,Revised UoM Inflation Expectations,3.0%,,3.0%
+,3:45pm,USD,High,Fed Chair Yellen Speaks,,,
+Sat Mar 28 2015,9:00pm,CHF,Holiday,Daylight Saving Time Shift,,,
+,,EUR,Holiday,Daylight Saving Time Shift,,,
+,,GBP,Holiday,Daylight Saving Time Shift,,,

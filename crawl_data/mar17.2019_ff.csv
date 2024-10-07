@@ -1,0 +1,91 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 17 2019,7:50pm,JPY,Low,Trade Balance,0.12T,0.09T,-0.29T
+,8:01pm,GBP,Low,Rightmove HPI m/m,0.4%,,0.7%
+Mon Mar 18 2019,12:30am,JPY,Low,Revised Industrial Production m/m,-3.4%,-3.7%,-3.7%
+,6:00am,EUR,Low,Trade Balance,17.0B,17.2B,16.0B
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,7:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Low,Foreign Securities Purchases,28.40B,15.03B,-20.49B
+,10:00am,USD,Low,NAHB Housing Market Index,62,63,62
+,4:00pm,NZD,Medium,Westpac Consumer Sentiment,103.8,,109.1
+,6:00pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,8:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,-2.4%,-1.9%,-1.5%
+Tue Mar 19 2019,3:00am,CHF,Low,Trade Balance,3.13B,2.88B,3.04B
+,5:10am,EUR,Low,Italian Trade Balance,0.32B,3.45B,2.76B
+,5:18am,GBP,High,Average Earnings Index 3m/y,3.4%,3.2%,3.5%
+,,GBP,Medium,Unemployment Rate,3.9%,4.0%,4.0%
+,,GBP,Low,Claimant Count Change,27.0K,13.1K,15.7K
+,6:00am,EUR,Medium,German ZEW Economic Sentiment,-3.6,-11.0,-13.4
+,,EUR,Low,ZEW Economic Sentiment,-2.5,-15.1,-16.6
+,10:00am,USD,Low,Factory Orders m/m,0.1%,0.3%,0.1%
+,10:17am,NZD,Low,GDT Price Index,1.9%,,3.3%
+,4:00pm,CAD,Low,Annual Budget Release,,,
+,5:45pm,NZD,Medium,Current Account,-3.26B,-3.55B,-6.18B
+,7:30pm,AUD,Low,MI Leading Index m/m,0.0%,,0.1%
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,8:00pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+Wed Mar 20 2019,3:00am,EUR,Low,German PPI m/m,-0.1%,0.2%,0.4%
+,5:30am,GBP,High,CPI y/y,1.9%,1.8%,1.8%
+,,GBP,Medium,PPI Input m/m,0.6%,0.6%,-0.3%
+,,GBP,Medium,RPI y/y,2.5%,2.5%,2.5%
+,,GBP,Low,Core CPI y/y,1.8%,1.9%,1.9%
+,,GBP,Low,HPI y/y,1.7%,2.3%,2.2%
+,,GBP,Low,PPI Output m/m,0.1%,0.1%,0.0%
+,7:00am,GBP,Low,CBI Industrial Order Expectations,1,3,6
+,10:30am,USD,Low,Crude Oil Inventories,-9.6M,0.5M,-3.9M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<2.50%,<2.50%,<2.50%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:15pm,GBP,High,Prime Minister May Speaks,,,
+,5:45pm,NZD,High,GDP q/q,0.6%,0.6%,0.3%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,8:30pm,AUD,High,Employment Change,4.6K,14.8K,38.3K
+,,AUD,High,Unemployment Rate,4.9%,5.0%,5.0%
+,,AUD,Low,RBA Bulletin,,,
+,10:00pm,NZD,Low,Credit Card Spending y/y,6.4%,,6.9%
+Thu Mar 21 2019,4:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,Libor Rate,-0.75%,-0.75%,-0.75%
+,5:00am,EUR,Low,ECB Economic Bulletin,,,
+,5:30am,GBP,High,Retail Sales m/m,0.4%,-0.4%,0.9%
+,,GBP,Medium,Public Sector Net Borrowing,-0.7B,-0.3B,-14.1B
+,5:52am,EUR,Low,Spanish 10-y Bond Auction,1.10|1.5,,1.22|1.1
+,All Day,EUR,High,EU Economic Summit,,,
+,8:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.75%,0.75%,0.75%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Low,Wholesale Sales m/m,0.6%,0.5%,0.3%
+,,USD,Medium,Philly Fed Manufacturing Index,13.7,4.6,-4.1
+,,USD,Low,Unemployment Claims,221K,226K,230K
+,8:32am,CAD,Low,ADP Non-Farm Employment Change,36.2K,,32.9K
+,10:00am,USD,Low,CB Leading Index m/m,0.2%,0.1%,0.0%
+,10:30am,USD,Low,Natural Gas Storage,-47B,-49B,-204B
+,10:54am,EUR,Low,Consumer Confidence,-7,-7,-7
+,6:00pm,AUD,Low,Flash Manufacturing PMI,52.0,,52.9
+,,AUD,Low,Flash Services PMI,49.8,,48.7
+,7:30pm,JPY,Low,National Core CPI y/y,0.7%,0.8%,0.8%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,48.9,49.2,48.9
+Fri Mar 22 2019,4:15am,EUR,High,French Flash Services PMI,48.7,50.6,50.2
+,,EUR,Medium,French Flash Manufacturing PMI,49.8,51.4,51.5
+,4:30am,EUR,High,German Flash Manufacturing PMI,44.7,48.0,47.6
+,,EUR,High,German Flash Services PMI,54.9,54.8,55.3
+,5:00am,EUR,Medium,Flash Manufacturing PMI,47.6,49.5,49.3
+,,EUR,Medium,Flash Services PMI,52.7,52.7,52.8
+,,EUR,Low,Current Account,36.8B,17.3B,16.2B
+,8:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,CPI m/m,0.7%,0.6%,0.1%
+,,CAD,High,Core Retail Sales m/m,0.1%,0.2%,-0.8%
+,,CAD,Medium,Common CPI y/y,1.8%,1.8%,1.9%
+,,CAD,Medium,Median CPI y/y,1.8%,1.7%,1.8%
+,,CAD,Medium,Retail Sales m/m,-0.3%,0.4%,-0.3%
+,,CAD,Medium,Trimmed CPI y/y,1.9%,1.8%,1.9%
+,8:32am,CAD,Low,Core CPI m/m,0.7%,,0.3%
+,9:45am,USD,Low,Flash Manufacturing PMI,52.5,53.5,53.0
+,,USD,Low,Flash Services PMI,54.8,55.7,56.0
+,10:00am,USD,Low,Existing Home Sales,5.51M,5.10M,4.93M
+,,USD,Low,Final Wholesale Inventories m/m,1.2%,0.2%,1.1%
+,2:00pm,USD,Low,Federal Budget Balance,-234.0B,-228.0B,8.7B
+Sat Mar 23 2019,,,No specified,,,,

@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 10 2017,7:50pm,JPY,Low,Core Machinery Orders m/m,8.0%,4.2%,-1.9%
+,,JPY,Low,M2 Money Stock y/y,4.0%,4.1%,4.0%
+Mon Sep 11 2017,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.1%,0.1%,-0.2%
+,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,36.3%,,28.0%
+,4:00am,EUR,Low,Italian Industrial Production m/m,0.1%,-0.5%,1.1%
+,8:13am,CAD,Low,Housing Starts,223K,216K,222K
+,9:30pm,AUD,Medium,NAB Business Confidence,5,,12
+Tue Sep 12 2017,1:30am,EUR,Low,French Final Private Payrolls q/q,0.4%,0.5%,0.5%
+,4:00am,EUR,Low,Italian Quarterly Unemployment Rate,11.2%,11.3%,11.6%
+,4:30am,GBP,High,CPI y/y,2.9%,2.8%,2.6%
+,,GBP,Medium,PPI Input m/m,1.6%,1.2%,-0.2%
+,,GBP,Medium,RPI y/y,3.9%,3.7%,3.6%
+,,GBP,Low,Core CPI y/y,2.7%,2.5%,2.4%
+,,GBP,Low,HPI y/y,5.1%,4.8%,5.1%
+,,GBP,Low,PPI Output m/m,0.4%,0.1%,0.1%
+,6:00am,USD,Low,NFIB Small Business Index,105.3,104.8,105.2
+,10:00am,USD,Medium,JOLTS Job Openings,6.17M,5.96M,6.12M
+,1:01pm,USD,Low,10-y Bond Auction,2.18|2.3,,2.25|2.2
+,6:45pm,NZD,Low,FPI m/m,0.6%,,-0.2%
+,7:50pm,JPY,Low,BSI Manufacturing Index,9.4,4.8,-2.9
+,,JPY,Low,PPI y/y,2.9%,3.0%,2.6%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,2.5%,,-1.2%
+Wed Sep 13 2017,2:00am,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
+,,EUR,Low,German WPI m/m,0.3%,0.1%,-0.1%
+,3:00am,EUR,Low,Final Employment Change q/q,0.4%,0.3%,0.5%
+,3:15am,CHF,Medium,PPI m/m,0.3%,0.2%,0.0%
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.1%,2.3%,2.1%
+,,GBP,Medium,Claimant Count Change,-2.8K,0.8K,-2.9K
+,,GBP,Medium,Unemployment Rate,4.3%,4.4%,4.4%
+,5:00am,EUR,Low,Industrial Production m/m,0.1%,0.1%,-0.6%
+,5:35am,EUR,Low,German 10-y Bond Auction,0.39|1.6,,0.41|1.3
+,5:38am,GBP,Low,10-y Bond Auction,1.16|2.2,,1.27|2.6
+,8:30am,USD,High,PPI m/m,0.2%,0.3%,-0.1%
+,,USD,Medium,Core PPI m/m,0.1%,0.2%,-0.1%
+,10:30am,USD,High,Crude Oil Inventories,5.9M,4.1M,4.6M
+,1:01pm,USD,Low,30-y Bond Auction,2.79|2.2,,2.82|2.3
+,1:59pm,USD,Low,Federal Budget Balance,-107.7B,-118.6B,-42.9B
+,7:00pm,GBP,Low,RICS House Price Balance,6%,0%,1%
+,7:15pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,9:00pm,AUD,Low,MI Inflation Expectations,3.8%,,4.2%
+,9:30pm,AUD,High,Employment Change,54.2K,17.5K,29.3K
+,,AUD,High,Unemployment Rate,5.6%,5.6%,5.6%
+,10:00pm,CNY,High,Industrial Production y/y,6.0%,6.6%,6.4%
+,,CNY,Medium,Fixed Asset Investment ytd/y,7.8%,8.2%,8.3%
+,,CNY,Low,Retail Sales y/y,10.1%,10.5%,10.4%
+,Jul Data,CNY,Low,Foreign Direct Investment ytd/y,-1.2%,,-0.1%
+,10:13pm,CNY,Low,Foreign Direct Investment ytd/y,-0.2%,,-1.2%
+Thu Sep 14 2017,12:32am,JPY,Low,Revised Industrial Production m/m,-0.8%,-0.8%,-0.8%
+,2:45am,EUR,Low,French Final CPI m/m,0.5%,0.5%,0.5%
+,3:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,7:00am,GBP,High,MPC Official Bank Rate Votes,2-0-7,2-0-7,2-0-6
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.25%,0.25%,0.25%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-8
+,8:30am,CAD,Medium,NHPI m/m,0.4%,0.3%,0.2%
+,,USD,High,CPI m/m,0.4%,0.3%,0.1%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.1%
+,,USD,High,Unemployment Claims,284K,303K,298K
+,10:30am,USD,Low,Natural Gas Storage,91B,80B,65B
+,11:30am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,57.9,,55.5
+Fri Sep 15 2017,4:00am,CNY,Low,M2 Money Supply y/y,8.9%,9.1%,9.2%
+,,CNY,Low,New Loans,1090B,933B,826B
+,4:50am,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,5:00am,EUR,Low,Trade Balance,18.6B,20.1B,21.7B
+,Day 1,EUR,Medium,ECOFIN Meetings,,,
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.5%,0.4%
+,,USD,High,Retail Sales m/m,-0.2%,0.1%,0.3%
+,,USD,Medium,Empire State Manufacturing Index,24.4,18.2,25.2
+,9:15am,USD,Medium,Capacity Utilization Rate,76.1%,76.8%,76.9%
+,,USD,Medium,Industrial Production m/m,-0.9%,0.1%,0.4%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.1%,,-0.2%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,95.3,95.1,96.8
+,,USD,Low,Business Inventories m/m,0.2%,0.2%,0.5%
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.6%
+Sat Sep 16 2017,Day 2,EUR,Medium,ECOFIN Meetings,,,

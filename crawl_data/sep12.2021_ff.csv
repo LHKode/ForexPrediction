@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 12 2021,6:45pm,NZD,Low,FPI m/m,0.3%,,1.3%
+,7:50pm,JPY,Low,BSI Manufacturing Index,7.0,-0.9,-1.4
+,,JPY,Low,PPI y/y,5.5%,5.7%,5.6%
+Mon Sep 13 2021,2:00am,EUR,Low,German WPI m/m,0.5%,0.8%,1.1%
+,4:00am,EUR,Low,Italian Quarterly Unemployment Rate,9.8%,10.1%,10.1%
+,1:47pm,USD,Low,Federal Budget Balance,-170.6B,-260.5B,-302.1B
+,8:00pm,AUD,Low,RBA Assist Gov Ellis Speaks,,,
+,9:30pm,AUD,Low,HPI q/q,6.7%,6.2%,5.4%
+,,AUD,Low,NAB Business Confidence,-5,,-7
+,10:45pm,AUD,High,RBA Gov Lowe Speaks,,,
+Tue Sep 14 2021,12:30am,JPY,Low,Revised Industrial Production m/m,-1.5%,-1.5%,-1.5%
+,2:00am,GBP,Low,Average Earnings Index 3m/y,8.3%,8.2%,8.8%
+,,GBP,Low,Claimant Count Change,-58.6K,-71.7K,-48.9K
+,,GBP,Low,Unemployment Rate,4.6%,4.6%,4.7%
+,2:30am,CHF,Low,PPI m/m,0.7%,0.2%,0.5%
+,3:35am,EUR,Low,German Buba President Weidmann Speaks,,,
+,6:00am,USD,Low,NFIB Small Business Index,100.1,99.0,99.7
+,8:30am,CAD,Low,Manufacturing Sales m/m,-1.5%,-1.0%,2.1%
+,,USD,High,CPI m/m,0.3%,0.4%,0.5%
+,,USD,High,Core CPI m/m,0.1%,0.3%,0.3%
+,6:45pm,NZD,Low,Current Account,-1.40B,-1.74B,-3.19B
+,7:50pm,JPY,Low,Core Machinery Orders m/m,0.9%,2.4%,-1.5%
+,8:20pm,AUD,Low,Westpac Consumer Sentiment,2.0%,,-4.4%
+,10:00pm,CNY,Medium,Retail Sales y/y,2.5%,6.9%,8.5%
+,,CNY,Low,Fixed Asset Investment ytd/y,8.9%,9.1%,10.3%
+,,CNY,Low,Industrial Production y/y,5.3%,5.8%,6.4%
+,,CNY,Low,Unemployment Rate,5.1%,5.1%,5.1%
+Wed Sep 15 2021,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.6%,0.2%,2.2%
+,2:00am,GBP,High,CPI y/y,3.2%,2.9%,2.0%
+,,GBP,Low,Core CPI y/y,3.1%,2.9%,1.8%
+,,GBP,Low,RPI y/y,4.8%,4.6%,3.8%
+,2:02am,GBP,Low,PPI Input m/m,0.4%,0.2%,1.3%
+,,GBP,Low,PPI Output m/m,0.7%,0.4%,0.8%
+,2:45am,EUR,Low,French Final CPI m/m,0.6%,0.6%,0.6%
+,4:30am,GBP,Low,HPI y/y,8.0%,12.4%,13.1%
+,5:00am,EUR,Low,Industrial Production m/m,1.5%,0.6%,-0.1%
+,5:02am,GBP,Low,10-y Bond Auction,0.74|2.5,,0.66|2.7
+,8:30am,CAD,High,CPI m/m,0.2%,0.1%,0.6%
+,,CAD,Medium,Common CPI y/y,1.8%,1.7%,1.7%
+,,CAD,Medium,Median CPI y/y,2.6%,2.6%,2.5%
+,,CAD,Medium,Trimmed CPI y/y,3.3%,3.1%,3.1%
+,,USD,Medium,Empire State Manufacturing Index,34.3,18.1,18.3
+,,USD,Low,Import Prices m/m,-0.3%,0.3%,0.4%
+,8:32am,CAD,Low,Core CPI m/m,0.2%,,0.6%
+,9:15am,USD,Medium,Industrial Production m/m,0.4%,0.5%,0.8%
+,,USD,Low,Capacity Utilization Rate,76.4%,76.3%,76.2%
+,9:30am,GBP,Low,CB Leading Index m/m,0.1%,,0.5%
+,10:30am,USD,Medium,Crude Oil Inventories,-6.4M,-3.6M,-1.5M
+,6:45pm,NZD,High,GDP q/q,2.8%,1.1%,1.4%
+,7:50pm,JPY,Low,Trade Balance,-0.27T,0.10T,-0.01T
+,9:00pm,AUD,Low,MI Inflation Expectations,4.4%,,3.3%
+,9:30pm,AUD,High,Employment Change,-146.3K,-78.5K,3.1K
+,,AUD,High,Unemployment Rate,4.5%,5.0%,4.6%
+,,AUD,Low,RBA Bulletin,,,
+Thu Sep 16 2021,3:00am,CHF,Low,SECO Economic Forecasts,,,
+,3:02am,CNY,Low,Foreign Direct Investment ytd/y,22.3%,,25.5%
+,4:03am,EUR,Low,Italian Trade Balance,8.76B,6.22B,5.67B
+,4:49am,EUR,Low,Spanish 10-y Bond Auction,0.33|1.4,,0.31|1.7
+,5:00am,EUR,Low,Trade Balance,13.4B,16.8B,11.9B
+,8:00am,EUR,Medium,ECB President Lagarde Speaks,,,
+,8:13am,CAD,Low,Housing Starts,260K,270K,272K
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,39.4K,,-21.6K
+,,CAD,Low,Foreign Securities Purchases,14.19B,12.00B,19.63B
+,,CAD,Low,Wholesale Sales m/m,-2.1%,-2.0%,-0.8%
+,,USD,High,Core Retail Sales m/m,1.8%,-0.1%,-1.0%
+,,USD,High,Retail Sales m/m,0.7%,-0.7%,-1.8%
+,,USD,Medium,Philly Fed Manufacturing Index,30.7,18.9,19.4
+,,USD,Medium,Unemployment Claims,332K,325K,312K
+,10:00am,USD,Low,Business Inventories m/m,0.5%,0.5%,0.9%
+,10:30am,USD,Low,Natural Gas Storage,83B,76B,52B
+,4:00pm,USD,Low,TIC Long-Term Purchases,2.0B,60.5B,110.9B
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,40.1,,62.2
+Fri Sep 17 2021,2:00am,GBP,Medium,Retail Sales m/m,-0.9%,0.5%,-2.8%
+,4:00am,EUR,Low,Current Account,21.6B,22.3B,21.8B
+,4:30am,GBP,Low,Consumer Inflation Expectations,2.7%,,2.4%
+,5:00am,EUR,Low,Final CPI y/y,3.0%,3.0%,2.2%
+,,EUR,Low,Final Core CPI y/y,1.6%,1.6%,1.6%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,71.0,71.9,70.3
+,,USD,Low,Prelim UoM Inflation Expectations,4.7%,,4.6%
+Sat Sep 18 2021,,,No specified,,,,

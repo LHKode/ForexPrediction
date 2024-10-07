@@ -1,0 +1,67 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 23 2015,,,No specified,,,,
+Mon Aug 24 2015,3:55pm,USD,Medium,FOMC Member Lockhart Speaks,,,
+,8:00pm,AUD,Low,CB Leading Index m/m,-0.2%,,0.2%
+,10:00pm,CNY,Low,CB Leading Index m/m,0.9%,,0.6%
+,11:00pm,NZD,High,Inflation Expectations q/q,1.94%,,1.85%
+Tue Aug 25 2015,2:00am,EUR,Low,German Final GDP q/q,0.4%,0.4%,0.4%
+,3:15am,CHF,Medium,Employment Level,4.24M,4.24M,4.23M
+,4:00am,EUR,High,German ifo Business Climate,108.3,107.6,108.0
+,8:58am,EUR,Low,Belgian NBB Business Climate,-5.1,-3.2,-4.1
+,9:00am,USD,Low,HPI m/m,0.2%,0.4%,0.5%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,5.1%,5.0%
+,9:45am,USD,Low,Flash Services PMI,55.2,54.1,55.7
+,9:59am,USD,Low,Richmond Manufacturing Index,0,9,13
+,10:00am,USD,High,CB Consumer Confidence,101.5,92.8,91.0
+,,USD,Medium,New Home Sales,507K,512K,481K
+,12:40pm,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,6:45pm,NZD,High,Trade Balance,-649M,-665M,-194M
+,7:50pm,JPY,Low,SPPI y/y,0.6%,0.4%,0.4%
+,8:05pm,AUD,High,RBA Gov Stevens Speaks,,,
+,9:30pm,AUD,Medium,Construction Work Done q/q,1.6%,-1.5%,-0.8%
+Wed Aug 26 2015,2:00am,CHF,Low,UBS Consumption Indicator,1.64,,1.61
+,4:30am,GBP,Low,High Street Lending,46.0K,46.0K,44.8K
+,6:00am,GBP,Low,CBI Realized Sales,24,19,21
+,8:30am,USD,High,Core Durable Goods Orders m/m,0.6%,0.3%,0.6%
+,,USD,Medium,Durable Goods Orders m/m,2.0%,-0.4%,4.1%
+,10:00am,USD,High,FOMC Member Dudley Speaks,,,
+,10:30am,USD,Medium,Crude Oil Inventories,-5.5M,1.0M,2.6M
+,9:30pm,AUD,High,Private Capital Expenditure q/q,-4.0%,-2.5%,-4.7%
+Thu Aug 27 2015,2:00am,EUR,Low,German Import Prices m/m,-0.7%,-0.3%,-0.5%
+,,GBP,Low,Nationwide HPI m/m,0.3%,0.4%,0.4%
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.3%,4.9%,4.9%
+,4:15am,EUR,Low,Private Loans y/y,0.9%,0.7%,0.2%
+,8:30am,CAD,Low,Corporate Profits q/q,12.9%,,-6.0%
+,,USD,High,Prelim GDP q/q,3.7%,3.2%,2.3%
+,,USD,High,Unemployment Claims,271K,275K,277K
+,,USD,Low,Prelim GDP Price Index q/q,2.1%,2.0%,2.0%
+,10:00am,USD,Medium,Pending Home Sales m/m,0.5%,1.3%,-1.7%
+,10:30am,USD,Low,Natural Gas Storage,69B,59B,53B
+,Day 1,All,High,Jackson Hole Symposium,,,
+,6:07pm,GBP,Low,GfK Consumer Confidence,7,4,4
+,7:30pm,JPY,Medium,Household Spending y/y,-0.2%,0.9%,-2.0%
+,,JPY,Medium,Tokyo Core CPI y/y,-0.1%,-0.1%,-0.1%
+,,JPY,Low,National Core CPI y/y,0.0%,-0.2%,0.1%
+,,JPY,Low,Unemployment Rate,3.3%,3.4%,3.4%
+,7:50pm,JPY,Medium,Retail Sales y/y,1.6%,1.1%,1.0%
+Fri Aug 28 2015,1:45am,CHF,Medium,GDP q/q,0.2%,-0.1%,-0.2%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.0%,-0.1%,0.2%
+,3:00am,EUR,Medium,Spanish Flash CPI y/y,-0.4%,-0.1%,0.1%
+,4:30am,GBP,High,Second Estimate GDP q/q,0.7%,0.7%,0.7%
+,,GBP,Medium,Prelim Business Investment q/q,2.9%,1.6%,2.0%
+,,GBP,Low,Index of Services 3m/3m,0.7%,0.7%,0.4%
+,5:21am,EUR,Low,Italian 10-y Bond Auction,1.95|1.4,,1.83|1.4
+,8:30am,CAD,Medium,RMPI m/m,-5.9%,-4.0%,0.2%
+,,CAD,Low,IPPI m/m,0.7%,0.1%,0.6%
+,,USD,High,Goods Trade Balance,-59.1B,,-62.3B
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%
+,,USD,Medium,Personal Spending m/m,0.3%,0.4%,0.3%
+,,USD,Low,Personal Income m/m,0.4%,0.4%,0.4%
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,91.9,93.2,92.9
+,,USD,Low,Revised UoM Inflation Expectations,2.8%,,2.8%
+,Day 2,All,High,Jackson Hole Symposium,,,
+,12:25pm,CHF,High,SNB Chairman Jordan Speaks,,,
+,2:15pm,USD,Medium,FOMC Member Lockhart Speaks,,,
+Sat Aug 29 2015,Day 3,All,High,Jackson Hole Symposium,,,
+,12:25pm,GBP,High,BOE Gov Carney Speaks,,,
+,,USD,High,FOMC Member Fischer Speaks,,,

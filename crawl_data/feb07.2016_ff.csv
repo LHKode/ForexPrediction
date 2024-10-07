@@ -1,0 +1,76 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 7 2016,All Day,NZD,Holiday,Bank Holiday,,,
+,6:50pm,JPY,Medium,Current Account,1.64T,1.59T,1.42T
+,,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Bank Lending y/y,2.3%,,2.2%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:00pm,JPY,Low,Average Cash Earnings y/y,0.1%,0.7%,0.0%
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,1.0%,,-0.1%
+Mon Feb 8 2016,12:00am,JPY,Low,Economy Watchers Sentiment,46.6,48.5,48.7
+,4:30am,EUR,Low,Sentix Investor Confidence,6.0,7.2,9.6
+,8:30am,CAD,Medium,Building Permits m/m,11.3%,5.6%,-19.9%
+,10:00am,USD,Low,Labor Market Conditions Index m/m,0.4,,2.3
+,12:05pm,CAD,Medium,Gov Council Member Lane Speaks,,,
+,6:50pm,JPY,Low,M2 Money Stock y/y,3.2%,3.1%,3.1%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,2.6%,,0.1%
+,7:30pm,AUD,Medium,NAB Business Confidence,2,,2
+,10:45pm,JPY,Medium,30-y Bond Auction,1.07|3.0,,1.22|3.7
+Tue Feb 9 2016,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,-17.2%,,-25.7%
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.5%,3.4%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.2%,0.2%,-0.1%
+,,EUR,Low,German Trade Balance,19.4B,19.4B,19.7B
+,2:45am,EUR,Low,French Gov Budget Balance,-70.5B,,-82.8B
+,4:30am,GBP,Medium,Goods Trade Balance,-9.9B,-10.4B,-11.5B
+,,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,6:00am,USD,Low,NFIB Small Business Index,93.9,94.6,95.2
+,10:00am,USD,Medium,JOLTS Job Openings,5.61M,5.41M,5.35M
+,,USD,Low,Final Wholesale Inventories m/m,-0.1%,-0.1%,-0.4%
+,6:18pm,AUD,Medium,Westpac Consumer Sentiment,4.2%,,-3.5%
+,6:50pm,JPY,Low,PPI y/y,-3.1%,-2.8%,-3.5%
+,7:00pm,AUD,Low,HIA New Home Sales m/m,6.0%,,-2.7%
+,All Day,CNY,Holiday,Bank Holiday,,,
+Wed Feb 10 2016,2:45am,EUR,Low,French Industrial Production m/m,-1.6%,0.2%,-0.9%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.7%,0.3%,-0.5%
+,4:30am,GBP,High,Manufacturing Production m/m,-0.2%,0.0%,-0.3%
+,,GBP,Low,Industrial Production m/m,-1.1%,-0.1%,-0.8%
+,10:00am,GBP,Low,NIESR GDP Estimate,0.4%,,0.5%
+,,USD,High,Fed Chair Yellen Testifies,,,
+,10:30am,USD,High,Crude Oil Inventories,-0.8M,3.1M,7.8M
+,1:01pm,USD,Low,10-y Bond Auction,1.73|2.6,,2.09|2.8
+,2:00pm,USD,Low,Federal Budget Balance,55.2B,10.3B,-14.4B
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,57.9,,57.0
+,7:00pm,AUD,Low,MI Inflation Expectations,3.6%,,3.6%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,RICS House Price Balance,49%,52%,49%
+Thu Feb 11 2016,3:15am,CHF,Low,CPI m/m,-0.4%,-0.3%,-0.4%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,5:34am,GBP,Low,30-y Bond Auction,2.21|2.1,,2.49|1.4
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.3%,0.2%
+,,USD,High,Unemployment Claims,269K,287K,285K
+,10:00am,USD,High,Fed Chair Yellen Testifies,,,
+,,USD,Low,Fed Monetary Policy Report,,,
+,10:30am,USD,Low,Natural Gas Storage,-70B,-82B,-152B
+,1:01pm,USD,Low,30-y Bond Auction,2.50|2.1,,2.91|2.3
+,4:45pm,NZD,Low,FPI m/m,2.0%,,-0.8%
+,5:30pm,AUD,High,RBA Gov Stevens Speaks,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,Home Loans m/m,2.6%,2.9%,1.9%
+Fri Feb 12 2016,2:00am,EUR,High,German Prelim GDP q/q,0.3%,0.3%,0.3%
+,,EUR,Low,German Final CPI m/m,-0.8%,-0.8%,-0.8%
+,,EUR,Low,German WPI m/m,-0.4%,0.2%,-0.8%
+,2:45am,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.1%,0.0%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.1%,0.3%,0.2%
+,4:30am,GBP,Low,Construction Output m/m,1.5%,2.1%,-1.1%
+,5:00am,EUR,Medium,Flash GDP q/q,0.3%,0.3%,0.3%
+,,EUR,Low,Industrial Production m/m,-1.0%,0.3%,-0.5%
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:30am,USD,High,Core Retail Sales m/m,0.1%,0.0%,0.1%
+,,USD,High,Retail Sales m/m,0.2%,0.1%,0.2%
+,,USD,Medium,Import Prices m/m,-1.1%,-1.4%,-1.1%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,90.7,92.6,92.0
+,,USD,Medium,FOMC Member Dudley Speaks,,,
+,,USD,Low,Business Inventories m/m,0.1%,0.1%,-0.1%
+,,USD,Low,Prelim UoM Inflation Expectations,2.5%,,2.5%
+Sat Feb 13 2016,,,No specified,,,,

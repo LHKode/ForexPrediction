@@ -1,0 +1,110 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 16 2021,6:48pm,NZD,Low,Visitor Arrivals m/m,-12.4%,,-2.8%
+,7:01pm,GBP,Low,Rightmove HPI m/m,1.8%,,2.1%
+,7:50pm,JPY,Low,PPI y/y,3.6%,3.1%,1.2%
+,10:00pm,CNY,Low,Fixed Asset Investment ytd/y,19.9%,19.9%,25.6%
+,,CNY,Low,Industrial Production y/y,9.8%,10.0%,14.1%
+,,CNY,Low,Retail Sales y/y,17.7%,25.0%,34.2%
+,,CNY,Low,Unemployment Rate,5.1%,5.2%,5.3%
+Mon May 17 2021,2:00am,JPY,Low,Prelim Machine Tool Orders y/y,120.8%,,65.1%
+,2:30am,CHF,Low,PPI m/m,0.7%,0.2%,0.6%
+,8:13am,CAD,Low,Housing Starts,269K,305K,335K
+,8:30am,CAD,Low,Foreign Securities Purchases,3.25B,3.25B,8.56B
+,,USD,Low,Empire State Manufacturing Index,24.3,23.9,26.3
+,10:00am,USD,Low,NAHB Housing Market Index,83,83,83
+,10:05am,USD,Low,FOMC Member Clarida Speaks,,,
+,10:15am,GBP,Low,MPC Member Tenreyro Speaks,,,
+,10:25am,USD,Low,FOMC Member Bostic Speaks,,,
+,,USD,Low,FOMC Member Clarida Speaks,,,
+,11:30am,GBP,Low,MPC Member Vlieghe Speaks,,,
+,12:30pm,GBP,Low,MPC Member Haldane Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,262.2B,67.0B,4.3B
+,7:50pm,JPY,Low,Prelim GDP Price Index y/y,-0.2%,-0.1%,0.3%
+,,JPY,Low,Prelim GDP q/q,-1.3%,-1.1%,2.8%
+,9:30pm,AUD,Medium,Monetary Policy Meeting Minutes,,,
+Tue May 18 2021,12:30am,JPY,Low,Tertiary Industry Activity m/m,1.1%,0.8%,-0.3%
+,2:00am,GBP,Low,Average Earnings Index 3m/y,4.0%,4.5%,4.5%
+,,GBP,Low,Claimant Count Change,-15.1K,25.6K,-19.4K
+,,GBP,Low,Unemployment Rate,4.8%,4.9%,4.9%
+,4:00am,EUR,Low,Italian Trade Balance,5.19B,4.40B,4.75B
+,5:00am,EUR,Low,Flash Employment Change q/q,-0.3%,0.1%,0.4%
+,,EUR,Low,Flash GDP q/q,-0.6%,-0.6%,-0.6%
+,,EUR,Low,Trade Balance,13.0B,20.3B,23.1B
+,8:30am,USD,Low,Building Permits,1.76M,1.77M,1.76M
+,,USD,Low,Housing Starts,1.57M,1.71M,1.73M
+,10:00am,GBP,High,BOE Gov Bailey Speaks,,,
+,10:27am,NZD,Low,GDT Price Index,-0.2%,,-0.7%
+,10:30am,AUD,Low,CB Leading Index m/m,1.0%,,0.5%
+,11:00am,CHF,Medium,SNB Chairman Jordan Speaks,,,
+,12:30pm,USD,Low,FOMC Member Bostic Speaks,,,
+,6:45pm,NZD,Low,PPI Input q/q,2.1%,0.1%,0.1%
+,,NZD,Low,PPI Output q/q,1.2%,0.2%,0.5%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-4.8%,,6.2%
+,9:30pm,AUD,Low,Wage Price Index q/q,0.6%,0.5%,0.6%
+Wed May 19 2021,12:30am,JPY,Low,Revised Industrial Production m/m,1.7%,2.2%,2.2%
+,2:00am,GBP,Medium,CPI y/y,1.5%,1.5%,0.7%
+,,GBP,Low,Core CPI y/y,1.3%,1.3%,1.1%
+,,GBP,Low,PPI Input m/m,1.2%,1.0%,1.9%
+,,GBP,Low,PPI Output m/m,0.4%,0.4%,0.8%
+,,GBP,Low,RPI y/y,2.9%,2.4%,1.5%
+,4:00am,EUR,Medium,ECB Financial Stability Review,,,
+,4:30am,GBP,Low,HPI y/y,10.2%,7.6%,9.2%
+,5:00am,EUR,Low,Final CPI y/y,1.6%,1.6%,1.6%
+,,EUR,Low,Final Core CPI y/y,0.7%,0.8%,0.8%
+,5:35am,EUR,Low,German 10-y Bond Auction,-0.09|1.3,,-0.25|1.7
+,8:30am,CAD,Medium,CPI m/m,0.5%,0.2%,0.5%
+,,CAD,Low,Common CPI y/y,1.7%,1.7%,1.5%
+,,CAD,Low,Median CPI y/y,2.3%,2.1%,2.1%
+,,CAD,Low,Trimmed CPI y/y,2.3%,2.2%,2.1%
+,8:32am,CAD,Low,Core CPI m/m,0.5%,,0.3%
+,10:30am,USD,Medium,Crude Oil Inventories,1.3M,1.5M,-0.4M
+,11:35am,USD,Low,FOMC Member Bostic Speaks,,,
+,2:00pm,USD,Medium,FOMC Meeting Minutes,,,
+,7:50pm,JPY,Low,Core Machinery Orders m/m,3.7%,5.1%,-8.5%
+,,JPY,Low,Trade Balance,0.07T,0.07T,0.37T
+,9:00pm,AUD,Low,MI Inflation Expectations,3.5%,,3.2%
+,9:30pm,AUD,High,Employment Change,-30.6K,17.5K,77.0K
+,,AUD,High,Unemployment Rate,5.5%,5.6%,5.7%
+,10:00pm,NZD,Medium,Annual Budget Release,,,
+Thu May 20 2021,2:00am,EUR,Low,German PPI m/m,0.8%,0.8%,0.9%
+,4:00am,EUR,Low,Current Account,17.8B,24.3B,25.9B
+,4:45am,EUR,Low,Spanish 10-y Bond Auction,0.60|1.8,,0.43|1.6
+,5:05am,GBP,Low,MPC Member Cunliffe Speaks,,,
+,6:00am,GBP,Low,CBI Industrial Order Expectations,17,0,-8
+,8:00am,EUR,Low,ECB President Lagarde Speaks,,,
+,8:30am,CAD,Low,NHPI m/m,1.9%,1.2%,1.1%
+,,USD,Medium,Philly Fed Manufacturing Index,31.5,40.8,50.2
+,,USD,Medium,Unemployment Claims,444K,453K,478K
+,8:32am,CAD,Low,ADP Non-Farm Employment Change,351.3K,,266.7K
+,10:00am,CAD,Low,BOC Financial System Review,,,
+,,USD,Low,CB Leading Index m/m,1.6%,1.3%,1.3%
+,10:30am,USD,Low,Natural Gas Storage,71B,60B,71B
+,11:00am,CAD,High,BOC Gov Macklem Speaks,,,
+,7:00pm,AUD,Low,Flash Manufacturing PMI,59.9,,59.7
+,,AUD,Low,Flash Services PMI,58.2,,58.8
+,7:01pm,GBP,Low,GfK Consumer Confidence,-9,-12,-15
+,7:30pm,JPY,Low,National Core CPI y/y,-0.1%,-0.2%,-0.1%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,52.5,53.0,53.6
+,9:30pm,AUD,Medium,Retail Sales m/m,1.1%,0.5%,1.3%
+,11:00pm,NZD,Low,Credit Card Spending y/y,87.4%,,0.5%
+Fri May 21 2021,2:00am,GBP,Medium,Retail Sales m/m,9.2%,4.5%,5.1%
+,3:15am,EUR,Medium,French Flash Manufacturing PMI,59.2,58.6,58.9
+,,EUR,Medium,French Flash Services PMI,56.6,53.0,50.3
+,3:30am,EUR,High,German Flash Manufacturing PMI,64.0,66.0,66.2
+,,EUR,High,German Flash Services PMI,52.8,52.0,49.9
+,4:00am,EUR,Medium,Flash Manufacturing PMI,62.8,62.5,62.9
+,,EUR,Medium,Flash Services PMI,55.1,52.5,50.5
+,4:30am,GBP,Medium,Flash Manufacturing PMI,66.1,60.7,60.9
+,,GBP,Medium,Flash Services PMI,61.8,62.2,61.0
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,7:00am,EUR,Medium,ECB President Lagarde Speaks,,,
+,8:30am,CAD,Medium,Core Retail Sales m/m,4.3%,2.3%,5.6%
+,,CAD,Medium,Retail Sales m/m,3.6%,2.3%,5.8%
+,9:32am,EUR,Low,Consumer Confidence,-5,-7,-8
+,9:45am,CHF,Low,Gov Board Member Maechler Speaks,,,
+,,USD,Medium,Flash Manufacturing PMI,61.5,60.0,60.5
+,,USD,Low,Flash Services PMI,70.1,64.3,64.7
+,10:00am,USD,Low,Existing Home Sales,5.85M,6.09M,6.01M
+,1:30pm,USD,Low,FOMC Member Daly Speaks,,,
+Sat May 22 2021,All Day,EUR,Low,ECOFIN Meetings,,,

@@ -1,0 +1,99 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 25 2020,All Day,NZD,Holiday,Bank Holiday,,,
+,7:50pm,JPY,Low,SPPI y/y,1.3%,1.0%,1.1%
+,8:30pm,AUD,Low,Goods Trade Balance,5.11B,,4.11B
+Mon Oct 26 2020,5:00am,EUR,Low,German ifo Business Climate,92.7,93.1,93.2
+,7:00am,EUR,Low,German Buba Monthly Report,,,
+,10:00am,USD,Medium,New Home Sales,959K,1025K,994K
+,10:30am,CHF,Low,SNB Chairman Jordan Speaks,,,
+,5:45pm,NZD,Low,Trade Balance,-1017M,-1015M,-282M
+,10:30pm,AUD,Low,RBA Deputy Gov Debelle Speaks,,,
+Tue Oct 27 2020,12:59am,JPY,Low,BOJ Core CPI y/y,-0.1%,0.0%,0.0%
+,2:00am,AUD,Low,RBA Assist Gov Bullock Speaks,,,
+,4:00am,EUR,Low,Spanish Unemployment Rate,16.3%,16.0%,15.3%
+,5:00am,EUR,Low,M3 Money Supply y/y,10.4%,9.6%,9.5%
+,,EUR,Low,Private Loans y/y,3.1%,3.1%,3.0%
+,7:00am,GBP,Low,CBI Realized Sales,-23,-1,11
+,8:30am,USD,Medium,Core Durable Goods Orders m/m,0.8%,0.3%,0.6%
+,,USD,Medium,Durable Goods Orders m/m,1.9%,0.5%,0.5%
+,9:00am,USD,Low,HPI m/m,1.5%,0.7%,1.1%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,5.2%,4.2%,4.1%
+,9:59am,USD,Low,Richmond Manufacturing Index,29,18,21
+,10:00am,USD,Medium,CB Consumer Confidence,100.9,102.1,101.3
+,8:01pm,GBP,Low,BRC Shop Price Index y/y,-1.2%,,-1.6%
+,8:30pm,AUD,High,CPI q/q,1.6%,1.5%,-1.9%
+,,AUD,High,Trimmed Mean CPI q/q,0.4%,0.3%,-0.1%
+Wed Oct 28 2020,3:00am,EUR,Low,German Import Prices m/m,0.3%,-0.3%,0.1%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,2.3,,26.2
+,6:03am,GBP,Low,10-y Bond Auction,0.24|3.0,,0.31|2.8
+,8:30am,USD,Low,Goods Trade Balance,-79.4B,-84.8B,-83.1B
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.1%,0.4%,0.4%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,Medium,Overnight Rate,0.25%,0.25%,0.25%
+,10:30am,USD,Low,Crude Oil Inventories,4.3M,1.5M,-1.0M
+,11:00am,CAD,High,BOC Press Conference,,,
+,6:00pm,USD,Low,FOMC Member Kaplan Speaks,,,
+,7:50pm,JPY,Low,Retail Sales y/y,-8.7%,-7.5%,-1.9%
+,8:00pm,NZD,Low,ANZ Business Confidence,-15.7,,-14.5
+,8:30pm,AUD,Low,Import Prices q/q,-3.5%,-2.1%,-1.9%
+,,AUD,Low,NAB Quarterly Business Confidence,-10,,-15
+,11:12pm,JPY,High,BOJ Outlook Report,,,
+,,JPY,High,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Thu Oct 29 2020,1:00am,JPY,Low,Consumer Confidence,33.6,35.2,32.7
+,2:30am,JPY,Medium,BOJ Press Conference,,,
+,All Day,EUR,Low,German Prelim CPI m/m,0.1%,0.0%,-0.2%
+,4:00am,EUR,Low,Spanish Flash CPI y/y,-0.9%,-0.4%,-0.4%
+,4:55am,EUR,Low,German Unemployment Change,-35K,-5K,-10K
+,5:30am,GBP,Low,M4 Money Supply m/m,0.9%,0.3%,-0.5%
+,5:32am,GBP,Low,Mortgage Approvals,91K,76K,86K
+,,GBP,Low,Net Lending to Individuals m/m,4.2B,4.2B,3.3B
+,All Day,EUR,Medium,EU Economic Summit,,,
+,6:16am,EUR,Low,Italian 10-y Bond Auction,0.79|1.3,,0.89|1.3
+,8:30am,CAD,Low,Building Permits m/m,17.0%,18.0%,1.4%
+,,USD,High,Advance GDP q/q,33.1%,32.0%,-31.4%
+,,USD,Medium,Unemployment Claims,751K,773K,791K
+,8:32am,USD,Medium,Advance GDP Price Index q/q,3.6%,2.9%,-1.8%
+,8:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,9:30am,EUR,High,ECB Press Conference,,,
+,10:00am,USD,Medium,Pending Home Sales m/m,-2.2%,3.1%,8.8%
+,10:30am,USD,Low,Natural Gas Storage,29B,35B,49B
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,-0.5%,-0.5%,-0.2%
+,,JPY,Low,Unemployment Rate,3.0%,3.1%,3.0%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,4.0%,3.0%,1.0%
+,8:30pm,AUD,Low,PPI q/q,0.4%,0.4%,-1.2%
+,,AUD,Low,Private Sector Credit m/m,0.1%,0.1%,0.0%
+Fri Oct 30 2020,1:00am,JPY,Low,Housing Starts y/y,-9.9%,-8.6%,-9.1%
+,2:30am,EUR,Low,French Consumer Spending m/m,-5.1%,-1.5%,2.2%
+,,EUR,Low,French Flash GDP q/q,18.2%,15.0%,-13.7%
+,2:52am,GBP,Low,Nationwide HPI m/m,0.8%,0.4%,0.9%
+,3:00am,EUR,Low,German Retail Sales m/m,-2.2%,-0.6%,1.8%
+,3:30am,CHF,Low,Retail Sales y/y,0.3%,2.8%,4.0%
+,3:45am,EUR,Low,French Prelim CPI m/m,-0.1%,0.0%,-0.5%
+,4:00am,CHF,Medium,KOF Economic Barometer,106.6,107.9,110.1
+,,EUR,Low,Spanish Flash GDP q/q,16.7%,13.5%,-17.8%
+,,EUR,Low,Italian Monthly Unemployment Rate,9.6%,10.1%,9.7%
+,5:00am,EUR,Medium,German Prelim GDP q/q,8.2%,7.3%,-9.7%
+,,EUR,Low,Italian Prelim GDP q/q,16.1%,11.1%,-12.8%
+,5:58am,EUR,Low,Italian Prelim CPI m/m,0.2%,0.2%,-0.7%
+,6:00am,EUR,Low,CPI Flash Estimate y/y,-0.3%,-0.3%,-0.3%
+,,EUR,Low,Core CPI Flash Estimate y/y,0.2%,0.2%,0.2%
+,,EUR,Low,Prelim Flash GDP q/q,12.7%,9.5%,-11.8%
+,,EUR,Low,Unemployment Rate,8.3%,8.2%,8.3%
+,8:30am,CAD,High,GDP m/m,1.2%,0.9%,3.1%
+,,CAD,Low,IPPI m/m,-0.1%,0.1%,0.3%
+,,CAD,Low,RMPI m/m,-2.2%,0.3%,3.1%
+,,USD,Medium,Core PCE Price Index m/m,0.2%,0.2%,0.3%
+,,USD,Medium,Personal Spending m/m,1.4%,1.0%,1.0%
+,,USD,Low,Employment Cost Index q/q,0.5%,0.5%,0.5%
+,,USD,Low,Personal Income m/m,0.9%,0.3%,-2.5%
+,9:45am,USD,Medium,Chicago PMI,61.1,58.2,62.4
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,81.8,81.2,81.2
+,,USD,Low,Revised UoM Inflation Expectations,2.6%,,2.7%
+,10:30am,EUR,Low,German Buba President Weidmann Speaks,,,
+,11:00am,USD,High,Fed Announcement,,,
+,9:00pm,CNY,Medium,Manufacturing PMI,51.4,51.4,51.5
+,,CNY,Low,Non-Manufacturing PMI,56.2,56.2,55.9
+Sat Oct 31 2020,,,No specified,,,,

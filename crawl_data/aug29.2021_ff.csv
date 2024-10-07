@@ -1,0 +1,107 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 29 2021,7:50pm,JPY,Low,Retail Sales y/y,2.4%,2.1%,0.1%
+,9:30pm,AUD,Low,Company Operating Profits q/q,7.1%,2.5%,-0.6%
+Mon Aug 30 2021,All Day,EUR,Low,German Prelim CPI m/m,0.0%,0.1%,0.9%
+,3:00am,CHF,Low,KOF Economic Barometer,113.5,126.3,130.9
+,,EUR,Low,Spanish Flash CPI y/y,3.3%,3.0%,2.9%
+,All Day,GBP,Holiday,Bank Holiday,,,
+,8:30am,CAD,Low,Current Account,3.6B,1.5B,1.2B
+,10:00am,USD,Medium,Pending Home Sales m/m,-1.8%,0.5%,-2.0%
+,6:45pm,NZD,Low,Building Consents m/m,2.1%,,4.0%
+,7:30pm,JPY,Low,Unemployment Rate,2.8%,2.9%,2.9%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,-1.5%,-2.4%,6.5%
+,9:00pm,CNY,Medium,Manufacturing PMI,50.1,50.2,50.4
+,,CNY,Low,Non-Manufacturing PMI,47.5,52.1,53.3
+,,NZD,Low,ANZ Business Confidence,-14.2,,-3.8
+,9:30pm,AUD,Low,Building Approvals m/m,-8.6%,-5.0%,-5.5%
+,,AUD,Low,Current Account,20.5B,21.5B,18.9B
+,,AUD,Low,Private Sector Credit m/m,0.7%,0.5%,0.9%
+Tue Aug 31 2021,12:59am,JPY,Low,Consumer Confidence,36.7,36.1,37.5
+,1:00am,JPY,Low,Housing Starts y/y,9.9%,5.4%,7.3%
+,2:45am,EUR,Low,French Consumer Spending m/m,-2.2%,0.1%,0.3%
+,,EUR,Low,French Prelim CPI m/m,0.6%,0.4%,0.1%
+,,EUR,Low,French Prelim GDP q/q,1.1%,0.9%,0.9%
+,3:55am,EUR,Low,German Unemployment Change,-53K,-40K,-90K
+,4:30am,GBP,Low,M4 Money Supply m/m,0.1%,0.6%,0.6%
+,,GBP,Low,Mortgage Approvals,75K,79K,80K
+,,GBP,Low,Net Lending to Individuals m/m,-1.4B,3.5B,18.0B
+,5:00am,EUR,Low,CPI Flash Estimate y/y,3.0%,2.7%,2.2%
+,,EUR,Low,Core CPI Flash Estimate y/y,1.6%,1.5%,0.7%
+,,EUR,Low,Italian Prelim CPI m/m,0.5%,0.4%,0.5%
+,5:13am,EUR,Low,Italian 10-y Bond Auction,0.67|1.4,,0.66|1.3
+,8:30am,CAD,Medium,GDP m/m,0.7%,0.7%,-0.5%
+,9:00am,USD,Low,HPI m/m,1.6%,1.9%,1.8%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,19.1%,18.7%,17.1%
+,9:45am,USD,Medium,Chicago PMI,66.8,68.0,73.4
+,10:00am,USD,Medium,CB Consumer Confidence,113.8,122.9,125.1
+,6:30pm,AUD,Low,AIG Manufacturing Index,51.6,,60.8
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.8%,,-1.2%
+,7:50pm,JPY,Low,Capital Spending q/y,5.3%,3.4%,-7.8%
+,8:30pm,JPY,Low,Final Manufacturing PMI,52.7,52.4,52.4
+,9:30pm,AUD,High,GDP q/q,0.7%,0.5%,1.9%
+,9:45pm,CNY,Low,Caixin Manufacturing PMI,49.2,50.2,50.3
+Wed Sep 1 2021,2:00am,EUR,Low,German Retail Sales m/m,-5.1%,-0.9%,4.5%
+,,GBP,Low,Nationwide HPI m/m,2.1%,0.1%,-0.6%
+,2:30am,AUD,Low,Commodity Prices y/y,50.3%,,62.3%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,59.5,58.9,59.0
+,3:30am,CHF,Low,Manufacturing PMI,67.7,67.9,71.1
+,3:45am,EUR,Low,Italian Manufacturing PMI,60.9,60.1,60.3
+,3:50am,EUR,Low,French Final Manufacturing PMI,57.5,57.4,57.3
+,3:55am,EUR,Medium,German Final Manufacturing PMI,62.6,62.7,62.7
+,4:00am,EUR,Low,Final Manufacturing PMI,61.4,61.5,61.5
+,,EUR,Low,Italian Monthly Unemployment Rate,9.3%,9.6%,9.4%
+,4:30am,GBP,Low,Final Manufacturing PMI,60.3,60.1,60.1
+,5:00am,EUR,Low,Unemployment Rate,7.6%,7.6%,7.8%
+,All Day,All,High,OPEC Meetings,,,
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,8:00am,EUR,Low,German Buba President Weidmann Speaks,,,
+,8:15am,USD,High,ADP Non-Farm Employment Change,374K,640K,326K
+,9:30am,CAD,Low,Manufacturing PMI,57.2,,56.2
+,9:45am,USD,Low,Final Manufacturing PMI,61.1,61.2,61.2
+,10:00am,USD,High,ISM Manufacturing PMI,59.9,58.5,59.5
+,,USD,Low,Construction Spending m/m,0.3%,0.2%,0.0%
+,,USD,Low,ISM Manufacturing Prices,79.4,84.1,85.7
+,All Day,USD,Low,Wards Total Vehicle Sales,13.1M,14.4M,14.8M
+,10:30am,USD,Medium,Crude Oil Inventories,-7.2M,-2.5M,-3.0M
+,12:00pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,6:45pm,NZD,Low,Overseas Trade Index q/q,3.3%,0.3%,0.1%
+,7:50pm,JPY,Low,Monetary Base y/y,14.9%,16.2%,15.4%
+,9:30pm,AUD,Low,Trade Balance,12.12B,10.10B,11.11B
+,11:35pm,JPY,Low,10-y Bond Auction,0.02|3.4,,0.01|3.3
+Thu Sep 2 2021,2:30am,CHF,Low,CPI m/m,0.2%,0.1%,-0.1%
+,,CHF,Low,Retail Sales y/y,-2.6%,0.2%,0.1%
+,3:00am,CHF,Low,GDP q/q,1.8%,1.9%,-0.4%
+,,EUR,Medium,Spanish Unemployment Change,-82.6K,-164.7K,-197.8K
+,4:47am,EUR,Low,Spanish 10-y Bond Auction,0.31|1.7,,0.20|1.3
+,4:56am,EUR,Low,French 10-y Bond Auction,-0.05|1.8,,-0.23|1.8
+,5:00am,EUR,Low,PPI m/m,2.3%,1.3%,1.4%
+,7:30am,USD,Low,Challenger Job Cuts y/y,-86.4%,,-92.8%
+,8:30am,CAD,Low,Building Permits m/m,-3.9%,1.5%,6.9%
+,,CAD,Low,Trade Balance,0.8B,1.7B,3.2B
+,,USD,Medium,Unemployment Claims,340K,342K,354K
+,,USD,Low,Revised Nonfarm Productivity q/q,2.1%,2.4%,2.3%
+,,USD,Low,Revised Unit Labor Costs q/q,1.3%,1.0%,1.0%
+,,USD,Low,Trade Balance,-70.1B,-70.7B,-73.2B
+,10:00am,USD,Low,Factory Orders m/m,0.4%,0.4%,1.5%
+,10:30am,USD,Low,Natural Gas Storage,20B,25B,29B
+,1:00pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,3:00pm,USD,Medium,FOMC Member Daly Speaks,,,
+,6:30pm,AUD,Low,AIG Construction Index,38.4,,48.7
+,9:32pm,AUD,Medium,Retail Sales m/m,-2.7%,-1.9%,-2.7%
+,9:45pm,CNY,Low,Caixin Services PMI,46.7,52.0,54.9
+Fri Sep 3 2021,2:45am,EUR,Low,French Gov Budget Balance,-166.6B,,-131.3B
+,3:15am,EUR,Low,Spanish Services PMI,60.1,61.4,61.9
+,3:45am,EUR,Low,Italian Services PMI,58.0,58.4,58.0
+,3:50am,EUR,Low,French Final Services PMI,56.3,56.4,56.4
+,3:55am,EUR,Low,German Final Services PMI,60.8,61.5,61.5
+,4:00am,EUR,Low,Final Services PMI,59.0,59.7,59.7
+,4:30am,GBP,Low,Final Services PMI,55.0,55.5,55.5
+,5:00am,EUR,Low,Retail Sales m/m,-2.3%,0.0%,1.8%
+,8:30am,CAD,Low,Labor Productivity q/q,0.6%,1.5%,-1.7%
+,,USD,High,Average Hourly Earnings m/m,0.6%,0.3%,0.4%
+,,USD,High,Non-Farm Employment Change,235K,720K,1053K
+,,USD,High,Unemployment Rate,5.2%,5.2%,5.4%
+,9:45am,USD,Low,Final Services PMI,55.1,55.2,55.2
+,10:00am,USD,High,ISM Services PMI,61.7,61.9,64.1
+,10:30am,USD,Low,President Biden Speaks,,,
+Sat Sep 4 2021,,,No specified,,,,

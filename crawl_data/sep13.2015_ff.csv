@@ -1,0 +1,83 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 13 2015,1:30am,CNY,High,Industrial Production y/y,6.1%,6.3%,6.0%
+,,CNY,Medium,Fixed Asset Investment ytd/y,10.9%,11.2%,11.2%
+,,CNY,Low,Retail Sales y/y,10.8%,10.6%,10.5%
+Mon Sep 14 2015,12:30am,JPY,Low,Revised Industrial Production m/m,-0.8%,-0.6%,-0.6%
+,,JPY,Low,Tertiary Industry Activity m/m,0.2%,0.2%,0.3%
+,3:15am,CHF,Medium,PPI m/m,-0.7%,-0.4%,-0.3%
+,,CHF,Medium,Retail Sales y/y,-0.1%,1.5%,-1.2%
+,5:00am,EUR,Low,Industrial Production m/m,0.6%,0.3%,-0.3%
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,-1.6%,,-1.6%
+,11:07pm,JPY,High,Monetary Policy Statement,,,
+Tue Sep 15 2015,2:30am,JPY,High,BOJ Press Conference,,,
+,2:45am,EUR,Low,French Final CPI m/m,0.3%,0.4%,-0.4%
+,4:30am,GBP,High,CPI y/y,0.0%,0.0%,0.1%
+,,GBP,Medium,PPI Input m/m,-2.4%,-2.3%,-1.2%
+,,GBP,Medium,RPI y/y,1.1%,0.9%,1.0%
+,,GBP,Low,Core CPI y/y,1.0%,1.0%,1.2%
+,,GBP,Low,ONS HPI y/y,5.2%,6.2%,5.7%
+,,GBP,Low,PPI Output m/m,-0.4%,-0.2%,-0.1%
+,5:00am,EUR,High,German ZEW Economic Sentiment,12.1,18.3,25.0
+,,EUR,Medium,ZEW Economic Sentiment,33.3,42.1,47.6
+,,EUR,Low,Final Employment Change q/q,0.3%,0.1%,0.2%
+,,EUR,Low,Trade Balance,22.4B,21.4B,21.9B
+,8:30am,USD,High,Core Retail Sales m/m,0.1%,0.2%,0.6%
+,,USD,High,Retail Sales m/m,0.2%,0.3%,0.7%
+,,USD,Medium,Empire State Manufacturing Index,-14.7,-0.5,-14.9
+,9:15am,USD,Medium,Capacity Utilization Rate,77.6%,77.9%,78.0%
+,,USD,Medium,Industrial Production m/m,-0.4%,-0.1%,0.9%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.3%,,-0.3%
+,10:00am,USD,Low,Business Inventories m/m,0.1%,-0.2%,0.7%
+,11:15am,NZD,High,GDT Price Index,16.5%,,10.9%
+,6:45pm,NZD,Medium,Current Account,-1.22B,-1.40B,0.82B
+,7:30pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.3%,,0.1%
+Wed Sep 16 2015,1:00am,JPY,Low,BOJ Monthly Report,,,
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.9%,2.5%,2.6%
+,,GBP,High,Claimant Count Change,1.2K,-5.1K,-6.8K
+,,GBP,Medium,Unemployment Rate,5.5%,5.6%,5.6%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,9.7,,5.9
+,,EUR,Medium,Final CPI y/y,0.1%,0.2%,0.2%
+,,EUR,Low,Final Core CPI y/y,0.9%,1.0%,1.0%
+,5:33am,EUR,Low,German 30-y Bond Auction,1.49|1.0,,1.18|1.1
+,5:35am,GBP,Low,10-y Bond Auction,1.95|1.4,,1.98|1.4
+,8:30am,CAD,High,Manufacturing Sales m/m,1.7%,1.1%,1.5%
+,,CAD,Medium,Foreign Securities Purchases,-10.12B,5.50B,8.79B
+,,USD,High,CPI m/m,-0.1%,0.0%,0.1%
+,,USD,High,Core CPI m/m,0.1%,0.1%,0.1%
+,9:15am,GBP,High,Monetary Policy Report Hearings,,,
+,10:00am,USD,Low,NAHB Housing Market Index,62,61,61
+,10:30am,USD,Medium,Crude Oil Inventories,-2.1M,0.7M,2.6M
+,1:20pm,CAD,Low,Gov Council Member Cote Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,7.7B,27.5B,103.1B
+,6:45pm,NZD,High,GDP q/q,0.4%,0.5%,0.2%
+,7:50pm,JPY,Medium,Trade Balance,-0.36T,-0.35T,-0.38T
+,9:30pm,AUD,Low,RBA Bulletin,,,
+Thu Sep 17 2015,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,2:35am,JPY,High,BOJ Gov Kuroda Speaks,,,
+,3:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:02am,EUR,Low,Italian Trade Balance,8.03B,2.47B,2.81B
+,4:30am,GBP,High,Retail Sales m/m,0.2%,0.2%,0.0%
+,4:51am,EUR,Low,Spanish 10-y Bond Auction,2.15|2.5,,2.13|1.8
+,8:30am,USD,High,Building Permits,1.17M,1.15M,1.13M
+,,USD,High,Unemployment Claims,264K,276K,275K
+,,USD,Medium,Current Account,-110B,-111B,-118B
+,,USD,Medium,Housing Starts,1.13M,1.16M,1.16M
+,10:00am,USD,High,Philly Fed Manufacturing Index,-6.0,6.1,8.3
+,10:30am,USD,Low,Natural Gas Storage,73B,70B,68B
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,7:30pm,AUD,High,RBA Gov Stevens Speaks,,,
+,7:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+Fri Sep 18 2015,4:00am,EUR,Low,Current Account,22.6B,21.3B,24.9B
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,7:05am,GBP,Medium,MPC Member Haldane Speaks,,,
+,8:30am,CAD,High,Core CPI m/m,0.2%,0.2%,0.0%
+,,CAD,Medium,CPI m/m,0.0%,0.0%,0.1%
+,10:00am,USD,Low,CB Leading Index m/m,0.1%,0.2%,-0.2%
+Sat Sep 19 2015,1:30pm,USD,Medium,FOMC Member Williams Speaks,,,

@@ -1,0 +1,84 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 24 2016,Day 2,All,High,G20 Meetings,,,
+,7:50pm,JPY,Low,Trade Balance,0.33T,0.24T,0.29T
+Mon Jul 25 2016,4:00am,EUR,High,German ifo Business Climate,108.3,107.7,108.7
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-4,-6,-2
+,6:45pm,NZD,Medium,Trade Balance,127M,128M,348M
+,7:50pm,JPY,Low,SPPI y/y,0.2%,0.1%,0.2%
+Tue Jul 26 2016,4:30am,GBP,Low,High Street Lending,40.1K,40.2K,41.8K
+,9:00am,EUR,Low,Belgian NBB Business Climate,1.0,-0.6,0.7
+,,USD,Low,S&P/CS Composite-20 HPI y/y,5.2%,5.6%,5.4%
+,9:45am,USD,Low,Flash Services PMI,50.9,51.2,51.4
+,9:59am,USD,Low,Richmond Manufacturing Index,10,-4,-7
+,10:00am,USD,High,CB Consumer Confidence,97.3,95.6,97.4
+,,USD,Medium,New Home Sales,592K,560K,572K
+,9:30pm,AUD,High,CPI q/q,0.4%,0.4%,-0.2%
+,,AUD,Medium,Trimmed Mean CPI q/q,0.5%,0.4%,0.2%
+Wed Jul 27 2016,2:00am,CHF,Low,UBS Consumption Indicator,1.34,,1.24
+,,EUR,Low,German GfK Consumer Climate,10.0,9.9,10.1
+,,EUR,Low,German Import Prices m/m,0.5%,0.6%,0.9%
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.0%,5.0%,4.9%
+,,EUR,Low,Private Loans y/y,1.7%,1.7%,1.6%
+,4:30am,GBP,High,Prelim GDP q/q,0.6%,0.5%,0.4%
+,,GBP,Low,Index of Services 3m/3m,0.3%,0.3%,0.5%
+,5:35am,EUR,Low,German 30-y Bond Auction,0.45|1.5,,0.65|2.0
+,6:00am,GBP,Low,CBI Realized Sales,-14,2,4
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.5%,0.3%,-0.4%
+,,USD,Medium,Durable Goods Orders m/m,-4.0%,-1.1%,-2.3%
+,10:00am,USD,Medium,Pending Home Sales m/m,0.2%,1.9%,-3.7%
+,10:30am,USD,High,Crude Oil Inventories,1.7M,-2.1M,-2.3M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.50%,<0.50%,<0.50%
+,9:30pm,AUD,Low,Import Prices q/q,-1.0%,1.6%,-3.0%
+Thu Jul 28 2016,2:00am,GBP,Low,Nationwide HPI m/m,0.5%,0.0%,0.2%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.3%,0.2%,0.1%
+,3:00am,EUR,Medium,Spanish Unemployment Rate,20.0%,20.5%,21.0%
+,3:55am,EUR,Medium,German Unemployment Change,-7K,-3K,-6K
+,5:16am,EUR,Low,Italian 10-y Bond Auction,1.24|1.3,,1.35|1.5
+,8:30am,USD,High,Unemployment Claims,266K,261K,252K
+,,USD,Low,Goods Trade Balance,-63.3B,-62.2B,-61.1B
+,10:30am,USD,Low,Natural Gas Storage,17B,29B,34B
+,6:05pm,GBP,Low,GfK Consumer Confidence,-12,-7,-9
+,6:45pm,NZD,Low,Building Consents m/m,16.3%,,0.1%
+,7:30pm,JPY,Medium,Household Spending y/y,-2.2%,-0.4%,-1.1%
+,,JPY,Medium,Tokyo Core CPI y/y,-0.4%,-0.4%,-0.5%
+,,JPY,Low,National Core CPI y/y,-0.5%,-0.4%,-0.4%
+,,JPY,Low,Unemployment Rate,3.1%,3.2%,3.2%
+,7:50pm,JPY,Medium,Retail Sales y/y,-1.4%,-1.2%,-2.1%
+,,JPY,Low,Prelim Industrial Production m/m,1.9%,0.6%,-2.6%
+,9:00pm,NZD,Medium,ANZ Business Confidence,16.0,,20.2
+,9:30pm,AUD,Medium,PPI q/q,0.1%,0.2%,-0.2%
+,,AUD,Low,Private Sector Credit m/m,0.2%,0.5%,0.4%
+,11:44pm,JPY,High,BOJ Outlook Report,,,
+,,JPY,High,BOJ Policy Rate,-0.10%,,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Fri Jul 29 2016,1:00am,JPY,Low,BOJ Core CPI y/y,0.8%,0.7%,0.8%
+,,JPY,Low,Housing Starts y/y,-2.5%,-2.8%,9.8%
+,1:30am,EUR,Low,French Flash GDP q/q,0.0%,0.2%,0.6%
+,2:00am,EUR,Medium,German Retail Sales m/m,-0.1%,0.0%,0.7%
+,2:30am,JPY,High,BOJ Press Conference,,,
+,2:45am,EUR,Low,French Consumer Spending m/m,-0.8%,0.1%,-0.8%
+,,EUR,Low,French Prelim CPI m/m,-0.4%,-0.3%,0.1%
+,3:00am,CHF,Medium,KOF Economic Barometer,102.7,101.6,102.6
+,,EUR,Medium,Spanish Flash CPI y/y,-0.6%,-0.5%,-0.8%
+,,EUR,Medium,Spanish Flash GDP q/q,0.7%,0.7%,0.8%
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,11.6%,11.4%,11.5%
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,5.2B,4.2B,4.5B
+,,GBP,Low,M4 Money Supply m/m,1.1%,0.4%,1.3%
+,,GBP,Low,Mortgage Approvals,65K,66K,67K
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,0.2%,0.1%,0.1%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.9%,0.9%
+,,EUR,Medium,Prelim Flash GDP q/q,0.3%,0.3%,0.6%
+,,EUR,Low,Italian Prelim CPI m/m,0.2%,0.0%,0.1%
+,,EUR,Low,Unemployment Rate,10.1%,10.1%,10.1%
+,8:30am,CAD,High,GDP m/m,-0.6%,-0.5%,0.1%
+,,CAD,Medium,RMPI m/m,1.8%,3.2%,7.0%
+,,CAD,Low,IPPI m/m,0.6%,1.5%,1.2%
+,,USD,High,Advance GDP q/q,1.2%,2.6%,1.1%
+,,USD,Medium,Advance GDP Price Index q/q,2.2%,1.9%,0.4%
+,,USD,Medium,Employment Cost Index q/q,0.6%,0.6%,0.6%
+,9:45am,USD,Medium,Chicago PMI,55.8,54.3,56.8
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,90.0,90.2,89.5
+,,USD,Low,Revised UoM Inflation Expectations,2.7%,,2.8%
+,4:00pm,EUR,High,EBA Bank Stress Test Results,,,
+Sat Jul 30 2016,,,No specified,,,,

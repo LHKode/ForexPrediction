@@ -1,0 +1,85 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 14 2019,6:45pm,NZD,Low,Visitor Arrivals m/m,-0.2%,,-3.2%
+,7:01pm,GBP,Low,Rightmove HPI m/m,-0.2%,,0.3%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,9:58pm,CNY,High,GDP q/y,6.2%,6.2%,6.4%
+,10:00pm,CNY,Medium,Fixed Asset Investment ytd/y,5.8%,5.6%,5.6%
+,,CNY,Medium,Industrial Production y/y,6.3%,5.2%,5.0%
+,,CNY,Low,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,9.8%,8.5%,8.6%
+,,CNY,Low,Unemployment Rate,5.1%,,5.0%
+Mon Jul 15 2019,2:30am,CHF,Low,PPI m/m,-0.5%,0.1%,0.0%
+,8:30am,USD,Medium,Empire State Manufacturing Index,4.3,1.6,-8.6
+,8:50am,USD,Medium,FOMC Member Williams Speaks,,,
+,6:45pm,NZD,High,CPI q/q,0.6%,0.6%,0.1%
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+Tue Jul 16 2019,4:00am,EUR,Low,Italian Trade Balance,5.35B,2.91B,2.85B
+,4:30am,GBP,High,Average Earnings Index 3m/y,3.4%,3.1%,3.2%
+,,GBP,Low,Claimant Count Change,38.0K,18.9K,24.5K
+,,GBP,Low,Unemployment Rate,3.8%,3.8%,3.8%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-24.5,-22.1,-21.1
+,,EUR,Low,Trade Balance,20.2B,16.4B,15.7B
+,,EUR,Low,ZEW Economic Sentiment,-20.3,-20.9,-20.2
+,8:00am,GBP,High,BOE Gov Carney Speaks,,,
+,8:15am,USD,Medium,FOMC Member Bowman Speaks,,,
+,8:30am,CAD,Low,Foreign Securities Purchases,10.20B,5.02B,-12.79B
+,,USD,High,Core Retail Sales m/m,0.4%,0.1%,0.4%
+,,USD,High,Retail Sales m/m,0.4%,0.1%,0.4%
+,,USD,Low,Import Prices m/m,-0.9%,-0.7%,0.0%
+,9:15am,USD,Low,Capacity Utilization Rate,77.9%,78.2%,78.1%
+,,USD,Low,Industrial Production m/m,0.0%,0.1%,0.4%
+,10:00am,USD,Low,Business Inventories m/m,0.3%,0.4%,0.5%
+,,USD,Low,NAHB Housing Market Index,65,64,64
+,10:25am,NZD,Low,GDT Price Index,2.7%,,-0.4%
+,1:00pm,USD,High,Fed Chair Powell Speaks,,,
+,2:40pm,USD,High,FOMC Member Evans Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,3.5B,32.3B,46.9B
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,-0.1%
+Wed Jul 17 2019,4:30am,GBP,High,CPI y/y,2.0%,2.0%,2.0%
+,,GBP,Medium,PPI Input m/m,-1.4%,-1.0%,0.0%
+,,GBP,Low,Core CPI y/y,1.8%,1.8%,1.7%
+,,GBP,Low,HPI y/y,1.2%,1.2%,1.5%
+,,GBP,Low,PPI Output m/m,-0.1%,0.1%,0.3%
+,,GBP,Low,RPI y/y,2.9%,2.9%,3.0%
+,5:00am,EUR,Low,Final CPI y/y,1.3%,1.2%,1.2%
+,,EUR,Low,Final Core CPI y/y,1.1%,1.1%,1.1%
+,5:34am,EUR,Low,German 30-y Bond Auction,0.30|1.1,,0.26|1.6
+,Day 1,All,High,G7 Meetings,,,
+,8:30am,CAD,High,CPI m/m,-0.2%,-0.3%,0.4%
+,,CAD,Medium,Common CPI y/y,1.8%,1.8%,1.8%
+,,CAD,Medium,Manufacturing Sales m/m,1.6%,1.6%,-0.4%
+,,CAD,Medium,Median CPI y/y,2.2%,2.1%,2.2%
+,,CAD,Medium,Trimmed CPI y/y,2.1%,2.2%,2.3%
+,,USD,Medium,Building Permits,1.22M,1.30M,1.30M
+,,USD,Low,Housing Starts,1.25M,1.26M,1.27M
+,8:32am,CAD,Low,Core CPI m/m,0.0%,,0.4%
+,10:30am,USD,Low,Crude Oil Inventories,-3.1M,-3.6M,-9.5M
+,2:00pm,USD,Low,Beige Book,,,
+,7:50pm,JPY,Low,Trade Balance,-0.01T,-0.14T,-0.62T
+,9:30pm,AUD,High,Employment Change,0.5K,9.1K,45.3K
+,,AUD,High,Unemployment Rate,5.2%,5.2%,5.2%
+,,AUD,Low,NAB Quarterly Business Confidence,6,,-1
+Thu Jul 18 2019,2:00am,CHF,Low,Trade Balance,4.10B,3.21B,3.40B
+,4:30am,GBP,High,Retail Sales m/m,1.0%,-0.3%,-0.6%
+,,GBP,Medium,BOE Credit Conditions Survey,,,
+,4:48am,EUR,Low,Spanish 10-y Bond Auction,0.46|1.7,,0.26|1.2
+,Day 2,All,High,G7 Meetings,,,
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,30.4K,,-36.7K
+,,USD,Medium,Philly Fed Manufacturing Index,21.8,5.0,0.3
+,,USD,Low,Unemployment Claims,216K,216K,208K
+,10:00am,USD,Low,CB Leading Index m/m,-0.3%,0.1%,0.0%
+,10:30am,USD,Low,Natural Gas Storage,62B,72B,81B
+,2:15pm,USD,Medium,FOMC Member Williams Speaks,,,
+,7:30pm,JPY,Low,National Core CPI y/y,0.6%,0.6%,0.8%
+,11:00pm,NZD,Low,Credit Card Spending y/y,6.6%,,6.7%
+Fri Jul 19 2019,12:30am,JPY,Low,All Industries Activity m/m,0.3%,0.3%,0.8%
+,2:00am,EUR,Low,German PPI m/m,-0.4%,-0.1%,-0.1%
+,4:00am,EUR,Low,Current Account,29.7B,21.2B,22.4B
+,4:30am,GBP,Medium,Public Sector Net Borrowing,6.5B,3.4B,3.8B
+,8:30am,CAD,High,Core Retail Sales m/m,-0.3%,0.3%,0.0%
+,,CAD,Medium,Retail Sales m/m,-0.1%,0.3%,0.2%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,98.4,98.6,98.2
+,,USD,Low,Prelim UoM Inflation Expectations,2.6%,,2.7%
+,11:05am,USD,Medium,FOMC Member Bullard Speaks,,,
+,4:30pm,USD,Medium,FOMC Member Rosengren Speaks,,,
+Sat Jul 20 2019,,,No specified,,,,

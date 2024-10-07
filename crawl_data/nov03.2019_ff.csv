@@ -1,0 +1,105 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 3 2019,2:00am,CAD,Holiday,Daylight Saving Time Shift,,,
+,,USD,Holiday,Daylight Saving Time Shift,,,
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.1%,,0.1%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,High,Retail Sales m/m,0.2%,0.4%,0.4%
+,,AUD,Low,ANZ Job Advertisements m/m,-1.0%,,0.3%
+Mon Nov 4 2019,1:45am,CHF,Low,SECO Consumer Climate,-10,-8,-8
+,3:15am,EUR,Low,Spanish Manufacturing PMI,46.8,47.5,47.7
+,3:45am,EUR,Low,Italian Manufacturing PMI,47.7,47.6,47.8
+,3:50am,EUR,Low,French Final Manufacturing PMI,50.7,50.5,50.5
+,3:55am,EUR,Low,German Final Manufacturing PMI,42.1,41.9,41.9
+,4:00am,EUR,Low,Final Manufacturing PMI,45.9,45.7,45.7
+,4:30am,EUR,Low,Sentix Investor Confidence,-4.5,-13.2,-16.8
+,,GBP,Low,Construction PMI,44.2,44.3,43.3
+,10:00am,USD,Low,Factory Orders m/m,-0.6%,-0.5%,-0.1%
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,2:30pm,EUR,High,ECB President Lagarde Speaks,,,
+,3:05pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,4:30pm,AUD,Low,AIG Services Index,54.2,,51.5
+,6:50pm,JPY,Low,Monetary Base y/y,3.1%,2.9%,3.0%
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,1.2%,,0.0%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.1%,-1.4%,-1.7%
+,8:45pm,CNY,Medium,Caixin Services PMI,51.1,51.5,51.3
+,10:30pm,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,0.75%,0.75%,0.75%
+Tue Nov 5 2019,2:45am,EUR,Low,French Gov Budget Balance,-109.0B,,-123.1B
+,3:00am,EUR,Low,Spanish Unemployment Change,97.9K,62.0K,13.9K
+,4:30am,GBP,Medium,Final Services PMI,50.0,49.6,49.5
+,5:00am,EUR,Low,PPI m/m,0.1%,0.1%,-0.5%
+,5:30am,GBP,Low,10-y Bond Auction,0.74|2.6,,0.63|1.9
+,8:30am,CAD,High,Trade Balance,-1.0B,-0.6B,-1.2B
+,,USD,Low,Trade Balance,-52.5B,-52.9B,-55.0B
+,9:45am,USD,Low,Final Services PMI,50.6,51.0,51.0
+,10:00am,USD,High,ISM Services PMI,54.7,53.5,52.6
+,,USD,Low,JOLTS Job Openings,7.02M,7.06M,7.30M
+,10:06am,NZD,Low,GDT Price Index,3.7%,,0.5%
+,10:12am,USD,Low,IBD/TIPP Economic Optimism,52.9,53.2,52.6
+,4:45pm,NZD,High,Employment Change q/q,0.2%,0.2%,0.6%
+,,NZD,High,Unemployment Rate,4.2%,4.1%,3.9%
+,,NZD,Low,Labor Cost Index q/q,0.6%,0.6%,0.8%
+,6:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,10:35pm,JPY,Low,10-y Bond Auction,-0.10|3.6,,-0.16|3.4
+Wed Nov 6 2019,2:00am,EUR,Low,German Factory Orders m/m,1.3%,0.1%,-0.4%
+,3:15am,EUR,Low,Spanish Services PMI,52.7,52.8,53.3
+,3:45am,EUR,Low,Italian Services PMI,52.2,51.0,51.4
+,3:50am,EUR,Low,French Final Services PMI,52.9,52.9,52.9
+,3:55am,EUR,Low,German Final Services PMI,51.6,51.2,51.2
+,4:00am,EUR,Low,Final Services PMI,52.2,51.8,51.8
+,5:00am,EUR,Low,Retail Sales m/m,0.1%,0.1%,0.6%
+,8:00am,USD,Medium,FOMC Member Evans Speaks,,,
+,8:30am,USD,Low,Prelim Nonfarm Productivity q/q,-0.3%,1.0%,2.3%
+,,USD,Low,Prelim Unit Labor Costs q/q,3.6%,2.2%,2.6%
+,9:30am,USD,Low,FOMC Member Williams Speaks,,,
+,10:00am,CAD,Low,Ivey PMI,48.2,49.3,48.7
+,10:30am,USD,Medium,Crude Oil Inventories,7.9M,1.9M,5.7M
+,1:01pm,USD,Medium,10-y Bond Auction,1.81|2.5,,1.59|2.4
+,4:30pm,AUD,Low,AIG Construction Index,43.9,,42.6
+,7:30pm,AUD,Medium,Trade Balance,7.18B,5.10B,6.62B
+Thu Nov 7 2019,2:00am,EUR,Low,German Industrial Production m/m,-0.6%,-0.3%,0.4%
+,3:00am,CHF,Low,Foreign Currency Reserves,779B,,777B
+,3:28am,GBP,Low,Halifax HPI m/m,-0.1%,0.3%,-0.4%
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,,EUR,Low,Italian Retail Sales m/m,0.7%,0.3%,-0.5%
+,4:50am,EUR,Low,Spanish 10-y Bond Auction,0.30|2.3,,0.25|2.5
+,5:00am,EUR,High,EU Economic Forecasts,,,
+,5:02am,EUR,Low,French 10-y Bond Auction,-0.03|2.1,,-0.24|1.7
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,7:00am,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Official Bank Rate Votes,0-2-7,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,Medium,Official Bank Rate,0.75%,0.75%,0.75%
+,,GBP,Low,Asset Purchase Facility,435B,435B,435B
+,,GBP,Low,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:30am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,USD,Low,Unemployment Claims,211K,215K,219K
+,10:30am,USD,Low,Natural Gas Storage,34B,46B,89B
+,1:01pm,USD,Medium,30-y Bond Auction,2.43|2.2,,2.17|2.2
+,3:00pm,USD,Low,Consumer Credit m/m,9.5B,15.6B,17.8B
+,6:30pm,JPY,Low,Average Cash Earnings y/y,0.8%,0.1%,-0.1%
+,,JPY,Low,Household Spending y/y,9.5%,7.1%,1.0%
+,7:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,,AUD,Low,Home Loans m/m,1.4%,2.1%,2.7%
+,10:10pm,CNY,Medium,Trade Balance,301B,287B,275B
+,10:11pm,CNY,Medium,USD-Denominated Trade Balance,42.8B,40.6B,39.7B
+Fri Nov 8 2019,12:00am,JPY,Low,Leading Indicators,92.2%,92.2%,91.9%
+,1:45am,CHF,Low,Unemployment Rate,2.3%,2.3%,2.3%
+,2:00am,EUR,Low,German Trade Balance,19.2B,19.3B,18.7B
+,2:45am,EUR,Low,French Industrial Production m/m,0.3%,0.4%,-0.9%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.3%,0.3%,0.2%
+,,EUR,Low,French Trade Balance,-5.6B,-4.9B,-5.4B
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:18am,CAD,Low,Housing Starts,202K,220K,221K
+,8:30am,CAD,High,Employment Change,-1.8K,14.7K,53.7K
+,,CAD,High,Unemployment Rate,5.5%,5.5%,5.5%
+,,CAD,Low,Building Permits m/m,-6.5%,-1.9%,5.6%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,95.7,96.0,95.5
+,,USD,Low,Final Wholesale Inventories m/m,-0.4%,-0.3%,-0.3%
+,,USD,Low,Prelim UoM Inflation Expectations,2.5%,,2.5%
+,11:45am,USD,Low,FOMC Member Brainard Speaks,,,
+,1:30pm,CAD,Low,Gov Council Member Beaudry Speaks,,,
+,8:00pm,USD,Low,FOMC Member Williams Speaks,,,
+,8:30pm,CNY,Medium,CPI y/y,3.8%,3.2%,3.0%
+,,CNY,Low,PPI y/y,-1.6%,-1.5%,-1.2%
+Sat Nov 9 2019,,,No specified,,,,

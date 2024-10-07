@@ -1,0 +1,78 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 12 2017,6:50pm,JPY,High,Prelim GDP q/q,0.2%,0.3%,0.3%
+,,JPY,Low,Prelim GDP Price Index y/y,-0.1%,-0.2%,-0.2%
+Mon Feb 13 2017,2:00am,EUR,Low,German WPI m/m,0.8%,0.3%,1.2%
+,5:00am,EUR,Medium,EU Economic Forecasts,,,
+,4:45pm,NZD,Low,FPI m/m,2.8%,,-0.8%
+,7:30pm,AUD,Low,NAB Business Confidence,10,,6
+,8:30pm,CNY,High,CPI y/y,2.5%,2.4%,2.1%
+,,CNY,Medium,PPI y/y,6.9%,6.6%,5.5%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,0.7%,0.5%,0.5%
+Tue Feb 14 2017,2:00am,EUR,Medium,German Prelim GDP q/q,0.4%,0.5%,0.2%
+,,EUR,Low,German Final CPI m/m,-0.6%,-0.6%,-0.6%
+,3:15am,CHF,Medium,PPI m/m,0.4%,0.3%,0.2%
+,,CHF,Low,CPI m/m,0.0%,-0.1%,-0.1%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.2%,0.3%,0.3%
+,4:01am,CNY,Low,M2 Money Supply y/y,11.3%,11.3%,11.3%
+,,CNY,Low,New Loans,2030B,2440B,1040B
+,4:30am,GBP,High,CPI y/y,1.8%,1.9%,1.6%
+,,GBP,Medium,PPI Input m/m,1.7%,1.0%,2.7%
+,,GBP,Medium,RPI y/y,2.6%,2.8%,2.5%
+,,GBP,Low,Core CPI y/y,1.6%,1.7%,1.6%
+,,GBP,Low,HPI y/y,7.2%,6.9%,6.1%
+,,GBP,Low,PPI Output m/m,0.6%,0.4%,0.2%
+,5:00am,EUR,Medium,Flash GDP q/q,0.4%,0.5%,0.5%
+,,EUR,Medium,German ZEW Economic Sentiment,10.4,15.1,16.6
+,,EUR,Low,Industrial Production m/m,-1.6%,-1.4%,1.5%
+,,EUR,Low,ZEW Economic Sentiment,17.1,22.3,23.2
+,5:59am,USD,Low,NFIB Small Business Index,105.9,105.1,105.8
+,8:30am,USD,High,PPI m/m,0.6%,0.3%,0.3%
+,,USD,Medium,Core PPI m/m,0.4%,0.2%,0.2%
+,10:00am,USD,High,Fed Chair Yellen Testifies,,,
+,,USD,Low,Fed Monetary Policy Report,,,
+,1:00pm,USD,Medium,FOMC Member Kaplan Speaks,,,
+,6:30pm,AUD,Low,Westpac Consumer Sentiment,2.3%,,0.1%
+,7:30pm,AUD,Low,New Motor Vehicle Sales m/m,0.6%,,0.1%
+Wed Feb 15 2017,4:30am,GBP,High,Average Earnings Index 3m/y,2.6%,2.8%,2.8%
+,,GBP,High,Claimant Count Change,-42.4K,1.1K,-20.5K
+,,GBP,Medium,Unemployment Rate,4.8%,4.8%,4.8%
+,5:00am,EUR,Low,Trade Balance,24.5B,22.5B,22.2B
+,8:30am,CAD,High,Manufacturing Sales m/m,2.3%,1.4%,2.3%
+,,USD,High,CPI m/m,0.6%,0.3%,0.3%
+,,USD,High,Core CPI m/m,0.3%,0.2%,0.2%
+,,USD,High,Core Retail Sales m/m,0.8%,0.4%,0.4%
+,,USD,High,Retail Sales m/m,0.4%,0.1%,1.0%
+,,USD,Medium,Empire State Manufacturing Index,18.7,7.2,6.5
+,9:15am,USD,Medium,Capacity Utilization Rate,75.3%,75.6%,75.6%
+,,USD,Medium,Industrial Production m/m,-0.3%,0.1%,0.6%
+,9:30am,GBP,Low,CB Leading Index m/m,0.0%,,0.0%
+,10:00am,USD,High,Fed Chair Yellen Testifies,,,
+,,USD,Medium,Mortgage Delinquencies,4.80%,,4.52%
+,,USD,Low,Business Inventories m/m,0.4%,0.5%,0.8%
+,,USD,Low,NAHB Housing Market Index,65,68,67
+,10:30am,USD,High,Crude Oil Inventories,9.5M,3.7M,13.8M
+,12:45pm,USD,Medium,FOMC Member Harker Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,-12.9B,19.1B,34.4B
+,7:00pm,AUD,Low,MI Inflation Expectations,4.1%,,4.3%
+,7:15pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,7:25pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,7:30pm,AUD,High,Employment Change,13.5K,9.7K,16.3K
+,,AUD,High,Unemployment Rate,5.7%,5.8%,5.8%
+,9:00pm,CNY,Low,Foreign Direct Investment ytd/y,-9.2%,,4.1%
+Thu Feb 16 2017,4:00am,EUR,Low,Italian Trade Balance,5.80B,4.00B,4.19B
+,4:46am,EUR,Low,Spanish 10-y Bond Auction,1.73|3.0,,1.45|1.4
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,USD,High,Building Permits,1.29M,1.23M,1.23M
+,,USD,High,Philly Fed Manufacturing Index,43.3,18.5,23.6
+,,USD,High,Unemployment Claims,239K,243K,234K
+,,USD,Medium,Housing Starts,1.25M,1.23M,1.28M
+,10:30am,USD,Low,Natural Gas Storage,-114B,-130B,-152B
+,12:30pm,USD,High,President Trump Speaks,,,
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,51.6,,54.2
+,4:45pm,NZD,High,Retail Sales q/q,0.6%,1.1%,0.7%
+,4:47pm,NZD,Medium,Core Retail Sales q/q,0.6%,0.9%,0.2%
+Fri Feb 17 2017,4:00am,EUR,Low,Current Account,31.0B,28.7B,36.4B
+,4:30am,GBP,High,Retail Sales m/m,-0.3%,1.0%,-2.1%
+,8:30am,CAD,Medium,Foreign Securities Purchases,10.23B,11.59B,7.26B
+,10:00am,USD,Low,CB Leading Index m/m,0.6%,0.5%,0.5%
+Sat Feb 18 2017,,,No specified,,,,

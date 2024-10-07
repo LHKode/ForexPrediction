@@ -1,0 +1,77 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 8 2018,6:30pm,AUD,Low,AIG Construction Index,57.2,,56.0
+,7:50pm,JPY,Low,Current Account,1.02T,1.39T,2.02T
+Mon Apr 9 2018,1:03am,JPY,Low,Consumer Confidence,44.3,44.6,44.3
+,1:45am,CHF,Low,Unemployment Rate,2.9%,2.9%,2.9%
+,2:00am,EUR,Low,German Trade Balance,19.2B,23.1B,21.5B
+,,JPY,Low,Economy Watchers Sentiment,48.9,48.1,48.6
+,3:30am,GBP,Medium,Halifax HPI m/m,1.5%,0.1%,0.5%
+,4:30am,EUR,Low,Sentix Investor Confidence,19.6,21.2,24.0
+,10:30am,CAD,High,BOC Business Outlook Survey,,,
+,6:00pm,NZD,Medium,NZIER Business Confidence,-11,,-12
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,1.4%,,0.6%
+,9:30pm,AUD,Medium,NAB Business Confidence,7,,9
+Tue Apr 10 2018,1:57am,JPY,Low,Prelim Machine Tool Orders y/y,28.1%,,39.5%
+,2:45am,EUR,Low,French Industrial Production m/m,1.2%,1.5%,-1.8%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.5%,1.0%,-1.8%
+,5:00am,GBP,Medium,MPC Member Haldane Speaks,,,
+,6:00am,USD,Low,NFIB Small Business Index,104.7,107.0,107.6
+,8:13am,CAD,Low,Housing Starts,225K,219K,231K
+,8:30am,CAD,Medium,Building Permits m/m,-2.6%,-1.5%,5.2%
+,,USD,High,PPI m/m,0.3%,0.1%,0.2%
+,,USD,Medium,Core PPI m/m,0.3%,0.2%,0.2%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,1.0%,0.8%,1.1%
+,7:50pm,JPY,Low,Bank Lending y/y,2.0%,2.1%,2.1%
+,,JPY,Low,Core Machinery Orders m/m,2.1%,-2.6%,8.2%
+,,JPY,Low,PPI y/y,2.1%,2.1%,2.6%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-0.6%,,0.2%
+,9:30pm,CNY,Medium,CPI y/y,2.1%,2.6%,2.9%
+,,CNY,Medium,PPI y/y,3.1%,3.2%,3.7%
+Wed Apr 11 2018,1:00am,AUD,High,RBA Gov Lowe Speaks,,,
+,4:00am,EUR,Low,Italian Retail Sales m/m,0.4%,0.3%,-0.5%
+,4:30am,GBP,High,Manufacturing Production m/m,-0.2%,0.2%,0.0%
+,,GBP,Medium,Goods Trade Balance,-10.2B,-12.0B,-12.2B
+,,GBP,Low,Construction Output m/m,-1.6%,0.7%,-3.1%
+,,GBP,Low,Industrial Production m/m,0.1%,0.4%,1.3%
+,5:34am,EUR,Low,German 30-y Bond Auction,1.12|1.0,,1.27|1.1
+,7:08am,GBP,Low,NIESR GDP Estimate,0.2%,,0.1%
+,7:10am,EUR,Medium,ECB President Draghi Speaks,,,
+,8:30am,USD,High,CPI m/m,-0.1%,0.0%,0.2%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,10:30am,USD,High,Crude Oil Inventories,3.3M,-0.6M,-4.6M
+,1:01pm,USD,Low,10-y Bond Auction,2.80|2.5,,2.89|2.5
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,,USD,Low,Federal Budget Balance,-208.7B,-191.0B,-215.2B
+,7:00pm,NZD,Medium,RBNZ Assist Gov McDermott Speaks,,,
+,7:01pm,GBP,Low,RICS House Price Balance,0%,2%,0%
+,7:50pm,JPY,Low,M2 Money Stock y/y,3.2%,3.2%,3.2%
+,8:30pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+,9:00pm,AUD,Low,MI Inflation Expectations,3.6%,,3.7%
+,9:30pm,AUD,Low,Home Loans m/m,-0.2%,-0.3%,-1.0%
+,10:00pm,CNY,Low,Foreign Direct Investment ytd/y,0.5%,,0.5%
+,11:45pm,JPY,Low,30-y Bond Auction,0.71|4.3,,0.75|4.2
+Thu Apr 12 2018,2:30am,GBP,Medium,MPC Member Broadbent Speaks,,,
+,2:45am,EUR,Low,French Final CPI m/m,1.0%,1.0%,1.0%
+,4:30am,GBP,Medium,BOE Credit Conditions Survey,,,
+,5:00am,EUR,Low,Industrial Production m/m,-0.8%,0.1%,-0.6%
+,7:30am,EUR,High,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,NHPI m/m,-0.2%,0.1%,0.0%
+,,USD,Medium,Unemployment Claims,233K,231K,242K
+,,USD,Low,Import Prices m/m,0.0%,0.2%,0.3%
+,10:30am,USD,Low,Natural Gas Storage,-19B,-11B,-29B
+,12:00pm,EUR,Medium,German Buba President Weidmann Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,3.04|2.4,,3.11|2.4
+,3:00pm,GBP,High,BOE Gov Carney Speaks,,,
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,52.2,,53.3
+,9:30pm,AUD,Medium,RBA Financial Stability Review,,,
+,11:09pm,CNY,Medium,Trade Balance,-30B,179B,225B
+,11:10pm,CNY,Low,USD-Denominated Trade Balance,-5.0B,27.1B,33.7B
+Fri Apr 13 2018,2:00am,EUR,Low,German Final CPI m/m,0.4%,0.4%,0.4%
+,4:00am,CNY,Low,M2 Money Supply y/y,8.2%,8.9%,8.8%
+,,CNY,Low,New Loans,1120B,1326B,839B
+,5:00am,EUR,Low,Trade Balance,21.0B,20.2B,20.2B
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,97.8,100.6,101.4
+,,USD,Low,JOLTS Job Openings,6.05M,6.11M,6.23M
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.8%
+,5:00pm,USD,Medium,Treasury Currency Report,,,
+Sat Apr 14 2018,,,No specified,,,,

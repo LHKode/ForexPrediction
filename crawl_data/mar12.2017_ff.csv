@@ -1,0 +1,88 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 12 2017,3:00am,CAD,Holiday,Daylight Saving Time Shift,,,
+,,USD,Holiday,Daylight Saving Time Shift,,,
+,5:45pm,NZD,Low,FPI m/m,0.2%,,2.8%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,-3.2%,0.0%,6.7%
+,,JPY,Low,PPI y/y,1.0%,1.0%,0.5%
+Mon Mar 13 2017,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.0%,0.2%,-0.3%
+,5:00am,EUR,Low,Italian Industrial Production m/m,-2.3%,-0.6%,1.4%
+,9:30am,EUR,High,ECB President Draghi Speaks,,,
+,8:30pm,AUD,Low,NAB Business Confidence,7,,10
+,10:00pm,CNY,High,Industrial Production y/y,6.3%,6.2%,6.0%
+,,CNY,Medium,Fixed Asset Investment ytd/y,8.9%,8.2%,8.1%
+,,CNY,Low,Retail Sales y/y,9.5%,10.5%,10.9%
+Tue Mar 14 2017,3:00am,EUR,Low,German Final CPI m/m,0.6%,0.6%,0.6%
+,6:00am,EUR,Medium,German ZEW Economic Sentiment,12.8,13.2,10.4
+,,EUR,Low,Industrial Production m/m,0.9%,1.2%,-1.2%
+,,EUR,Low,ZEW Economic Sentiment,25.6,19.3,17.1
+,,USD,Low,NFIB Small Business Index,105.3,106.1,105.9
+,6:33am,GBP,Low,10-y Bond Auction,1.31|2.2,,1.18|2.3
+,8:30am,USD,High,PPI m/m,0.3%,0.1%,0.6%
+,,USD,Medium,Core PPI m/m,0.3%,0.2%,0.4%
+,9:30am,GBP,Low,CB Leading Index m/m,0.4%,,0.1%
+,5:45pm,NZD,Medium,Current Account,-2.34B,-2.43B,-5.03B
+,7:30pm,AUD,Low,Westpac Consumer Sentiment,0.1%,,2.3%
+,8:30pm,AUD,Low,New Motor Vehicle Sales m/m,-2.7%,,0.5%
+Wed Mar 15 2017,12:30am,JPY,Low,Revised Industrial Production m/m,-0.4%,-0.8%,-0.8%
+,3:45am,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%
+,4:15am,CHF,Medium,PPI m/m,-0.2%,0.4%,0.4%
+,All Day,EUR,High,Dutch Parliamentary Election,,,
+,5:00am,EUR,Low,Italian Retail Sales m/m,1.4%,0.1%,-0.5%
+,5:30am,GBP,High,Average Earnings Index 3m/y,2.2%,2.4%,2.6%
+,,GBP,High,Claimant Count Change,-11.3K,3.2K,-41.4K
+,,GBP,Medium,Unemployment Rate,4.7%,4.8%,4.8%
+,6:00am,EUR,Low,Final Employment Change q/q,0.3%,0.2%,0.2%
+,6:36am,EUR,Low,German 30-y Bond Auction,1.18|1.4,,1.04|1.3
+,8:30am,USD,High,CPI m/m,0.1%,0.0%,0.6%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.3%
+,,USD,High,Core Retail Sales m/m,0.2%,0.1%,1.2%
+,,USD,High,Retail Sales m/m,0.1%,0.2%,0.6%
+,,USD,Medium,Empire State Manufacturing Index,16.4,15.3,18.7
+,10:00am,USD,Low,Business Inventories m/m,0.3%,0.3%,0.4%
+,,USD,Low,NAHB Housing Market Index,71,65,65
+,10:30am,USD,High,Crude Oil Inventories,-0.2M,3.3M,8.2M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.00%,<1.00%,<0.75%
+,2:20pm,USD,High,President Trump Speaks,,,
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,6.3B,13.4B,-12.9B
+,5:45pm,NZD,High,GDP q/q,0.4%,0.7%,0.8%
+,8:00pm,AUD,Low,MI Inflation Expectations,4.0%,,4.1%
+,8:30pm,AUD,High,Employment Change,-6.4K,16.3K,13.5K
+,,AUD,High,Unemployment Rate,5.9%,5.7%,5.7%
+,,AUD,Low,RBA Bulletin,,,
+,10:54pm,JPY,High,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+,,JPY,Medium,Monetary Policy Statement,,,
+Thu Mar 16 2017,2:30am,JPY,High,BOJ Press Conference,,,
+,4:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,5:46am,EUR,Low,Spanish 10-y Bond Auction,1.94|1.3,,1.68|1.4
+,6:00am,EUR,Medium,Final CPI y/y,2.0%,2.0%,2.0%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,8:00am,GBP,High,MPC Official Bank Rate Votes,1-0-8,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.25%,0.25%,0.25%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Medium,Foreign Securities Purchases,6.20B,9.45B,10.21B
+,,USD,High,Building Permits,1.21M,1.26M,1.29M
+,,USD,High,Philly Fed Manufacturing Index,32.8,30.2,43.3
+,,USD,High,Unemployment Claims,241K,245K,243K
+,,USD,Medium,Housing Starts,1.29M,1.26M,1.25M
+,10:00am,USD,Medium,JOLTS Job Openings,5.63M,5.45M,5.54M
+,10:30am,USD,Low,Natural Gas Storage,-53B,-60B,-68B
+,5:30pm,NZD,Low,BusinessNZ Manufacturing Index,55.2,,52.2
+,6:40pm,CNY,Low,Foreign Direct Investment ytd/y,-2.3%,,-9.2%
+Fri Mar 17 2017,5:00am,EUR,Low,Italian Trade Balance,-0.57B,3.45B,5.73B
+,6:00am,EUR,Low,Trade Balance,15.7B,22.3B,23.1B
+,Day 1,All,High,G20 Meetings,,,
+,8:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,0.6%,0.7%,2.1%
+,9:15am,USD,Medium,Capacity Utilization Rate,75.4%,75.5%,75.5%
+,,USD,Medium,Industrial Production m/m,0.0%,0.3%,-0.1%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,97.6,97.1,96.3
+,,USD,Low,CB Leading Index m/m,0.6%,0.4%,0.6%
+,,USD,Low,Prelim UoM Inflation Expectations,2.4%,,2.7%
+,10:01am,USD,Low,Labor Market Conditions Index m/m,1.3,,1.3
+Sat Mar 18 2017,Day 2,All,High,G20 Meetings,,,

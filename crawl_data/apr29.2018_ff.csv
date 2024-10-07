@@ -1,0 +1,120 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 29 2018,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.5%,,0.1%
+,,CNY,Medium,Manufacturing PMI,51.4,51.3,51.5
+,,CNY,Medium,Non-Manufacturing PMI,54.8,54.6,54.6
+,,NZD,High,ANZ Business Confidence,-23.4,,-20.0
+,9:15pm,AUD,Low,HIA New Home Sales m/m,-2.0%,,-0.7%
+,9:30pm,AUD,Low,Private Sector Credit m/m,0.5%,0.4%,0.4%
+Mon Apr 30 2018,2:00am,EUR,Medium,German Retail Sales m/m,-0.6%,0.8%,-0.2%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.0%,-0.1%,0.4%
+,3:00am,CHF,Medium,KOF Economic Barometer,105.3,105.9,105.1
+,4:00am,EUR,Medium,M3 Money Supply y/y,3.7%,4.1%,4.2%
+,,EUR,Low,Private Loans y/y,3.0%,2.9%,2.9%
+,5:00am,EUR,Low,Italian Prelim CPI m/m,0.1%,0.2%,0.3%
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,CAD,Medium,RMPI m/m,2.1%,0.6%,-0.4%
+,,CAD,Low,IPPI m/m,0.8%,0.2%,0.3%
+,,USD,Medium,Core PCE Price Index m/m,0.2%,0.2%,0.2%
+,,USD,Medium,Personal Spending m/m,0.4%,0.4%,0.0%
+,,USD,Low,Personal Income m/m,0.3%,0.4%,0.3%
+,9:45am,USD,Medium,Chicago PMI,57.6,58.2,57.4
+,10:00am,USD,Low,Pending Home Sales m/m,0.4%,0.6%,2.8%
+,2:30pm,CAD,High,BOC Gov Poloz Speaks,,,
+,6:30pm,AUD,Low,AIG Manufacturing Index,58.3,,63.1
+,6:45pm,NZD,Low,Building Consents m/m,14.7%,,6.4%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:30pm,JPY,Low,Final Manufacturing PMI,53.8,53.3,53.3
+Tue May 1 2018,12:30am,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,1.50%,1.50%,1.50%
+,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,2:30am,AUD,Low,Commodity Prices y/y,-1.4%,,-2.8%
+,4:30am,GBP,High,Final Manufacturing PMI,53.9,54.8,54.9
+,,GBP,Medium,Net Lending to Individuals m/m,4.2B,4.9B,5.5B
+,,GBP,Low,M4 Money Supply m/m,-1.4%,0.2%,-0.4%
+,,GBP,Low,Mortgage Approvals,63K,63K,64K
+,6:20am,AUD,High,RBA Gov Lowe Speaks,,,
+,8:30am,CAD,High,GDP m/m,0.4%,0.3%,-0.1%
+,9:30am,CAD,Low,Manufacturing PMI,55.5,,55.7
+,9:45am,USD,Low,Final Manufacturing PMI,56.5,56.5,56.5
+,10:00am,USD,High,ISM Manufacturing PMI,57.3,58.4,59.3
+,,USD,Low,Construction Spending m/m,-1.7%,0.5%,1.0%
+,,USD,Low,ISM Manufacturing Prices,79.3,78.3,78.1
+,All Day,USD,Low,Wards Total Vehicle Sales,17.1M,17.0M,17.4M
+,10:24am,NZD,Medium,GDT Price Index,-1.1%,,2.7%
+,All Day,USD,Low,Total Vehicle Sales,17.2M,17.1M,17.5M
+,2:30pm,CAD,High,BOC Gov Poloz Speaks,,,
+,6:45pm,NZD,High,Employment Change q/q,0.6%,0.5%,0.4%
+,,NZD,High,Unemployment Rate,4.4%,4.4%,4.5%
+,,NZD,Low,Labor Cost Index q/q,0.3%,0.5%,0.4%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.0%,,-1.0%
+,7:50pm,JPY,Low,Monetary Base y/y,7.8%,9.2%,9.1%
+,9:45pm,CNY,Medium,Caixin Manufacturing PMI,51.1,50.9,51.0
+Wed May 2 2018,1:02am,JPY,Low,Consumer Confidence,43.6,44.6,44.3
+,1:45am,CHF,Low,SECO Consumer Climate,2,5,5
+,3:15am,CHF,Low,Retail Sales y/y,-1.8%,0.3%,-0.2%
+,,EUR,Low,Spanish Manufacturing PMI,54.4,54.2,54.8
+,3:30am,CHF,Low,Manufacturing PMI,63.6,59.9,60.3
+,3:45am,EUR,Low,Italian Manufacturing PMI,53.5,54.4,55.1
+,3:50am,EUR,Low,French Final Manufacturing PMI,53.8,53.4,53.4
+,3:55am,EUR,Low,German Final Manufacturing PMI,58.1,58.1,58.1
+,4:00am,EUR,Low,Final Manufacturing PMI,56.2,56.0,56.0
+,,EUR,Low,Italian Monthly Unemployment Rate,11.0%,10.9%,11.0%
+,4:30am,GBP,High,Construction PMI,52.5,50.5,47.0
+,5:00am,EUR,Medium,Prelim Flash GDP q/q,0.4%,0.4%,0.6%
+,,EUR,Low,Italian Prelim GDP q/q,0.3%,0.3%,0.3%
+,,EUR,Low,Unemployment Rate,8.5%,8.5%,8.5%
+,8:15am,USD,High,ADP Non-Farm Employment Change,204K,200K,228K
+,10:30am,USD,High,Crude Oil Inventories,6.2M,1.0M,2.2M
+,11:30am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.75%,<1.75%,<1.75%
+,6:30pm,AUD,Low,AIG Services Index,55.2,,56.9
+,All Day,JPY,Holiday,Bank Holiday,,,
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,1.0%,,1.2%
+,9:30pm,AUD,High,Trade Balance,1.53B,0.68B,1.35B
+,,AUD,Medium,Building Approvals m/m,2.6%,1.1%,-4.2%
+Thu May 3 2018,4:30am,GBP,High,Final Services PMI,52.8,53.5,51.7
+,4:47am,EUR,Low,Spanish 10-y Bond Auction,1.29|2.0,,1.24|1.3
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.2%,1.3%,1.3%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.7%,0.9%,1.0%
+,,EUR,Medium,EU Economic Forecasts,,,
+,,EUR,Low,PPI m/m,0.1%,0.1%,0.0%
+,5:03am,EUR,Low,French 10-y Bond Auction,0.81|1.9,,0.74|1.9
+,7:30am,USD,Low,Challenger Job Cuts y/y,-1.4%,,39.4%
+,8:30am,CAD,High,Trade Balance,-4.1B,-2.3B,-2.9B
+,,USD,Medium,Prelim Nonfarm Productivity q/q,0.7%,0.9%,0.0%
+,,USD,Medium,Prelim Unit Labor Costs q/q,2.7%,3.1%,2.5%
+,,USD,Medium,Unemployment Claims,211K,225K,209K
+,,USD,Low,Trade Balance,-49.0B,-50.0B,-57.7B
+,9:45am,USD,Low,Final Services PMI,54.6,54.4,54.4
+,10:00am,USD,High,ISM Services PMI,56.8,58.1,58.8
+,,USD,Low,Factory Orders m/m,1.6%,1.3%,1.6%
+,10:30am,USD,Low,Natural Gas Storage,62B,47B,-18B
+,12:00pm,CHF,High,SNB Chairman Jordan Speaks,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+,9:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,9:45pm,CNY,Medium,Caixin Services PMI,52.9,52.2,52.3
+Fri May 4 2018,2:45am,EUR,Low,French Gov Budget Balance,-33.1B,,-28.5B
+,,EUR,Low,French Trade Balance,-5.3B,-4.9B,-5.0B
+,3:00am,EUR,Low,Spanish Unemployment Change,-86.7K,-100.2K,-47.7K
+,3:15am,EUR,Low,Spanish Services PMI,55.6,56.1,56.2
+,3:45am,EUR,Low,Italian Services PMI,52.6,53.0,52.6
+,3:50am,EUR,Low,French Final Services PMI,57.4,57.4,57.4
+,3:55am,EUR,Low,German Final Services PMI,53.0,54.1,54.1
+,4:00am,EUR,Low,Final Services PMI,54.7,55.0,55.0
+,5:00am,EUR,Low,Retail Sales m/m,0.1%,0.5%,0.3%
+,8:30am,USD,High,Average Hourly Earnings m/m,0.1%,0.2%,0.2%
+,,USD,High,Non-Farm Employment Change,164K,190K,135K
+,,USD,High,Unemployment Rate,3.9%,4.0%,4.1%
+,9:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,10:00am,CAD,Medium,Ivey PMI,71.5,60.2,59.8
+,12:45pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,3:00pm,USD,Medium,FOMC Member Williams Speaks,,,
+,5:30pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,8:00pm,USD,Medium,FOMC Member Bostic Speaks,,,
+Sat May 5 2018,,,No specified,,,,

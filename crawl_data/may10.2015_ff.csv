@@ -1,0 +1,89 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 10 2015,9:30pm,AUD,High,NAB Business Confidence,3,,3
+Mon May 11 2015,All Day,EUR,High,Eurogroup Meetings,,,
+,7:00am,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,10:00am,USD,Low,Labor Market Conditions Index m/m,-1.9,,-1.8
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-2.4%,,3.2%
+,9:30pm,AUD,Medium,Home Loans m/m,1.6%,1.1%,1.1%
+,10:14pm,NZD,Low,REINZ HPI m/m,0.5%,,6.7%
+,11:45pm,JPY,Low,10-y Bond Auction,0.43|2.2,,0.37|2.7
+Tue May 12 2015,1:00am,JPY,Low,Leading Indicators,105.5%,105.5%,104.8%
+,4:30am,GBP,High,Manufacturing Production m/m,0.4%,0.3%,0.5%
+,,GBP,Low,Industrial Production m/m,0.5%,0.0%,0.1%
+,5:30am,AUD,High,Annual Budget Release,,,
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:48am,USD,Low,NFIB Small Business Index,96.9,96.1,95.2
+,10:00am,GBP,Medium,NIESR GDP Estimate,0.4%,,0.3%
+,10:02am,USD,Medium,JOLTS Job Openings,4.99M,5.16M,5.14M
+,12:45pm,USD,Medium,FOMC Member Williams Speaks,,,
+,1:58pm,USD,Low,Federal Budget Balance,156.7B,151.3B,-52.9B
+,5:00pm,NZD,High,RBNZ Financial Stability Report,,,
+,5:05pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,6:45pm,NZD,Low,FPI m/m,-0.3%,,0.1%
+,7:50pm,JPY,Medium,Current Account,2.07T,1.34T,0.61T
+,,JPY,Low,Bank Lending y/y,2.6%,,2.6%
+,9:30pm,AUD,Medium,Wage Price Index q/q,0.5%,0.6%,0.6%
+Wed May 13 2015,1:00am,JPY,Low,Economy Watchers Sentiment,53.6,52.1,52.2
+,1:30am,CNY,High,Industrial Production y/y,5.9%,6.1%,5.6%
+,,CNY,Medium,Fixed Asset Investment ytd/y,12.0%,13.6%,13.5%
+,,CNY,Low,Retail Sales y/y,10.0%,10.4%,10.2%
+,,EUR,Medium,French Prelim GDP q/q,0.6%,0.4%,0.0%
+,2:00am,EUR,High,German Prelim GDP q/q,0.3%,0.5%,0.7%
+,,EUR,Low,German Final CPI m/m,0.0%,-0.1%,-0.1%
+,,EUR,Low,German WPI m/m,0.4%,0.4%,1.0%
+,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.2%,0.7%
+,,EUR,Low,French Prelim Private Payrolls q/q,-0.1%,0.0%,0.0%
+,4:00am,EUR,Medium,Italian Prelim GDP q/q,0.3%,0.2%,0.0%
+,4:03am,CNY,Medium,New Loans,708B,1210B,1180B
+,,CNY,Low,M2 Money Supply y/y,10.1%,11.9%,11.6%
+,4:30am,GBP,High,Average Earnings Index 3m/y,1.9%,1.7%,1.7%
+,,GBP,High,Claimant Count Change,-12.6K,-20.5K,-16.7K
+,,GBP,Medium,Unemployment Rate,5.5%,5.5%,5.6%
+,5:00am,EUR,Medium,Flash GDP q/q,0.4%,0.5%,0.3%
+,,EUR,Low,Industrial Production m/m,-0.3%,0.1%,1.0%
+,5:30am,GBP,High,BOE Gov Carney Speaks,,,
+,,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,Medium,BOE Inflation Letter,,,
+,5:33am,EUR,Medium,German 10-y Bond Auction,0.65|1.3,,0.13|1.5
+,8:30am,USD,High,Core Retail Sales m/m,0.1%,0.4%,0.7%
+,,USD,High,Retail Sales m/m,0.0%,0.3%,1.1%
+,,USD,Medium,Import Prices m/m,-0.3%,0.3%,-0.2%
+,10:00am,USD,Medium,Business Inventories m/m,0.1%,0.2%,0.2%
+,10:30am,USD,Medium,Crude Oil Inventories,-2.2M,-0.1M,-3.9M
+,1:01pm,USD,Medium,10-y Bond Auction,2.24|2.7,,1.93|2.6
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,51.8,,54.6
+,6:45pm,NZD,High,Retail Sales q/q,2.7%,1.6%,1.9%
+,,NZD,Medium,Core Retail Sales q/q,2.9%,1.5%,1.9%
+,7:01pm,GBP,Low,RICS House Price Balance,33%,22%,22%
+,7:50pm,JPY,Low,M2 Money Stock y/y,3.6%,3.6%,3.6%
+,11:45pm,JPY,Low,30-y Bond Auction,1.51|2.7,,1.38|2.9
+Thu May 14 2015,1:57am,JPY,Low,Prelim Machine Tool Orders y/y,10.4%,,14.9%
+,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,8:30am,CAD,Medium,NHPI m/m,0.0%,0.2%,0.2%
+,,USD,High,PPI m/m,-0.4%,0.1%,0.2%
+,,USD,High,Unemployment Claims,264K,272K,265K
+,,USD,Medium,Core PPI m/m,-0.2%,0.1%,0.2%
+,10:30am,CAD,Low,BOC Review,,,
+,,USD,Low,Natural Gas Storage,111B,112B,76B
+,11:00am,EUR,High,ECB President Draghi Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,3.04|2.2,,2.60|2.2
+,3:45pm,CAD,Low,Gov Council Member Patterson Speaks,,,
+,7:50pm,JPY,Low,PPI y/y,-2.1%,-2.1%,0.7%
+,10:00pm,CNY,Low,Foreign Direct Investment ytd/y,11.1%,,11.3%
+,11:40pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Fri May 15 2015,1:00am,JPY,Low,Consumer Confidence,41.5,41.9,41.7
+,3:15am,CHF,Medium,PPI m/m,-2.1%,-0.1%,0.2%
+,4:30am,GBP,Low,Construction Output m/m,3.9%,4.1%,-0.3%
+,8:30am,CAD,High,Manufacturing Sales m/m,2.9%,1.2%,-2.2%
+,,CAD,Medium,Foreign Securities Purchases,22.47B,7.23B,9.35B
+,,USD,Medium,Empire State Manufacturing Index,3.1,5.1,-1.2
+,9:15am,USD,Medium,Capacity Utilization Rate,78.2%,78.4%,78.6%
+,,USD,Medium,Industrial Production m/m,-0.3%,0.1%,-0.3%
+,9:30am,GBP,Low,CB Leading Index m/m,0.2%,,0.6%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,88.6,95.8,95.9
+,,USD,Low,Prelim UoM Inflation Expectations,2.9%,,2.6%
+,4:00pm,USD,Low,TIC Long-Term Purchases,17.6B,21.3B,20.9B
+Sat May 16 2015,,,No specified,,,,

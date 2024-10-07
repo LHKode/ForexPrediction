@@ -1,0 +1,107 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 14 2021,6:50pm,JPY,Low,Prelim GDP Price Index y/y,0.2%,0.5%,1.2%
+,,JPY,Low,Prelim GDP q/q,3.0%,2.4%,5.3%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,Rightmove HPI m/m,0.5%,,-0.9%
+,11:32pm,JPY,Low,Revised Industrial Production m/m,-1.0%,-1.6%,-1.6%
+Mon Feb 15 2021,5:00am,EUR,Low,Industrial Production m/m,-1.6%,-0.4%,2.6%
+,,EUR,Low,Trade Balance,27.5B,22.3B,24.9B
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:17am,CAD,Low,Housing Starts,282K,236K,229K
+,8:30am,CAD,Low,Manufacturing Sales m/m,0.9%,0.2%,-0.4%
+,4:45pm,NZD,Low,Visitor Arrivals m/m,15.4%,,0.8%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,Monetary Policy Meeting Minutes,,,
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,-0.4%,-0.6%,-0.6%
+Tue Feb 16 2021,4:00am,EUR,Low,Italian Trade Balance,6.84B,6.25B,6.75B
+,5:00am,EUR,Low,Flash Employment Change q/q,0.3%,0.9%,1.0%
+,,EUR,Low,Flash GDP q/q,-0.6%,-0.7%,-0.7%
+,,EUR,Low,ZEW Economic Sentiment,69.6,59.2,58.3
+,,EUR,Low,German ZEW Economic Sentiment,71.2,59.7,61.8
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,CAD,Low,Foreign Securities Purchases,5.08B,7.72B,11.78B
+,,USD,Low,Empire State Manufacturing Index,12.1,6.2,3.5
+,9:20am,NZD,Low,GDT Price Index,3.0%,,1.8%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.5%,,-0.3%
+,10:30am,AUD,Low,CB Leading Index m/m,1.1%,,0.8%
+,11:10am,USD,Low,FOMC Member Bowman Speaks,,,
+,3:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,121.0B,103.5B,149.2B
+,6:30pm,AUD,Low,MI Leading Index m/m,0.3%,,0.1%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,5.2%,-6.1%,1.5%
+,,JPY,Low,Trade Balance,0.39T,0.49T,0.51T
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:00pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+Wed Feb 17 2021,2:00am,GBP,High,CPI y/y,0.7%,0.6%,0.6%
+,,GBP,Low,Core CPI y/y,1.4%,1.3%,1.4%
+,,GBP,Low,RPI y/y,1.4%,1.3%,1.2%
+,2:03am,GBP,Low,PPI Input m/m,0.7%,0.5%,1.2%
+,,GBP,Low,PPI Output m/m,0.4%,0.2%,0.2%
+,4:30am,GBP,Low,HPI y/y,8.5%,7.5%,7.1%
+,5:34am,EUR,Low,German 30-y Bond Auction,0.10|1.3,,-0.13|1.4
+,8:30am,CAD,Medium,CPI m/m,0.6%,0.5%,-0.2%
+,,CAD,Low,Common CPI y/y,1.3%,1.4%,1.3%
+,,CAD,Low,Median CPI y/y,1.4%,1.8%,1.3%
+,,CAD,Low,Trimmed CPI y/y,1.8%,1.6%,1.6%
+,,USD,High,Core Retail Sales m/m,5.9%,1.1%,-1.8%
+,,USD,High,Retail Sales m/m,5.3%,1.1%,-1.0%
+,,USD,Low,Core PPI m/m,1.2%,0.2%,0.1%
+,,USD,Low,PPI m/m,1.3%,0.4%,0.3%
+,8:32am,CAD,Low,Core CPI m/m,0.5%,,-0.4%
+,9:00am,USD,Low,FOMC Member Barkin Speaks,,,
+,9:15am,USD,Low,Capacity Utilization Rate,75.6%,74.9%,74.9%
+,,USD,Low,Industrial Production m/m,0.9%,0.4%,1.3%
+,10:00am,USD,Low,Business Inventories m/m,0.6%,0.5%,0.5%
+,,USD,Low,NAHB Housing Market Index,84,83,83
+,11:00am,GBP,Low,MPC Member Ramsden Speaks,,,
+,2:00pm,USD,Medium,FOMC Meeting Minutes,,,
+,7:30pm,AUD,High,Employment Change,29.1K,30.2K,50.0K
+,,AUD,High,Unemployment Rate,6.4%,6.5%,6.6%
+Thu Feb 18 2021,2:00am,CHF,Low,Trade Balance,5.05B,3.32B,2.89B
+,4:51am,EUR,Low,Spanish 10-y Bond Auction,0.27|2.1,,0.16|1.6
+,6:00am,GBP,Low,MPC Member Saunders Speaks,,,
+,7:30am,EUR,Low,ECB Monetary Policy Meeting Accounts,,,
+,8:00am,USD,Low,FOMC Member Brainard Speaks,,,
+,8:29am,USD,Medium,Philly Fed Manufacturing Index,23.1,20.3,26.5
+,8:30am,CAD,Low,NHPI m/m,0.7%,0.2%,0.3%
+,,USD,Low,Building Permits,1.88M,1.67M,1.70M
+,,USD,Low,Housing Starts,1.58M,1.66M,1.68M
+,,USD,Low,Import Prices m/m,1.4%,1.0%,1.0%
+,,USD,Low,Unemployment Claims,861K,775K,848K
+,8:35am,CAD,Low,ADP Non-Farm Employment Change,-231.2K,,338.2K
+,9:10am,EUR,Low,Consumer Confidence,-15,-15,-16
+,10:30am,USD,Low,Natural Gas Storage,-237B,-250B,-171B
+,11:00am,USD,Medium,Crude Oil Inventories,-7.3M,-2.1M,-6.6M
+,4:45pm,NZD,Low,PPI Input q/q,0.0%,0.1%,0.6%
+,,NZD,Low,PPI Output q/q,0.4%,-0.2%,-0.3%
+,5:00pm,AUD,Low,Flash Manufacturing PMI,56.6,,57.2
+,,AUD,Low,Flash Services PMI,54.1,,55.6
+,6:30pm,JPY,Low,National Core CPI y/y,-0.6%,-0.6%,-1.0%
+,7:01pm,GBP,Low,GfK Consumer Confidence,-23,-26,-28
+,7:30pm,AUD,Low,Retail Sales m/m,0.6%,2.1%,-4.1%
+,,JPY,Low,Flash Manufacturing PMI,50.6,50.0,49.8
+Fri Feb 19 2021,2:00am,EUR,Low,German PPI m/m,1.4%,0.9%,0.8%
+,,GBP,High,Retail Sales m/m,-8.2%,-3.0%,0.4%
+,,GBP,Low,Public Sector Net Borrowing,8.0B,22.0B,26.1B
+,2:45am,EUR,Low,French Final CPI m/m,0.2%,0.2%,0.2%
+,3:15am,EUR,High,French Flash Services PMI,43.6,47.0,47.3
+,,EUR,Medium,French Flash Manufacturing PMI,55.0,51.7,51.6
+,3:30am,EUR,High,German Flash Manufacturing PMI,60.6,56.6,57.1
+,,EUR,High,German Flash Services PMI,45.9,46.5,46.7
+,4:00am,EUR,Medium,Flash Manufacturing PMI,57.7,54.6,54.8
+,,EUR,Medium,Flash Services PMI,44.7,45.9,45.4
+,,EUR,Low,Current Account,36.7B,22.0B,25.1B
+,4:30am,GBP,High,Flash Services PMI,49.7,42.1,39.5
+,,GBP,Medium,Flash Manufacturing PMI,54.9,53.1,54.1
+,All Day,All,Low,G7 Meetings,,,
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-24,-35,-38
+,7:00am,GBP,Low,MPC Member Vlieghe Speaks,,,
+,8:00am,USD,Low,FOMC Member Barkin Speaks,,,
+,8:30am,CAD,Medium,Core Retail Sales m/m,-4.1%,-2.4%,2.9%
+,,CAD,Medium,Retail Sales m/m,-3.4%,-2.5%,1.8%
+,9:45am,USD,Medium,Flash Manufacturing PMI,58.5,58.4,59.2
+,,USD,Low,Flash Services PMI,58.9,57.9,58.3
+,10:00am,USD,Low,Existing Home Sales,6.69M,6.59M,6.65M
+,11:00am,USD,Low,Fed Monetary Policy Report,,,
+Sat Feb 20 2021,,,No specified,,,,

@@ -1,0 +1,90 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 14 2015,7:01pm,GBP,Low,Rightmove HPI m/m,3.0%,,-0.1%
+Mon Jun 15 2015,3:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,3:15am,CHF,Medium,PPI m/m,-0.8%,0.1%,-2.1%
+,,CHF,Medium,Retail Sales y/y,1.6%,-2.2%,-2.8%
+,3:50am,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,5:00am,EUR,Low,Trade Balance,24.3B,20.3B,19.9B
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,-2.1%,-1.3%,2.7%
+,,USD,Medium,Empire State Manufacturing Index,-2.0,5.8,3.1
+,9:00am,EUR,High,ECB President Draghi Speaks,,,
+,9:15am,USD,Medium,Capacity Utilization Rate,78.1%,78.3%,78.3%
+,,USD,Medium,Industrial Production m/m,-0.2%,0.2%,-0.5%
+,10:00am,USD,Medium,NAHB Housing Market Index,59,56,54
+,4:00pm,USD,Low,TIC Long-Term Purchases,53.9B,22.5B,25.6B
+,5:55pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,-1.3%,,-1.5%
+Tue Jun 16 2015,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,2:00am,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
+,3:36am,EUR,High,European Court of Justice Ruling,,,
+,4:30am,GBP,High,CPI y/y,0.1%,0.1%,-0.1%
+,,GBP,Medium,PPI Input m/m,-0.9%,0.7%,1.4%
+,,GBP,Medium,RPI y/y,1.0%,1.1%,0.9%
+,,GBP,Low,Core CPI y/y,0.9%,1.0%,0.8%
+,,GBP,Low,ONS HPI y/y,5.5%,10.2%,9.6%
+,,GBP,Low,PPI Output m/m,0.1%,0.1%,0.1%
+,5:00am,EUR,High,German ZEW Economic Sentiment,31.5,37.5,41.9
+,,EUR,Medium,ZEW Economic Sentiment,53.7,60.3,61.2
+,,EUR,Low,Final Employment Change q/q,0.1%,0.1%,0.1%
+,8:30am,CAD,Medium,Foreign Securities Purchases,12.94B,5.03B,22.56B
+,,USD,High,Building Permits,1.28M,1.11M,1.14M
+,,USD,Medium,Housing Starts,1.04M,1.10M,1.17M
+,9:30am,GBP,Low,CB Leading Index m/m,0.4%,,0.3%
+,10:08am,NZD,High,GDT Price Index,-1.3%,,-4.3%
+,6:45pm,NZD,Medium,Current Account,0.66B,0.27B,-3.17B
+,7:50pm,JPY,Medium,Trade Balance,-0.18T,-0.17T,-0.24T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,0.0%
+Wed Jun 17 2015,4:04am,EUR,Low,Italian Trade Balance,3.74B,3.27B,4.01B
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.7%,2.5%,2.3%
+,,GBP,High,Claimant Count Change,-6.5K,-12.5K,-7.8K
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,Unemployment Rate,5.5%,5.5%,5.5%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,0.1,,-0.1
+,,EUR,Medium,Final CPI y/y,0.3%,0.3%,0.3%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,5:34am,EUR,Medium,German 10-y Bond Auction,0.81|1.7,,0.65|1.3
+,8:30am,CAD,High,Wholesale Sales m/m,1.9%,0.3%,1.0%
+,10:30am,USD,Medium,Crude Oil Inventories,-2.7M,-1.6M,-6.8M
+,1:30pm,GBP,Medium,MPC Member Forbes Speaks,,,
+,1:45pm,GBP,High,BOE Gov Carney Speaks,,,
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:45pm,NZD,High,GDP q/q,0.2%,0.6%,0.7%
+,7:05pm,GBP,Low,BOE Quarterly Bulletin,,,
+,9:30pm,AUD,Low,RBA Bulletin,,,
+,10:02pm,CNY,Low,Foreign Direct Investment ytd/y,10.5%,,11.1%
+Thu Jun 18 2015,12:30am,CHF,Medium,SNB Financial Stability Report,,,
+,2:00am,CHF,Medium,Trade Balance,3.43B,2.72B,2.66B
+,3:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,High,SNB Press Conference,,,
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,High,Retail Sales m/m,0.2%,0.0%,0.9%
+,4:47am,EUR,Low,Spanish 10-y Bond Auction,2.35|1.9,,1.88|3.0
+,5:30am,EUR,High,Long Term Refinancing Operation,73.8B,60.0B,97.8B
+,All Day,EUR,High,Eurogroup Meetings,,,
+,8:30am,USD,High,CPI m/m,0.4%,0.5%,0.1%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.3%
+,,USD,High,Unemployment Claims,267K,278K,279K
+,,USD,Medium,Current Account,-113B,-116B,-103B
+,10:00am,USD,High,Philly Fed Manufacturing Index,15.2,8.1,6.7
+,,USD,Low,CB Leading Index m/m,0.7%,0.4%,0.7%
+,10:30am,USD,Low,Natural Gas Storage,89B,95B,111B
+,11:04pm,JPY,High,Monetary Policy Statement,,,
+Fri Jun 19 2015,12:30am,JPY,Low,All Industries Activity m/m,0.1%,0.3%,-1.4%
+,2:00am,EUR,Low,German PPI m/m,0.0%,0.2%,0.1%
+,2:31am,JPY,High,BOJ Press Conference,,,
+,4:00am,EUR,Low,Current Account,22.3B,18.1B,18.0B
+,4:30am,GBP,Medium,Public Sector Net Borrowing,9.4B,10.1B,5.5B
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:30am,CAD,High,Core CPI m/m,0.4%,0.3%,0.1%
+,,CAD,High,Core Retail Sales m/m,-0.6%,0.3%,0.7%
+,,CAD,Medium,CPI m/m,0.6%,0.4%,-0.1%
+,,CAD,Medium,Retail Sales m/m,-0.1%,0.7%,0.9%
+,11:40am,USD,Medium,FOMC Member Williams Speaks,,,
+Sat Jun 20 2015,,,No specified,,,,

@@ -1,0 +1,104 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 9 2018,4:35pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,4:45pm,NZD,Low,Manufacturing Sales q/q,2.0%,,1.8%
+,6:50pm,JPY,Low,Bank Lending y/y,2.1%,2.2%,2.2%
+,,JPY,Low,Current Account,1.21T,1.29T,1.33T
+,,JPY,Low,Final GDP q/q,-0.6%,-0.5%,-0.3%
+,6:53pm,JPY,Low,Final GDP Price Index y/y,-0.3%,-0.3%,-0.3%
+,7:30pm,AUD,Low,Home Loans m/m,2.2%,-0.5%,-1.0%
+Mon Dec 10 2018,12:02am,JPY,Low,Economy Watchers Sentiment,51.0,49.5,49.5
+,1:30am,CAD,Medium,Gov Council Member Lane Speaks,,,
+,,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,1:45am,CHF,Low,Unemployment Rate,2.4%,2.5%,2.5%
+,2:00am,EUR,Low,German Trade Balance,17.3B,17.2B,17.7B
+,4:00am,EUR,Low,Italian Industrial Production m/m,0.1%,-0.4%,-0.1%
+,4:30am,EUR,Low,Sentix Investor Confidence,-0.3,8.4,8.8
+,,GBP,High,GDP m/m,0.1%,0.1%,0.0%
+,,GBP,High,Manufacturing Production m/m,-0.9%,0.0%,0.2%
+,,GBP,Low,Construction Output m/m,-0.2%,-0.4%,1.7%
+,,GBP,Low,Goods Trade Balance,-11.9B,-10.5B,-10.7B
+,,GBP,Low,Index of Services 3m/3m,0.3%,0.3%,0.4%
+,,GBP,Low,Industrial Production m/m,-0.6%,-0.4%,0.0%
+,7:45am,CAD,Medium,Gov Council Member Lane Speaks,,,
+,8:13am,CAD,Low,Housing Starts,216K,198K,207K
+,8:24am,GBP,Low,NIESR GDP Estimate,0.3%,,0.4%
+,8:30am,CAD,Low,Building Permits m/m,-0.2%,-0.2%,0.4%
+,10:00am,USD,Low,JOLTS Job Openings,7.08M,7.22M,6.96M
+,10:30am,GBP,High,Prime Minister May Speaks,,,
+,6:50pm,JPY,Low,BSI Manufacturing Index,5.5,4.3,6.5
+,,JPY,Low,M2 Money Stock y/y,2.3%,2.6%,2.7%
+,7:30pm,AUD,Medium,HPI q/q,-1.5%,-1.5%,-0.7%
+,,AUD,Low,NAB Business Confidence,3,,5
+,10:35pm,JPY,Low,30-y Bond Auction,0.79|3.8,,0.87|4.0
+Tue Dec 11 2018,12:58am,JPY,Low,Prelim Machine Tool Orders y/y,-16.8%,,-0.7%
+,1:30am,EUR,Low,French Final Private Payrolls q/q,0.1%,0.2%,0.2%
+,4:01am,CNY,Low,M2 Money Supply y/y,8.0%,8.0%,8.0%
+,,CNY,Low,New Loans,1250B,1200B,697B
+,4:30am,GBP,High,Average Earnings Index 3m/y,3.3%,3.0%,3.1%
+,,GBP,Medium,Unemployment Rate,4.1%,4.1%,4.1%
+,,GBP,Low,Claimant Count Change,21.9K,13.2K,23.2K
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-17.5,-25.0,-24.1
+,,EUR,Low,ZEW Economic Sentiment,-21.0,-23.2,-22.0
+,5:45am,USD,Low,NFIB Small Business Index,104.8,107.3,107.4
+,8:30am,USD,High,PPI m/m,0.1%,0.0%,0.6%
+,,USD,Medium,Core PPI m/m,0.3%,0.1%,0.5%
+,2:15pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,6:27pm,AUD,Medium,Westpac Consumer Sentiment,0.1%,,2.8%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,7.6%,10.2%,-18.3%
+,,JPY,Low,PPI y/y,2.3%,2.4%,3.0%
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,1.9%,0.9%,-1.2%
+Wed Dec 12 2018,4:00am,EUR,Low,Italian Quarterly Unemployment Rate,10.2%,10.3%,10.7%
+,5:00am,EUR,Low,Industrial Production m/m,0.2%,0.2%,-0.6%
+,8:30am,CAD,Low,Capacity Utilization Rate,82.6%,85.8%,84.1%
+,,USD,High,CPI m/m,0.0%,0.0%,0.3%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,10:30am,USD,Low,Crude Oil Inventories,-1.2M,-3.0M,-7.3M
+,1:01pm,USD,Low,10-y Bond Auction,2.92|2.4,,3.21|2.5
+,4:45pm,NZD,Low,FPI m/m,-0.6%,,-0.6%
+,7:00pm,AUD,Low,MI Inflation Expectations,4.0%,,3.6%
+,7:01pm,GBP,Low,RICS House Price Balance,-11%,-10%,-10%
+,7:30pm,AUD,Low,RBA Bulletin,,,
+Thu Dec 13 2018,1:46am,CNY,Low,Foreign Direct Investment ytd/y,-1.3%,,3.3%
+,2:00am,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
+,2:45am,EUR,Low,French Final CPI m/m,-0.2%,-0.2%,-0.2%
+,3:15am,CHF,Low,PPI m/m,-0.3%,0.1%,0.2%
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,Libor Rate,-0.75%,-0.75%,-0.75%
+,4:00am,CHF,High,SNB Press Conference,,,
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Low,NHPI m/m,0.0%,0.0%,0.0%
+,,EUR,High,ECB Press Conference,,,
+,,USD,Low,Import Prices m/m,-1.6%,-1.0%,0.5%
+,,USD,Low,Unemployment Claims,206K,226K,233K
+,10:30am,USD,Low,Natural Gas Storage,-77B,-81B,-63B
+,1:01pm,USD,Medium,30-y Bond Auction,3.17|2.3,,3.42|2.1
+,2:00pm,USD,Low,Federal Budget Balance,-204.9B,-193.5B,-100.5B
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,53.5,,53.7
+,5:00pm,AUD,Low,Flash Manufacturing PMI,53.7,,54.6
+,,AUD,Low,Flash Services PMI,52.2,,53.7
+,6:50pm,JPY,Low,Tankan Manufacturing Index,19,18,19
+,,JPY,Low,Tankan Non-Manufacturing Index,24,21,22
+,7:30pm,JPY,Low,Flash Manufacturing PMI,52.4,52.3,52.2
+,9:00pm,CNY,Medium,Fixed Asset Investment ytd/y,5.9%,5.9%,5.7%
+,,CNY,Medium,Industrial Production y/y,5.4%,5.9%,5.9%
+,,CNY,Low,Retail Sales y/y,8.1%,8.8%,8.6%
+,,CNY,Low,Unemployment Rate,4.8%,,4.9%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,2.9%,2.8%,2.9%
+Fri Dec 14 2018,2:00am,EUR,Low,German WPI m/m,0.2%,0.2%,0.3%
+,3:15am,EUR,Medium,French Flash Manufacturing PMI,49.7,50.7,50.8
+,,EUR,Medium,French Flash Services PMI,49.6,54.8,55.1
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,51.5,51.8,51.8
+,,EUR,Medium,German Flash Services PMI,52.5,53.4,53.3
+,4:00am,EUR,Medium,Flash Manufacturing PMI,51.4,51.9,51.8
+,,EUR,Medium,Flash Services PMI,51.4,53.4,53.4
+,All Day,EUR,Medium,Euro Summit,,,
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.2%,1.0%
+,,USD,High,Retail Sales m/m,0.2%,0.1%,1.1%
+,9:15am,USD,Low,Capacity Utilization Rate,78.5%,78.6%,78.1%
+,,USD,Low,Industrial Production m/m,0.6%,0.3%,-0.2%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.4%,,-0.4%
+,9:45am,USD,Low,Flash Manufacturing PMI,53.9,55.1,55.3
+,,USD,Low,Flash Services PMI,53.4,54.7,54.7
+,10:00am,USD,Low,Business Inventories m/m,0.6%,0.6%,0.5%
+Sat Dec 15 2018,5:30am,EUR,Medium,ECB President Draghi Speaks,,,

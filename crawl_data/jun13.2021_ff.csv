@@ -1,0 +1,98 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 13 2021,Day 3,All,Low,G7 Meetings,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,6:45pm,NZD,Low,Visitor Arrivals m/m,588.3%,,-12.4%
+,All Day,CNY,Holiday,Bank Holiday,,,
+Mon Jun 14 2021,12:30am,JPY,Low,Revised Industrial Production m/m,2.9%,2.5%,2.5%
+,2:30am,CHF,Low,PPI m/m,0.8%,0.4%,0.7%
+,5:00am,EUR,Low,Industrial Production m/m,0.8%,0.4%,0.4%
+,8:30am,CAD,Low,Manufacturing Sales m/m,-2.1%,1.1%,4.0%
+,9:00am,GBP,Medium,BOE Gov Bailey Speaks,,,
+,9:30am,GBP,Low,CB Leading Index m/m,0.3%,,0.1%
+,6:45pm,NZD,Low,FPI m/m,0.4%,,1.1%
+,9:30pm,AUD,Medium,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,HPI q/q,5.4%,4.8%,3.0%
+Tue Jun 15 2021,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.7%,-0.7%,2.4%
+,2:00am,EUR,Low,German Final CPI m/m,0.5%,0.5%,0.5%
+,,GBP,Low,Average Earnings Index 3m/y,5.6%,4.9%,4.3%
+,,GBP,Low,Claimant Count Change,-92.6K,25.0K,-55.8K
+,,GBP,Low,Unemployment Rate,4.7%,4.7%,4.8%
+,2:45am,EUR,Low,French Final CPI m/m,0.3%,0.3%,0.3%
+,3:00am,CHF,Low,SECO Economic Forecasts,,,
+,5:00am,EUR,Low,Trade Balance,9.4B,14.9B,18.3B
+,6:30am,GBP,Low,30-y Bond Auction,1.27|2.2,,1.30|2.2
+,8:15am,CAD,Low,Housing Starts,276K,279K,267K
+,,GBP,High,BOE Gov Bailey Speaks,,,
+,8:30am,USD,High,Core Retail Sales m/m,-0.7%,0.4%,0.0%
+,,USD,High,PPI m/m,0.8%,0.5%,0.6%
+,,USD,High,Retail Sales m/m,-1.3%,-0.6%,0.9%
+,,USD,Medium,Core PPI m/m,0.7%,0.5%,0.7%
+,,USD,Low,Empire State Manufacturing Index,17.4,22.2,24.3
+,9:15am,USD,Medium,Industrial Production m/m,0.8%,0.6%,0.1%
+,,USD,Low,Capacity Utilization Rate,75.2%,75.2%,74.6%
+,10:00am,USD,Low,Business Inventories m/m,-0.2%,-0.1%,0.2%
+,,USD,Low,NAHB Housing Market Index,81,83,83
+,10:37am,NZD,Low,GDT Price Index,-1.3%,,-0.9%
+,4:00pm,USD,Low,TIC Long-Term Purchases,100.7B,119.5B,262.4B
+,6:45pm,NZD,Low,Current Account,-2.90B,-2.49B,-2.59B
+,7:50pm,JPY,Low,Core Machinery Orders m/m,0.6%,2.6%,3.7%
+,,JPY,Low,Trade Balance,0.04T,0.24T,0.08T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,0.2%
+Wed Jun 16 2021,2:00am,GBP,Medium,CPI y/y,2.1%,1.8%,1.5%
+,,GBP,Low,Core CPI y/y,2.0%,1.5%,1.3%
+,,GBP,Low,PPI Input m/m,1.1%,1.0%,1.2%
+,,GBP,Low,PPI Output m/m,0.5%,0.4%,0.4%
+,,GBP,Low,RPI y/y,3.3%,3.3%,2.9%
+,3:00am,CNY,Medium,Industrial Production y/y,8.8%,9.2%,9.8%
+,,CNY,Low,Fixed Asset Investment ytd/y,15.4%,17.0%,19.9%
+,,CNY,Low,Retail Sales y/y,12.4%,14.0%,17.7%
+,,CNY,Low,Unemployment Rate,5.0%,5.1%,5.1%
+,4:30am,GBP,Low,HPI y/y,8.9%,12.1%,9.9%
+,5:33am,EUR,Low,German 10-y Bond Auction,-0.19|1.3,,-0.09|1.3
+,8:30am,CAD,High,CPI m/m,0.5%,0.4%,0.5%
+,,CAD,Medium,Common CPI y/y,1.8%,1.8%,1.7%
+,,CAD,Medium,Median CPI y/y,2.4%,2.4%,2.3%
+,,CAD,Medium,Trimmed CPI y/y,2.7%,2.4%,2.3%
+,,CAD,Low,Wholesale Sales m/m,0.4%,-1.0%,3.2%
+,,USD,Low,Building Permits,1.68M,1.73M,1.73M
+,,USD,Low,Housing Starts,1.57M,1.64M,1.52M
+,,USD,Low,Import Prices m/m,1.1%,0.8%,0.8%
+,8:32am,CAD,Low,Core CPI m/m,0.4%,,0.5%
+,10:00am,USD,High,Treasury Sec Yellen Speaks,,,
+,10:30am,USD,Medium,Crude Oil Inventories,-7.4M,-2.1M,-5.2M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:30pm,CAD,High,BOC Gov Macklem Speaks,,,
+,6:45pm,NZD,High,GDP q/q,1.6%,0.5%,-1.0%
+,8:10pm,AUD,High,RBA Gov Lowe Speaks,,,
+,9:30pm,AUD,High,Employment Change,115.2K,30.5K,-30.7K
+,,AUD,High,Unemployment Rate,5.1%,5.5%,5.5%
+,,AUD,Low,RBA Bulletin,,,
+Thu Jun 17 2021,12:30am,CHF,Low,SNB Financial Stability Report,,,
+,2:02am,CHF,Low,Trade Balance,4.95B,4.23B,3.77B
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,SNB Policy Rate,-0.75%,-0.75%,-0.75%
+,4:00am,CHF,High,SNB Press Conference,,,
+,,EUR,Low,Italian Trade Balance,5.87B,6.23B,5.19B
+,5:00am,EUR,Low,Final CPI y/y,2.0%,2.0%,2.0%
+,,EUR,Low,Final Core CPI y/y,1.0%,0.9%,0.9%
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,8:30am,CAD,Low,Foreign Securities Purchases,9.95B,4.35B,4.12B
+,,USD,Medium,Philly Fed Manufacturing Index,30.7,30.3,31.5
+,,USD,Medium,Unemployment Claims,412K,360K,375k
+,8:32am,CAD,Low,ADP Non-Farm Employment Change,101.6K,,101.3K
+,10:00am,USD,Low,CB Leading Index m/m,1.3%,1.3%,1.3%
+,10:30am,USD,Low,Natural Gas Storage,16B,71B,98B
+,7:30pm,JPY,Low,National Core CPI y/y,0.1%,0.0%,-0.1%
+,11:30pm,JPY,Medium,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Fri Jun 18 2021,2:00am,EUR,Low,German PPI m/m,1.5%,0.7%,0.8%
+,,GBP,Medium,Retail Sales m/m,-1.4%,1.5%,9.2%
+,2:30am,JPY,Medium,BOJ Press Conference,,,
+,4:00am,EUR,Low,Current Account,22.8B,20.3B,17.8B
+,4:30am,GBP,Low,Consumer Inflation Expectations,2.4%,,2.7%
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,CAD,Low,NHPI m/m,1.4%,1.5%,1.9%
+Sat Jun 19 2021,,,No specified,,,,

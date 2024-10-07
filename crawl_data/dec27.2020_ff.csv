@@ -1,0 +1,35 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 27 2020,All Day,AUD,Holiday,Bank Holiday,,,
+,All Day,NZD,Holiday,Bank Holiday,,,
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Prelim Industrial Production m/m,0.0%,1.4%,4.0%
+Mon Dec 28 2020,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+Tue Dec 29 2020,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,7.9%,7.0%,6.6%
+Wed Dec 30 2020,1:57am,GBP,Low,Nationwide HPI m/m,0.8%,0.4%,0.9%
+,3:00am,CHF,Low,KOF Economic Barometer,104.3,101.4,103.7
+,,EUR,Low,Spanish Flash CPI y/y,-0.5%,-0.6%,-0.8%
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,46.8,,30.0
+,8:30am,USD,Low,Goods Trade Balance,-84.8B,-81.5B,-80.4B
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.1%,0.7%,1.1%
+,9:45am,USD,Low,Chicago PMI,59.5,56.6,58.2
+,10:00am,USD,Low,Pending Home Sales m/m,-2.6%,0.1%,-0.9%
+,10:30am,USD,Low,Crude Oil Inventories,-6.1M,-3.0M,-0.6M
+,All Day,JPY,Holiday,Bank Holiday,,,
+,8:00pm,CNY,Low,Manufacturing PMI,51.9,52.0,52.1
+,,CNY,Low,Non-Manufacturing PMI,55.7,56.3,56.4
+Thu Dec 31 2020,All Day,EUR,Holiday,German Bank Holiday,,,
+,8:30am,USD,Low,Unemployment Claims,787K,832K,806K
+,10:30am,USD,Low,Natural Gas Storage,-114B,-127B,-152B
+,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+Fri Jan 1 2020,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+Sat Jan 2 2020,,,No specified,,,,

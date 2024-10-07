@@ -1,0 +1,88 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 15 2015,4:45pm,NZD,High,Retail Sales q/q,1.7%,1.3%,1.6%
+,,NZD,Medium,Core Retail Sales q/q,1.5%,1.1%,1.5%
+,6:16pm,GBP,Low,Rightmove HPI m/m,2.1%,,1.4%
+,6:50pm,JPY,High,Prelim GDP q/q,0.6%,0.9%,-0.5%
+,,JPY,Low,Prelim GDP Price Index y/y,2.3%,1.9%,2.0%
+,7:30pm,AUD,Medium,New Motor Vehicle Sales m/m,-1.5%,,2.6%
+,8:30pm,CNY,Low,Foreign Direct Investment ytd/y,29.4%,,1.7%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,0.8%,1.0%,1.0%
+Mon Feb 16 2015,5:00am,EUR,Low,Trade Balance,23.3B,21.3B,21.6B
+,All Day,EUR,High,Eurogroup Meetings,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+Tue Feb 17 2015,4:00am,EUR,Low,Italian Trade Balance,5.76B,3.27B,3.54B
+,4:30am,GBP,High,CPI y/y,0.3%,0.3%,0.5%
+,,GBP,Medium,PPI Input m/m,-3.7%,-2.5%,-3.3%
+,,GBP,Medium,RPI y/y,1.1%,1.2%,1.6%
+,,GBP,Low,Core CPI y/y,1.4%,1.3%,1.3%
+,,GBP,Low,ONS HPI y/y,9.8%,10.3%,9.9%
+,,GBP,Low,PPI Output m/m,-0.5%,-0.2%,-0.5%
+,5:00am,EUR,High,German ZEW Economic Sentiment,53.0,55.4,48.4
+,,EUR,Medium,ZEW Economic Sentiment,52.7,51.3,45.2
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:30am,CAD,Medium,Foreign Securities Purchases,-13.55B,5.35B,4.30B
+,,USD,Medium,Empire State Manufacturing Index,7.8,8.9,10.0
+,9:33am,NZD,High,GDT Price Index,10.1%,,9.4%
+,10:00am,USD,Medium,NAHB Housing Market Index,55,58,57
+,12:00pm,CHF,High,SNB Chairman Jordan Speaks,,,
+,6:00pm,AUD,Low,CB Leading Index m/m,0.4%,,0.1%
+,6:30pm,AUD,Low,MI Leading Index m/m,0.1%,,0.0%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:49pm,JPY,High,Monetary Policy Statement,,,
+Wed Feb 18 2015,1:31am,JPY,High,BOJ Press Conference,,,
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.1%,1.7%,1.8%
+,,GBP,High,Claimant Count Change,-38.6K,-25.2K,-35.8K
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,Unemployment Rate,5.7%,5.8%,5.8%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,-73.0,,-10.8
+,All Day,EUR,Low,Greek Presidential Elections,,,
+,5:33am,EUR,Medium,German 10-y Bond Auction,0.37|1.4,,0.52|1.3
+,8:30am,CAD,High,Wholesale Sales m/m,2.5%,0.4%,-0.5%
+,,USD,High,Building Permits,1.05M,1.08M,1.06M
+,,USD,High,PPI m/m,-0.8%,-0.4%,-0.3%
+,,USD,Medium,Core PPI m/m,-0.1%,0.1%,0.3%
+,,USD,Medium,Housing Starts,1.07M,1.07M,1.09M
+,9:15am,USD,Medium,Capacity Utilization Rate,79.4%,79.9%,79.4%
+,,USD,Medium,Industrial Production m/m,0.2%,0.5%,-0.3%
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,35.4B,41.3B,33.5B
+,4:45pm,NZD,High,PPI Input q/q,-0.4%,-0.2%,-1.5%
+,,NZD,Low,PPI Output q/q,-0.1%,-0.3%,-1.1%
+,5:00pm,USD,Medium,FOMC Member Powell Speaks,,,
+,6:50pm,JPY,Medium,Trade Balance,-0.41T,-0.95T,-0.62T
+,All Day,CNY,Holiday,Bank Holiday,,,
+,11:30pm,JPY,Low,All Industries Activity m/m,-0.3%,-0.2%,0.0%
+Thu Feb 19 2015,12:00am,JPY,Low,BOJ Monthly Report,,,
+,2:00am,CHF,Medium,Trade Balance,3.43B,1.23B,1.51B
+,2:45am,EUR,Low,French Final CPI m/m,-1.0%,-0.9%,0.1%
+,4:00am,EUR,Low,Current Account,17.8B,23.3B,19.9B
+,4:43am,EUR,Low,Spanish 10-y Bond Auction,1.62|2.0,,1.73|1.8
+,6:00am,GBP,Medium,CBI Industrial Order Expectations,10,7,4
+,7:30am,EUR,High,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,USD,High,Unemployment Claims,283K,293K,304K
+,9:59am,EUR,Low,Consumer Confidence,-7,-8,-9
+,10:00am,USD,High,Philly Fed Manufacturing Index,5.2,8.8,6.3
+,,USD,Low,CB Leading Index m/m,0.2%,0.4%,0.4%
+,10:30am,USD,Low,Natural Gas Storage,-111B,-110B,-160B
+,11:00am,USD,Medium,Crude Oil Inventories,7.7M,-1.8M,4.9M
+,11:30am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,12:15pm,CAD,Low,Gov Council Member Cote Speaks,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:35pm,JPY,Low,Flash Manufacturing PMI,51.5,52.6,52.2
+Fri Feb 20 2015,2:00am,EUR,Low,German PPI m/m,-0.6%,-0.3%,-0.7%
+,3:00am,EUR,High,French Flash Manufacturing PMI,47.7,49.7,49.2
+,,EUR,Medium,French Flash Services PMI,53.4,49.9,49.4
+,3:30am,EUR,High,German Flash Manufacturing PMI,50.9,51.8,50.9
+,,EUR,Medium,German Flash Services PMI,55.5,54.3,54.0
+,4:00am,EUR,Medium,Flash Manufacturing PMI,51.1,51.6,51.0
+,,EUR,Medium,Flash Services PMI,53.9,53.2,52.7
+,4:30am,GBP,High,Retail Sales m/m,-0.3%,-0.1%,0.2%
+,,GBP,Medium,Public Sector Net Borrowing,-9.4B,-9.5B,9.9B
+,All Day,EUR,High,Eurogroup Meetings,,,
+,8:30am,CAD,High,Core Retail Sales m/m,-2.3%,-0.7%,0.6%
+,,CAD,Medium,Retail Sales m/m,-2.0%,-0.3%,0.4%
+,9:45am,USD,Medium,Flash Manufacturing PMI,54.3,53.7,53.9
+Sat Feb 21 2015,,,No specified,,,,

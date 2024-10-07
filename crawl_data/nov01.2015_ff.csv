@@ -1,0 +1,123 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 1 2015,2:00am,CAD,Holiday,Daylight Saving Time Shift,,,
+,,USD,Holiday,Daylight Saving Time Shift,,,
+,5:30pm,AUD,Low,AIG Manufacturing Index,50.2,,52.1
+,6:30pm,AUD,Low,MI Inflation Gauge m/m,0.0%,,0.3%
+,7:30pm,AUD,High,Building Approvals m/m,2.2%,1.8%,-9.5%
+,8:35pm,JPY,Low,Final Manufacturing PMI,52.4,52.1,52.5
+,8:45pm,CNY,High,Caixin Manufacturing PMI,48.3,47.7,47.2
+Mon Nov 2 2015,12:30am,AUD,Low,Commodity Prices y/y,-19.8%,,-21.0%
+,3:15am,CHF,Medium,Retail Sales y/y,0.2%,0.2%,-0.6%
+,,EUR,Medium,Spanish Manufacturing PMI,51.3,51.9,51.7
+,3:30am,CHF,Low,Manufacturing PMI,50.7,50.2,49.5
+,3:45am,EUR,Low,Italian Manufacturing PMI,54.1,52.9,52.7
+,3:50am,EUR,Low,French Final Manufacturing PMI,50.6,50.7,50.7
+,3:55am,EUR,Low,German Final Manufacturing PMI,52.1,51.6,51.6
+,4:00am,EUR,Low,Final Manufacturing PMI,52.3,52.0,52.0
+,4:30am,GBP,High,Final Manufacturing PMI,55.5,51.3,51.8
+,9:30am,CAD,Low,Manufacturing PMI,48.0,,48.6
+,9:45am,USD,Low,Final Manufacturing PMI,54.1,54.0,54.0
+,10:00am,USD,High,ISM Manufacturing PMI,50.1,50.0,50.2
+,,USD,Low,Construction Spending m/m,0.6%,0.5%,0.7%
+,,USD,Low,ISM Manufacturing Prices,39.0,39.5,38.0
+,12:00pm,USD,Medium,FOMC Member Williams Speaks,,,
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,6.9%,,5.5%
+,10:30pm,AUD,High,Cash Rate,2.00%,2.00%,2.00%
+,,AUD,High,RBA Rate Statement,,,
+Tue Nov 3 2015,3:00am,EUR,Medium,Spanish Unemployment Change,82.3K,70.3K,26.1K
+,4:30am,GBP,High,Construction PMI,58.8,58.9,59.9
+,8:41am,NZD,High,GDT Price Index,-7.4%,,-3.1%
+,10:00am,USD,Medium,Factory Orders m/m,-1.0%,-0.8%,-2.1%
+,,USD,Low,IBD/TIPP Economic Optimism,45.5,47.5,47.3
+,All Day,USD,Low,Total Vehicle Sales,18.2M,17.8M,18.2M
+,2:00pm,EUR,Medium,ECB President Draghi Speaks,,,
+,4:45pm,NZD,High,Employment Change q/q,-0.4%,0.4%,0.1%
+,,NZD,High,Unemployment Rate,6.0%,6.0%,5.9%
+,,NZD,Low,Labor Cost Index q/q,0.4%,0.5%,0.5%
+,5:30pm,AUD,Low,AIG Services Index,48.9,,52.3
+,6:50pm,JPY,Low,Monetary Base y/y,32.5%,36.2%,35.1%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.8%,,-1.9%
+,7:30pm,AUD,High,Retail Sales m/m,0.4%,0.4%,0.4%
+,,AUD,High,Trade Balance,-2.32B,-2.85B,-2.71B
+,8:45pm,CNY,Medium,Caixin Services PMI,52.0,51.0,50.5
+Wed Nov 4 2015,12:00am,JPY,Low,Consumer Confidence,41.5,41.1,40.6
+,3:00am,EUR,High,ECB President Draghi Speaks,,,
+,3:15am,EUR,Low,Spanish Services PMI,55.9,55.5,55.1
+,3:45am,EUR,Low,Italian Services PMI,53.4,53.7,53.3
+,3:50am,EUR,Low,French Final Services PMI,52.7,52.3,52.3
+,3:55am,EUR,Low,German Final Services PMI,54.5,55.2,55.2
+,4:00am,EUR,Low,Final Services PMI,54.1,54.2,54.2
+,4:30am,GBP,High,Final Services PMI,54.9,54.6,53.3
+,5:00am,EUR,Low,PPI m/m,-0.3%,-0.4%,-0.8%
+,5:30am,USD,Medium,FOMC Member Brainard Speaks,,,
+,8:15am,USD,High,ADP Non-Farm Employment Change,182K,183K,190K
+,8:30am,CAD,High,Trade Balance,-1.7B,-1.9B,-2.7B
+,,USD,High,Trade Balance,-40.8B,-42.7B,-48.0B
+,9:45am,USD,Low,Final Services PMI,54.8,54.6,54.4
+,10:00am,USD,High,Fed Chair Yellen Testifies,,,
+,,USD,High,ISM Services PMI,59.1,56.6,56.9
+,10:30am,USD,Medium,Crude Oil Inventories,2.8M,2.5M,3.4M
+,2:30pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,5:25pm,AUD,High,RBA Gov Stevens Speaks,,,
+,6:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+,7:30pm,USD,Medium,FOMC Member Fischer Speaks,,,
+,8:00pm,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,10:45pm,JPY,Low,10-y Bond Auction,0.32|2.8,,0.34|3.0
+Thu Nov 5 2015,1:45am,CHF,Low,SECO Consumer Climate,-18,-14,-19
+,2:00am,EUR,Medium,German Factory Orders m/m,-1.7%,1.1%,-1.8%
+,3:00am,GBP,Medium,Halifax HPI m/m,1.1%,0.7%,-0.9%
+,3:15am,CHF,Low,CPI m/m,0.1%,0.0%,0.1%
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:10am,EUR,Low,Retail PMI,51.3,,51.9
+,4:50am,EUR,Low,Spanish 10-y Bond Auction,1.75|2.4,,1.77|2.2
+,5:00am,EUR,Medium,EU Economic Forecasts,,,
+,,EUR,Low,French 10-y Bond Auction,0.95|2.5,,0.98|2.2
+,,EUR,Low,Retail Sales m/m,-0.1%,0.2%,0.0%
+,5:45am,EUR,Medium,ECB President Draghi Speaks,,,
+,7:00am,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Official Bank Rate Votes,1-0-8,1-0-8,1-0-8
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,,GBP,Medium,BOE Inflation Letter,,,
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:30am,USD,Low,Challenger Job Cuts y/y,-1.3%,,93.2%
+,7:45am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,USD,High,Unemployment Claims,276K,263K,260K
+,,USD,Medium,FOMC Member Dudley Speaks,,,
+,,USD,Medium,Prelim Nonfarm Productivity q/q,1.6%,0.1%,3.3%
+,,USD,Medium,Prelim Unit Labor Costs q/q,1.4%,2.2%,-1.4%
+,9:10am,USD,Medium,FOMC Member Fischer Speaks,,,
+,10:00am,CAD,Medium,Ivey PMI,53.1,54.0,53.7
+,10:30am,USD,Low,Natural Gas Storage,52B,60B,63B
+,1:25pm,USD,Low,FOMC Member Tarullo Speaks,,,
+,1:30pm,USD,Medium,FOMC Member Lockhart Speaks,,,
+,3:15pm,GBP,High,BOE Gov Carney Speaks,,,
+,5:00pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,5:30pm,AUD,Low,AIG Construction Index,52.1,,51.9
+,6:45pm,USD,Low,FOMC Member Evans Speaks,,,
+,7:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,8:00pm,AUD,Medium,RBA Assist Gov Edey Speaks,,,
+,11:00pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Fri Nov 6 2015,12:00am,JPY,Low,Leading Indicators,101.4%,102.1%,103.5%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.1%,0.6%,-0.6%
+,2:45am,EUR,Low,French Gov Budget Balance,-74.5B,,-89.7B
+,,EUR,Low,French Trade Balance,-3.4B,-3.1B,-3.0B
+,3:00am,CHF,Medium,Foreign Currency Reserves,551B,,541B
+,4:30am,GBP,High,Manufacturing Production m/m,0.8%,0.4%,0.4%
+,,GBP,Medium,Goods Trade Balance,-9.4B,-10.7B,-10.8B
+,,GBP,Low,Industrial Production m/m,-0.2%,-0.1%,0.9%
+,8:30am,CAD,High,Employment Change,44.4K,9.5K,12.1K
+,,CAD,High,Unemployment Rate,7.0%,7.1%,7.1%
+,,CAD,Medium,Building Permits m/m,-6.7%,1.4%,-3.6%
+,,USD,High,Average Hourly Earnings m/m,0.4%,0.2%,0.0%
+,,USD,High,Non-Farm Employment Change,271K,181K,137K
+,,USD,High,Unemployment Rate,5.0%,5.0%,5.1%
+,9:53am,GBP,Medium,NIESR GDP Estimate,0.6%,,0.5%
+,3:00pm,USD,Low,Consumer Credit m/m,28.9B,17.6B,16.0B
+,4:15pm,USD,Medium,FOMC Member Brainard Speaks,,,
+Sat Nov 7 2015,11:10am,USD,Medium,FOMC Member Williams Speaks,,,
+,9:09pm,CNY,High,Trade Balance,393B,367B,376B
+,10:01pm,CNY,Low,USD-Denominated Trade Balance,61.6B,62.1B,60.3B

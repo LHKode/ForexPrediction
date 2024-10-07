@@ -1,0 +1,93 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 8 2015,7:30pm,AUD,Medium,ANZ Job Advertisements m/m,0.4%,,3.8%
+,8:30pm,JPY,Low,Average Cash Earnings y/y,0.6%,0.5%,0.4%
+Mon Nov 9 2015,2:00am,EUR,Low,German Trade Balance,19.4B,20.3B,19.6B
+,4:30am,EUR,Low,Sentix Investor Confidence,15.1,12.4,11.7
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,8:13am,CAD,Low,Housing Starts,198K,200K,232K
+,10:00am,USD,Low,Labor Market Conditions Index m/m,1.6,,1.3
+,6:50pm,JPY,Medium,Current Account,0.78T,1.50T,1.59T
+,,JPY,Low,Bank Lending y/y,2.5%,,2.6%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.2%,,2.6%
+,7:30pm,AUD,High,NAB Business Confidence,2,,5
+,,AUD,Medium,Home Loans m/m,2.0%,0.1%,1.5%
+,8:30pm,CNY,High,CPI y/y,1.3%,1.5%,1.6%
+,,CNY,Medium,PPI y/y,-5.9%,-5.9%,-5.9%
+Tue Nov 10 2015,12:00am,JPY,Low,Economy Watchers Sentiment,48.2,48.2,47.5
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.4%,3.4%
+,2:45am,EUR,Low,French Industrial Production m/m,0.1%,0.1%,1.7%
+,4:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,,EUR,Low,Italian Industrial Production m/m,0.2%,0.5%,-0.5%
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,5:58am,USD,Low,NFIB Small Business Index,96.1,96.4,96.1
+,8:30am,USD,Medium,Import Prices m/m,-0.5%,-0.1%,-0.6%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.5%,0.0%,0.3%
+,12:00pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,12:30pm,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,1:01pm,USD,Low,10-y Bond Auction,2.30|2.6,,2.07|2.6
+,3:00pm,NZD,High,RBNZ Financial Stability Report,,,
+,3:05pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,5:15pm,USD,Medium,FOMC Member Evans Speaks,,,
+,6:30pm,AUD,Medium,Westpac Consumer Sentiment,3.9%,,4.2%
+,6:50pm,JPY,Low,M2 Money Stock y/y,3.6%,3.8%,3.8%
+Wed Nov 11 2015,12:30am,CNY,High,Industrial Production y/y,5.6%,5.8%,5.7%
+,,CNY,Medium,Fixed Asset Investment ytd/y,10.2%,10.2%,10.3%
+,,CNY,Low,Retail Sales y/y,11.0%,10.9%,10.9%
+,1:03am,JPY,Low,Prelim Machine Tool Orders y/y,-23.1%,,-19.1%
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,2:00am,EUR,Low,German WPI m/m,-0.4%,0.2%,-0.6%
+,2:52am,CNY,Low,Foreign Direct Investment ytd/y,8.6%,,9.0%
+,4:30am,GBP,High,Average Earnings Index 3m/y,3.0%,3.2%,3.0%
+,,GBP,High,Claimant Count Change,3.3K,1.6K,0.5K
+,,GBP,Medium,Unemployment Rate,5.3%,5.4%,5.4%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:15am,EUR,High,ECB President Draghi Speaks,,,
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,53.3,,55.0
+,4:45pm,NZD,Low,FPI m/m,-1.2%,,-0.5%
+,6:50pm,JPY,Medium,Core Machinery Orders m/m,7.5%,3.3%,-5.7%
+,,JPY,Low,PPI y/y,-3.8%,-3.5%,-4.0%
+,7:00pm,AUD,Medium,MI Inflation Expectations,3.5%,,3.5%
+,7:01pm,GBP,Low,RICS House Price Balance,49%,45%,44%
+,7:30pm,AUD,High,Employment Change,58.6K,14.8K,-0.8K
+,,AUD,High,Unemployment Rate,5.9%,6.2%,6.2%
+,10:45pm,JPY,Low,30-y Bond Auction,1.39|3.2,,1.35|3.3
+Thu Nov 12 2015,2:00am,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%
+,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.1%,-0.4%
+,3:00am,CNY,Low,M2 Money Supply y/y,13.5%,13.2%,13.1%
+,,CNY,Low,New Loans,514B,800B,1050B
+,3:30am,EUR,High,ECB President Draghi Speaks,,,
+,5:00am,EUR,Low,Industrial Production m/m,-0.3%,-0.1%,-0.4%
+,5:30am,EUR,High,ECB President Draghi Speaks,,,
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.2%,0.3%
+,,USD,High,Unemployment Claims,276K,270K,276K
+,9:30am,USD,High,Fed Chair Yellen Speaks,,,
+,10:00am,USD,Medium,JOLTS Job Openings,5.53M,5.39M,5.38M
+,10:15am,USD,Medium,FOMC Member Evans Speaks,,,
+,11:00am,USD,Medium,Crude Oil Inventories,4.2M,0.8M,2.8M
+,12:00pm,GBP,Medium,MPC Member Haldane Speaks,,,
+,12:15pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,3.07|2.4,,2.91|2.5
+,1:57pm,USD,Low,Federal Budget Balance,-136.5B,-130.2B,91.1B
+,6:00pm,USD,Medium,FOMC Member Fischer Speaks,,,
+,11:30pm,JPY,Low,Revised Industrial Production m/m,1.1%,1.0%,1.0%
+,11:34pm,JPY,Low,Tertiary Industry Activity m/m,-0.4%,0.2%,0.2%
+Fri Nov 13 2015,1:30am,EUR,Low,French Prelim GDP q/q,0.3%,0.3%,0.0%
+,2:00am,EUR,High,German Prelim GDP q/q,0.3%,0.3%,0.4%
+,2:45am,EUR,Low,French Prelim Private Payrolls q/q,0.1%,0.1%,0.2%
+,3:15am,CHF,Medium,PPI m/m,0.2%,-0.2%,-0.1%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.2%,0.3%,0.3%
+,4:30am,GBP,Low,Construction Output m/m,-0.2%,1.5%,-3.4%
+,5:00am,EUR,Medium,Flash GDP q/q,0.3%,0.4%,0.4%
+,,EUR,Low,Trade Balance,20.1B,19.4B,19.0B
+,8:00am,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.4%,-0.4%
+,,USD,High,PPI m/m,-0.4%,0.2%,-0.5%
+,,USD,High,Retail Sales m/m,0.1%,0.3%,0.0%
+,,USD,Medium,Core PPI m/m,-0.3%,0.1%,-0.3%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.3%,,0.1%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,93.1,91.3,90.0
+,,USD,Low,Business Inventories m/m,0.3%,0.1%,0.1%
+,,USD,Low,Prelim UoM Inflation Expectations,2.5%,,2.7%
+,10:30am,USD,Low,Natural Gas Storage,49B,51B,52B
+Sat Nov 14 2015,,,No specified,,,,

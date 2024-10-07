@@ -1,0 +1,83 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 15 2015,Day 1,All,Medium,G20 Meetings,,,
+,4:45pm,NZD,High,Retail Sales q/q,1.6%,1.0%,0.1%
+,,NZD,Medium,Core Retail Sales q/q,1.0%,1.4%,0.0
+,6:50pm,JPY,High,Prelim GDP q/q,-0.2%,-0.1%,-0.3%
+,,JPY,Low,Prelim GDP Price Index y/y,2.0%,1.7%,1.5%
+,7:01pm,GBP,Low,Rightmove HPI m/m,-1.3%,,0.6%
+,7:30pm,AUD,Low,New Motor Vehicle Sales m/m,-3.6%,,5.9%
+Mon Nov 16 2015,Day 2,All,Medium,G20 Meetings,,,
+,5:00am,EUR,Medium,Final CPI y/y,0.1%,0.0%,0.0%
+,,EUR,Low,Final Core CPI y/y,1.1%,1.0%,1.0%
+,5:15am,EUR,High,ECB President Draghi Speaks,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,-1.5%,0.3%,-0.6%
+,,CAD,Medium,Foreign Securities Purchases,3.35B,4.12B,5.78B
+,,USD,Medium,Empire State Manufacturing Index,-10.7,-5.3,-11.4
+,4:30pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,9:00pm,NZD,High,Inflation Expectations q/q,1.85%,,1.94%
+Tue Nov 17 2015,4:00am,EUR,Low,Italian Trade Balance,2.19B,2.24B,1.85B
+,4:30am,GBP,High,CPI y/y,-0.1%,-0.1%,-0.1%
+,,GBP,Medium,PPI Input m/m,0.2%,0.2%,0.5%
+,,GBP,Medium,RPI y/y,0.7%,0.9%,0.8%
+,,GBP,Low,Core CPI y/y,1.1%,1.0%,1.0%
+,,GBP,Low,ONS HPI y/y,6.1%,5.4%,5.5%
+,,GBP,Low,PPI Output m/m,0.0%,-0.1%,-0.1%
+,5:00am,EUR,High,German ZEW Economic Sentiment,10.4,6.7,1.9
+,,EUR,Medium,ZEW Economic Sentiment,28.3,35.2,30.1
+,8:30am,USD,High,CPI m/m,0.2%,0.2%,-0.2%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,9:07am,NZD,High,GDT Price Index,-7.9%,,-7.4%
+,9:15am,USD,Medium,Capacity Utilization Rate,77.5%,77.5%,77.7%
+,,USD,Medium,Industrial Production m/m,-0.2%,0.1%,-0.2%
+,10:00am,USD,Medium,Mortgage Delinquencies,4.99%,,5.30%
+,,USD,Low,NAHB Housing Market Index,62,64,65
+,3:30pm,USD,Low,FOMC Member Tarullo Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,33.6B,23.3B,20.8B
+,5:15pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,6:00pm,AUD,Low,CB Leading Index m/m,-0.1%,,-0.4%
+,6:30pm,AUD,Low,MI Leading Index m/m,0.1%,,0.1%
+,7:30pm,AUD,Medium,Wage Price Index q/q,0.6%,0.6%,0.6%
+Wed Nov 18 2015,5:00am,CHF,Low,Credit Suisse Economic Expectations,0.0,,18.3
+,5:35am,GBP,Low,10-y Bond Auction,1.94|1.5,,1.82|1.7
+,8:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,8:30am,USD,High,Building Permits,1.15M,1.15M,1.11M
+,,USD,Medium,Housing Starts,1.06M,1.16M,1.19M
+,10:30am,USD,Medium,Crude Oil Inventories,0.3M,2.0M,4.2M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,4:45pm,NZD,Medium,PPI Input q/q,1.6%,0.1%,-0.3%
+,,NZD,Low,PPI Output q/q,1.3%,0.2%,-0.2%
+,6:50pm,JPY,Low,Trade Balance,-0.20T,-0.38T,-0.31T
+,10:17pm,JPY,High,Monetary Policy Statement,,,
+,11:30pm,JPY,Low,All Industries Activity m/m,-0.2%,0.2%,-0.1%
+Thu Nov 19 2015,1:31am,JPY,High,BOJ Press Conference,,,
+,2:00am,CHF,Low,Trade Balance,4.16B,3.18B,3.25B
+,3:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,4:00am,EUR,Low,Current Account,29.4B,18.3B,18.7B
+,4:30am,GBP,High,Retail Sales m/m,-0.6%,-0.4%,1.7%
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-11,-10,-18
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,Wholesale Sales m/m,-0.1%,0.2%,-0.1%
+,,USD,High,Philly Fed Manufacturing Index,1.9,0.1,-4.5
+,,USD,High,Unemployment Claims,271K,272K,276K
+,10:00am,USD,Low,CB Leading Index m/m,0.6%,0.5%,-0.1%
+,10:30am,CAD,Low,BOC Review,,,
+,,USD,Low,Natural Gas Storage,15B,23B,49B
+,12:30pm,CHF,Medium,Gov Board Member Maechler Speaks,,,
+,,USD,Medium,FOMC Member Lockhart Speaks,,,
+,4:45pm,USD,Medium,FOMC Member Fischer Speaks,,,
+,9:00pm,CNY,Low,CB Leading Index m/m,0.6%,,1.6%
+,,NZD,Low,Credit Card Spending y/y,7.8%,,7.3%
+Fri Nov 20 2015,12:00am,JPY,Low,BOJ Monthly Report,,,
+,2:00am,EUR,Low,German PPI m/m,-0.4%,-0.2%,-0.4%
+,3:00am,EUR,High,ECB President Draghi Speaks,,,
+,4:30am,GBP,Medium,Public Sector Net Borrowing,7.5B,5.5B,8.3B
+,5:15am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,8:30am,CAD,High,Core CPI m/m,0.3%,0.2%,0.2%
+,,CAD,High,Core Retail Sales m/m,-0.5%,-0.3%,0.0%
+,,CAD,Medium,CPI m/m,0.1%,0.1%,-0.2%
+,,CAD,Medium,Retail Sales m/m,-0.5%,0.1%,0.5%
+,10:00am,EUR,Low,Consumer Confidence,-6,-7,-8
+,11:15am,USD,Medium,FOMC Member Dudley Speaks,,,
+Sat Nov 21 2015,12:00pm,USD,Medium,FOMC Member Williams Speaks,,,

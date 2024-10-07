@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 15 2015,6:00pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,7:01pm,GBP,Low,Rightmove HPI m/m,1.0%,,2.1%
+,8:30pm,AUD,Medium,New Motor Vehicle Sales m/m,2.9%,,-1.9%
+Mon Mar 16 2015,4:15am,CHF,Medium,PPI m/m,-1.4%,0.4%,-0.6%
+,,CHF,Medium,Retail Sales y/y,-0.3%,2.6%,1.9%
+,8:30am,CAD,Medium,Foreign Securities Purchases,5.73B,-1.95B,-13.54B
+,,USD,Medium,Empire State Manufacturing Index,6.9,8.1,7.8
+,9:15am,USD,Medium,Capacity Utilization Rate,78.9%,79.5%,79.1%
+,,USD,Medium,Industrial Production m/m,0.1%,0.3%,-0.3%
+,9:30am,GBP,Low,CB Leading Index m/m,0.2%,,0.0%
+,10:00am,USD,Medium,NAHB Housing Market Index,53,57,55
+,2:45pm,EUR,High,ECB President Draghi Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,-27.2B,27.2B,39.2B
+,8:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,10:00pm,CNY,Low,Foreign Direct Investment ytd/y,17.0%,,29.4%
+,11:04pm,JPY,High,Monetary Policy Statement,,,
+Tue Mar 17 2015,2:32am,JPY,High,BOJ Press Conference,,,
+,6:00am,EUR,High,German ZEW Economic Sentiment,54.8,58.9,53.0
+,,EUR,Medium,Final CPI y/y,-0.3%,-0.3%,-0.3%
+,,EUR,Medium,ZEW Economic Sentiment,62.4,58.2,52.7
+,,EUR,Low,Final Core CPI y/y,0.7%,0.6%,0.6%
+,,EUR,Low,Final Employment Change q/q,0.1%,0.1%,0.4%
+,8:30am,CAD,High,Manufacturing Sales m/m,-1.7%,-1.1%,1.6%
+,,USD,High,Building Permits,1.09M,1.07M,1.06M
+,,USD,Medium,Housing Starts,0.90M,1.05M,1.08M
+,10:00am,USD,Medium,Treasury Sec Lew Speaks,,,
+,10:18am,NZD,High,GDT Price Index,-8.8%,,1.1%
+,5:45pm,NZD,Medium,Current Account,-3.19B,-3.12B,-5.02B
+,7:30pm,AUD,Low,MI Leading Index m/m,0.3%,,0.1%
+,7:50pm,JPY,Medium,Trade Balance,-0.64T,-1.21T,-0.41T
+Wed Mar 18 2015,1:00am,JPY,Low,BOJ Monthly Report,,,
+,5:00am,EUR,Low,Italian Trade Balance,0.22B,4.32B,5.74B
+,5:30am,GBP,High,Average Earnings Index 3m/y,1.8%,2.2%,2.1%
+,,GBP,High,Claimant Count Change,-31.0K,-30.6K,-39.4K
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,Unemployment Rate,5.7%,5.6%,5.7%
+,6:00am,CHF,Low,Credit Suisse Economic Expectations,-37.9,,-73.0
+,6:33am,EUR,Low,German 10-y Bond Auction,0.25|2.4,,0.37|1.4
+,8:30am,CAD,High,Wholesale Sales m/m,-3.1%,-0.7%,2.8%
+,,GBP,High,Annual Budget Release,,,
+,10:30am,USD,Medium,Crude Oil Inventories,9.6M,4.0M,4.5M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,,USD,Medium,Treasury Sec Lew Speaks,,,
+,2:30pm,USD,High,FOMC Press Conference,,,
+,5:45pm,NZD,High,GDP q/q,0.8%,0.8%,0.9%
+,8:30pm,AUD,Low,RBA Bulletin,,,
+Thu Mar 19 2015,12:30am,JPY,Low,All Industries Activity m/m,1.9%,1.9%,-0.1%
+,2:45am,CHF,Low,SECO Economic Forecasts,,,
+,3:00am,CHF,Medium,Trade Balance,2.47B,2.87B,3.41B
+,4:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,High,SNB Press Conference,,,
+,5:00am,EUR,Low,ECB Economic Bulletin,,,
+,Day 1,EUR,High,EU Economic Summit,,,
+,6:20am,EUR,High,Long Term Refinancing Operation,97.8B,40.0B,129.8B
+,6:36am,GBP,Low,10-y Bond Auction,1.68|1.4,,1.62|1.6
+,8:30am,USD,High,Unemployment Claims,291K,295K,290K
+,,USD,Medium,Current Account,-113B,-103B,-99B
+,10:00am,USD,High,Philly Fed Manufacturing Index,5.0,7.2,5.2
+,,USD,Low,CB Leading Index m/m,0.2%,0.3%,0.2%
+,,USD,Low,FOMC Member Tarullo Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,-45B,-50B,-198B
+,5:45pm,NZD,Low,Visitor Arrivals m/m,6.9%,,1.2%
+,7:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+,10:00pm,NZD,Low,Credit Card Spending y/y,5.8%,,6.2%
+,10:10pm,AUD,High,RBA Gov Stevens Speaks,,,
+Fri Mar 20 2015,3:00am,EUR,Low,German PPI m/m,0.1%,0.2%,-0.6%
+,5:00am,EUR,Low,Current Account,29.4B,21.3B,22.5B
+,5:30am,GBP,Medium,Public Sector Net Borrowing,6.2B,7.7B,-8.9B
+,Day 2,EUR,Medium,EU Economic Summit,,,
+,8:30am,CAD,High,Core CPI m/m,0.6%,0.6%,0.2%
+,,CAD,High,Core Retail Sales m/m,-1.8%,-0.4%,-2.0%
+,,CAD,Medium,CPI m/m,0.9%,0.7%,-0.2%
+,,CAD,Medium,Retail Sales m/m,-1.7%,-0.7%,-1.8%
+,10:20am,USD,Medium,FOMC Member Lockhart Speaks,,,
+,11:30am,USD,Medium,FOMC Member Evans Speaks,,,
+Sat Mar 21 2015,,,No specified,,,,

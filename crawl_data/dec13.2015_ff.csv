@@ -1,0 +1,88 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 13 2015,6:50pm,JPY,Medium,Tankan Manufacturing Index,12,11,12
+,,JPY,Medium,Tankan Non-Manufacturing Index,25,23,25
+,7:01pm,GBP,Low,Rightmove HPI m/m,-1.1%,,-1.3%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,1.4%,1.4%,1.4%
+,11:33pm,JPY,Low,Tertiary Industry Activity m/m,0.9%,0.5%,-0.4%
+Mon Dec 14 2015,5:00am,EUR,Low,Industrial Production m/m,0.6%,0.3%,-0.3%
+,6:00am,EUR,High,ECB President Draghi Speaks,,,
+,7:00am,GBP,Medium,MPC Member Shafik Speaks,,,
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,2.0%,2.1%,4.7%
+,,AUD,Medium,Mid-Year Economic and Fiscal Outlook,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,1.0%,,-3.7%
+Tue Dec 15 2015,3:15am,CHF,Medium,PPI m/m,0.4%,0.1%,0.2%
+,4:30am,GBP,High,CPI y/y,0.1%,0.1%,-0.1%
+,,GBP,Medium,MPC Member Haldane Speaks,,,
+,,GBP,Medium,PPI Input m/m,-1.6%,-1.0%,0.0%
+,,GBP,Medium,RPI y/y,1.1%,0.9%,0.7%
+,,GBP,Low,Core CPI y/y,1.2%,1.2%,1.1%
+,,GBP,Low,ONS HPI y/y,7.0%,6.4%,6.1%
+,,GBP,Low,PPI Output m/m,-0.2%,0.0%,-0.1%
+,5:00am,EUR,High,German ZEW Economic Sentiment,16.1,15.2,10.4
+,,EUR,Medium,ZEW Economic Sentiment,33.9,34.4,28.3
+,,EUR,Low,Final Employment Change q/q,0.3%,0.2%,0.4%
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,-1.1%,-0.4%,-1.5%
+,,USD,High,CPI m/m,0.0%,0.0%,0.2%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,,USD,Medium,Empire State Manufacturing Index,-4.6,-5.7,-10.7
+,8:52am,NZD,High,GDT Price Index,1.9%,,3.6%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.1%,,-0.3%
+,10:00am,USD,Low,NAHB Housing Market Index,61,63,62
+,11:00am,CAD,Low,BOC Financial System Review,,,
+,11:45am,CAD,High,BOC Gov Poloz Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,-16.6B,32.4B,33.6B
+,4:45pm,NZD,Medium,Current Account,-4.75B,-4.85B,-1.17B
+,6:30pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,,AUD,Low,MI Leading Index m/m,-0.2%,,0.1%
+,8:35pm,JPY,Low,Flash Manufacturing PMI,52.5,52.2,52.6
+Wed Dec 16 2015,3:00am,EUR,High,French Flash Manufacturing PMI,51.6,50.6,50.6
+,,EUR,Medium,French Flash Services PMI,50.0,50.7,51.0
+,3:30am,EUR,High,German Flash Manufacturing PMI,53.0,52.7,52.9
+,,EUR,Medium,German Flash Services PMI,55.4,55.5,55.6
+,4:00am,EUR,Medium,Flash Manufacturing PMI,53.1,52.8,52.8
+,,EUR,Medium,Flash Services PMI,53.9,54.0,54.2
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.4%,2.5%,3.0%
+,,GBP,High,Claimant Count Change,3.9K,0.9K,0.2K
+,,GBP,Medium,Unemployment Rate,5.2%,5.3%,5.3%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,16.6,,0.0
+,,EUR,Medium,Final CPI y/y,0.2%,0.1%,0.1%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,,EUR,Low,Trade Balance,19.9B,22.3B,19.9B
+,8:30am,CAD,Medium,Foreign Securities Purchases,22.08B,6.13B,3.35B
+,,USD,High,Building Permits,1.29M,1.16M,1.16M
+,,USD,Medium,Housing Starts,1.17M,1.14M,1.06M
+,9:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,9:15am,USD,Medium,Capacity Utilization Rate,77.0%,77.3%,77.5%
+,,USD,Medium,Industrial Production m/m,-0.6%,0.0%,-0.4%
+,9:45am,USD,Low,Flash Manufacturing PMI,51.3,52.7,52.8
+,10:30am,USD,Medium,Crude Oil Inventories,4.8M,-0.3M,-3.6M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.50%,<0.50%,<0.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:45pm,NZD,High,GDP q/q,0.9%,0.8%,0.3%
+,6:50pm,JPY,Low,Trade Balance,0.00T,-0.21T,-0.17T
+,7:30pm,AUD,Low,RBA Bulletin,,,
+Thu Dec 17 2015,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,4:00am,EUR,High,German ifo Business Climate,108.7,109.2,109.0
+,,EUR,Low,ECB Economic Bulletin,,,
+,4:04am,EUR,Low,Italian Trade Balance,4.81B,2.87B,2.19B
+,4:30am,GBP,High,Retail Sales m/m,1.7%,0.6%,-0.5%
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-7,-9,-11
+,8:30am,USD,High,Philly Fed Manufacturing Index,-5.9,2.1,1.9
+,,USD,High,Unemployment Claims,271K,271K,282K
+,,USD,Medium,Current Account,-124B,-123B,-111B
+,10:00am,USD,Low,CB Leading Index m/m,0.4%,0.2%,0.6%
+,10:30am,USD,Low,Natural Gas Storage,-34B,-58B,-76B
+,7:00pm,NZD,High,ANZ Business Confidence,23.0,,14.6
+,10:50pm,JPY,High,Monetary Policy Statement,,,
+Fri Dec 18 2015,1:30am,JPY,High,BOJ Press Conference,,,
+,4:00am,EUR,Low,Current Account,20.4B,32.2B,30.1B
+,8:30am,CAD,High,Core CPI m/m,-0.3%,0.0%,0.3%
+,,CAD,Medium,CPI m/m,-0.1%,0.1%,0.1%
+,,CAD,Medium,Wholesale Sales m/m,-0.6%,0.1%,-0.3%
+,9:45am,USD,Low,Flash Services PMI,53.7,55.9,56.1
+,1:00pm,USD,Medium,FOMC Member Lacker Speaks,,,
+Sat Dec 19 2015,,,No specified,,,,

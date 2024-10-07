@@ -1,0 +1,98 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 24 2016,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,7:50pm,JPY,Low,SPPI y/y,0.2%,0.2%,0.2%
+Mon Apr 25 2016,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,4:00am,EUR,High,German ifo Business Climate,106.6,107.1,106.7
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-11,-17,-14
+,9:00am,EUR,Low,Belgian NBB Business Climate,-2.4,-4.0,-4.2
+,10:00am,USD,Medium,New Home Sales,511K,521K,519K
+Tue Apr 26 2016,4:30am,GBP,Low,High Street Lending,45.1K,46.1K,45.6K
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.2%,0.6%,-1.3%
+,,USD,Medium,Durable Goods Orders m/m,0.8%,1.9%,-3.0%
+,8:55am,CAD,High,BOC Gov Poloz Speaks,,,
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,5.4%,5.5%,5.7%
+,9:45am,USD,Low,Flash Services PMI,52.1,52.3,51.3
+,10:00am,USD,High,CB Consumer Confidence,94.2,95.8,96.1
+,,USD,Low,Richmond Manufacturing Index,14,11,22
+,1:00pm,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,6:45pm,NZD,Medium,Trade Balance,117M,405M,367M
+,9:30pm,AUD,High,CPI q/q,-0.2%,0.3%,0.4%
+,,AUD,Medium,Trimmed Mean CPI q/q,0.2%,0.5%,0.6%
+Wed Apr 27 2016,12:30am,JPY,Low,All Industries Activity m/m,-1.2%,-1.3%,1.2%
+,2:00am,CHF,Low,UBS Consumption Indicator,1.51,,1.45
+,,EUR,Low,German GfK Consumer Climate,9.7,9.5,9.4
+,,EUR,Low,German Import Prices m/m,0.7%,0.3%,-0.6%
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.0%,5.0%,4.9%
+,,EUR,Low,Private Loans y/y,1.6%,1.7%,1.6%
+,4:30am,GBP,High,Prelim GDP q/q,0.4%,0.4%,0.6%
+,,GBP,Low,Index of Services 3m/3m,0.7%,0.2%,0.9%
+,5:34am,EUR,Low,German 30-y Bond Auction,1.03|1.6,,0.94|1.2
+,6:00am,GBP,Low,CBI Realized Sales,-13,15,7
+,8:30am,USD,Low,Goods Trade Balance,-56.9B,-62.5B,-62.9B
+,10:00am,USD,Medium,Pending Home Sales m/m,1.4%,0.3%,3.4%
+,10:30am,USD,High,Crude Oil Inventories,2.0M,1.4M,2.1M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.50%,<0.50%,<0.50%
+,5:00pm,NZD,High,Official Cash Rate,2.25%,2.25%,2.25%
+,,NZD,High,RBNZ Rate Statement,,,
+,7:30pm,JPY,Medium,Household Spending y/y,-5.3%,-4.0%,1.2%
+,,JPY,Medium,Tokyo Core CPI y/y,-0.3%,-0.3%,-0.3%
+,,JPY,Low,National Core CPI y/y,-0.3%,-0.2%,0.0%
+,,JPY,Low,Unemployment Rate,3.2%,3.3%,3.3%
+,7:50pm,JPY,Medium,Retail Sales y/y,-1.1%,-1.4%,0.4%
+,,JPY,Low,Prelim Industrial Production m/m,3.6%,2.9%,-5.2%
+,9:30pm,AUD,Low,Import Prices q/q,-3.0%,-0.9%,-0.3%
+,11:00pm,JPY,High,BOJ Policy Rate,-0.10%,,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Thu Apr 28 2016,1:00am,JPY,High,BOJ Outlook Report,,,
+,,JPY,Low,BOJ Core CPI y/y,1.1%,1.2%,1.1%
+,,JPY,Low,Housing Starts y/y,8.4%,-0.5%,7.8%
+,2:00am,GBP,Low,Nationwide HPI m/m,0.2%,0.4%,0.7%
+,All Day,EUR,Medium,German Prelim CPI m/m,-0.2%,-0.2%,0.8%
+,2:30am,JPY,High,BOJ Press Conference,,,
+,3:00am,EUR,Medium,Spanish Flash CPI y/y,-1.1%,-0.7%,-0.8%
+,,EUR,Medium,Spanish Unemployment Rate,21.0%,20.9%,20.9%
+,3:55am,EUR,Medium,German Unemployment Change,-16K,1K,-2K
+,5:19am,EUR,Low,Italian 10-y Bond Auction,1.51|1.3,,1.24|1.4
+,8:30am,USD,High,Advance GDP q/q,0.5%,0.7%,1.4%
+,,USD,High,Unemployment Claims,257K,258K,248K
+,,USD,Medium,Advance GDP Price Index q/q,0.7%,0.5%,0.9%
+,10:30am,USD,Low,Natural Gas Storage,73B,71B,7B
+,6:45pm,NZD,Low,Building Consents m/m,-9.8%,,10.3%
+,6:49pm,GBP,Low,GfK Consumer Confidence,-3,-1,0
+,All Day,JPY,Holiday,Bank Holiday,,,
+,9:00pm,NZD,Medium,ANZ Business Confidence,6.2,,3.2
+,9:30pm,AUD,Medium,PPI q/q,-0.2%,0.2%,0.3%
+,,AUD,Low,Private Sector Credit m/m,0.4%,0.5%,0.6%
+,11:45pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+Fri Apr 29 2016,1:30am,EUR,Low,French Flash GDP q/q,0.5%,0.4%,0.3%
+,2:00am,EUR,Medium,German Retail Sales m/m,-1.1%,0.3%,0.0%
+,2:45am,EUR,Low,French Consumer Spending m/m,0.2%,-0.1%,0.5%
+,,EUR,Low,French Prelim CPI m/m,0.1%,0.1%,0.7%
+,3:00am,CHF,Medium,KOF Economic Barometer,102.7,102.9,102.8
+,,EUR,Medium,Spanish Flash GDP q/q,0.8%,0.7%,0.8%
+,4:00am,CHF,High,SNB Chairman Jordan Speaks,,,
+,,EUR,Low,Italian Monthly Unemployment Rate,11.4%,11.6%,11.6%
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,9.3B,5.0B,5.0B
+,,GBP,Low,M4 Money Supply m/m,-0.4%,0.3%,0.9%
+,,GBP,Low,Mortgage Approvals,71K,74K,73K
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,-0.2%,-0.1%,0.0%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.8%,0.9%,1.0%
+,,EUR,Medium,Prelim Flash GDP q/q,0.6%,0.4%,0.3%
+,,EUR,Low,Italian Prelim CPI m/m,0.0%,0.2%,0.2%
+,,EUR,Low,Unemployment Rate,10.2%,10.3%,10.4%
+,8:00am,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,8:30am,CAD,High,GDP m/m,-0.1%,-0.1%,0.6%
+,,CAD,Medium,RMPI m/m,4.5%,3.9%,0.7%
+,,CAD,Low,IPPI m/m,-0.6%,0.0%,-1.0%
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.2%
+,,USD,Medium,Employment Cost Index q/q,0.6%,0.6%,0.6%
+,,USD,Medium,Personal Spending m/m,0.1%,0.2%,0.2%
+,,USD,Low,Personal Income m/m,0.4%,0.3%,0.1%
+,9:45am,USD,Medium,Chicago PMI,50.4,53.1,53.6
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,89.0,90.3,89.7
+,,USD,Low,Revised UoM Inflation Expectations,2.8%,,2.7%
+,4:00pm,USD,Medium,Treasury Currency Report,,,
+Sat Apr 30 2016,9:00pm,CNY,High,Manufacturing PMI,50.1,50.3,50.2
+,,CNY,Medium,Non-Manufacturing PMI,53.5,,53.8

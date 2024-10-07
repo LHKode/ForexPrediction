@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 25 2019,Day 2,All,High,G7 Meetings,,,
+,6:45pm,NZD,Low,Trade Balance,-685M,-250M,331M
+Mon Aug 26 2019,All Day,GBP,Holiday,Bank Holiday,,,
+,4:00am,EUR,Medium,German ifo Business Climate,94.3,95.1,95.8
+,Day 3,All,High,G7 Meetings,,,
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.4%,0.2%,1.0%
+,,USD,Medium,Durable Goods Orders m/m,2.1%,1.4%,1.9%
+,10:00am,USD,Medium,FOMC Member Bullard Speaks,,,
+,7:50pm,JPY,Low,SPPI y/y,0.5%,0.6%,0.7%
+,10:00pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+Tue Aug 27 2019,1:02am,JPY,Low,BOJ Core CPI y/y,0.6%,0.6%,0.6%
+,2:00am,EUR,Low,German Final GDP q/q,-0.1%,-0.1%,-0.1%
+,4:30am,GBP,Low,High Street Lending,43.3K,42.8K,42.8K
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,8:00am,GBP,Medium,MPC Member Tenreyro Speaks,,,
+,9:00am,USD,Low,HPI m/m,0.2%,0.2%,0.2%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,2.1%,2.5%,2.4%
+,9:59am,USD,Medium,Richmond Manufacturing Index,1,-2,-12
+,10:00am,USD,High,CB Consumer Confidence,135.1,129.3,135.8
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.4%,,-0.1%
+,9:30pm,AUD,Medium,Construction Work Done q/q,-3.8%,-1.0%,-2.2%
+Wed Aug 28 2019,2:00am,EUR,Low,German GfK Consumer Climate,9.7,9.5,9.7
+,2:03am,EUR,Low,German Import Prices m/m,-0.2%,-0.1%,-1.4%
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,-37.5,,-24.0
+,,EUR,Low,M3 Money Supply y/y,5.2%,4.7%,4.5%
+,,EUR,Low,Private Loans y/y,3.4%,3.5%,3.3%
+,5:34am,EUR,Low,German 10-y Bond Auction,-0.70|1.9,,-0.41|2.0
+,10:30am,USD,High,Crude Oil Inventories,-10.0M,-2.8M,-2.7M
+,9:00pm,NZD,High,ANZ Business Confidence,-52.3,,-44.3
+,9:30pm,AUD,High,Private Capital Expenditure q/q,-0.5%,0.4%,-1.3%
+Thu Aug 29 2019,12:20am,AUD,Low,HIA New Home Sales m/m,-7.2%,,-12.4%
+,1:00am,JPY,Low,Consumer Confidence,37.1,37.5,37.8
+,2:45am,EUR,Low,French Consumer Spending m/m,0.4%,0.4%,-0.2%
+,,EUR,Low,French Prelim GDP q/q,0.3%,0.2%,0.2%
+,3:00am,EUR,Low,Spanish Flash CPI y/y,0.3%,0.4%,0.5%
+,All Day,EUR,Medium,German Prelim CPI m/m,-0.2%,-0.1%,0.5%
+,3:55am,EUR,Low,German Unemployment Change,4K,4K,1K
+,5:20am,EUR,Low,Italian 10-y Bond Auction,0.96|1.3,,1.56|1.3
+,8:30am,CAD,Medium,Current Account,-6.4B,-9.9B,-16.6B
+,,USD,High,Prelim GDP q/q,2.0%,2.0%,2.1%
+,,USD,Low,Goods Trade Balance,-72.3B,-74.0B,-74.2B
+,,USD,Low,Prelim GDP Price Index q/q,2.4%,2.4%,2.4%
+,,USD,Low,Prelim Wholesale Inventories m/m,0.2%,0.2%,0.0%
+,,USD,Low,Unemployment Claims,215K,215K,211K
+,10:00am,USD,Low,Pending Home Sales m/m,-2.5%,0.1%,2.8%
+,10:30am,USD,Low,Natural Gas Storage,60B,55B,59B
+,6:45pm,NZD,Low,Building Consents m/m,-1.3%,,-4.0%
+,7:01pm,GBP,Low,GfK Consumer Confidence,-14,-11,-11
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,0.7%,0.8%,0.9%
+,,JPY,Low,Unemployment Rate,2.2%,2.3%,2.3%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,1.3%,0.3%,-3.3%
+,,JPY,Low,Retail Sales y/y,-2.0%,-0.6%,0.5%
+,9:30pm,AUD,High,Building Approvals m/m,-9.7%,0.0%,-0.8%
+,,AUD,Low,Private Sector Credit m/m,0.2%,0.2%,0.1%
+Fri Aug 30 2019,1:00am,JPY,Low,Housing Starts y/y,-4.1%,-5.3%,0.3%
+,1:58am,GBP,Low,Nationwide HPI m/m,0.0%,0.1%,0.3%
+,2:00am,EUR,Low,German Retail Sales m/m,-2.2%,-1.3%,3.0%
+,2:45am,EUR,Low,French Gov Budget Balance,-109.7B,,-77.3B
+,,EUR,Low,French Prelim CPI m/m,0.5%,0.5%,-0.2%
+,3:00am,CHF,Low,KOF Economic Barometer,97.0,95.6,97.0
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,9.9%,9.6%,9.8%
+,4:30am,GBP,Low,M4 Money Supply m/m,0.7%,0.2%,0.0%
+,,GBP,Low,Mortgage Approvals,67K,66K,67K
+,,GBP,Low,Net Lending to Individuals m/m,5.5B,4.7B,4.9B
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.0%,1.0%,1.0%
+,,EUR,Low,Core CPI Flash Estimate y/y,0.9%,1.0%,0.9%
+,,EUR,Low,Italian Prelim CPI m/m,0.5%,0.3%,0.0%
+,,EUR,Low,Unemployment Rate,7.5%,7.5%,7.5%
+,8:30am,CAD,High,GDP m/m,0.2%,0.1%,0.2%
+,,CAD,Medium,RMPI m/m,1.2%,1.6%,-6.1%
+,,CAD,Low,IPPI m/m,-0.3%,0.4%,-1.4%
+,,USD,High,Personal Spending m/m,0.6%,0.5%,0.3%
+,,USD,Medium,Core PCE Price Index m/m,0.2%,0.3%,0.2%
+,,USD,Low,Personal Income m/m,0.1%,0.3%,0.5%
+,9:45am,USD,Medium,Chicago PMI,50.4,48.1,44.4
+,10:00am,USD,Low,Revised UoM Consumer Sentiment,89.8,92.5,92.1
+,,USD,Low,Revised UoM Inflation Expectations,2.7%,,2.7%
+,9:00pm,CNY,High,Manufacturing PMI,49.5,49.7,49.7
+,,CNY,Medium,Non-Manufacturing PMI,53.8,53.6,53.7
+Sat Aug 31 2019,,,No specified,,,,

@@ -1,0 +1,101 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 5 2019,All Day,JPY,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.2%,,0.4%
+,,NZD,Low,ANZ Commodity Prices m/m,2.5%,,4.1%
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,-0.1%,,-1.7%
+,9:45pm,CNY,High,Caixin Services PMI,54.5,54.3,54.4
+Mon May 6 2019,3:00am,EUR,Low,Spanish Unemployment Change,-91.5K,-85.0K,-34.0K
+,All Day,GBP,Holiday,Bank Holiday,,,
+,3:15am,EUR,Low,Spanish Services PMI,53.1,54.9,56.8
+,3:45am,EUR,Low,Italian Services PMI,50.4,54.4,53.1
+,3:50am,EUR,Low,French Final Services PMI,50.5,50.5,50.5
+,3:55am,EUR,Low,German Final Services PMI,55.7,55.6,55.6
+,4:00am,EUR,Low,Final Services PMI,52.8,52.5,52.5
+,4:30am,EUR,Low,Sentix Investor Confidence,5.3,1.1,-0.3
+,5:00am,EUR,Low,Retail Sales m/m,0.0%,-0.1%,0.5%
+,1:45pm,CAD,High,BOC Gov Poloz Speaks,,,
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,6:30pm,AUD,Low,AIG Construction Index,42.6,,45.6
+,8:30pm,JPY,Low,Final Manufacturing PMI,50.2,49.5,49.5
+,9:30pm,AUD,High,Retail Sales m/m,0.3%,0.2%,0.9%
+,,AUD,Medium,Trade Balance,4.95B,4.49B,5.14B
+,11:00pm,NZD,High,Inflation Expectations q/q,2.01%,,2.02%
+Tue May 7 2019,12:30am,AUD,High,Cash Rate,1.50%,1.25%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+,2:00am,EUR,Low,German Factory Orders m/m,0.6%,1.6%,-4.0%
+,2:45am,EUR,Low,French Trade Balance,-5.3B,-4.5B,-4.1B
+,3:00am,CHF,Low,Foreign Currency Reserves,772B,,756B
+,4:00am,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,7:50am,EUR,Medium,EU Economic Forecasts,,,
+,10:00am,CAD,Medium,Ivey PMI,55.9,51.5,54.3
+,,USD,Low,JOLTS Job Openings,7.49M,7.35M,7.14M
+,10:03am,USD,Low,IBD/TIPP Economic Optimism,58.6,54.5,54.2
+,10:26am,NZD,Low,GDT Price Index,0.4%,,0.5%
+,11:35am,USD,Medium,FOMC Member Quarles Speaks,,,
+,12:30pm,GBP,Medium,MPC Member Haldane Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,10.3B,17.0B,15.5B
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,3.7%,2.4%,-1.1%
+,7:50pm,JPY,Low,Monetary Base y/y,3.1%,3.6%,3.8%
+,,JPY,Low,Monetary Policy Meeting Minutes,,,
+,10:00pm,NZD,High,Official Cash Rate,1.50%,1.75%,1.75%
+,,NZD,High,RBNZ Monetary Policy Statement,,,
+,,NZD,High,RBNZ Rate Statement,,,
+,11:00pm,NZD,High,RBNZ Press Conference,,,
+,11:03pm,CNY,High,Trade Balance,94B,235B,221B
+,11:04pm,CNY,Low,USD-Denominated Trade Balance,13.8B,33.7B,32.6B
+,11:35pm,JPY,Low,10-y Bond Auction,-0.06|4.4,,-0.06|5.1
+Wed May 8 2019,1:45am,CHF,Low,Unemployment Rate,2.4%,2.4%,2.4%
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,2:00am,EUR,Low,German Industrial Production m/m,0.5%,-0.5%,0.4%
+,3:30am,GBP,Low,Halifax HPI m/m,1.1%,0.3%,-1.2%
+,4:15am,GBP,Medium,MPC Member Ramsden Speaks,,,
+,7:34am,EUR,High,ECB President Draghi Speaks,,,
+,8:13am,CAD,Low,Housing Starts,235K,194K,192K
+,8:30am,USD,Medium,FOMC Member Brainard Speaks,,,
+,10:30am,USD,Low,Crude Oil Inventories,-4.0M,1.1M,9.9M
+,1:01pm,USD,Low,10-y Bond Auction,2.48|2.2,,2.47|2.6
+,7:01pm,GBP,Low,RICS House Price Balance,-23%,-22%,-23%
+,9:30pm,CNY,Medium,CPI y/y,2.5%,2.5%,2.3%
+,,CNY,Low,PPI y/y,0.9%,0.6%,0.4%
+,10:00pm,CNY,Medium,New Loans,1020B,1175B,1690B
+,,CNY,Low,M2 Money Supply y/y,8.5%,8.5%,8.6%
+Thu May 9 2019,1:04am,JPY,Low,Consumer Confidence,40.4,40.3,40.5
+,4:57am,EUR,Low,Spanish 10-y Bond Auction,0.94|1.4,,1.12|1.3
+,8:30am,CAD,High,Trade Balance,-3.2B,-2.4B,-3.4B
+,,CAD,Low,NHPI m/m,0.0%,0.1%,0.0%
+,,USD,High,Fed Chair Powell Speaks,,,
+,,USD,High,PPI m/m,0.2%,0.2%,0.6%
+,,USD,Medium,Core PPI m/m,0.1%,0.2%,0.3%
+,,USD,Low,Trade Balance,-50.0B,-51.4B,-49.3B
+,,USD,Low,Unemployment Claims,228K,215K,230K
+,10:00am,USD,Low,Final Wholesale Inventories m/m,-0.1%,0.0%,0.0%
+,10:30am,USD,Low,Natural Gas Storage,85B,88B,123B
+,1:01pm,USD,Low,30-y Bond Auction,2.89|2.2,,2.93|2.3
+,4:00pm,USD,Low,FOMC Financial Stability Report,,,
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-1.9%,-0.5%,-0.7%
+,,JPY,Low,Household Spending y/y,2.1%,1.6%,1.7%
+,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,9:30pm,AUD,High,RBA Monetary Policy Statement,,,
+Fri May 10 2019,2:00am,EUR,Low,German Trade Balance,20.0B,19.4B,18.7B
+,2:45am,EUR,Low,French Industrial Production m/m,-0.9%,-0.4%,0.1%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.3%,0.2%,0.3%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.9%,-0.6%,0.8%
+,4:30am,GBP,High,GDP m/m,-0.1%,0.0%,0.2%
+,,GBP,High,Manufacturing Production m/m,0.9%,0.1%,1.0%
+,,GBP,High,Prelim GDP q/q,0.5%,0.5%,0.2%
+,,GBP,Medium,Prelim Business Investment q/q,0.5%,-0.9%,-0.9%
+,,GBP,Low,Construction Output m/m,-1.9%,-0.8%,0.5%
+,,GBP,Low,Goods Trade Balance,-13.7B,-13.7B,-14.4B
+,,GBP,Low,Index of Services 3m/3m,0.3%,0.4%,0.4%
+,,GBP,Low,Industrial Production m/m,0.7%,0.2%,0.6%
+,5:03am,EUR,Low,Italian Retail Sales m/m,-0.3%,0.3%,0.1%
+,8:23am,GBP,Low,NIESR GDP Estimate,0.4%,,0.5%
+,8:30am,CAD,High,Employment Change,106.5K,11.7K,-7.2K
+,,CAD,High,Unemployment Rate,5.7%,5.8%,5.8%
+,,CAD,Low,Building Permits m/m,2.1%,2.4%,-5.1%
+,,USD,High,CPI m/m,0.3%,0.4%,0.4%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.1%
+,,USD,Medium,FOMC Member Brainard Speaks,,,
+,10:00am,USD,Medium,FOMC Member Williams Speaks,,,
+,2:00pm,USD,Low,Federal Budget Balance,160.3B,-165.2B,-146.9B
+Sat May 11 2019,,,No specified,,,,

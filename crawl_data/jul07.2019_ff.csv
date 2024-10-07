@@ -1,0 +1,90 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 7 2019,All Day,EUR,Medium,Greek Parliamentary Election,,,
+,7:50pm,JPY,Low,Bank Lending y/y,2.3%,2.6%,2.6%
+,,JPY,Low,Core Machinery Orders m/m,-7.8%,-3.6%,5.2%
+,,JPY,Low,Current Account,1.31T,1.24T,1.60T
+,8:30pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,4.6%,,-8.2%
+Mon Jul 8 2019,1:00am,JPY,Low,Economy Watchers Sentiment,44.0,43.9,44.1
+,2:00am,EUR,Low,German Industrial Production m/m,0.3%,0.4%,-2.0%
+,,EUR,Low,German Trade Balance,18.7B,16.8B,16.9B
+,4:30am,EUR,Low,Sentix Investor Confidence,-5.8,0.3,-3.3
+,3:00pm,USD,Low,Consumer Credit m/m,17.1B,15.2B,17.5B
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-1.6%,-1.5%,-3.0%
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-0.2%,-0.6%,-0.3%
+,7:50pm,JPY,Low,M2 Money Stock y/y,2.3%,2.6%,2.6%
+,9:30pm,AUD,Medium,NAB Business Confidence,2,,7
+Tue Jul 9 2019,1:45am,CHF,Low,Unemployment Rate,2.3%,2.4%,2.3%
+,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,-38.0%,,-27.3%
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.7%,0.2%,0.0%
+,6:00am,USD,Low,NFIB Small Business Index,103.3,103.2,105.0
+,8:13am,CAD,Low,Housing Starts,246K,209K,197K
+,8:30am,CAD,Low,Building Permits m/m,-13.0%,-10.0%,16.0%
+,8:45am,USD,High,Fed Chair Powell Speaks,,,
+,10:00am,USD,Low,JOLTS Job Openings,7.32M,7.51M,7.37M
+,10:10am,USD,Medium,FOMC Member Bullard Speaks,,,
+,2:00pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,6:45pm,NZD,Low,FPI m/m,-0.7%,,0.7%
+,7:50pm,JPY,Low,PPI y/y,-0.1%,0.4%,0.6%
+,8:25pm,AUD,Medium,Westpac Consumer Sentiment,-4.1%,,-0.6%
+,9:30pm,CNY,Medium,CPI y/y,2.7%,2.7%,2.7%
+,,CNY,Low,PPI y/y,0.0%,0.3%,0.6%
+Wed Jul 10 2019,2:45am,EUR,Low,French Industrial Production m/m,2.1%,0.3%,0.5%
+,4:00am,EUR,Low,Italian Industrial Production m/m,0.9%,0.1%,-0.8%
+,4:30am,GBP,High,GDP m/m,0.3%,0.3%,-0.4%
+,,GBP,High,Manufacturing Production m/m,1.4%,2.2%,-4.2%
+,,GBP,Low,Construction Output m/m,0.6%,0.4%,-0.5%
+,,GBP,Low,Goods Trade Balance,-11.5B,-12.5B,-12.8B
+,,GBP,Low,Index of Services 3m/3m,0.3%,0.1%,0.3%
+,,GBP,Low,Industrial Production m/m,1.4%,1.6%,-2.9%
+,5:15am,EUR,Medium,EU Economic Forecasts,,,
+,5:37am,EUR,Low,German 10-y Bond Auction,-0.26|1.2,,-0.24|1.7
+,8:14am,GBP,Low,NIESR GDP Estimate,-0.1%,,0.3%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.75%,1.75%,1.75%
+,,USD,High,Fed Chair Powell Testifies,,,
+,,USD,Low,Final Wholesale Inventories m/m,0.4%,0.4%,0.4%
+,10:30am,USD,Low,Crude Oil Inventories,-9.5M,-1.9M,-1.1M
+,11:15am,CAD,High,BOC Press Conference,,,
+,1:01pm,USD,Low,10-y Bond Auction,2.06|2.4,,2.07|3.4
+,1:10pm,GBP,Medium,MPC Member Tenreyro Speaks,,,
+,1:30pm,USD,Medium,FOMC Member Bullard Speaks,,,
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,7:01pm,GBP,Low,RICS House Price Balance,-1%,-12%,-9%
+,9:00pm,AUD,Low,MI Inflation Expectations,3.2%,,3.3%
+,9:30pm,AUD,Low,Home Loans m/m,0.0%,-0.6%,-0.9%
+Thu Jul 11 2019,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.2%,-0.1%,0.8%
+,2:00am,EUR,Low,German Final CPI m/m,0.3%,0.3%,0.3%
+,2:45am,EUR,Low,French Final CPI m/m,0.2%,0.2%,0.2%
+,3:00am,CNY,Low,Foreign Direct Investment ytd/y,7.2%,,6.8%
+,5:30am,GBP,Medium,BOE Financial Stability Report,,,
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,6:00am,GBP,High,BOE Gov Carney Speaks,,,
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Low,NHPI m/m,-0.1%,0.2%,0.0%
+,,USD,High,CPI m/m,0.1%,0.0%,0.1%
+,,USD,High,Core CPI m/m,0.3%,0.2%,0.1%
+,,USD,Low,Unemployment Claims,209K,220K,222K
+,9:10am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,10:00am,USD,High,Fed Chair Powell Testifies,,,
+,10:30am,USD,Low,Natural Gas Storage,81B,71B,89B
+,1:01pm,USD,Low,30-y Bond Auction,2.64|2.1,,2.61|2.3
+,1:30pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,2:00pm,USD,Low,Federal Budget Balance,-8.5B,-7.9B,-207.8B
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,51.3,,50.4
+Fri Jul 12 2019,12:30am,JPY,Low,Revised Industrial Production m/m,2.0%,2.3%,2.3%
+,2:00am,EUR,Low,German WPI m/m,-0.5%,0.2%,0.3%
+,3:47am,CNY,Medium,Trade Balance,345B,276B,279B
+,3:49am,CNY,Low,USD-Denominated Trade Balance,51.0B,45.2B,41.7B
+,4:00am,CNY,Medium,New Loans,1660B,1650B,1180B
+,,CNY,Low,M2 Money Supply y/y,8.5%,8.6%,8.5%
+,,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,5:00am,EUR,Low,Industrial Production m/m,0.9%,0.2%,-0.4%
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,USD,High,PPI m/m,0.1%,0.1%,0.1%
+,,USD,Medium,Core PPI m/m,0.3%,0.2%,0.2%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.4%,,-0.3%
+Sat Jul 13 2019,,,No specified,,,,

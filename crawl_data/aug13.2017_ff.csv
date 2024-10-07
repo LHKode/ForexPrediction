@@ -1,0 +1,76 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 13 2017,6:45pm,NZD,High,Retail Sales q/q,2.0%,0.7%,1.6%
+,,NZD,Medium,Core Retail Sales q/q,2.1%,0.8%,1.5%
+,7:35pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,7:50pm,JPY,Medium,Prelim GDP q/q,1.0%,0.6%,0.3%
+,,JPY,Low,Prelim GDP Price Index y/y,-0.4%,-0.5%,-0.8%
+,10:00pm,CNY,High,Industrial Production y/y,6.4%,7.1%,7.6%
+,,CNY,Medium,Fixed Asset Investment ytd/y,8.3%,8.6%,8.6%
+,,CNY,Low,Retail Sales y/y,10.4%,10.9%,11.0%
+Mon Aug 14 2017,5:00am,EUR,Low,Industrial Production m/m,-0.6%,-0.4%,1.2%
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,-2.0%,,1.1%
+Tue Aug 15 2017,12:30am,JPY,Low,Revised Industrial Production m/m,2.2%,1.6%,1.6%
+,2:00am,EUR,Medium,German Prelim GDP q/q,0.6%,0.7%,0.7%
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,3:15am,CHF,Medium,PPI m/m,0.0%,0.0%,-0.1%
+,4:00am,CNY,Low,M2 Money Supply y/y,9.2%,9.5%,9.4%
+,,CNY,Low,New Loans,826B,810B,1540B
+,4:30am,GBP,High,CPI y/y,2.6%,2.7%,2.6%
+,,GBP,Medium,PPI Input m/m,0.0%,0.4%,-0.3%
+,,GBP,Medium,RPI y/y,3.6%,3.5%,3.5%
+,,GBP,Low,Core CPI y/y,2.4%,2.5%,2.4%
+,,GBP,Low,HPI y/y,4.9%,4.3%,5.0%
+,,GBP,Low,PPI Output m/m,0.1%,0.0%,0.0%
+,8:30am,USD,High,Core Retail Sales m/m,0.5%,0.3%,0.1%
+,,USD,High,Retail Sales m/m,0.6%,0.3%,0.3%
+,,USD,Medium,Empire State Manufacturing Index,25.2,10.1,9.8
+,,USD,Medium,Import Prices m/m,0.1%,0.1%,-0.2%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.1%,,-0.1%
+,10:00am,USD,Low,Business Inventories m/m,0.5%,0.4%,0.3%
+,,USD,Low,NAHB Housing Market Index,68,64,64
+,10:10am,NZD,Medium,GDT Price Index,-0.4%,,-1.6%
+,4:00pm,USD,Low,TIC Long-Term Purchases,34.4B,28.3B,91.9B
+,8:30pm,AUD,Low,MI Leading Index m/m,0.1%,,-0.2%
+,9:30pm,AUD,Medium,Wage Price Index q/q,0.5%,0.5%,0.6%
+Wed Aug 16 2017,4:00am,EUR,Low,Italian Prelim GDP q/q,0.4%,0.4%,0.2%
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.1%,1.8%,1.9%
+,,GBP,Medium,Claimant Count Change,-4.2K,3.2K,3.5K
+,,GBP,Medium,Unemployment Rate,4.4%,4.5%,4.5%
+,5:00am,EUR,Medium,Flash GDP q/q,0.6%,0.6%,0.6%
+,8:30am,CAD,Medium,Foreign Securities Purchases,-0.92B,23.45B,29.44B
+,,USD,High,Building Permits,1.22M,1.25M,1.28M
+,,USD,Medium,Housing Starts,1.16M,1.22M,1.21M
+,10:30am,USD,High,Crude Oil Inventories,-8.9M,-3.0M,-6.5M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,6:45pm,NZD,High,PPI Input q/q,1.4%,0.9%,0.8%
+,,NZD,Low,PPI Output q/q,1.3%,0.7%,1.4%
+,7:50pm,JPY,Low,Trade Balance,0.34T,0.20T,0.09T
+,9:30pm,AUD,High,Employment Change,27.9K,19.8K,20.0K
+,,AUD,High,Unemployment Rate,5.6%,5.6%,5.7%
+Thu Aug 17 2017,4:20am,AUD,Medium,RBA Assist Gov Ellis Speaks,,,
+,4:30am,GBP,High,Retail Sales m/m,0.3%,0.2%,0.3%
+,5:00am,EUR,Medium,Final CPI y/y,1.3%,1.3%,1.3%
+,,EUR,Low,Final Core CPI y/y,1.2%,1.2%,1.2%
+,,EUR,Low,Trade Balance,22.3B,20.4B,19.0B
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,Manufacturing Sales m/m,-1.8%,-1.0%,1.3%
+,,USD,High,Unemployment Claims,232K,240K,244K
+,,USD,Medium,Philly Fed Manufacturing Index,18.9,18.3,19.5
+,8:47am,USD,Medium,Capacity Utilization Rate,76.7%,76.7%,76.7%
+,,USD,Medium,Industrial Production m/m,0.2%,0.3%,0.4%
+,10:00am,USD,Low,CB Leading Index m/m,0.3%,0.3%,0.6%
+,10:30am,USD,Low,Natural Gas Storage,53B,47B,28B
+,12:30pm,USD,Medium,FOMC Member Kaplan Speaks,,,
+Fri Aug 18 2017,2:00am,EUR,Low,German PPI m/m,0.2%,0.0%,0.0%
+,4:00am,EUR,Low,Current Account,21.2B,27.3B,30.5B
+,8:30am,CAD,High,CPI m/m,0.0%,0.0%,-0.1%
+,,CAD,Medium,Common CPI y/y,1.4%,,1.4%
+,,CAD,Medium,Median CPI y/y,1.7%,,1.6%
+,,CAD,Medium,Trimmed CPI y/y,1.3%,,1.2%
+,,CAD,Low,Core CPI m/m,-0.1%,,0.1%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,97.6,94.0,93.4
+,,USD,Low,Prelim UoM Inflation Expectations,2.6%,,2.6%
+,10:15am,USD,Medium,FOMC Member Kaplan Speaks,,,
+Sat Aug 19 2017,,,No specified,,,,

@@ -1,0 +1,82 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 14 2017,6:45pm,NZD,High,Retail Sales q/q,1.5%,1.1%,0.6%
+,6:47pm,NZD,Medium,Core Retail Sales q/q,1.2%,0.9%,0.7%
+,7:50pm,JPY,Low,PPI y/y,2.1%,1.8%,1.4%
+,9:30pm,AUD,Low,Home Loans m/m,-0.5%,0.0%,-0.8%
+,10:00pm,CNY,High,Industrial Production y/y,6.5%,7.0%,7.6%
+,,CNY,Medium,Fixed Asset Investment ytd/y,8.9%,9.1%,9.2%
+,,CNY,Low,Retail Sales y/y,10.7%,10.8%,10.9%
+Mon May 15 2017,1:00am,NZD,Medium,RBNZ Assist Gov McDermott Speaks,,,
+,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,34.7%,,22.8%
+,3:15am,CHF,Medium,PPI m/m,-0.2%,0.0%,0.1%
+,8:30am,USD,Medium,Empire State Manufacturing Index,-1.0,7.2,5.2
+,10:00am,GBP,High,Prime Minister May Speaks,,,
+,,USD,Low,NAHB Housing Market Index,70,68,68
+,4:00pm,USD,Low,TIC Long-Term Purchases,59.8B,68.3B,53.1B
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,0.3%,,1.9%
+Tue May 16 2017,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.2%,0.1%,0.0%
+,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.2%,0.2%,0.2%
+,4:30am,GBP,High,CPI y/y,2.7%,2.6%,2.3%
+,,GBP,Medium,PPI Input m/m,0.1%,0.1%,0.0%
+,,GBP,Medium,RPI y/y,3.5%,3.4%,3.1%
+,,GBP,Low,Core CPI y/y,2.4%,2.2%,1.8%
+,,GBP,Low,HPI y/y,4.1%,5.4%,5.6%
+,,GBP,Low,PPI Output m/m,0.4%,0.2%,0.4%
+,5:00am,EUR,Medium,Flash GDP q/q,0.5%,0.5%,0.5%
+,,EUR,Medium,German ZEW Economic Sentiment,20.6,22.3,19.5
+,,EUR,Low,Trade Balance,23.1B,18.8B,18.8B
+,,EUR,Low,ZEW Economic Sentiment,35.1,29.1,26.3
+,8:30am,USD,High,Building Permits,1.23M,1.27M,1.27M
+,,USD,Medium,Housing Starts,1.17M,1.26M,1.20M
+,9:15am,USD,Medium,Capacity Utilization Rate,76.7%,76.3%,76.1%
+,,USD,Medium,Industrial Production m/m,1.0%,0.4%,0.4%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.2%,,0.0%
+,10:00am,USD,Medium,Mortgage Delinquencies,4.71%,,4.80%
+,10:44am,NZD,Medium,GDT Price Index,3.2%,,3.6%
+,6:45pm,NZD,High,PPI Input q/q,0.8%,0.7%,1.0%
+,,NZD,Low,PPI Output q/q,1.4%,1.1%,1.5%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,1.4%,2.6%,1.5%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-1.1%,,-0.7%
+,9:30pm,AUD,Medium,Wage Price Index q/q,0.5%,0.5%,0.4%
+Wed May 17 2017,12:30am,JPY,Low,Revised Industrial Production m/m,-1.9%,-2.1%,-2.1%
+,4:00am,EUR,Low,Italian Trade Balance,5.42B,1.97B,1.88B
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.4%,2.4%,2.3%
+,,GBP,Medium,Claimant Count Change,19.4K,23.4K,33.5K
+,,GBP,Medium,Unemployment Rate,4.6%,4.7%,4.7%
+,5:00am,EUR,Medium,Final CPI y/y,1.9%,1.9%,1.9%
+,,EUR,Low,Final Core CPI y/y,1.2%,1.2%,1.2%
+,5:32am,EUR,Low,German 30-y Bond Auction,1.24|2.3,,0.87|1.2
+,8:30am,CAD,High,Manufacturing Sales m/m,1.0%,1.1%,-0.6%
+,10:30am,USD,High,Crude Oil Inventories,-1.8M,-2.5M,-5.2M
+,7:50pm,JPY,Medium,Prelim GDP q/q,0.5%,0.4%,0.3%
+,,JPY,Low,Prelim GDP Price Index y/y,-0.8%,-0.7%,-0.1%
+,9:00pm,AUD,Low,MI Inflation Expectations,4.0%,,4.1%
+,9:30pm,AUD,High,Employment Change,37.4K,4.5K,60.0K
+,,AUD,High,Unemployment Rate,5.7%,5.9%,5.9%
+Thu May 18 2017,2:45am,CNY,Low,Foreign Direct Investment ytd/y,-0.1%,,1.0%
+,4:30am,GBP,High,Retail Sales m/m,2.3%,1.2%,-1.4%
+,4:41am,EUR,Low,Spanish 10-y Bond Auction,1.55|1.4,,1.45|1.6
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,Foreign Securities Purchases,15.13B,17.23B,39.16B
+,,USD,High,Unemployment Claims,232K,240K,236K
+,,USD,Medium,Philly Fed Manufacturing Index,38.8,19.9,22.0
+,10:00am,USD,High,Treasury Sec Mnuchin Speaks,,,
+,,USD,Low,CB Leading Index m/m,0.3%,0.4%,0.3%
+,10:30am,USD,Low,Natural Gas Storage,68B,61B,45B
+,1:00pm,EUR,High,ECB President Draghi Speaks,,,
+,6:45pm,NZD,Low,Visitor Arrivals m/m,3.5%,,1.9%
+,11:00pm,NZD,Low,Credit Card Spending y/y,6.4%,,7.2%
+Fri May 19 2017,2:00am,EUR,Low,German PPI m/m,0.4%,0.2%,0.0%
+,4:00am,EUR,Low,Current Account,34.1B,32.3B,37.8B
+,6:00am,GBP,Low,CBI Industrial Order Expectations,9,4,4
+,8:30am,CAD,High,CPI m/m,0.4%,0.5%,0.2%
+,,CAD,High,Core Retail Sales m/m,-0.2%,0.2%,-0.1%
+,,CAD,Medium,Common CPI y/y,1.3%,,1.3%
+,,CAD,Medium,Median CPI y/y,1.6%,,1.7%
+,,CAD,Medium,Retail Sales m/m,0.7%,0.4%,-0.4%
+,,CAD,Medium,Trimmed CPI y/y,1.3%,,1.4%
+,,CAD,Low,Core CPI m/m,0.0%,,0.3%
+,10:00am,EUR,Low,Consumer Confidence,-3,-3,-4
+Sat May 20 2017,,,No specified,,,,

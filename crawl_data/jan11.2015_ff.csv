@@ -1,0 +1,76 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 11 2015,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,ANZ Job Advertisements m/m,1.8%,,0.7%
+,,AUD,Medium,Home Loans m/m,-0.7%,1.8%,0.2%
+Mon Jan 12 2015,10:10am,USD,Low,Labor Market Conditions Index m/m,6.1,,5.5
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,12:40pm,USD,Medium,FOMC Member Lockhart Speaks,,,
+,6:50pm,JPY,Medium,Current Account,0.91T,0.69T,0.95T
+,,JPY,Low,Bank Lending y/y,2.6%,,2.7%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.4%,,0.9%
+,9:00pm,CNY,High,USD-Denominated Trade Balance,49.6B,48.9B,54.5B
+Tue Jan 13 2015,12:03am,JPY,Low,Economy Watchers Sentiment,45.2,44.3,41.5
+,2:00am,EUR,Low,German WPI m/m,-1.0%,0.2%,-0.7%
+,4:00am,EUR,Low,Italian Industrial Production m/m,0.3%,0.1%,0.0%
+,4:30am,GBP,High,CPI y/y,0.5%,0.7%,1.0%
+,,GBP,Medium,PPI Input m/m,-2.4%,-2.5%,-0.7%
+,,GBP,Medium,RPI y/y,1.6%,1.7%,2.0%
+,,GBP,Low,Core CPI y/y,1.3%,1.4%,1.2%
+,,GBP,Low,ONS HPI y/y,10.0%,10.1%,10.4%
+,,GBP,Low,PPI Output m/m,-0.3%,-0.1%,-0.2%
+,9:00am,USD,Low,NFIB Small Business Index,100.4,98.6,98.1
+,10:00am,USD,Medium,JOLTS Job Openings,4.97M,4.86M,4.83M
+,,USD,Low,IBD/TIPP Economic Optimism,51.5,48.9,48.4
+,1:01pm,USD,Medium,10-y Bond Auction,1.93|2.6,,2.21|3.0
+,2:00pm,USD,Low,Federal Budget Balance,1.9B,3.8B,-56.8B
+,6:50pm,JPY,Low,M2 Money Stock y/y,3.6%,3.6%,3.6%
+,10:45pm,JPY,Low,30-y Bond Auction,1.12|3.6,,1.46|3.1
+Wed Jan 14 2015,1:00am,JPY,Low,Prelim Machine Tool Orders y/y,33.8%,,36.6%
+,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.0%,-0.2%
+,3:35am,EUR,High,European Court of Justice Ruling,,,
+,5:00am,EUR,Low,Industrial Production m/m,0.2%,0.0%,0.3%
+,,GBP,Low,CB Leading Index m/m,-0.3%,,-0.3%
+,5:33am,EUR,Medium,German 10-y Bond Auction,0.52|1.3,,0.74|1.1
+,8:30am,USD,High,Core Retail Sales m/m,-1.0%,0.1%,0.1%
+,,USD,High,Retail Sales m/m,-0.9%,0.2%,0.4%
+,,USD,Medium,Import Prices m/m,-2.5%,-2.7%,-1.8%
+,9:15am,GBP,High,BOE Gov Carney Speaks,,,
+,10:00am,USD,Medium,Business Inventories m/m,0.2%,0.2%,0.2%
+,10:30am,USD,Medium,Crude Oil Inventories,5.4M,1.2M,-3.1M
+,1:01pm,USD,Low,30-y Bond Auction,2.43|2.3,,2.85|2.8
+,2:00pm,USD,Low,Beige Book,,,
+,4:45pm,NZD,Low,FPI m/m,0.3%,,-0.5%
+,6:50pm,JPY,Medium,Core Machinery Orders m/m,1.3%,4.8%,-6.4%
+,,JPY,Low,PPI y/y,1.9%,2.2%,2.6%
+,7:01pm,GBP,Low,RICS House Price Balance,11%,11%,13%
+,7:30pm,AUD,High,Employment Change,37.4K,5.3K,45.0K
+,,AUD,High,Unemployment Rate,6.1%,6.3%,6.2%
+,8:30pm,NZD,Low,REINZ HPI m/m,-1.0%,,3.3%
+,9:02pm,CNY,Medium,New Loans,697B,885B,853B
+,,CNY,Low,M2 Money Supply y/y,12.2%,12.5%,12.3%
+Thu Jan 15 2015,4:30am,CHF,High,Libor Rate,-0.75%,,-0.25%
+,5:00am,EUR,Low,Trade Balance,20.0B,21.3B,19.6B
+,7:15am,CHF,High,SNB Chairman Jordan Speaks,,,
+,7:55am,CNY,Low,Foreign Direct Investment ytd/y,1.7%,,0.7%
+,8:30am,USD,High,PPI m/m,-0.3%,-0.3%,-0.2%
+,,USD,High,Unemployment Claims,316K,299K,297K
+,,USD,Medium,Core PPI m/m,0.3%,0.2%,0.0%
+,,USD,Medium,Empire State Manufacturing Index,10.0,5.3,-3.6
+,10:00am,USD,High,Philly Fed Manufacturing Index,6.3,20.3,24.5
+,10:30am,USD,Low,Natural Gas Storage,-236B,-224B,-131B
+,11:15am,EUR,High,German Buba President Weidmann Speaks,,,
+,6:50pm,JPY,Medium,Tertiary Industry Activity m/m,0.2%,0.3%,-0.1%
+Fri Jan 16 2015,2:00am,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%
+,2:45am,EUR,Low,French Gov Budget Balance,-90.8B,,-84.7B
+,3:15am,CHF,Medium,Retail Sales y/y,-1.2%,1.1%,0.6%
+,5:00am,EUR,Medium,Final CPI y/y,-0.2%,-0.2%,-0.2%
+,,EUR,Low,Final Core CPI y/y,0.7%,0.8%,0.8%
+,8:30am,USD,High,CPI m/m,-0.4%,-0.3%,-0.3%
+,,USD,High,Core CPI m/m,0.0%,0.1%,0.1%
+,9:15am,USD,Medium,Capacity Utilization Rate,79.7%,80.2%,80.0%
+,,USD,Medium,Industrial Production m/m,-0.1%,0.1%,1.3%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,98.2,94.2,93.6
+,,USD,Low,Prelim UoM Inflation Expectations,2.4%,,2.8%
+,11:00am,USD,Medium,FOMC Member Williams Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,33.5B,27.3B,-1.4B
+Sat Jan 17 2015,8:50am,USD,Medium,FOMC Member Lockhart Speaks,,,

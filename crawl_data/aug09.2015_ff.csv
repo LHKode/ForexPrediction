@@ -1,0 +1,89 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 9 2015,7:50pm,JPY,Medium,Current Account,1.30T,1.41T,1.64T
+,,JPY,Low,Bank Lending y/y,2.6%,,2.5%
+Mon Aug 10 2015,1:00am,JPY,Low,BOJ Monthly Report,,,
+,,JPY,Low,Consumer Confidence,40.3,42.2,41.7
+,2:00am,JPY,Low,Economy Watchers Sentiment,51.6,53.1,51.0
+,4:30am,EUR,Low,Sentix Investor Confidence,18.4,20.2,18.5
+,7:15am,USD,Medium,FOMC Member Fischer Speaks,,,
+,9:00am,USD,Medium,FOMC Member Lockhart Speaks,,,
+,10:00am,USD,Low,Labor Market Conditions Index m/m,1.1,,1.4
+,12:25pm,USD,High,FOMC Member Lockhart Speaks,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,1.2%,,1.8%
+,7:50pm,JPY,Low,M2 Money Stock y/y,4.1%,3.9%,3.9%
+,8:30pm,CNY,Medium,New Loans,1480B,725B,1279B
+,,CNY,Low,M2 Money Supply y/y,13.3%,11.7%,11.8%
+,9:30pm,AUD,High,NAB Business Confidence,4,,8
+,11:45pm,JPY,Low,30-y Bond Auction,1.44|3.3,,1.43|2.2
+Tue Aug 11 2015,1:59am,JPY,Low,Prelim Machine Tool Orders y/y,1.6%,,6.6%
+,2:00am,EUR,Low,German WPI m/m,0.1%,0.2%,-0.2%
+,5:00am,EUR,High,German ZEW Economic Sentiment,25.0,31.7,29.7
+,,EUR,Medium,ZEW Economic Sentiment,47.6,43.9,42.7
+,6:00am,USD,Low,NFIB Small Business Index,95.4,95.4,94.1
+,8:13am,CAD,Low,Housing Starts,193K,205K,202K
+,8:30am,USD,High,Prelim Unit Labor Costs q/q,0.5%,0.0%,6.7%
+,,USD,Medium,Prelim Nonfarm Productivity q/q,1.3%,1.6%,-3.1%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.2%,,-0.4%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.9%,0.4%,0.6%
+,7:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+,,JPY,Low,PPI y/y,-3.0%,-2.9%,-2.4%
+,8:30pm,AUD,Medium,Westpac Consumer Sentiment,7.8%,,-3.2%
+,9:30pm,AUD,Medium,Wage Price Index q/q,0.6%,0.6%,0.5%
+Wed Aug 12 2015,12:30am,JPY,Low,Revised Industrial Production m/m,1.1%,0.8%,0.8%
+,,JPY,Low,Tertiary Industry Activity m/m,0.3%,0.1%,-0.6%
+,1:30am,CNY,High,Industrial Production y/y,6.0%,6.7%,6.8%
+,,CNY,Medium,Fixed Asset Investment ytd/y,11.2%,11.5%,11.4%
+,,CNY,Low,Retail Sales y/y,10.5%,10.6%,10.6%
+,4:00am,EUR,Low,Italian Trade Balance,2.81B,3.98B,4.14B
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.4%,2.8%,3.2%
+,,GBP,High,Claimant Count Change,-4.9K,1.4K,0.2K
+,,GBP,Medium,Unemployment Rate,5.6%,5.6%,5.6%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,5.9,,-5.4
+,,EUR,Low,Industrial Production m/m,-0.4%,-0.1%,-0.2%
+,5:32am,EUR,Low,German 10-y Bond Auction,0.61|1.3,,0.88|1.1
+,6:00am,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,8:30am,USD,Medium,FOMC Member Dudley Speaks,,,
+,10:00am,USD,Medium,JOLTS Job Openings,5.25M,5.33M,5.36M
+,10:30am,USD,Medium,Crude Oil Inventories,-1.7M,-1.6M,-4.4M
+,1:01pm,USD,Low,10-y Bond Auction,2.12|2.4,,2.23|2.7
+,2:00pm,USD,Low,Federal Budget Balance,-149.2B,-133.5B,51.8B
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,53.5,,55.1
+,6:45pm,NZD,Low,FPI m/m,0.6%,,0.5%
+,7:01pm,GBP,Low,RICS House Price Balance,44%,42%,40%
+,7:50pm,JPY,Medium,Core Machinery Orders m/m,-7.9%,-5.3%,0.6%
+,8:45pm,AUD,Medium,MI Inflation Expectations,3.7%,,3.4%
+Thu Aug 13 2015,2:00am,EUR,Low,German Final CPI m/m,0.2%,0.2%,0.2%
+,2:45am,EUR,Low,French Final CPI m/m,-0.4%,-0.4%,-0.1%
+,3:15am,CHF,Medium,PPI m/m,-0.3%,-0.2%,-0.1%
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,NHPI m/m,0.3%,0.1%,0.2%
+,,USD,High,Core Retail Sales m/m,0.4%,0.4%,0.4%
+,,USD,High,Retail Sales m/m,0.6%,0.6%,0.0%
+,,USD,High,Unemployment Claims,274K,272K,269K
+,,USD,Medium,Import Prices m/m,-0.9%,-1.0%,0.0%
+,10:00am,USD,Medium,Mortgage Delinquencies,5.30%,,5.54%
+,,USD,Low,Business Inventories m/m,0.8%,0.3%,0.3%
+,10:30am,USD,Low,Natural Gas Storage,65B,47B,32B
+,1:01pm,USD,Low,30-y Bond Auction,2.88|2.3,,3.08|2.2
+,6:45pm,NZD,High,Retail Sales q/q,0.1%,0.5%,2.3%
+,,NZD,Medium,Core Retail Sales q/q,0.1%,0.7%,2.5%
+,10:15pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,10:53pm,CNY,Low,Foreign Direct Investment ytd/y,7.9%,,8.3%
+Fri Aug 14 2015,1:30am,EUR,Low,French Prelim GDP q/q,0.0%,0.2%,0.7%
+,2:00am,EUR,High,German Prelim GDP q/q,0.4%,0.5%,0.3%
+,2:45am,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.1%,0.0%
+,2:57am,EUR,High,Greek Gov Debt Crisis Vote,Pass,Pass,
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.2%,0.3%,0.3%
+,4:30am,GBP,Low,Construction Output m/m,0.9%,2.4%,-1.0%
+,5:00am,EUR,Medium,Final CPI y/y,0.2%,0.2%,0.2%
+,,EUR,Medium,Flash GDP q/q,0.3%,0.4%,0.4%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,1.2%,2.3%,0.2%
+,,USD,High,PPI m/m,0.2%,0.1%,0.4%
+,,USD,Medium,Core PPI m/m,0.3%,0.1%,0.3%
+,9:15am,USD,Medium,Capacity Utilization Rate,78.0%,78.0%,77.7%
+,,USD,Medium,Industrial Production m/m,0.6%,0.3%,0.1%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,92.9,93.5,93.1
+,,USD,Low,Prelim UoM Inflation Expectations,2.8%,,2.8%
+Sat Aug 15 2015,,,No specified,,,,

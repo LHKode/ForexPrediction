@@ -1,0 +1,82 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 16 2018,7:01pm,GBP,Low,Rightmove HPI m/m,0.7%,,-2.3%
+,All Day,JPY,Holiday,Bank Holiday,,,
+Mon Sep 17 2018,4:00am,EUR,Low,Italian Trade Balance,5.68B,4.82B,5.17B
+,5:00am,EUR,Medium,Final CPI y/y,2.0%,2.0%,2.0%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Medium,Foreign Securities Purchases,12.65B,4.35B,10.30B
+,,USD,Medium,Empire State Manufacturing Index,19.0,23.2,25.6
+,9:30am,GBP,Low,CB Leading Index m/m,-0.2%,,-0.2%
+,10:30am,AUD,Low,CB Leading Index m/m,0.1%,,0.1%
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,-0.7%,-0.7%,-0.7%
+Tue Sep 18 2018,3:15am,EUR,High,ECB President Draghi Speaks,,,
+,8:30am,CAD,Medium,Manufacturing Sales m/m,0.9%,1.0%,1.3%
+,10:00am,USD,Low,NAHB Housing Market Index,67,66,67
+,10:31am,NZD,Medium,GDT Price Index,-1.3%,,-0.7%
+,4:00pm,USD,Low,TIC Long-Term Purchases,74.8B,65.1B,-36.5B
+,5:00pm,NZD,Low,Westpac Consumer Sentiment,103.5,,108.6
+,6:45pm,NZD,Medium,Current Account,-1.62B,-1.23B,0.09B
+,7:50pm,JPY,Low,Trade Balance,-0.19T,-0.14T,-0.10T
+,8:30pm,AUD,Low,MI Leading Index m/m,0.1%,,0.0%
+,9:30pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,10:47pm,JPY,High,Monetary Policy Statement,,,
+,,JPY,Medium,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Wed Sep 19 2018,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,2:30am,JPY,High,BOJ Press Conference,,,
+,4:00am,EUR,Low,Current Account,21.3B,22.4B,23.8B
+,,GBP,Medium,MPC Member Haldane Speaks,,,
+,4:30am,GBP,High,CPI y/y,2.7%,2.4%,2.5%
+,,GBP,Medium,PPI Input m/m,0.5%,0.4%,0.0%
+,,GBP,Medium,RPI y/y,3.5%,3.2%,3.2%
+,,GBP,Low,Core CPI y/y,2.1%,1.8%,1.9%
+,,GBP,Low,HPI y/y,3.1%,2.8%,3.2%
+,,GBP,Low,PPI Output m/m,0.2%,0.2%,0.0%
+,5:34am,EUR,Low,German 10-y Bond Auction,0.49|2.5,,0.33|1.2
+,8:30am,USD,Medium,Building Permits,1.23M,1.31M,1.30M
+,,USD,Medium,Housing Starts,1.28M,1.24M,1.17M
+,,USD,Low,Current Account,-101B,-104B,-122B
+,9:00am,EUR,High,ECB President Draghi Speaks,,,
+,10:30am,USD,High,Crude Oil Inventories,-2.1M,-2.7M,-5.3M
+,6:45pm,NZD,High,GDP q/q,1.0%,0.8%,0.5%
+,9:00pm,AUD,Low,RBA Annual Report,,,
+,9:30pm,AUD,Low,RBA Bulletin,,,
+Thu Sep 20 2018,2:00am,CHF,Low,Trade Balance,2.13B,2.41B,2.21B
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,Libor Rate,-0.75%,-0.75%,-0.75%
+,4:30am,GBP,High,Retail Sales m/m,0.3%,-0.2%,0.9%
+,4:50am,EUR,Low,Spanish 10-y Bond Auction,1.49|1.5,,1.43|1.4
+,5:35am,GBP,Low,10-y Bond Auction,1.60|1.9,,1.46|2.2
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,13.6K,,35.5K
+,,USD,Medium,Philly Fed Manufacturing Index,22.9,17.5,11.9
+,,USD,Low,Unemployment Claims,201K,210K,204K
+,9:57am,EUR,Low,Consumer Confidence,-3,-2,-2
+,10:00am,USD,Low,CB Leading Index m/m,0.4%,0.5%,0.7%
+,,USD,Low,Existing Home Sales,5.34M,5.36M,5.34M
+,10:30am,USD,Low,Natural Gas Storage,86B,81B,69B
+,11:15am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,6:49pm,NZD,Low,Visitor Arrivals m/m,2.8%,,0.7%
+,7:30pm,JPY,Low,National Core CPI y/y,0.9%,0.9%,0.8%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,52.9,53.1,52.5
+,11:00pm,NZD,Low,Credit Card Spending y/y,7.7%,,3.3%
+Fri Sep 21 2018,12:30am,JPY,Low,All Industries Activity m/m,0.0%,0.2%,-0.9%
+,3:15am,EUR,Medium,French Flash Manufacturing PMI,52.5,53.3,53.5
+,,EUR,Medium,French Flash Services PMI,54.3,55.2,55.4
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,53.7,55.7,55.9
+,,EUR,Medium,German Flash Services PMI,56.5,55.1,55.0
+,4:00am,EUR,Medium,Flash Manufacturing PMI,53.3,54.4,54.6
+,,EUR,Medium,Flash Services PMI,54.7,54.5,54.4
+,4:30am,GBP,Medium,Public Sector Net Borrowing,5.9B,2.9B,-3.9B
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,CPI m/m,-0.1%,-0.1%,0.5%
+,,CAD,High,Core Retail Sales m/m,0.9%,0.6%,0.1%
+,,CAD,Medium,Common CPI y/y,2.0%,,1.9%
+,,CAD,Medium,Median CPI y/y,2.1%,,2.0%
+,,CAD,Medium,Retail Sales m/m,0.3%,0.3%,-0.1%
+,,CAD,Medium,Trimmed CPI y/y,2.2%,,2.1%
+,,CAD,Low,Core CPI m/m,0.1%,,0.2%
+,9:03am,GBP,High,Prime Minister May Speaks,,,
+,9:45am,USD,Low,Flash Manufacturing PMI,55.6,55.1,54.7
+,,USD,Low,Flash Services PMI,52.9,54.9,54.8
+Sat Sep 22 2018,,,No specified,,,,

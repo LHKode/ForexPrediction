@@ -1,0 +1,97 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 6 2020,4:30pm,AUD,Low,AIG Services Index,52.9,,51.4
+,5:00pm,AUD,Medium,RBA Gov Lowe Speaks,,,
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,13.9%,,11.9%
+,9:59pm,CNY,Low,USD-Denominated Trade Balance,75.4B,53.8B,58.4B
+,10:00pm,CNY,Low,Trade Balance,507B,373B,402B
+,11:59pm,JPY,Low,Leading Indicators,93.8%,93.4%,92.5%
+Mon Dec 7 2020,2:00am,EUR,Low,German Industrial Production m/m,3.2%,1.8%,2.3%
+,3:10am,CHF,Low,Foreign Currency Reserves,876B,,872B
+,3:30am,GBP,Low,Halifax HPI m/m,1.2%,0.6%,0.3%
+,4:30am,EUR,Low,Sentix Investor Confidence,-2.7,-11.9,-10.0
+,All Day,All,Low,G7 Meetings,,,
+,10:00am,CAD,Medium,Ivey PMI,52.7,52.3,54.5
+,3:00pm,USD,Low,Consumer Credit m/m,7.2B,17.6B,15.0B
+,6:30pm,JPY,Low,Average Cash Earnings y/y,-0.8%,-0.7%,-1.3%
+,,JPY,Low,Household Spending y/y,1.9%,2.7%,-10.2%
+,6:50pm,JPY,Low,Bank Lending y/y,6.3%,6.3%,6.1%
+,,JPY,Low,Current Account,1.98T,1.83T,1.35T
+,,JPY,Low,Final GDP q/q,5.3%,5.0%,5.0%
+,6:52pm,JPY,Low,Final GDP Price Index y/y,1.2%,1.1%,1.1%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,7.7%,5.0%,5.2%
+,7:30pm,AUD,Low,HPI q/q,0.8%,-1.6%,-1.8%
+,,AUD,Low,NAB Business Confidence,12,,3
+Tue Dec 8 2020,12:00am,JPY,Low,Economy Watchers Sentiment,45.6,52.7,54.5
+,1:30am,EUR,Low,French Final Private Payrolls q/q,1.6%,-1.0%,1.8%
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.4%,3.4%
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,2:45am,EUR,Low,French Trade Balance,-4.8B,-5.5B,-5.6B
+,5:00am,EUR,Low,Final Employment Change q/q,1.0%,0.9%,0.9%
+,,EUR,Low,Revised GDP q/q,12.5%,12.6%,12.6%
+,,EUR,Low,ZEW Economic Sentiment,54.4,37.5,32.8
+,,EUR,Low,German ZEW Economic Sentiment,55.0,45.9,39.0
+,6:00am,USD,Low,NFIB Small Business Index,101.4,102.6,104.0
+,6:36am,GBP,Low,30-y Bond Auction,0.84|2.6,,0.92|2.3
+,8:30am,USD,Low,Revised Nonfarm Productivity q/q,4.6%,4.9%,4.9%
+,,USD,Low,Revised Unit Labor Costs q/q,-6.6%,-8.9%,-8.9%
+,10:00am,USD,Low,IBD/TIPP Economic Optimism,49.0,50.0,50.0
+,4:45pm,NZD,Low,Manufacturing Sales q/q,10.0%,,-11.9%
+,6:30pm,AUD,Low,Westpac Consumer Sentiment,4.1%,,2.5%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,17.1%,2.6%,-4.4%
+,,JPY,Low,M2 Money Stock y/y,9.1%,8.9%,9.0%
+,8:30pm,CNY,Low,CPI y/y,-0.5%,0.0%,0.5%
+,,CNY,Low,PPI y/y,-1.5%,-1.8%,-2.1%
+Wed Dec 9 2020,1:00am,JPY,Low,Prelim Machine Tool Orders y/y,8.0%,,-6.0%
+,2:00am,EUR,Low,German Trade Balance,18.2B,18.7B,17.6B
+,3:15am,CNY,Low,M2 Money Supply y/y,10.7%,10.5%,10.5%
+,,CNY,Low,New Loans,1430B,1450B,690B
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,Medium,Overnight Rate,0.25%,0.25%,0.25%
+,,USD,Low,Final Wholesale Inventories m/m,1.1%,0.9%,0.9%
+,,USD,Low,JOLTS Job Openings,6.65M,6.30M,6.49M
+,10:30am,USD,Low,Crude Oil Inventories,15.2M,-0.9M,-0.7M
+,1:01pm,USD,Low,10-y Bond Auction,0.95|2.3,,0.96|2.3
+,6:50pm,JPY,Low,BSI Manufacturing Index,21.6,3.5,0.1
+,,JPY,Low,PPI y/y,-2.2%,-2.2%,-2.1%
+,7:00pm,AUD,Low,MI Inflation Expectations,3.5%,,3.5%
+,7:01pm,GBP,Low,RICS House Price Balance,66%,64%,67%
+,7:30pm,AUD,Low,RBA Bulletin,,,
+Thu Dec 10 2020,2:00am,GBP,Low,Construction Output m/m,1.0%,1.2%,2.9%
+,,GBP,Low,GDP m/m,0.4%,0.4%,1.1%
+,,GBP,Low,Goods Trade Balance,-12.0B,-9.6B,-9.3B
+,,GBP,Low,Index of Services 3m/3m,9.7%,9.8%,14.2%
+,,GBP,Low,Industrial Production m/m,1.3%,0.3%,0.5%
+,,GBP,Low,Manufacturing Production m/m,1.7%,0.3%,0.2%
+,2:45am,EUR,Low,French Industrial Production m/m,1.6%,0.4%,1.6%
+,4:44am,EUR,Low,Spanish 10-y Bond Auction,-0.03|3.0,,0.22|3.2
+,Day 1,EUR,High,EU Economic Summit,,,
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:19am,GBP,Low,NIESR GDP Estimate,1.5%,,10.3%
+,8:30am,EUR,High,ECB Press Conference,,,
+,,USD,Medium,CPI m/m,0.2%,0.1%,0.0%
+,,USD,Medium,Core CPI m/m,0.2%,0.1%,0.0%
+,,USD,Medium,Unemployment Claims,853K,723K,716K
+,10:30am,USD,Low,Natural Gas Storage,-91B,-85B,-1B
+,1:01pm,USD,Low,30-y Bond Auction,1.67|2.5,,1.68|2.3
+,1:30pm,CAD,Low,Gov Council Member Beaudry Speaks,,,
+,2:00pm,USD,Low,Federal Budget Balance,-145.3B,-200.0B,-284.1B
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,55.3,,52.4
+,4:45pm,NZD,Low,FPI m/m,-0.9%,,-0.7%
+Fri Dec 11 2020,2:00am,EUR,Low,German Final CPI m/m,-0.8%,-0.8%,-0.8%
+,,GBP,Low,BOE Financial Stability Report,,,
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,3:30am,GBP,High,BOE Gov Bailey Speaks,,,
+,4:00am,EUR,Low,Italian Industrial Production m/m,1.3%,1.1%,-5.1%
+,4:30am,GBP,Low,Consumer Inflation Expectations,2.7%,,2.8%
+,5:00am,EUR,Low,Italian Quarterly Unemployment Rate,9.8%,9.8%,8.4%
+,All Day,EUR,High,Euro Summit,,,
+,Day 2,EUR,Medium,EU Economic Summit,,,
+,8:30am,CAD,Low,Capacity Utilization Rate,76.5%,77.8%,70.7%
+,,USD,Medium,Core PPI m/m,0.1%,0.2%,0.1%
+,,USD,Medium,PPI m/m,0.1%,0.1%,0.3%
+,9:30am,GBP,Low,CB Leading Index m/m,-2.1%,,-1.5%
+,10:00am,USD,Low,Prelim UoM Consumer Sentiment,81.4,76.1,76.9
+,,USD,Low,Prelim UoM Inflation Expectations,2.3%,,2.8%
+Sat Dec 12 2020,,,No specified,,,,

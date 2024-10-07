@@ -1,0 +1,113 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 28 2021,2:05am,CNY,Medium,Manufacturing PMI,50.6,51.1,51.3
+,,CNY,Low,Non-Manufacturing PMI,51.4,52.1,52.4
+,4:30pm,AUD,Low,AIG Manufacturing Index,58.8,,55.3
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.1%,,0.2%
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,7.2%,,2.6%
+,,AUD,Low,Company Operating Profits q/q,-6.6%,2.1%,3.2%
+,,JPY,Low,Final Manufacturing PMI,51.4,49.9,49.8
+,8:45pm,CNY,Low,Caixin Manufacturing PMI,50.9,51.3,51.5
+Mon Mar 1 2021,12:30am,AUD,Low,Commodity Prices y/y,23.9%,,19.5%
+,All Day,EUR,Low,German Prelim CPI m/m,0.7%,0.5%,0.8%
+,2:30am,CHF,Low,Retail Sales y/y,-0.5%,4.5%,5.4%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,52.9,52.1,49.3
+,3:30am,CHF,Low,Manufacturing PMI,61.3,60.0,59.4
+,3:45am,EUR,Low,Italian Manufacturing PMI,56.9,57.0,55.1
+,3:50am,EUR,Low,French Final Manufacturing PMI,56.1,55.0,55.0
+,3:55am,EUR,Low,German Final Manufacturing PMI,60.7,60.6,60.6
+,4:00am,EUR,Low,Final Manufacturing PMI,57.9,57.7,57.7
+,4:30am,GBP,Medium,Final Manufacturing PMI,55.1,54.9,54.9
+,,GBP,Low,M4 Money Supply m/m,0.7%,0.8%,0.6%
+,,GBP,Low,Mortgage Approvals,99K,100K,103K
+,4:32am,GBP,Low,Net Lending to Individuals m/m,2.8B,3.3B,4.5B
+,5:00am,EUR,Low,Italian Prelim CPI m/m,0.1%,0.4%,0.7%
+,8:30am,CAD,Low,Current Account,-7.3B,-7.0B,-10.5B
+,9:00am,USD,Low,FOMC Member Williams Speaks,,,
+,9:05am,USD,Low,FOMC Member Brainard Speaks,,,
+,9:30am,CAD,Medium,Manufacturing PMI,54.8,,54.4
+,9:45am,USD,Medium,Final Manufacturing PMI,58.6,58.5,58.5
+,10:00am,USD,High,ISM Manufacturing PMI,60.8,58.7,58.7
+,,USD,Low,Construction Spending m/m,1.7%,0.7%,1.1%
+,,USD,Low,ISM Manufacturing Prices,86.0,80.0,82.1
+,11:10am,EUR,Medium,ECB President Lagarde Speaks,,,
+,4:45pm,NZD,Low,Overseas Trade Index q/q,1.3%,0.9%,-4.7%
+,6:30pm,JPY,Low,Unemployment Rate,2.9%,3.0%,2.9%
+,6:50pm,JPY,Low,Capital Spending q/y,-4.8%,-2.0%,-10.6%
+,,JPY,Low,Monetary Base y/y,19.6%,20.1%,18.9%
+,7:30pm,AUD,Low,Building Approvals m/m,-19.4%,-2.1%,12.0%
+,,AUD,Low,Current Account,14.5B,13.0B,10.7B
+,10:30pm,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,0.10%,0.10%,0.10%
+,10:35pm,JPY,Low,10-y Bond Auction,0.13|3.1,,0.05|3.4
+Tue Mar 2 2021,2:00am,EUR,Low,German Retail Sales m/m,-4.5%,0.2%,-9.1%
+,,GBP,Low,Nationwide HPI m/m,0.7%,-0.3%,-0.2%
+,3:00am,EUR,Low,Spanish Unemployment Change,44.4K,10.5K,76.2K
+,3:55am,EUR,Low,German Unemployment Change,9K,-9K,-37K
+,5:00am,EUR,Low,CPI Flash Estimate y/y,0.9%,0.9%,0.9%
+,,EUR,Low,Core CPI Flash Estimate y/y,1.1%,1.1%,1.4%
+,8:30am,CAD,Medium,GDP m/m,0.1%,0.1%,0.8%
+,10:00am,USD,Low,IBD/TIPP Economic Optimism,55.4,52.1,51.9
+,10:09am,NZD,Low,GDT Price Index,15.0%,,3.0%
+,All Day,USD,Low,Wards Total Vehicle Sales,15.7M,16.4M,16.6M
+,1:00pm,USD,Low,FOMC Member Brainard Speaks,,,
+,2:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,4:30pm,AUD,Low,AIG Construction Index,57.4,,57.6
+,4:45pm,NZD,Low,Building Consents m/m,2.1%,,5.1%
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,3.3%,,4.3%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-2.4%,,-2.2%
+,7:30pm,AUD,High,GDP q/q,3.1%,2.5%,3.4%
+,8:45pm,CNY,Low,Caixin Services PMI,51.5,51.6,52.0
+Wed Mar 3 2021,2:30am,CHF,Low,CPI m/m,0.2%,0.4%,0.1%
+,2:45am,EUR,Low,French Gov Budget Balance,-21.9B,,-178.1B
+,3:15am,EUR,Low,Spanish Services PMI,43.1,43.1,41.7
+,3:45am,EUR,Low,Italian Services PMI,48.8,45.8,44.7
+,3:50am,EUR,Low,French Final Services PMI,45.6,43.6,43.6
+,3:55am,EUR,Low,German Final Services PMI,45.7,45.9,45.9
+,4:00am,EUR,Low,Final Services PMI,45.7,44.7,44.7
+,4:30am,GBP,Low,Final Services PMI,49.5,49.7,49.7
+,5:00am,EUR,Low,PPI m/m,1.4%,1.3%,0.9%
+,7:35am,GBP,High,Annual Budget Release,,,
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,117K,203K,195K
+,8:30am,CAD,Low,Building Permits m/m,8.2%,3.0%,-4.4%
+,9:45am,USD,Low,Final Services PMI,59.8,58.9,58.9
+,10:00am,USD,Medium,ISM Services PMI,55.3,58.7,58.7
+,10:30am,USD,Medium,Crude Oil Inventories,21.6M,-1.3M,1.3M
+,11:00am,GBP,Medium,MPC Member Tenreyro Speaks,,,
+,1:00pm,USD,Low,FOMC Member Evans Speaks,,,
+,2:00pm,USD,Low,Beige Book,,,
+,3:15pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,7:30pm,AUD,Low,Retail Sales m/m,0.5%,0.6%,0.6%
+,,AUD,Low,Trade Balance,10.14B,6.82B,7.13B
+,10:35pm,JPY,Low,30-y Bond Auction,0.69|2.8,,0.66|3.5
+Thu Mar 4 2021,12:00am,JPY,Low,Consumer Confidence,33.8,29.9,29.6
+,4:30am,GBP,Low,Construction PMI,53.3,51.1,49.2
+,4:57am,EUR,Low,Spanish 10-y Bond Auction,0.35|1.6,,0.27|2.1
+,4:59am,EUR,Low,French 10-y Bond Auction,-0.07|2.0,,-0.25|2.2
+,5:00am,EUR,Low,Retail Sales m/m,-5.9%,-1.4%,1.8%
+,,EUR,Low,Unemployment Rate,8.1%,8.3%,8.1%
+,5:04am,GBP,Low,10-y Bond Auction,0.87|2.7,,0.44|2.9
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,7:30am,USD,Low,Challenger Job Cuts y/y,-39.1%,,17.4%
+,8:30am,CAD,Low,Labor Productivity q/q,-2.0%,-2.0%,-10.6%
+,,USD,Low,Revised Nonfarm Productivity q/q,-4.2%,-4.7%,-4.8%
+,,USD,Low,Revised Unit Labor Costs q/q,6.0%,6.7%,6.8%
+,,USD,Low,Unemployment Claims,745K,758K,736K
+,10:00am,USD,Low,Factory Orders m/m,2.6%,2.2%,1.6%
+,10:30am,USD,Low,Natural Gas Storage,-98B,-149B,-338B
+,12:05pm,USD,High,Fed Chair Powell Speaks,,,
+,4:30pm,AUD,Low,AIG Services Index,55.8,,54.3
+Fri Mar 5 2021,2:00am,EUR,Low,German Factory Orders m/m,1.4%,0.4%,-2.2%
+,2:45am,EUR,Low,French Trade Balance,-3.9B,-3.4B,-3.6B
+,3:00am,CHF,Low,Foreign Currency Reserves,914B,,897B
+,3:30am,GBP,Low,Halifax HPI m/m,-0.1%,-0.1%,-0.4%
+,4:00am,EUR,Low,Italian Retail Sales m/m,-3.0%,-0.6%,2.4%
+,8:30am,CAD,Low,Trade Balance,1.4B,-1.4B,-2.0B
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.1%
+,,USD,High,Non-Farm Employment Change,379K,197K,166K
+,,USD,High,Unemployment Rate,6.2%,6.3%,6.3%
+,,USD,Low,Trade Balance,-68.2B,-67.5B,-67.0B
+,9:00am,GBP,Low,MPC Member Haskel Speaks,,,
+,10:00am,CAD,Medium,Ivey PMI,60.0,49.2,48.4
+,3:00pm,USD,Low,Consumer Credit m/m,-1.3B,11.8B,8.8B
+Sat Mar 6 2021,10:04pm,CNY,Low,USD-Denominated Trade Balance,103.3B,59.0B,78.2B
+,10:05pm,CNY,Low,Trade Balance,676B,348B,517B

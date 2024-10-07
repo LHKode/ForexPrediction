@@ -1,0 +1,109 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 28 2020,7:50pm,JPY,Low,Retail Sales y/y,-12.3%,-11.6%,-13.9%
+,10:00pm,NZD,Medium,RBNZ Statement of Intent,,,
+Mon Jun 29 2020,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,EUR,Low,German Prelim CPI m/m,0.6%,0.3%,-0.1%
+,3:00am,EUR,Low,Spanish Flash CPI y/y,-0.3%,-0.9%,-0.9%
+,4:30am,GBP,Low,M4 Money Supply m/m,2.0%,1.6%,1.5%
+,,GBP,Low,Mortgage Approvals,9K,25K,16K
+,4:32am,GBP,Low,Net Lending to Individuals m/m,-3.4B,-4.0B,-7.4B
+,5:30am,GBP,Medium,BOE Gov Bailey Speaks,,,
+,8:30am,CAD,Low,Building Permits m/m,20.2%,10.3%,-15.4%
+,,CAD,Low,IPPI m/m,1.2%,2.7%,-2.3%
+,,CAD,Low,RMPI m/m,16.4%,29.7%,-13.4%
+,,GBP,Low,MPC Member Vlieghe Speaks,,,
+,10:00am,USD,Medium,Pending Home Sales m/m,44.3%,18.9%,-21.8%
+,7:30pm,JPY,Low,Unemployment Rate,2.9%,2.8%,2.6%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,-8.4%,-5.6%,-9.8%
+,9:00pm,CNY,High,Manufacturing PMI,50.9,50.4,50.6
+,,CNY,Medium,Non-Manufacturing PMI,54.4,53.3,53.6
+,,NZD,Medium,ANZ Business Confidence,-34.4,,-33.0
+,9:30pm,AUD,Low,Private Sector Credit m/m,-0.1%,0.1%,0.0%
+,10:30pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+Tue Jun 30 2020,1:00am,JPY,Low,Housing Starts y/y,-12.3%,-15.0%,-12.9%
+,2:00am,GBP,Low,Current Account,-21.1B,-15.2B,-9.2B
+,,GBP,Low,Final GDP q/q,-2.2%,-2.0%,-2.0%
+,,GBP,Low,Revised Business Investment q/q,-0.3%,0.1%,0.0%
+,2:30am,CHF,Low,Retail Sales y/y,6.6%,-15.0%,-18.8%
+,2:45am,EUR,Low,French Consumer Spending m/m,36.6%,30.0%,-19.1%
+,,EUR,Low,French Prelim CPI m/m,-0.1%,0.4%,0.1%
+,3:00am,CHF,Low,KOF Economic Barometer,59.4,77.0,49.6
+,5:00am,EUR,Low,CPI Flash Estimate y/y,0.3%,-0.1%,0.1%
+,,EUR,Low,Core CPI Flash Estimate y/y,0.8%,0.8%,0.9%
+,,EUR,Low,Italian Prelim CPI m/m,0.1%,0.1%,-0.2%
+,5:19am,EUR,Low,Italian 10-y Bond Auction,1.20|2.1,,1.42|1.3
+,6:00am,GBP,Low,MPC Member Haldane Speaks,,,
+,8:30am,CAD,High,GDP m/m,-11.6%,-12.5%,-7.5%
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,4.0%,3.8%,3.9%
+,9:45am,USD,Medium,Chicago PMI,36.6,45.0,32.3
+,10:00am,GBP,Low,MPC Member Cunliffe Speaks,,,
+,,USD,Medium,CB Consumer Confidence,98.1,91.6,85.9
+,11:00am,USD,Low,FOMC Member Williams Speaks,,,
+,11:05am,USD,Low,FOMC Member Brainard Speaks,,,
+,12:30pm,USD,High,Fed Chair Powell Testifies,,,
+,2:00pm,USD,Low,FOMC Member Kashkari Speaks,,,
+,6:30pm,AUD,Low,AIG Manufacturing Index,51.5,,41.6
+,6:45pm,NZD,Low,Building Consents m/m,35.6%,,-9.9%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.6%,,-2.4%
+,7:50pm,JPY,Low,Tankan Manufacturing Index,-34,-31,-8
+,,JPY,Low,Tankan Non-Manufacturing Index,-17,-20,8
+,8:30pm,JPY,Low,Final Manufacturing PMI,40.1,37.8,37.8
+,9:30pm,AUD,Low,Building Approvals m/m,-16.4%,-7.0%,-2.1%
+,9:45pm,CNY,Low,Caixin Manufacturing PMI,51.2,50.7,50.7
+Wed Jul 1 2020,1:00am,JPY,Low,Consumer Confidence,28.4,28.9,24.0
+,1:55am,GBP,Low,Nationwide HPI m/m,-1.4%,-0.6%,-1.7%
+,2:00am,EUR,Low,German Retail Sales m/m,13.9%,3.5%,-6.5%
+,2:30am,AUD,Low,Commodity Prices y/y,-11.4%,,-11.8%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,49.0,45.2,38.3
+,3:30am,CHF,Low,Manufacturing PMI,41.9,48.1,42.1
+,3:45am,EUR,Low,Italian Manufacturing PMI,47.5,47.9,45.4
+,3:50am,EUR,Low,French Final Manufacturing PMI,52.3,52.1,52.1
+,3:55am,EUR,Low,German Final Manufacturing PMI,45.2,44.6,44.6
+,,EUR,Low,German Unemployment Change,69K,120K,237K
+,4:00am,EUR,Low,Final Manufacturing PMI,47.4,46.9,46.9
+,4:30am,GBP,Low,Final Manufacturing PMI,50.1,50.2,50.1
+,6:38am,GBP,Low,30-y Bond Auction,0.67|1.7,,0.60|2.6
+,7:00am,GBP,Medium,MPC Member Haskel Speaks,,,
+,7:30am,USD,Low,Challenger Job Cuts y/y,305.5%,,577.8%
+,8:15am,USD,High,ADP Non-Farm Employment Change,2369K,2850K,3065K
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:45am,USD,Low,Final Manufacturing PMI,49.8,49.6,49.6
+,10:00am,USD,Medium,ISM Manufacturing PMI,52.6,49.5,43.1
+,,USD,Low,Construction Spending m/m,-2.1%,1.0%,-3.5
+,,USD,Low,ISM Manufacturing Prices,51.3,43.8,40.8
+,All Day,USD,Low,Wards Total Vehicle Sales,13.1M,13.0M,8.7M
+,10:30am,USD,Low,Crude Oil Inventories,-7.2M,-0.9M,1.4M
+,2:00pm,USD,Medium,FOMC Meeting Minutes,,,
+,7:50pm,JPY,Low,Monetary Base y/y,6.0%,4.2%,3.9%
+,9:30pm,AUD,Medium,Trade Balance,8.03B,9.00B,7.83B
+,11:35pm,JPY,Low,10-y Bond Auction,0.06|3.7,,0.00|3.4
+Thu Jul 2 2020,2:30am,CHF,Low,CPI m/m,0.0%,0.1%,0.0%
+,3:00am,EUR,Low,Spanish Unemployment Change,5.1K,-113.0K,26.6K
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,7.8%,7.9%,6.6%
+,4:55am,EUR,Low,Spanish 10-y Bond Auction,0.45|2.1,,0.53|3.9
+,5:00am,EUR,Low,PPI m/m,-0.6%,-0.4%,-2.0%
+,,EUR,Low,Unemployment Rate,7.4%,7.6%,7.3%
+,5:06am,EUR,Low,French 10-y Bond Auction,-0.09|2.7,,0.02|2.4
+,8:30am,CAD,Low,Trade Balance,-0.7B,-3.0B,-4.3B
+,,USD,High,Average Hourly Earnings m/m,-1.2%,-0.8%,-1.0%
+,,USD,High,Non-Farm Employment Change,4800K,3037K,2699K
+,,USD,High,Unemployment Rate,11.1%,12.4%,13.3%
+,,USD,Medium,Unemployment Claims,1427K,1350K,1482K
+,,USD,Low,Trade Balance,-54.6B,-53.0B,-49.8B
+,9:30am,CAD,Low,Manufacturing PMI,47.8,,40.6
+,,USD,High,President Trump Speaks,,,
+,10:00am,USD,Low,Factory Orders m/m,8.0%,8.6%,-13.5%
+,10:30am,USD,Low,Natural Gas Storage,65B,77B,120B
+,6:30pm,AUD,Low,AIG Construction Index,35.5,,24.9
+,7:01pm,GBP,Low,GfK Consumer Confidence,-27,-29,-30
+,9:30pm,AUD,Low,Retail Sales m/m,16.9%,16.3%,16.3%
+,9:45pm,CNY,Low,Caixin Services PMI,58.4,53.8,55.0
+Fri Jul 3 2020,2:45am,EUR,Low,French Gov Budget Balance,-117.9B,,-92.1B
+,3:15am,EUR,Low,Spanish Services PMI,50.2,46.0,27.9
+,3:45am,EUR,Low,Italian Services PMI,46.4,46.9,28.9
+,3:50am,EUR,Low,French Final Services PMI,50.7,50.3,50.3
+,3:55am,EUR,Low,German Final Services PMI,47.3,45.8,45.8
+,4:00am,EUR,Low,Final Services PMI,48.3,47.3,47.3
+,4:30am,GBP,Medium,Final Services PMI,47.1,47.0,47.0
+,All Day,USD,Holiday,Bank Holiday,,,
+Sat Jul 4 2020,6:40am,EUR,Medium,ECB President Lagarde Speaks,,,

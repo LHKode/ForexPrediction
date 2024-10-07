@@ -1,0 +1,88 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 7 2016,7:50pm,JPY,Medium,Current Account,1.65T,1.60T,1.41T
+,,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Bank Lending y/y,2.1%,,2.0%
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,-0.8%,,0.4%
+,10:59pm,CNY,High,Trade Balance,343B,313B,311B
+,11:07pm,CNY,Low,USD-Denominated Trade Balance,52.3B,47.6B,48.1B
+Mon Aug 8 2016,1:00am,JPY,Low,Economy Watchers Sentiment,45.1,42.6,41.2
+,2:00am,EUR,Low,German Industrial Production m/m,0.8%,0.9%,-0.9%
+,3:15am,CHF,Low,CPI m/m,-0.4%,-0.5%,0.1%
+,4:30am,EUR,Low,Sentix Investor Confidence,4.2,3.6,1.7
+,8:30am,CAD,Medium,Building Permits m/m,-5.5%,2.7%,-2.1%
+,10:00am,USD,Low,Labor Market Conditions Index m/m,1.0,,-0.1
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,1.1%,,-0.5%
+,7:50pm,JPY,Low,M2 Money Stock y/y,3.3%,3.3%,3.5%
+,9:30pm,AUD,Medium,NAB Business Confidence,4,,5
+,,CNY,Medium,CPI y/y,1.8%,1.7%,1.9%
+,,CNY,Medium,PPI y/y,-1.7%,-2.0%,-2.6%
+,11:45pm,JPY,Low,30-y Bond Auction,0.42|3.1,,0.12|2.6
+Tue Aug 9 2016,1:45am,CHF,Low,Unemployment Rate,3.3%,3.3%,3.3%
+,2:00am,EUR,Low,German Trade Balance,21.7B,23.2B,22.1B
+,,JPY,Low,Prelim Machine Tool Orders y/y,-19.6%,,-19.9%
+,2:45am,EUR,Low,French Gov Budget Balance,-61.8B,,-65.7B
+,4:30am,GBP,High,Manufacturing Production m/m,-0.3%,0.0%,-0.6%
+,,GBP,Medium,Goods Trade Balance,-12.4B,-9.6B,-11.5B
+,,GBP,Low,Industrial Production m/m,0.1%,-0.1%,-0.6%
+,6:00am,USD,Low,NFIB Small Business Index,94.6,94.5,94.5
+,8:13am,CAD,Low,Housing Starts,198K,196K,218K
+,8:30am,USD,Medium,Prelim Nonfarm Productivity q/q,-0.5%,0.5%,-0.6%
+,,USD,Medium,Prelim Unit Labor Costs q/q,2.0%,1.8%,4.5%
+,9:53am,GBP,Low,NIESR GDP Estimate,0.3%,,0.6%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.3%,0.0%,0.2%
+,,USD,Low,IBD/TIPP Economic Optimism,48.4,46.2,45.5
+,7:50pm,JPY,Low,Core Machinery Orders m/m,8.3%,3.4%,-1.4%
+,,JPY,Low,PPI y/y,-3.9%,-4.0%,-4.2%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,2.0%,,-3.0%
+,9:30pm,AUD,Low,Home Loans m/m,1.2%,2.4%,-0.8%
+,11:05pm,AUD,High,RBA Gov Stevens Speaks,,,
+Wed Aug 10 2016,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.8%,0.3%,-1.2%
+,2:45am,EUR,Low,French Industrial Production m/m,-0.8%,0.3%,-0.5%
+,5:35am,EUR,Low,German 10-y Bond Auction,-0.09|1.4,,-0.05|1.2
+,10:03am,USD,Medium,JOLTS Job Openings,5.62M,5.52M,5.51M
+,10:30am,USD,High,Crude Oil Inventories,1.1M,-1.3M,1.4M
+,1:01pm,USD,Low,10-y Bond Auction,1.50|2.4,,1.52|2.3
+,2:00pm,USD,Low,Federal Budget Balance,-112.8B,-119.0B,6.3B
+,5:00pm,NZD,High,Official Cash Rate,2.00%,2.00%,2.25%
+,,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,RBNZ Monetary Policy Statement,,,
+,6:00pm,NZD,High,RBNZ Press Conference,,,
+,6:45pm,NZD,Low,FPI m/m,-0.2%,,0.4%
+,7:01pm,GBP,Low,RICS House Price Balance,5%,19%,15%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Expectations,3.5%,,3.7%
+,9:10pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+Thu Aug 11 2016,2:45am,EUR,Low,French Final CPI m/m,-0.4%,-0.4%,-0.4%
+,5:00am,EUR,Low,Italian Trade Balance,4.66B,4.87B,5.03B
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.2%,0.7%
+,,USD,High,Unemployment Claims,266K,272K,267K
+,,USD,Medium,Import Prices m/m,0.1%,-0.2%,0.6%
+,10:00am,USD,Medium,Mortgage Delinquencies,4.66%,,4.77%
+,10:30am,USD,Low,Natural Gas Storage,29B,24B,-6B
+,1:01pm,USD,Low,30-y Bond Auction,2.27|2.2,,2.17|2.5
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,55.8,,57.6
+,6:45pm,NZD,High,Retail Sales q/q,2.3%,1.0%,1.0%
+,6:50pm,NZD,Medium,Core Retail Sales q/q,2.6%,1.1%,1.1%
+,10:00pm,CNY,High,Industrial Production y/y,6.0%,6.2%,6.2%
+,,CNY,Medium,Fixed Asset Investment ytd/y,8.1%,8.9%,9.0%
+,,CNY,Low,Retail Sales y/y,10.2%,10.5%,10.6%
+Fri Aug 12 2016,2:00am,EUR,High,German Prelim GDP q/q,0.4%,0.3%,0.7%
+,,EUR,Low,German Final CPI m/m,0.3%,0.3%,0.3%
+,,EUR,Low,German WPI m/m,0.2%,0.3%,0.6%
+,2:45am,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.2%,0.3%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.0%,0.2%,0.3%
+,4:02am,CNY,Low,M2 Money Supply y/y,10.2%,11.1%,11.8%
+,,CNY,Low,New Loans,464B,900B,1380B
+,4:16am,CNY,Low,Foreign Direct Investment ytd/y,4.3%,,5.1%
+,4:30am,GBP,Low,Construction Output m/m,-0.9%,0.9%,-2.0%
+,5:00am,EUR,Medium,Flash GDP q/q,0.3%,0.3%,0.3%
+,,EUR,Low,Industrial Production m/m,0.6%,0.6%,-1.2%
+,8:30am,USD,High,Core Retail Sales m/m,-0.3%,0.2%,0.9%
+,,USD,High,PPI m/m,-0.4%,0.1%,0.5%
+,,USD,High,Retail Sales m/m,0.0%,0.4%,0.8%
+,,USD,Medium,Core PPI m/m,-0.3%,0.2%,0.4%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.3%,,-0.2%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,90.4,91.5,90.0
+,,USD,Low,Business Inventories m/m,0.2%,0.1%,0.2%
+,,USD,Low,Prelim UoM Inflation Expectations,2.5%,,2.7%
+Sat Aug 13 2016,,,No specified,,,,

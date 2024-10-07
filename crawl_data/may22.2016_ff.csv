@@ -1,0 +1,77 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 22 2016,7:50pm,JPY,Low,Trade Balance,0.43T,0.27T,0.30T
+,10:00pm,JPY,Low,Flash Manufacturing PMI,47.6,48.3,48.2
+Mon May 23 2016,12:30am,JPY,Low,All Industries Activity m/m,0.1%,0.7%,-0.9%
+,3:00am,EUR,Medium,French Flash Manufacturing PMI,48.3,49.0,48.0
+,,EUR,Medium,French Flash Services PMI,51.8,50.8,50.6
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,52.4,52.1,51.8
+,,EUR,Medium,German Flash Services PMI,55.2,54.6,54.5
+,4:00am,EUR,Medium,Flash Manufacturing PMI,51.5,51.9,51.7
+,,EUR,Medium,Flash Services PMI,53.1,53.3,53.1
+,6:15am,USD,Medium,FOMC Member Bullard Speaks,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:45am,USD,Low,Flash Manufacturing PMI,50.5,51.0,50.8
+,10:00am,EUR,Low,Consumer Confidence,-7,-9,-9
+,10:30am,AUD,Low,CB Leading Index m/m,0.1%,,-0.3%
+,11:05pm,AUD,High,RBA Gov Stevens Speaks,,,
+Tue May 24 2016,2:00am,CHF,Low,Trade Balance,2.50B,3.14B,2.18B
+,,EUR,Low,German Final GDP q/q,0.7%,0.7%,0.7%
+,4:30am,GBP,Medium,Public Sector Net Borrowing,6.6B,6.3B,6.1B
+,5:00am,EUR,High,German ZEW Economic Sentiment,6.4,12.1,11.2
+,,EUR,Medium,ZEW Economic Sentiment,16.8,23.4,21.5
+,,GBP,High,Monetary Policy Report Hearings,,,
+,6:00am,GBP,Low,CBI Realized Sales,7,6,-13
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,8:00am,EUR,Low,ECB Financial Stability Review,,,
+,Dec Data,CNY,Low,CB Leading Index m/m,0.5%,,0.4%
+,Jan Data,CNY,Low,CB Leading Index m/m,-0.2%,,0.5%
+,Feb Data,CNY,Low,CB Leading Index m/m,0.3%,,-0.2%
+,Mar Data,CNY,Low,CB Leading Index m/m,0.3%,,0.3%
+,9:00am,CNY,Low,CB Leading Index m/m,0.1%,,0.3%
+,9:59am,USD,Low,Richmond Manufacturing Index,-1,9,14
+,10:00am,USD,Medium,New Home Sales,619K,521K,531K
+,6:45pm,NZD,High,Trade Balance,292M,40M,189M
+,9:30pm,AUD,Medium,Construction Work Done q/q,-2.6%,-1.4%,-2.9%
+Wed May 25 2016,2:00am,CHF,Low,UBS Consumption Indicator,1.47,,1.40
+,,EUR,Low,German GfK Consumer Climate,9.8,9.7,9.7
+,4:00am,EUR,High,German ifo Business Climate,107.7,106.9,106.7
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,17.5,,11.5
+,5:31am,EUR,Low,German 30-y Bond Auction,0.88|1.4,,1.03|1.6
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:30am,USD,Low,Goods Trade Balance,-57.5B,-60.1B,-57.1B
+,9:00am,EUR,Low,Belgian NBB Business Climate,-2.8,-1.8,-2.4
+,,USD,Low,HPI m/m,0.7%,0.4%,0.5%
+,9:45am,USD,Low,Flash Services PMI,51.2,53.1,52.8
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.50%,0.50%,0.50%
+,10:30am,USD,High,Crude Oil Inventories,-4.2M,-1.7M,1.3M
+,7:50pm,JPY,Low,SPPI y/y,0.2%,0.2%,0.2%
+,Day 1,All,High,G7 Meetings,,,
+,9:30pm,AUD,High,Private Capital Expenditure q/q,-5.2%,-3.2%,1.8%
+,10:00pm,NZD,High,Annual Budget Release,,,
+Thu May 26 2016,4:00am,EUR,Low,Italian Retail Sales m/m,-0.6%,0.2%,0.3%
+,4:30am,GBP,High,Second Estimate GDP q/q,0.4%,0.4%,0.4%
+,,GBP,Medium,Prelim Business Investment q/q,-0.5%,3.2%,-2.0%
+,,GBP,Low,High Street Lending,40.1K,44.8K,43.9K
+,,GBP,Low,Index of Services 3m/3m,0.6%,0.6%,0.8%
+,6:10am,USD,Medium,FOMC Member Bullard Speaks,,,
+,8:30am,CAD,Low,Corporate Profits q/q,-4.6%,,-3.1%
+,,USD,High,Core Durable Goods Orders m/m,0.4%,0.3%,0.1%
+,,USD,High,Unemployment Claims,268K,275K,278K
+,,USD,Medium,Durable Goods Orders m/m,3.4%,0.3%,1.9%
+,9:00am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,10:00am,USD,Medium,Pending Home Sales m/m,5.1%,0.6%,1.6%
+,10:30am,USD,Low,Natural Gas Storage,71B,67B,73B
+,12:15pm,USD,Medium,FOMC Member Powell Speaks,,,
+,6:30pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,6:41pm,GBP,Low,GfK Consumer Confidence,-1,-4,-3
+,7:30pm,JPY,Medium,Tokyo Core CPI y/y,-0.5%,-0.4%,-0.3%
+,,JPY,Low,National Core CPI y/y,-0.3%,-0.4%,-0.3%
+,Day 2,All,High,G7 Meetings,,,
+Fri May 27 2016,1:00am,JPY,Low,BOJ Core CPI y/y,0.9%,1.0%,1.1%
+,8:30am,USD,High,Prelim GDP q/q,0.8%,0.8%,0.5%
+,,USD,Low,Prelim GDP Price Index q/q,0.6%,0.7%,0.7%
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,94.7,95.7,95.8
+,,USD,Low,Revised UoM Inflation Expectations,2.4%,,2.5%
+,1:15pm,USD,High,Fed Chair Yellen Speaks,,,
+Sat May 28 2016,,,No specified,,,,

@@ -1,0 +1,87 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 3 2016,7:50pm,JPY,Low,Monetary Base y/y,25.4%,26.3%,25.5%
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.6%,,-0.2%
+,9:30pm,AUD,High,Building Approvals m/m,-5.2%,-3.6%,3.3%
+,,AUD,Low,ANZ Job Advertisements m/m,0.5%,,2.2%
+Mon Jul 4 2016,3:00am,EUR,Medium,Spanish Unemployment Change,-124.3K,-99.3K,-119.8K
+,4:30am,EUR,Low,Sentix Investor Confidence,1.7,8.1,9.9
+,,GBP,High,Construction PMI,46.0,50.6,51.2
+,5:00am,EUR,Low,PPI m/m,0.6%,0.3%,-0.3%
+,All Day,USD,Holiday,Bank Holiday,,,
+,9:30am,CAD,Low,Manufacturing PMI,51.8,,52.1
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,6:00pm,NZD,Medium,NZIER Business Confidence,19,,2
+,7:30pm,AUD,Low,AIG Services Index,51.3,,51.5
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,3.7%,,1.1%
+,9:30pm,AUD,High,Retail Sales m/m,0.2%,0.3%,0.1%
+,,AUD,High,Trade Balance,-2.22B,-1.72B,-1.79B
+,9:45pm,CNY,Medium,Caixin Services PMI,52.7,52.3,51.2
+,11:45pm,JPY,Low,10-y Bond Auction,-0.24|3.6,,-0.09|4.1
+Tue Jul 5 2016,12:30am,AUD,High,Cash Rate,1.75%,1.75%,1.75%
+,,AUD,High,RBA Rate Statement,,,
+,3:15am,EUR,Low,Spanish Services PMI,56.0,55.2,55.4
+,3:45am,EUR,Low,Italian Services PMI,51.9,50.3,49.8
+,3:50am,EUR,Low,French Final Services PMI,49.9,49.9,49.9
+,3:55am,EUR,Low,German Final Services PMI,53.7,53.2,53.2
+,4:00am,EUR,Low,Final Services PMI,52.8,52.5,52.4
+,4:30am,GBP,High,Final Services PMI,52.3,53.1,53.5
+,5:00am,EUR,Low,Retail Sales m/m,0.4%,0.4%,0.2%
+,5:30am,GBP,Medium,BOE Financial Stability Report,,,
+,6:00am,GBP,High,BOE Gov Carney Speaks,,,
+,10:00am,USD,Medium,Factory Orders m/m,-1.0%,-0.8%,1.8%
+,,USD,Low,IBD/TIPP Economic Optimism,45.5,49.3,48.2
+,10:28am,NZD,High,GDT Price Index,-0.4%,,0.0%
+,2:30pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-2.0%,,-1.8%
+Wed Jul 6 2016,2:00am,EUR,Medium,German Factory Orders m/m,0.0%,1.0%,-1.9%
+,3:00am,EUR,High,ECB President Draghi Speaks,,,
+,3:30am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,4:10am,EUR,Low,Retail PMI,48.5,,50.6
+,4:30am,GBP,Low,Housing Equity Withdrawal q/q,-4.9B,-10.1B,-8.2B
+,8:30am,CAD,High,Trade Balance,-3.3B,-2.6B,-3.3B
+,,USD,Medium,Trade Balance,-41.1B,-40.0B,-37.4B
+,9:00am,USD,Low,FOMC Member Tarullo Speaks,,,
+,9:45am,USD,Low,Final Services PMI,51.4,51.5,51.3
+,10:00am,USD,High,ISM Services PMI,56.5,53.3,52.9
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,7:30pm,AUD,Low,AIG Construction Index,53.2,,46.7
+,8:30pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Thu Jul 7 2016,1:00am,JPY,Low,Leading Indicators,100.0%,100.1%,100.0%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.3%,0.1%,0.5%
+,2:45am,EUR,Low,French Trade Balance,-2.8B,-4.9B,-4.8B
+,3:00am,CHF,Medium,Foreign Currency Reserves,609B,,602B
+,3:15am,CHF,Low,CPI m/m,0.1%,0.0%,0.1%
+,3:30am,GBP,Medium,Halifax HPI m/m,1.3%,0.4%,0.9%
+,4:30am,GBP,High,Manufacturing Production m/m,-0.5%,-1.2%,2.4%
+,,GBP,Low,Industrial Production m/m,-0.5%,-1.0%,2.1%
+,4:50am,EUR,Low,Spanish 10-y Bond Auction,1.06|1.9,,1.59|1.6
+,5:03am,EUR,Low,French 10-y Bond Auction,0.16|2.5,,0.49|1.8
+,5:34am,GBP,Low,10-y Bond Auction,0.91|2.3,,1.66|1.8
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,,USD,Low,Challenger Job Cuts y/y,-14.1%,,-26.5%
+,8:15am,USD,High,ADP Non-Farm Employment Change,172K,158K,168K
+,8:30am,CAD,Medium,Building Permits m/m,-1.9%,2.1%,0.1%
+,,USD,High,Unemployment Claims,254K,269K,270K
+,10:00am,CAD,Medium,Ivey PMI,51.7,50.2,49.4
+,,GBP,Low,NIESR GDP Estimate,0.6%,,0.6%
+,10:30am,USD,Low,Natural Gas Storage,39B,42B,37B
+,11:00am,USD,High,Crude Oil Inventories,-2.2M,-2.1M,-4.1M
+,7:05pm,GBP,Low,GfK Consumer Confidence,-9,,-1
+,7:50pm,JPY,Medium,Current Account,1.41T,1.52T,1.63T
+,,JPY,Low,Bank Lending y/y,2.0%,,2.2%
+,8:00pm,JPY,Low,Average Cash Earnings y/y,-0.2%,0.5%,0.0%
+Fri Jul 8 2016,1:00am,JPY,Low,Economy Watchers Sentiment,41.2,42.9,43.0
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.5%,3.3%
+,2:00am,EUR,Low,German Trade Balance,22.2B,22.3B,24.1B
+,2:45am,EUR,Low,French Gov Budget Balance,-65.7B,,-56.5B
+,,EUR,Low,French Industrial Production m/m,-0.5%,-0.4%,1.2%
+,4:30am,GBP,Medium,Goods Trade Balance,-9.9B,-10.2B,-9.4B
+,8:30am,CAD,High,Employment Change,-0.7K,5.5K,13.8K
+,,CAD,High,Unemployment Rate,6.8%,7.0%,6.9%
+,,USD,High,Average Hourly Earnings m/m,0.1%,0.2%,0.2%
+,,USD,High,Non-Farm Employment Change,287K,175K,11K
+,,USD,High,Unemployment Rate,4.9%,4.8%,4.7%
+,3:00pm,USD,Low,Consumer Credit m/m,18.6B,16.7B,13.4B
+Sat Jul 9 2016,All Day,JPY,Medium,Upper House Elections,,,
+,9:30pm,CNY,Medium,CPI y/y,1.9%,1.9%,2.0%
+,,CNY,Medium,PPI y/y,-2.6%,-2.6%,-2.8%

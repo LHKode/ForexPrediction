@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 24 2015,7:50pm,JPY,Medium,Trade Balance,-0.21T,-0.38T,0.01T
+Mon May 25 2015,1:00am,JPY,Low,BOJ Monthly Report,,,
+,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,11:00am,USD,Medium,FOMC Member Fischer Speaks,,,
+,6:45pm,NZD,High,Trade Balance,123M,105M,754M
+,7:50pm,JPY,Low,SPPI y/y,0.7%,0.6%,3.1%
+Tue May 26 2015,3:15am,CHF,Medium,Employment Level,4.23M,4.21M,4.23M
+,6:00am,GBP,Low,CBI Realized Sales,51,18,12
+,8:30am,USD,High,Core Durable Goods Orders m/m,0.5%,0.5%,0.3%
+,,USD,Medium,Durable Goods Orders m/m,-0.5%,-0.4%,4.7%
+,9:00am,USD,Low,HPI m/m,0.3%,0.7%,0.6%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,4.6%,5.0%
+,9:45am,USD,Low,Flash Services PMI,56.4,57.0,57.4
+,9:59am,USD,Low,Richmond Manufacturing Index,1,0,-3
+,10:00am,USD,High,CB Consumer Confidence,95.4,95.2,94.3
+,,USD,Medium,New Home Sales,517K,501K,484K
+,12:30pm,USD,Medium,FOMC Member Fischer Speaks,,,
+,7:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+,8:10pm,USD,Medium,FOMC Member Lacker Speaks,,,
+,8:30pm,AUD,Low,MI Leading Index m/m,0.1%,,-0.3%
+,8:45pm,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,9:30pm,AUD,Medium,Construction Work Done q/q,-2.4%,-1.5%,-0.6%
+Wed May 27 2015,2:00am,CHF,Low,UBS Consumption Indicator,1.25,,1.34
+,,EUR,Medium,German GfK Consumer Climate,10.2,10.0,10.1
+,Day 1,All,High,G7 Meetings,,,
+,5:33am,EUR,Low,German 30-y Bond Auction,1.18|1.1,,1.07|1.3
+,9:00am,EUR,Low,Belgian NBB Business Climate,-4.9,-5.7,-6.2
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.75%,0.75%,0.75%
+,7:50pm,JPY,Medium,Retail Sales y/y,5.0%,5.3%,-9.7%
+,9:30pm,AUD,High,Private Capital Expenditure q/q,-4.4%,-2.3%,-1.7%
+Thu May 28 2015,2:00am,CHF,Medium,Trade Balance,2.86B,2.77B,2.50B
+,,EUR,Low,German Import Prices m/m,0.6%,0.5%,1.0%
+,2:20am,USD,Medium,FOMC Member Williams Speaks,,,
+,4:00am,EUR,Low,ECB Financial Stability Review,,,
+,4:30am,GBP,High,Second Estimate GDP q/q,0.3%,0.4%,0.3%
+,,GBP,Medium,Prelim Business Investment q/q,1.7%,1.2%,-0.9%
+,,GBP,Low,High Street Lending,42.1K,39.2K,39.2K
+,,GBP,Low,Index of Services 3m/3m,0.4%,0.5%,0.7%
+,Day 2,All,High,G7 Meetings,,,
+,5:20am,EUR,Low,Italian 10-y Bond Auction,1.83|1.4,,1.40|1.6
+,8:30am,CAD,Medium,Current Account,-17.5B,-18.6B,-13.1B
+,,CAD,Medium,RMPI m/m,3.8%,1.7%,-1.5%
+,,CAD,Low,Corporate Profits q/q,-6.0%,,-2.8%
+,,CAD,Low,IPPI m/m,-0.9%,-0.1%,0.2%
+,,USD,High,Unemployment Claims,282K,271K,275K
+,10:00am,USD,Medium,Pending Home Sales m/m,3.4%,0.8%,1.2%
+,10:30am,USD,Low,Natural Gas Storage,112B,95B,92B
+,11:00am,USD,Medium,Crude Oil Inventories,-2.8M,-1.5M,-2.7M
+,6:08pm,GBP,Low,GfK Consumer Confidence,1,4,4
+,6:45pm,NZD,Medium,Building Consents m/m,-1.7%,,10.3%
+,7:30pm,JPY,Medium,Household Spending y/y,-1.3%,3.1%,-10.6%
+,,JPY,Medium,Tokyo Core CPI y/y,0.2%,0.2%,0.4%
+,,JPY,Low,National Core CPI y/y,0.3%,0.2%,2.2%
+,,JPY,Low,Unemployment Rate,3.3%,3.4%,3.4%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,1.0%,0.9%,-0.8%
+,9:00pm,AUD,Low,HIA New Home Sales m/m,0.6%,,4.4%
+,,NZD,High,ANZ Business Confidence,15.7,,30.2
+,9:30pm,AUD,Low,Private Sector Credit m/m,0.3%,0.5%,0.5%
+Fri May 29 2015,1:00am,JPY,Low,Housing Starts y/y,0.4%,0.3%,0.7%
+,1:45am,CHF,Medium,GDP q/q,-0.2%,0.0%,0.5%
+,2:00am,EUR,Medium,German Retail Sales m/m,1.7%,1.1%,-1.4%
+,2:45am,EUR,Low,French Consumer Spending m/m,0.1%,0.4%,-0.7%
+,3:00am,CHF,Medium,KOF Economic Barometer,93.1,90.1,89.8
+,,EUR,Medium,Spanish Flash CPI y/y,-0.2%,-0.5%,-0.6%
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.3%,4.9%,4.6%
+,,EUR,Medium,Private Loans y/y,0.0%,0.4%,0.1%
+,5:00am,EUR,Low,Italian Prelim CPI m/m,0.2%,0.1%,0.2%
+,Day 3,All,High,G7 Meetings,,,
+,8:30am,CAD,High,GDP m/m,-0.2%,0.2%,-0.1%
+,,USD,High,Prelim GDP q/q,-0.7%,-0.8%,0.2%
+,,USD,Low,Prelim GDP Price Index q/q,-0.1%,-0.1%,-0.1%
+,9:45am,USD,Medium,Chicago PMI,46.2,53.1,52.3
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,90.7,90.0,88.6
+,,USD,Low,Revised UoM Inflation Expectations,2.8%,,2.9%
+Sat May 30 2015,2:00pm,CAD,Medium,Gov Council Member Schembri Speaks,,,

@@ -1,0 +1,82 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 6 2017,All Day,AUD,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Low,AIG Construction Index,60.5,,56.0
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,1.5%,,2.7%
+,11:00pm,NZD,High,Inflation Expectations q/q,2.09%,,2.17%
+Mon Aug 7 2017,1:00am,JPY,Low,Leading Indicators,106.3%,106.2%,104.6%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.1%,0.2%,1.2%
+,3:00am,CHF,Low,Foreign Currency Reserves,714B,,694B
+,3:15am,CHF,Medium,CPI m/m,-0.3%,-0.3%,-0.1%
+,3:30am,GBP,Medium,Halifax HPI m/m,0.4%,0.3%,-0.9%
+,4:30am,EUR,Low,Sentix Investor Confidence,27.7,27.8,28.3
+,All Day,CAD,Holiday,Bank Holiday,,,
+,1:25pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,12.4B,15.6B,18.3B
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.9%,,1.2%
+,7:50pm,JPY,Low,Bank Lending y/y,3.3%,3.3%,3.3%
+,,JPY,Low,Current Account,1.52T,1.51T,1.40T
+,9:30pm,AUD,Medium,NAB Business Confidence,12,,8
+,10:19pm,CNY,Medium,Trade Balance,321B,294B,294B
+,10:48pm,CNY,Low,USD-Denominated Trade Balance,46.7B,45.4B,42.8B
+,11:45pm,JPY,Low,30-y Bond Auction,0.88|3.9,,0.88|3.6
+Tue Aug 8 2017,1:05am,JPY,Low,Economy Watchers Sentiment,49.7,50.1,50.0
+,1:45am,CHF,Low,Unemployment Rate,3.2%,3.2%,3.2%
+,2:00am,EUR,Low,German Trade Balance,21.2B,20.8B,20.3B
+,2:45am,EUR,Low,French Gov Budget Balance,-62.3B,,-66.4B
+,,EUR,Low,French Trade Balance,-4.7B,-5.1B,-4.4B
+,6:00am,USD,Low,NFIB Small Business Index,105.2,103.6,103.6
+,10:00am,USD,Medium,JOLTS Job Openings,6.16M,5.74M,5.70M
+,,USD,Low,IBD/TIPP Economic Optimism,52.2,50.6,50.2
+,6:35pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,7:50pm,JPY,Low,M2 Money Stock y/y,4.0%,3.9%,3.9%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-1.2%,,0.4%
+,9:30pm,AUD,Low,Home Loans m/m,0.5%,1.5%,1.1%
+,9:32pm,CNY,Medium,CPI y/y,1.4%,1.5%,1.5%
+,,CNY,Medium,PPI y/y,5.5%,5.6%,5.5%
+Wed Aug 9 2017,1:57am,JPY,Low,Prelim Machine Tool Orders y/y,26.3%,,31.1%
+,4:00am,EUR,Low,Italian Industrial Production m/m,1.1%,0.2%,0.7%
+,8:13am,CAD,Low,Housing Starts,222K,204K,213K
+,8:30am,CAD,Medium,Building Permits m/m,2.5%,-1.8%,10.7%
+,,USD,Medium,Prelim Nonfarm Productivity q/q,0.9%,0.7%,0.0%
+,,USD,Medium,Prelim Unit Labor Costs q/q,0.6%,1.1%,2.2%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.7%,0.6%,0.6%
+,10:30am,USD,High,Crude Oil Inventories,-6.5M,-2.6M,-1.5M
+,1:01pm,USD,Low,10-y Bond Auction,2.25|2.2,,2.33|2.4
+,5:00pm,NZD,High,Official Cash Rate,1.75%,1.75%,1.75%
+,,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,RBNZ Monetary Policy Statement,,,
+,6:00pm,NZD,High,RBNZ Press Conference,,,
+,7:01pm,GBP,Low,RICS House Price Balance,1%,9%,7%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,-1.9%,3.6%,-3.6%
+,,JPY,Low,PPI y/y,2.6%,2.4%,2.2%
+,9:00pm,AUD,Low,MI Inflation Expectations,4.2%,,4.4%
+,9:10pm,NZD,Medium,RBNZ Gov Wheeler Speaks,,,
+Thu Aug 10 2017,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.0%,0.2%,-0.1%
+,2:45am,EUR,Low,French Industrial Production m/m,-1.1%,-0.6%,1.9%
+,4:00am,EUR,Low,Italian Trade Balance,4.50B,3.87B,4.34B
+,4:30am,GBP,High,Manufacturing Production m/m,0.0%,0.0%,-0.1%
+,,GBP,Medium,Goods Trade Balance,-12.7B,-11.0B,-11.3B
+,,GBP,Low,Construction Output m/m,-0.1%,1.4%,-0.4%
+,,GBP,Low,Industrial Production m/m,0.5%,0.1%,0.0%
+,7:35am,GBP,Low,NIESR GDP Estimate,0.2%,,0.3%
+,8:30am,CAD,Medium,NHPI m/m,0.2%,0.5%,0.7%
+,,USD,High,PPI m/m,-0.1%,0.1%,0.1%
+,,USD,High,Unemployment Claims,244K,240K,241K
+,,USD,Medium,Core PPI m/m,-0.1%,0.2%,0.1%
+,10:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,28B,38B,20B
+,1:01pm,USD,Low,30-y Bond Auction,2.82|2.3,,2.94|2.3
+,2:00pm,USD,Low,Federal Budget Balance,-42.9B,-60.9B,-90.2B
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,55.4,,56.0
+,6:45pm,NZD,Low,FPI m/m,-0.2%,,0.2%
+,7:30pm,AUD,High,RBA Gov Lowe Speaks,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+Fri Aug 11 2017,2:00am,EUR,Low,German Final CPI m/m,0.4%,0.4%,0.4%
+,,EUR,Low,German WPI m/m,-0.1%,0.3%,0.0%
+,2:45am,EUR,Low,French Final CPI m/m,-0.3%,-0.3%,-0.3%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.5%,0.4%,0.4%
+,8:30am,USD,High,CPI m/m,0.1%,0.2%,0.0%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.1%
+,9:40am,USD,Medium,FOMC Member Kaplan Speaks,,,
+,11:30am,USD,Medium,FOMC Member Kashkari Speaks,,,
+Sat Aug 12 2017,,,No specified,,,,

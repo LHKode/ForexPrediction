@@ -1,0 +1,102 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 3 2021,All Day,NZD,Holiday,Bank Holiday,,,
+,7:30pm,JPY,Low,Final Manufacturing PMI,50.0,49.7,49.7
+,8:45pm,CNY,Low,Caixin Manufacturing PMI,53.0,54.7,54.9
+Mon Jan 4 2021,12:30am,AUD,Low,Commodity Prices y/y,11.7%,,2.5%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,51.0,52.6,49.8
+,3:30am,CHF,Low,Manufacturing PMI,58.0,54.4,55.2
+,3:45am,EUR,Low,Italian Manufacturing PMI,52.8,53.5,51.5
+,3:50am,EUR,Low,French Final Manufacturing PMI,51.1,51.1,51.1
+,3:55am,EUR,Low,German Final Manufacturing PMI,58.3,58.6,58.6
+,4:00am,EUR,Low,Final Manufacturing PMI,55.2,55.5,55.5
+,4:30am,GBP,Medium,Final Manufacturing PMI,57.5,57.3,57.3
+,,GBP,Low,M4 Money Supply m/m,0.8%,0.4%,0.7%
+,,GBP,Low,Mortgage Approvals,105K,82K,98K
+,,GBP,Low,Net Lending to Individuals m/m,4.1B,3.0B,3.8B
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,9:30am,CAD,Medium,Manufacturing PMI,57.9,,55.8
+,9:45am,USD,Low,Final Manufacturing PMI,57.1,56.3,56.5
+,10:00am,USD,Low,Construction Spending m/m,0.9%,1.1%,1.6%
+,,USD,Low,FOMC Member Bostic Speaks,,,
+,,USD,Low,FOMC Member Evans Speaks,,,
+,6:50pm,JPY,Low,Monetary Base y/y,18.3%,18.0%,16.5%
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,9.2%,,13.5%
+Tue Jan 5 2021,2:00am,EUR,Low,German Retail Sales m/m,1.9%,-2.0%,2.6%
+,2:30am,CHF,Low,CPI m/m,-0.1%,0.0%,-0.2%
+,3:00am,EUR,Low,Spanish Unemployment Change,36.8K,30.5K,25.3K
+,3:55am,EUR,Low,German Unemployment Change,-37K,10K,-40K
+,4:00am,EUR,Low,M3 Money Supply y/y,11.0%,10.6%,10.5%
+,,EUR,Low,Private Loans y/y,3.1%,3.3%,3.2%
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,8:30am,CAD,Low,IPPI m/m,-0.6%,-0.2%,-0.4%
+,,CAD,Low,RMPI m/m,0.6%,0.9%,0.5%
+,9:53am,NZD,Low,GDT Price Index,3.9%,,1.3%
+,10:00am,USD,Medium,ISM Manufacturing PMI,60.7,56.6,57.5
+,,USD,Low,ISM Manufacturing Prices,77.6,66.0,65.4
+,All Day,USD,Low,Wards Total Vehicle Sales,16.3M,15.8M,15.6M
+,3:45pm,USD,Low,FOMC Member Evans Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.8%,,-1.8%
+,8:45pm,CNY,Low,Caixin Services PMI,56.3,58.1,57.8
+,10:35pm,JPY,Low,10-y Bond Auction,0.02|3.4,,0.02|3.4
+Wed Jan 6 2021,12:00am,JPY,Low,Consumer Confidence,31.8,32.6,33.7
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,EUR,Low,German Prelim CPI m/m,0.5%,0.6%,-0.8%
+,2:45am,EUR,Low,French Prelim CPI m/m,0.2%,0.4%,0.2%
+,3:15am,EUR,Low,Spanish Services PMI,48.0,44.5,39.5
+,3:45am,EUR,Low,Italian Services PMI,39.7,45.0,39.4
+,3:50am,EUR,Low,French Final Services PMI,49.1,49.2,49.2
+,3:55am,EUR,Low,German Final Services PMI,47.0,47.7,47.7
+,4:00am,EUR,Low,Final Services PMI,46.4,47.4,47.3
+,4:30am,GBP,Low,Final Services PMI,49.4,49.9,49.9
+,5:00am,EUR,Low,PPI m/m,0.4%,0.2%,0.4%
+,5:05am,GBP,Low,10-y Bond Auction,0.33|2.9,,0.43|2.7
+,5:36am,EUR,Low,German 10-y Bond Auction,-0.52|1.6,,-0.57|2.0
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,-123K,60K,304K
+,9:30am,GBP,High,BOE Gov Bailey Speaks,,,
+,9:45am,USD,Low,Final Services PMI,54.8,55.2,55.3
+,10:00am,USD,Low,Factory Orders m/m,1.0%,0.7%,1.3%
+,10:30am,USD,Low,Crude Oil Inventories,-8.0M,-2.8M,-6.1M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,6:30pm,JPY,Low,Average Cash Earnings y/y,-2.2%,-0.9%,-0.7%
+,7:30pm,AUD,Low,Building Approvals m/m,2.6%,1.9%,3.3%
+,,AUD,Low,Trade Balance,5.02B,6.45B,6.58B
+Thu Jan 7 2021,2:00am,EUR,Low,German Factory Orders m/m,2.3%,-0.6%,3.3%
+,2:30am,CHF,Low,Retail Sales y/y,1.7%,3.5%,4.3%
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,Low,Construction PMI,54.6,54.6,54.7
+,4:32am,GBP,Low,Housing Equity Withdrawal q/q,-7.0B,-7.0B,-9.0B
+,5:00am,EUR,Low,CPI Flash Estimate y/y,-0.3%,-0.2%,-0.3%
+,,EUR,Low,Core CPI Flash Estimate y/y,0.2%,0.2%,0.2%
+,,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,-0.1%
+,,EUR,Low,Retail Sales m/m,-6.1%,-3.4%,1.4%
+,5:04am,EUR,Low,French 10-y Bond Auction,-0.33|1.9,,-0.26|2.1
+,7:30am,USD,Low,Challenger Job Cuts y/y,134.5%,,45.4%
+,8:30am,CAD,Low,Trade Balance,-3.3B,-3.6B,-3.7B
+,,USD,Medium,Unemployment Claims,787K,798K,790K
+,,USD,Low,Trade Balance,-68.1B,-66.7B,-63.1B
+,10:00am,CAD,Medium,Ivey PMI,46.7,53.1,52.7
+,,USD,Medium,ISM Services PMI,57.2,54.5,55.9
+,10:30am,USD,Low,Natural Gas Storage,-130B,-142B,-114B
+,1:00pm,USD,Low,FOMC Member Evans Speaks,,,
+,6:30pm,JPY,Low,Household Spending y/y,1.1%,-1.0%,1.9%
+,10:35pm,JPY,Low,30-y Bond Auction,0.65|3.0,,0.65|3.5
+Fri Jan 8 2021,12:00am,JPY,Low,Leading Indicators,96.6%,96.6%,94.3%
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.4%,3.4%
+,2:00am,EUR,Low,German Industrial Production m/m,0.9%,0.7%,3.4%
+,,EUR,Low,German Trade Balance,16.4B,18.5B,18.2B
+,2:45am,EUR,Low,French Consumer Spending m/m,-18.9%,-15.8%,3.9%
+,,EUR,Low,French Industrial Production m/m,-0.9%,-1.0%,1.9%
+,,EUR,Low,French Trade Balance,-3.6B,-4.9B,-4.6B
+,3:02am,CHF,Low,Foreign Currency Reserves,891B,,877B
+,3:30am,GBP,Low,Halifax HPI m/m,0.2%,1.0%,1.0%
+,5:00am,EUR,Low,Italian Monthly Unemployment Rate,8.9%,10.0%,9.5%
+,,EUR,Low,Unemployment Rate,8.3%,8.5%,8.4%
+,8:30am,CAD,High,Employment Change,-62.6K,-32.5K,62.1K
+,,CAD,High,Unemployment Rate,8.6%,8.7%,8.5%
+,,USD,High,Average Hourly Earnings m/m,0.8%,0.2%,0.3%
+,,USD,High,Non-Farm Employment Change,-140K,60K,336K
+,,USD,High,Unemployment Rate,6.7%,6.8%,6.7%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.0%,-0.1%,-0.1%
+,11:00am,USD,Low,FOMC Member Clarida Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,15.3B,9.0B,4.5B
+Sat Jan 9 2021,,,No specified,,,,

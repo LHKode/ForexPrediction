@@ -1,0 +1,1669 @@
+Time,Currency,Impact,Event,Actual,Forecast,Previous,EffectDay,Effect60,Effect30,Effect15
+2017-01-02 14:15:00,EUR,Medium,Spanish Manufacturing PMI,55.3,54.6,54.5,,,,
+2017-01-02 14:45:00,EUR,Low,Italian Manufacturing PMI,53.2,52.3,52.2,,,,
+2017-01-02 14:50:00,EUR,Low,French Final Manufacturing PMI,53.5,53.5,53.5,,,,
+2017-01-02 14:55:00,EUR,Low,German Final Manufacturing PMI,55.6,55.5,55.5,,,,
+2017-01-02 15:00:00,EUR,Low,Final Manufacturing PMI,54.9,54.9,54.9,,,,
+2017-01-03 23:33:00,EUR,Medium,German Prelim CPI m/m,0.7%,0.6%,0.1%,-150.0,23.0,23.0,23.0
+2017-01-03 13:45:00,EUR,Low,French Prelim CPI m/m,0.3%,0.5%,0.0%,-150.0,-35.0,-29.0,4.0
+2017-01-03 14:55:00,EUR,Medium,German Unemployment Change,-17K,-5K,-6K,-150.0,-45.0,-37.0,9.0
+2017-01-03 20:45:00,USD,Low,Final Manufacturing PMI,54.3,54.2,54.2,-150.0,14.0,7.0,7.0
+2017-01-03 21:00:00,USD,High,ISM Manufacturing PMI,54.7,53.7,53.2,-150.0,23.0,11.0,-6.0
+2017-01-03 21:00:00,USD,Low,Construction Spending m/m,0.9%,0.5%,0.6%,-150.0,23.0,11.0,-6.0
+2017-01-03 21:00:00,USD,Low,ISM Manufacturing Prices,65.5,55.6,54.5,-150.0,23.0,11.0,-6.0
+2017-01-04 14:00:00,EUR,Medium,Spanish Unemployment Change,-86.8K,-44.2K,24.8K,101.0,16.0,13.0,11.0
+2017-01-04 14:15:00,EUR,Low,Spanish Services PMI,55.0,54.8,55.1,101.0,33.0,14.0,12.0
+2017-01-04 14:45:00,EUR,Low,Italian Services PMI,52.3,52.7,53.3,101.0,27.0,27.0,-8.0
+2017-01-04 14:50:00,EUR,Low,French Final Services PMI,52.9,52.6,52.6,101.0,27.0,27.0,-8.0
+2017-01-04 14:55:00,EUR,Low,German Final Services PMI,54.3,53.8,53.8,101.0,27.0,27.0,26.0
+2017-01-04 15:00:00,EUR,Low,Final Services PMI,53.7,53.1,53.1,101.0,-25.0,24.0,24.0
+2017-01-04 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.1%,1.0%,0.6%,101.0,17.0,16.0,-10.0
+2017-01-04 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.8%,0.8%,101.0,17.0,16.0,-10.0
+2017-01-04 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.4%,0.3%,-0.1%,101.0,17.0,16.0,-10.0
+2017-01-04 16:00:00,USD,Low,Wards Total Vehicle Sales,18.3M,17.7M,17.6M,101.0,17.0,16.0,-10.0
+2017-01-04 16:00:00,USD,Low,Total Vehicle Sales,18.4M,17.8M,17.9M,101.0,17.0,16.0,-10.0
+2017-01-05 16:00:00,EUR,Low,PPI m/m,0.3%,0.2%,0.8%,163.0,-22.0,-20.0,-9.0
+2017-01-05 19:15:00,USD,High,ADP Non-Farm Employment Change,153K,171K,215K,163.0,-25.0,19.0,11.0
+2017-01-05 19:30:00,USD,High,Unemployment Claims,235K,262K,263K,163.0,30.0,-18.0,-12.0
+2017-01-05 20:45:00,USD,Low,Final Services PMI,53.9,53.4,53.4,163.0,26.0,-18.0,-18.0
+2017-01-05 21:00:00,USD,High,ISM Services PMI,57.2,56.6,57.2,163.0,23.0,21.0,12.0
+2017-01-05 21:30:00,USD,Low,Natural Gas Storage,-49B,-97B,-237B,163.0,47.0,16.0,12.0
+2017-01-05 22:00:00,USD,High,Crude Oil Inventories,-7.1M,-1.8M,0.6M,163.0,73.0,45.0,25.0
+2017-01-06 13:00:00,EUR,Medium,German Factory Orders m/m,-2.5%,-2.5%,5.0%,-86.0,-13.0,8.0,8.0
+2017-01-06 13:00:00,EUR,Medium,German Retail Sales m/m,-1.8%,-0.8%,2.5%,-86.0,-13.0,8.0,8.0
+2017-01-06 13:45:00,EUR,Low,French Trade Balance,-4.4B,-4.8B,-5.2B,-86.0,16.0,-9.0,-7.0
+2017-01-06 16:00:00,EUR,Low,Retail Sales m/m,-0.4%,-0.3%,1.4%,-86.0,21.0,13.0,-10.0
+2017-01-06 19:30:00,USD,High,Average Hourly Earnings m/m,0.4%,0.3%,-0.1%,-86.0,21.0,9.0,-8.0
+2017-01-06 19:30:00,USD,High,Non-Farm Employment Change,156K,175K,204K,-86.0,21.0,9.0,-8.0
+2017-01-06 19:30:00,USD,High,Unemployment Rate,4.7%,4.7%,4.6%,-86.0,21.0,9.0,-8.0
+2017-01-06 19:30:00,USD,Medium,Trade Balance,-45.2B,-42.2B,-42.4B,-86.0,21.0,9.0,-8.0
+2017-01-06 21:00:00,USD,Medium,Factory Orders m/m,-2.4%,-2.1%,2.8%,-86.0,34.0,-23.0,22.0
+2017-01-09 13:00:00,EUR,Low,German Industrial Production m/m,0.4%,0.7%,0.5%,72.0,17.0,7.0,-6.0
+2017-01-09 13:00:00,EUR,Low,German Trade Balance,21.7B,20.8B,20.6B,72.0,17.0,7.0,-6.0
+2017-01-09 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.9%,11.6%,11.8%,72.0,21.0,20.0,10.0
+2017-01-09 15:30:00,EUR,Low,Sentix Investor Confidence,18.2,12.6,10.0,72.0,-24.0,-11.0,-10.0
+2017-01-09 16:00:00,EUR,Low,Unemployment Rate,9.8%,9.8%,9.8%,72.0,-28.0,-20.0,-14.0
+2017-01-10 02:00:00,USD,Low,Consumer Credit m/m,24.5B,18.3B,16.2B,69.0,16.0,8.0,7.0
+2017-01-10 13:45:00,EUR,Low,French Industrial Production m/m,2.2%,0.5%,-0.1%,69.0,-17.0,-13.0,-13.0
+2017-01-10 17:00:00,USD,Low,NFIB Small Business Index,105.8,99.6,98.4,69.0,-20.0,-20.0,-10.0
+2017-01-10 21:00:00,USD,Medium,JOLTS Job Openings,5.52M,5.59M,5.45M,69.0,35.0,10.0,6.0
+2017-01-10 21:00:00,USD,Low,Final Wholesale Inventories m/m,1.0%,0.9%,0.9%,69.0,35.0,10.0,6.0
+2017-01-11 21:00:00,USD,Low,IBD/TIPP Economic Optimism,55.6,53.9,54.8,-121.0,-37.0,-24.0,-9.0
+2017-01-11 21:30:00,USD,High,Crude Oil Inventories,4.1M,0.9M,-7.1M,-121.0,-43.0,-19.0,-12.0
+2017-01-12 13:45:00,EUR,Low,French Final CPI m/m,0.3%,0.3%,0.3%,212.0,23.0,18.0,18.0
+2017-01-12 15:00:00,EUR,Low,Italian Industrial Production m/m,0.7%,0.2%,0.1%,212.0,37.0,21.0,20.0
+2017-01-12 16:00:00,EUR,Low,Industrial Production m/m,1.5%,0.5%,0.1%,212.0,-17.0,-17.0,-17.0
+2017-01-12 19:30:00,USD,High,Unemployment Claims,247K,266K,237K,212.0,-23.0,18.0,-13.0
+2017-01-12 19:30:00,USD,Medium,Import Prices m/m,0.4%,0.8%,-0.2%,212.0,-23.0,18.0,-13.0
+2017-01-12 21:30:00,USD,Low,Natural Gas Storage,-151B,-150B,-49B,212.0,43.0,26.0,17.0
+2017-01-13 01:00:00,USD,Low,Federal Budget Balance,-27.5B,-21.0B,-136.7B,-76.0,-22.0,-22.0,-16.0
+2017-01-13 13:00:00,EUR,Low,German WPI m/m,1.2%,0.3%,0.1%,-76.0,16.0,12.0,12.0
+2017-01-13 19:30:00,USD,High,Core Retail Sales m/m,0.2%,0.5%,0.3%,-76.0,22.0,15.0,5.0
+2017-01-13 19:30:00,USD,High,PPI m/m,0.3%,0.1%,0.4%,-76.0,22.0,15.0,5.0
+2017-01-13 19:30:00,USD,High,Retail Sales m/m,0.6%,0.5%,0.2%,-76.0,22.0,15.0,5.0
+2017-01-13 19:30:00,USD,Medium,Core PPI m/m,0.2%,0.3%,0.4%,-76.0,22.0,15.0,5.0
+2017-01-13 21:00:00,USD,High,Prelim UoM Consumer Sentiment,98.1,98.6,98.2,-76.0,-52.0,-28.0,-26.0
+2017-01-13 21:00:00,USD,Low,Business Inventories m/m,0.7%,0.3%,-0.1%,-76.0,-52.0,-28.0,-26.0
+2017-01-16 16:00:00,EUR,Low,Trade Balance,22.7B,23.2B,19.9B,-56.0,18.0,-12.0,9.0
+2017-01-17 15:00:00,EUR,Low,Italian Trade Balance,4.20B,3.84B,4.29B,123.0,17.0,17.0,16.0
+2017-01-17 16:00:00,EUR,Medium,German ZEW Economic Sentiment,16.6,18.9,13.8,123.0,27.0,20.0,-11.0
+2017-01-17 16:00:00,EUR,Low,ZEW Economic Sentiment,23.2,24.2,18.1,123.0,27.0,20.0,-11.0
+2017-01-17 19:30:00,USD,Medium,Empire State Manufacturing Index,6.5,8.1,9.0,123.0,-35.0,-24.0,-16.0
+2017-01-18 13:00:00,EUR,Low,German Final CPI m/m,0.7%,0.7%,0.7%,-59.0,-13.0,7.0,6.0
+2017-01-18 16:00:00,EUR,Medium,Final CPI y/y,1.1%,1.1%,1.1%,-59.0,11.0,-9.0,-9.0
+2017-01-18 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,-59.0,11.0,-9.0,-9.0
+2017-01-18 19:30:00,USD,High,CPI m/m,0.3%,0.3%,0.2%,-59.0,-28.0,-22.0,-6.0
+2017-01-18 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.2%,-59.0,-28.0,-22.0,-6.0
+2017-01-18 20:15:00,USD,Medium,Capacity Utilization Rate,75.5%,75.6%,74.9%,-59.0,18.0,18.0,9.0
+2017-01-18 20:15:00,USD,Medium,Industrial Production m/m,0.8%,0.8%,-0.7%,-59.0,18.0,18.0,9.0
+2017-01-18 21:00:00,USD,Low,NAHB Housing Market Index,67,69,69,-59.0,24.0,12.0,-6.0
+2017-01-19 03:00:00,USD,Low,TIC Long-Term Purchases,30.8B,21.3B,9.3B,-103.0,-40.0,-40.0,-30.0
+2017-01-19 15:00:00,EUR,Low,Current Account,36.1B,29.3B,28.3B,-103.0,17.0,17.0,12.0
+2017-01-19 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,-103.0,15.0,12.0,11.0
+2017-01-19 19:30:00,USD,High,Building Permits,1.21M,1.22M,1.21M,-103.0,19.0,11.0,8.0
+2017-01-19 19:30:00,USD,High,Philly Fed Manufacturing Index,23.6,16.3,21.5,-103.0,19.0,11.0,8.0
+2017-01-19 19:30:00,USD,High,Unemployment Claims,234K,252K,249K,-103.0,19.0,11.0,8.0
+2017-01-19 19:30:00,USD,Medium,Housing Starts,1.23M,1.19M,1.10M,-103.0,19.0,11.0,8.0
+2017-01-19 21:30:00,USD,Low,Natural Gas Storage,-243B,-235B,-151B,-103.0,-32.0,-32.0,-14.0
+2017-01-19 22:00:00,USD,High,Crude Oil Inventories,2.3M,0.1M,4.1M,-103.0,-32.0,19.0,18.0
+2017-01-20 13:00:00,EUR,Low,German PPI m/m,0.4%,0.4%,0.3%,79.0,14.0,10.0,8.0
+2017-01-23 21:00:00,EUR,Low,Consumer Confidence,-5,-5,-5,60.0,-27.0,-27.0,-18.0
+2017-01-24 14:00:00,EUR,Medium,French Flash Manufacturing PMI,53.4,53.4,53.5,55.0,-16.0,11.0,-4.0
+2017-01-24 14:00:00,EUR,Medium,French Flash Services PMI,53.9,53.2,52.9,55.0,-16.0,11.0,-4.0
+2017-01-24 14:30:00,EUR,Medium,German Flash Manufacturing PMI,56.5,55.5,55.6,55.0,19.0,-16.0,-9.0
+2017-01-24 14:30:00,EUR,Medium,German Flash Services PMI,53.2,54.6,54.3,55.0,19.0,-16.0,-9.0
+2017-01-24 15:00:00,EUR,Medium,Flash Manufacturing PMI,55.1,54.8,54.9,55.0,16.0,16.0,14.0
+2017-01-24 15:00:00,EUR,Medium,Flash Services PMI,53.6,53.9,53.7,55.0,16.0,16.0,14.0
+2017-01-24 20:45:00,USD,Low,Flash Manufacturing PMI,55.1,54.6,54.3,55.0,23.0,-10.0,-10.0
+2017-01-24 21:00:00,USD,Medium,Existing Home Sales,5.49M,5.54M,5.65M,55.0,23.0,-11.0,7.0
+2017-01-24 21:00:00,USD,Low,Richmond Manufacturing Index,12,7,8,55.0,23.0,-11.0,7.0
+2017-01-25 15:00:00,EUR,High,German ifo Business Climate,109.8,111.3,111.0,58.0,19.0,19.0,12.0
+2017-01-25 19:59:00,EUR,Low,Belgian NBB Business Climate,0.5,0.4,-0.2,58.0,-13.0,-12.0,-9.0
+2017-01-25 20:00:00,USD,Low,HPI m/m,0.5%,0.4%,0.3%,58.0,-13.0,-11.0,-9.0
+2017-01-25 21:30:00,USD,High,Crude Oil Inventories,2.8M,1.5M,2.3M,58.0,24.0,17.0,12.0
+2017-01-26 13:00:00,EUR,Low,German GfK Consumer Climate,10.2,10.0,9.9,-108.0,-17.0,-14.0,-7.0
+2017-01-26 14:00:00,EUR,Medium,Spanish Unemployment Rate,18.6%,18.9%,18.9%,-108.0,-18.0,10.0,9.0
+2017-01-26 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.7%,0.1%,1.2%,-108.0,17.0,13.0,-7.0
+2017-01-26 19:30:00,USD,High,Unemployment Claims,259K,247K,237K,-108.0,-44.0,-25.0,9.0
+2017-01-26 19:30:00,USD,Low,Goods Trade Balance,-65.0B,-64.5B,-66.6B,-108.0,-44.0,-25.0,9.0
+2017-01-26 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,1.0%,0.9%,1.0%,-108.0,-44.0,-25.0,9.0
+2017-01-26 20:45:00,USD,Low,Flash Services PMI,55.1,54.4,53.9,-108.0,-33.0,-15.0,-12.0
+2017-01-26 21:00:00,USD,Medium,New Home Sales,536K,585K,598K,-108.0,-32.0,-23.0,13.0
+2017-01-26 21:00:00,USD,Low,CB Leading Index m/m,0.5%,0.5%,0.1%,-108.0,-32.0,-23.0,13.0
+2017-01-26 21:30:00,USD,Low,Natural Gas Storage,-119B,-121B,-243B,-108.0,20.0,18.0,15.0
+2017-01-27 13:00:00,EUR,Low,German Import Prices m/m,1.9%,1.3%,0.7%,66.0,-12.0,-8.0,-8.0
+2017-01-27 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,4.9%,4.8%,66.0,13.0,12.0,8.0
+2017-01-27 15:00:00,EUR,Low,Private Loans y/y,2.0%,2.0%,1.9%,66.0,13.0,12.0,8.0
+2017-01-27 19:30:00,USD,High,Advance GDP q/q,1.9%,2.1%,3.5%,66.0,-18.0,-18.0,-11.0
+2017-01-27 19:30:00,USD,High,Core Durable Goods Orders m/m,0.5%,0.5%,0.6%,66.0,-18.0,-18.0,-11.0
+2017-01-27 19:30:00,USD,Medium,Advance GDP Price Index q/q,2.1%,2.1%,1.4%,66.0,-18.0,-18.0,-11.0
+2017-01-27 19:30:00,USD,Medium,Durable Goods Orders m/m,-0.4%,2.7%,-4.5%,66.0,-18.0,-18.0,-11.0
+2017-01-27 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,98.5,98.2,98.1,66.0,27.0,27.0,27.0
+2017-01-30 05:50:00,EUR,Medium,German Prelim CPI m/m,-0.6%,-0.5%,0.7%,-120.0,10.0,5.0,-5.0
+2017-01-30 14:00:00,EUR,Medium,Spanish Flash GDP q/q,0.7%,0.7%,0.7%,-120.0,-22.0,-8.0,-8.0
+2017-01-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.0%,-120.0,-23.0,-17.0,-7.0
+2017-01-30 19:30:00,USD,Medium,Personal Spending m/m,0.5%,0.4%,0.2%,-120.0,-23.0,-17.0,-7.0
+2017-01-30 19:30:00,USD,Low,Personal Income m/m,0.3%,0.4%,0.1%,-120.0,-23.0,-17.0,-7.0
+2017-01-30 21:00:00,USD,Medium,Pending Home Sales m/m,1.6%,1.6%,-2.5%,-120.0,19.0,-11.0,9.0
+2017-01-31 12:30:00,EUR,Low,French Flash GDP q/q,0.4%,0.4%,0.2%,134.0,8.0,-5.0,-3.0
+2017-01-31 13:00:00,EUR,Medium,German Retail Sales m/m,-0.9%,0.6%,-1.7%,134.0,-13.0,-6.0,5.0
+2017-01-31 13:45:00,EUR,Low,French Consumer Spending m/m,-0.8%,0.2%,0.6%,134.0,-15.0,-11.0,-8.0
+2017-01-31 13:45:00,EUR,Low,French Prelim CPI m/m,-0.2%,-0.5%,0.3%,134.0,-15.0,-11.0,-8.0
+2017-01-31 14:00:00,EUR,Medium,Spanish Flash CPI y/y,3.0%,2.4%,1.6%,134.0,16.0,-7.0,6.0
+2017-01-31 14:55:00,EUR,Medium,German Unemployment Change,-26K,-5K,-20K,134.0,31.0,23.0,23.0
+2017-01-31 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.0%,11.8%,12.0%,134.0,-28.0,27.0,19.0
+2017-01-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.8%,1.5%,1.1%,134.0,20.0,-13.0,5.0
+2017-01-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.9%,0.9%,134.0,20.0,-13.0,5.0
+2017-01-31 16:00:00,EUR,Medium,Prelim Flash GDP q/q,0.5%,0.4%,0.3%,134.0,20.0,-13.0,5.0
+2017-01-31 16:00:00,EUR,Low,Unemployment Rate,9.6%,9.8%,9.7%,134.0,20.0,-13.0,5.0
+2017-01-31 19:30:00,USD,Medium,Employment Cost Index q/q,0.5%,0.6%,0.6%,134.0,-19.0,-17.0,9.0
+2017-01-31 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.3%,5.0%,5.1%,134.0,-20.0,-14.0,14.0
+2017-01-31 20:45:00,USD,Medium,Chicago PMI,50.3,55.1,54.6,134.0,32.0,-11.0,10.0
+2017-01-31 21:00:00,USD,High,CB Consumer Confidence,111.8,112.6,113.3,134.0,46.0,31.0,-10.0
+2017-02-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,55.6,55.1,55.3,-73.0,-12.0,6.0,4.0
+2017-02-01 14:45:00,EUR,Low,Italian Manufacturing PMI,53.0,53.3,53.2,-73.0,22.0,-12.0,-12.0
+2017-02-01 14:50:00,EUR,Low,French Final Manufacturing PMI,53.6,53.4,53.4,-73.0,22.0,16.0,9.0
+2017-02-01 14:55:00,EUR,Low,German Final Manufacturing PMI,56.4,56.5,56.5,-73.0,23.0,17.0,9.0
+2017-02-01 15:00:00,EUR,Low,Final Manufacturing PMI,55.2,55.1,55.1,-73.0,19.0,13.0,6.0
+2017-02-01 19:15:00,USD,High,ADP Non-Farm Employment Change,246K,165K,151K,-73.0,-22.0,-11.0,-5.0
+2017-02-01 20:45:00,USD,Low,Final Manufacturing PMI,55.0,55.1,55.1,-73.0,-24.0,-22.0,-14.0
+2017-02-01 21:00:00,USD,High,ISM Manufacturing PMI,56.0,55.0,54.7,-73.0,-12.0,-12.0,-10.0
+2017-02-01 21:00:00,USD,Low,Construction Spending m/m,-0.2%,0.2%,0.9%,-73.0,-12.0,-12.0,-10.0
+2017-02-01 21:00:00,USD,Low,ISM Manufacturing Prices,69.0,66.0,65.5,-73.0,-12.0,-12.0,-10.0
+2017-02-01 21:00:00,USD,Low,Wards Total Vehicle Sales,17.5M,17.5M,18.1M,-73.0,-12.0,-12.0,-10.0
+2017-02-01 21:30:00,USD,High,Crude Oil Inventories,6.5M,2.6M,2.8M,-73.0,-23.0,10.0,8.0
+2017-02-01 21:30:00,USD,Low,Total Vehicle Sales,17.6M,17.9M,18.4M,-73.0,-23.0,10.0,8.0
+2017-02-02 01:00:00,USD,High,Federal Funds Rate,<0.75%,<0.75%,<0.75%,98.0,-18.0,-7.0,-5.0
+2017-02-02 14:00:00,EUR,Medium,Spanish Unemployment Change,57.3K,60.2K,-86.8K,98.0,20.0,18.0,8.0
+2017-02-02 16:00:00,EUR,Low,PPI m/m,0.7%,0.5%,0.3%,98.0,13.0,12.0,-10.0
+2017-02-02 19:30:00,USD,High,Unemployment Claims,246K,251K,260K,98.0,13.0,-12.0,-12.0
+2017-02-02 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,1.3%,1.0%,3.1%,98.0,13.0,-12.0,-12.0
+2017-02-02 19:30:00,USD,Medium,Prelim Unit Labor Costs q/q,1.7%,2.3%,0.7%,98.0,13.0,-12.0,-12.0
+2017-02-02 21:30:00,USD,Low,Natural Gas Storage,-87B,-82B,-119B,98.0,-16.0,-10.0,9.0
+2017-02-03 14:15:00,EUR,Low,Spanish Services PMI,54.2,54.7,55.0,-91.0,-10.0,9.0,-3.0
+2017-02-03 14:45:00,EUR,Low,Italian Services PMI,52.4,52.6,52.3,-91.0,-18.0,-10.0,-7.0
+2017-02-03 14:50:00,EUR,Low,French Final Services PMI,54.1,53.9,53.9,-91.0,-16.0,-8.0,-8.0
+2017-02-03 14:55:00,EUR,Low,German Final Services PMI,53.4,53.2,53.2,-91.0,-16.0,8.0,-7.0
+2017-02-03 15:00:00,EUR,Low,Final Services PMI,53.7,53.6,53.6,-91.0,-21.0,-11.0,8.0
+2017-02-03 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.2%,0.2%,0.4%,-91.0,-10.0,6.0,6.0
+2017-02-03 16:00:00,EUR,Low,Retail Sales m/m,-0.3%,0.3%,-0.6%,-91.0,-10.0,6.0,6.0
+2017-02-03 19:30:00,USD,High,Average Hourly Earnings m/m,0.1%,0.3%,0.2%,-91.0,-12.0,-9.0,4.0
+2017-02-03 19:30:00,USD,High,Non-Farm Employment Change,227K,170K,157K,-91.0,-12.0,-9.0,4.0
+2017-02-03 19:30:00,USD,High,Unemployment Rate,4.8%,4.7%,4.7%,-91.0,-12.0,-9.0,4.0
+2017-02-03 20:45:00,USD,Low,Final Services PMI,55.6,55.1,55.1,-91.0,37.0,37.0,-17.0
+2017-02-03 21:00:00,USD,High,ISM Services PMI,56.5,57.0,57.2,-91.0,26.0,26.0,26.0
+2017-02-03 21:00:00,USD,Medium,Factory Orders m/m,1.3%,1.5%,-2.3%,-91.0,26.0,26.0,26.0
+2017-02-06 13:00:00,EUR,Medium,German Factory Orders m/m,5.2%,0.6%,-3.6%,-93.0,-10.0,-6.0,3.0
+2017-02-06 15:30:00,EUR,Low,Sentix Investor Confidence,17.4,16.7,18.2,-93.0,-12.0,8.0,5.0
+2017-02-07 13:00:00,EUR,Low,German Industrial Production m/m,-3.0%,0.2%,0.5%,-99.0,-22.0,-18.0,-12.0
+2017-02-07 13:45:00,EUR,Low,French Trade Balance,-3.4B,-4.2B,-4.4B,-99.0,-18.0,8.0,5.0
+2017-02-07 19:30:00,USD,Medium,Trade Balance,-44.3B,-45.0B,-45.7B,-99.0,-22.0,11.0,11.0
+2017-02-07 21:00:00,USD,Medium,JOLTS Job Openings,5.50M,5.56M,5.51M,-99.0,11.0,11.0,-10.0
+2017-02-07 21:00:00,USD,Low,IBD/TIPP Economic Optimism,56.4,56.2,55.6,-99.0,11.0,11.0,-10.0
+2017-02-08 02:00:00,USD,Low,Consumer Credit m/m,14.2B,20.3B,25.2B,73.0,7.0,6.0,-6.0
+2017-02-08 21:30:00,USD,High,Crude Oil Inventories,13.8M,2.7M,6.5M,73.0,23.0,23.0,-8.0
+2017-02-09 13:00:00,EUR,Low,German Trade Balance,18.4B,23.2B,21.8B,-56.0,-12.0,4.0,4.0
+2017-02-09 19:30:00,USD,High,Unemployment Claims,234K,249K,246K,-56.0,18.0,9.0,9.0
+2017-02-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,1.0%,1.0%,1.0%,-56.0,-32.0,12.0,-7.0
+2017-02-09 21:30:00,USD,Low,Natural Gas Storage,-152B,-155B,-87B,-56.0,-37.0,-32.0,-8.0
+2017-02-10 13:45:00,EUR,Low,French Industrial Production m/m,-0.9%,-0.6%,2.4%,-60.0,-12.0,8.0,4.0
+2017-02-10 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,0.4%,0.3%,0.3%,-60.0,-12.0,8.0,4.0
+2017-02-10 15:00:00,EUR,Low,Italian Industrial Production m/m,1.4%,0.1%,0.8%,-60.0,-9.0,9.0,9.0
+2017-02-10 19:30:00,USD,Medium,Import Prices m/m,0.4%,0.4%,0.5%,-60.0,-13.0,-11.0,4.0
+2017-02-10 21:00:00,USD,High,Prelim UoM Consumer Sentiment,95.7,97.9,98.5,-60.0,16.0,-15.0,-12.0
+2017-02-11 01:00:00,USD,Low,Federal Budget Balance,51.3B,29.7B,-27.5B,-27.0,-25.0,19.0,-10.0
+2017-02-13 13:00:00,EUR,Low,German WPI m/m,0.8%,0.3%,1.2%,-66.0,8.0,7.0,5.0
+2017-02-14 13:00:00,EUR,Medium,German Prelim GDP q/q,0.4%,0.5%,0.2%,-72.0,9.0,7.0,-6.0
+2017-02-14 13:00:00,EUR,Low,German Final CPI m/m,-0.6%,-0.6%,-0.6%,-72.0,9.0,7.0,-6.0
+2017-02-14 15:00:00,EUR,Low,Italian Prelim GDP q/q,0.2%,0.3%,0.3%,-72.0,26.0,22.0,10.0
+2017-02-14 16:00:00,EUR,Medium,Flash GDP q/q,0.4%,0.5%,0.5%,-72.0,-18.0,-14.0,-9.0
+2017-02-14 16:00:00,EUR,Medium,German ZEW Economic Sentiment,10.4,15.1,16.6,-72.0,-18.0,-14.0,-9.0
+2017-02-14 16:00:00,EUR,Low,Industrial Production m/m,-1.6%,-1.4%,1.5%,-72.0,-18.0,-14.0,-9.0
+2017-02-14 16:00:00,EUR,Low,ZEW Economic Sentiment,17.1,22.3,23.2,-72.0,-18.0,-14.0,-9.0
+2017-02-14 16:59:00,USD,Low,NFIB Small Business Index,105.9,105.1,105.8,-72.0,13.0,10.0,-10.0
+2017-02-14 19:30:00,USD,High,PPI m/m,0.6%,0.3%,0.3%,-72.0,-10.0,-7.0,-5.0
+2017-02-14 19:30:00,USD,Medium,Core PPI m/m,0.4%,0.2%,0.2%,-72.0,-10.0,-7.0,-5.0
+2017-02-15 16:00:00,EUR,Low,Trade Balance,24.5B,22.5B,22.2B,87.0,-15.0,-12.0,-12.0
+2017-02-15 19:30:00,USD,High,CPI m/m,0.6%,0.3%,0.3%,87.0,-10.0,-9.0,3.0
+2017-02-15 19:30:00,USD,High,Core CPI m/m,0.3%,0.2%,0.2%,87.0,-10.0,-9.0,3.0
+2017-02-15 19:30:00,USD,High,Core Retail Sales m/m,0.8%,0.4%,0.4%,87.0,-10.0,-9.0,3.0
+2017-02-15 19:30:00,USD,High,Retail Sales m/m,0.4%,0.1%,1.0%,87.0,-10.0,-9.0,3.0
+2017-02-15 19:30:00,USD,Medium,Empire State Manufacturing Index,18.7,7.2,6.5,87.0,-10.0,-9.0,3.0
+2017-02-15 20:15:00,USD,Medium,Capacity Utilization Rate,75.3%,75.6%,75.6%,87.0,-37.0,-37.0,-7.0
+2017-02-15 20:15:00,USD,Medium,Industrial Production m/m,-0.3%,0.1%,0.6%,87.0,-37.0,-37.0,-7.0
+2017-02-15 21:00:00,USD,Low,Business Inventories m/m,0.4%,0.5%,0.8%,87.0,33.0,17.0,13.0
+2017-02-15 21:00:00,USD,Low,NAHB Housing Market Index,65,68,67,87.0,33.0,17.0,13.0
+2017-02-15 21:30:00,USD,High,Crude Oil Inventories,9.5M,3.7M,13.8M,87.0,44.0,29.0,24.0
+2017-02-16 03:00:00,USD,Low,TIC Long-Term Purchases,-12.9B,19.1B,34.4B,98.0,16.0,9.0,-3.0
+2017-02-16 15:00:00,EUR,Low,Italian Trade Balance,5.80B,4.00B,4.19B,98.0,27.0,27.0,27.0
+2017-02-16 19:30:00,USD,High,Building Permits,1.29M,1.23M,1.23M,98.0,25.0,-15.0,-13.0
+2017-02-16 19:30:00,USD,High,Philly Fed Manufacturing Index,43.3,18.5,23.6,98.0,25.0,-15.0,-13.0
+2017-02-16 19:30:00,USD,High,Unemployment Claims,239K,243K,234K,98.0,25.0,-15.0,-13.0
+2017-02-16 19:30:00,USD,Medium,Housing Starts,1.25M,1.23M,1.28M,98.0,25.0,-15.0,-13.0
+2017-02-16 21:30:00,USD,Low,Natural Gas Storage,-114B,-130B,-152B,98.0,23.0,15.0,-8.0
+2017-02-17 15:00:00,EUR,Low,Current Account,31.0B,28.7B,36.4B,-65.0,-18.0,-18.0,-10.0
+2017-02-17 21:00:00,USD,Low,CB Leading Index m/m,0.6%,0.5%,0.5%,-65.0,-22.0,9.0,8.0
+2017-02-20 13:00:00,EUR,Low,German PPI m/m,0.7%,0.3%,0.4%,27.0,10.0,-10.0,-6.0
+2017-02-20 21:00:00,EUR,Low,Consumer Confidence,-6,-5,-5,27.0,11.0,-10.0,-7.0
+2017-02-21 13:45:00,EUR,Low,French Final CPI m/m,-0.2%,-0.2%,-0.2%,-95.0,-14.0,-5.0,3.0
+2017-02-21 14:00:00,EUR,Medium,French Flash Manufacturing PMI,52.3,53.5,53.6,-95.0,-14.0,-14.0,-5.0
+2017-02-21 14:00:00,EUR,Medium,French Flash Services PMI,56.7,53.8,54.1,-95.0,-14.0,-14.0,-5.0
+2017-02-21 14:30:00,EUR,Medium,German Flash Manufacturing PMI,57.0,56.2,56.4,-95.0,-15.0,5.0,-3.0
+2017-02-21 14:30:00,EUR,Medium,German Flash Services PMI,54.4,53.6,53.4,-95.0,-15.0,5.0,-3.0
+2017-02-21 15:00:00,EUR,Medium,Flash Manufacturing PMI,55.5,55.0,55.2,-95.0,-19.0,-12.0,-8.0
+2017-02-21 15:00:00,EUR,Medium,Flash Services PMI,55.6,53.7,53.7,-95.0,-19.0,-12.0,-8.0
+2017-02-21 20:45:00,USD,Low,Flash Manufacturing PMI,54.3,54.7,55.0,-95.0,-15.0,7.0,4.0
+2017-02-21 20:45:00,USD,Low,Flash Services PMI,53.9,55.8,55.6,-95.0,-15.0,7.0,4.0
+2017-02-22 15:00:00,EUR,Medium,German ifo Business Climate,111.0,109.6,109.9,66.0,14.0,-14.0,9.0
+2017-02-22 16:00:00,EUR,Low,Final CPI y/y,1.8%,1.8%,1.8%,66.0,18.0,18.0,15.0
+2017-02-22 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,66.0,18.0,18.0,15.0
+2017-02-22 19:59:00,EUR,Low,Belgian NBB Business Climate,-1.1,1.1,0.5,66.0,9.0,-7.0,-6.0
+2017-02-22 21:00:00,USD,Medium,Existing Home Sales,5.69M,5.55M,5.51M,66.0,-14.0,-7.0,-6.0
+2017-02-23 13:00:00,EUR,Low,German Final GDP q/q,0.4%,0.4%,0.4%,66.0,-15.0,-13.0,-9.0
+2017-02-23 13:00:00,EUR,Low,German GfK Consumer Climate,10.0,10.3,10.2,66.0,-15.0,-13.0,-9.0
+2017-02-23 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.5%,0.2%,-0.7%,66.0,-15.0,14.0,13.0
+2017-02-23 19:30:00,USD,High,Unemployment Claims,244K,242K,238K,66.0,19.0,12.0,-10.0
+2017-02-23 20:00:00,USD,Low,HPI m/m,0.4%,0.4%,0.7%,66.0,23.0,14.0,11.0
+2017-02-23 21:30:00,USD,Low,Natural Gas Storage,-89B,-86B,-114B,66.0,16.0,16.0,11.0
+2017-02-23 22:00:00,USD,High,Crude Oil Inventories,0.6M,3.4M,9.5M,66.0,19.0,8.0,8.0
+2017-02-24 21:00:00,USD,Medium,New Home Sales,555K,575K,535K,54.0,-49.0,-40.0,-23.0
+2017-02-24 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,96.3,96.1,95.7,54.0,-49.0,-40.0,-23.0
+2017-02-27 14:00:00,EUR,Medium,Spanish Flash CPI y/y,3.0%,3.3%,3.0%,78.0,18.0,-5.0,-5.0
+2017-02-27 15:00:00,EUR,Medium,M3 Money Supply y/y,4.9%,4.9%,5.0%,78.0,-20.0,-13.0,-13.0
+2017-02-27 15:00:00,EUR,Low,Private Loans y/y,2.2%,2.1%,2.0%,78.0,-20.0,-13.0,-13.0
+2017-02-27 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.2%,0.5%,0.9%,78.0,7.0,-5.0,5.0
+2017-02-27 19:30:00,USD,Medium,Durable Goods Orders m/m,1.8%,1.6%,-0.5%,78.0,7.0,-5.0,5.0
+2017-02-27 21:00:00,USD,Medium,Pending Home Sales m/m,-2.8%,1.1%,0.8%,78.0,-15.0,8.0,-6.0
+2017-02-28 13:45:00,EUR,Low,French Consumer Spending m/m,0.6%,0.6%,-1.0%,63.0,-18.0,-11.0,-8.0
+2017-02-28 13:45:00,EUR,Low,French Prelim CPI m/m,0.1%,0.4%,-0.2%,63.0,-18.0,-11.0,-8.0
+2017-02-28 13:45:00,EUR,Low,French Prelim GDP q/q,0.4%,0.4%,0.4%,63.0,-18.0,-11.0,-8.0
+2017-02-28 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.3%,0.1%,0.2%,63.0,-14.0,12.0,10.0
+2017-02-28 19:30:00,USD,High,Prelim GDP q/q,1.9%,2.1%,1.9%,63.0,16.0,-15.0,-6.0
+2017-02-28 19:30:00,USD,Low,Goods Trade Balance,-69.2B,-66.0B,-64.4B,63.0,16.0,-15.0,-6.0
+2017-02-28 19:30:00,USD,Low,Prelim GDP Price Index q/q,2.0%,2.1%,2.1%,63.0,16.0,-15.0,-6.0
+2017-02-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,-0.1%,0.5%,0.9%,63.0,16.0,-15.0,-6.0
+2017-02-28 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.6%,5.3%,5.2%,63.0,23.0,16.0,13.0
+2017-02-28 20:45:00,USD,Medium,Chicago PMI,57.4,53.2,50.3,63.0,12.0,7.0,4.0
+2017-02-28 20:59:00,USD,Low,Richmond Manufacturing Index,17,10,12,63.0,14.0,11.0,7.0
+2017-02-28 21:00:00,USD,High,CB Consumer Confidence,114.8,111.3,111.6,63.0,15.0,11.0,7.0
+2017-03-01 13:00:00,EUR,Medium,German Prelim CPI m/m,0.6%,0.6%,-0.6%,-111.0,-7.0,6.0,5.0
+2017-03-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.8,55.9,55.6,-111.0,-21.0,8.0,5.0
+2017-03-01 14:45:00,EUR,Low,Italian Manufacturing PMI,55.0,53.6,53.0,-111.0,-19.0,-19.0,-6.0
+2017-03-01 14:50:00,EUR,Low,French Final Manufacturing PMI,52.2,52.3,52.3,-111.0,17.0,-17.0,-13.0
+2017-03-01 14:55:00,EUR,Medium,German Unemployment Change,-14K,-10K,-25K,-111.0,17.0,17.0,-15.0
+2017-03-01 14:55:00,EUR,Low,German Final Manufacturing PMI,56.8,57.0,57.0,-111.0,17.0,17.0,-15.0
+2017-03-01 15:00:00,EUR,Low,Final Manufacturing PMI,55.4,55.5,55.5,-111.0,20.0,17.0,-15.0
+2017-03-01 19:30:00,USD,Medium,Core PCE Price Index m/m,0.3%,0.3%,0.1%,-111.0,-15.0,10.0,5.0
+2017-03-01 19:30:00,USD,Medium,Personal Spending m/m,0.2%,0.3%,0.5%,-111.0,-15.0,10.0,5.0
+2017-03-01 19:30:00,USD,Low,Personal Income m/m,0.4%,0.3%,0.3%,-111.0,-15.0,10.0,5.0
+2017-03-01 20:45:00,USD,Low,Final Manufacturing PMI,54.2,54.4,54.3,-111.0,17.0,6.0,6.0
+2017-03-01 21:00:00,USD,High,ISM Manufacturing PMI,57.7,56.2,56.0,-111.0,17.0,-7.0,4.0
+2017-03-01 21:00:00,USD,Low,Construction Spending m/m,-1.0%,0.7%,0.1%,-111.0,17.0,-7.0,4.0
+2017-03-01 21:00:00,USD,Low,ISM Manufacturing Prices,68.0,68.5,69.0,-111.0,17.0,-7.0,4.0
+2017-03-01 21:00:00,USD,Low,Wards Total Vehicle Sales,17.5M,17.7M,17.3M,-111.0,17.0,-7.0,4.0
+2017-03-01 21:30:00,USD,High,Crude Oil Inventories,1.5M,1.5M,0.6M,-111.0,22.0,13.0,13.0
+2017-03-01 21:30:00,USD,Low,Total Vehicle Sales,17.6M,17.7M,17.6M,-111.0,22.0,13.0,13.0
+2017-03-02 13:00:00,EUR,Low,German Import Prices m/m,0.9%,0.5%,1.9%,-73.0,-10.0,6.0,6.0
+2017-03-02 14:00:00,EUR,Medium,Spanish Unemployment Change,-9.4K,5.2K,57.3K,-73.0,18.0,10.0,7.0
+2017-03-02 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.9%,12.0%,11.9%,-73.0,14.0,-9.0,7.0
+2017-03-02 16:00:00,EUR,Medium,CPI Flash Estimate y/y,2.0%,1.8%,1.8%,-73.0,-20.0,-12.0,6.0
+2017-03-02 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.9%,0.9%,-73.0,-20.0,-12.0,6.0
+2017-03-02 16:00:00,EUR,Low,PPI m/m,0.7%,0.5%,0.8%,-73.0,-20.0,-12.0,6.0
+2017-03-02 16:00:00,EUR,Low,Unemployment Rate,9.6%,9.6%,9.6%,-73.0,-20.0,-12.0,6.0
+2017-03-02 19:30:00,USD,High,Unemployment Claims,223K,243K,242K,-73.0,11.0,11.0,8.0
+2017-03-02 21:30:00,USD,Low,Natural Gas Storage,7B,-5B,-89B,-73.0,20.0,12.0,12.0
+2017-03-03 13:00:00,EUR,Medium,German Retail Sales m/m,-0.8%,0.2%,0.0%,78.0,11.0,5.0,5.0
+2017-03-03 14:15:00,EUR,Low,Spanish Services PMI,57.7,55.1,54.2,78.0,-16.0,-7.0,-3.0
+2017-03-03 14:45:00,EUR,Low,Italian Services PMI,54.1,53.1,52.4,78.0,-15.0,-15.0,8.0
+2017-03-03 14:50:00,EUR,Low,French Final Services PMI,56.4,56.7,56.7,78.0,-15.0,-15.0,-14.0
+2017-03-03 14:55:00,EUR,Low,German Final Services PMI,54.4,54.4,54.4,78.0,-14.0,-14.0,-14.0
+2017-03-03 15:00:00,EUR,Low,Final Services PMI,55.5,55.6,55.6,78.0,11.0,-10.0,-10.0
+2017-03-03 16:00:00,EUR,Low,Retail Sales m/m,-0.1%,0.3%,-0.5%,78.0,12.0,10.0,8.0
+2017-03-03 20:45:00,USD,Low,Final Services PMI,53.8,53.9,53.9,78.0,-17.0,-12.0,-10.0
+2017-03-03 21:00:00,USD,High,ISM Services PMI,57.6,56.5,56.5,78.0,-15.0,9.0,-8.0
+2017-03-06 15:30:00,EUR,Low,Sentix Investor Confidence,20.7,18.8,17.4,-63.0,-14.0,-11.0,-10.0
+2017-03-06 21:00:00,USD,Medium,Factory Orders m/m,1.2%,1.1%,1.3%,-63.0,12.0,12.0,9.0
+2017-03-07 13:00:00,EUR,Medium,German Factory Orders m/m,-7.4%,-2.5%,5.2%,-44.0,-7.0,5.0,5.0
+2017-03-07 16:00:00,EUR,Low,Revised GDP q/q,0.4%,0.4%,0.4%,-44.0,-25.0,-12.0,-9.0
+2017-03-07 19:30:00,USD,Medium,Trade Balance,-48.5B,-47.0B,-44.3B,-44.0,13.0,-7.0,5.0
+2017-03-07 21:00:00,USD,Low,IBD/TIPP Economic Optimism,55.3,57.1,56.4,-44.0,-12.0,-10.0,-10.0
+2017-03-08 02:00:00,USD,Low,Consumer Credit m/m,8.8B,19.1B,14.8B,-54.0,4.0,4.0,-3.0
+2017-03-08 13:00:00,EUR,Low,German Industrial Production m/m,2.8%,2.6%,-2.4%,-54.0,7.0,-3.0,2.0
+2017-03-08 13:45:00,EUR,Low,French Trade Balance,-7.9B,-3.7B,-3.6B,-54.0,-14.0,5.0,-5.0
+2017-03-08 19:15:00,USD,High,ADP Non-Farm Employment Change,298K,184K,261K,-54.0,-21.0,-9.0,-7.0
+2017-03-08 19:30:00,USD,Medium,Revised Nonfarm Productivity q/q,1.3%,1.5%,1.3%,-54.0,-24.0,10.0,5.0
+2017-03-08 19:30:00,USD,Low,Revised Unit Labor Costs q/q,1.7%,1.6%,1.7%,-54.0,-24.0,10.0,5.0
+2017-03-08 21:00:00,USD,Low,Final Wholesale Inventories m/m,-0.2%,-0.1%,-0.1%,-54.0,12.0,11.0,8.0
+2017-03-08 21:30:00,USD,High,Crude Oil Inventories,8.2M,1.1M,1.5M,-54.0,10.0,10.0,-9.0
+2017-03-09 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.4%,0.4%,0.4%,90.0,6.0,4.0,4.0
+2017-03-09 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,90.0,10.0,10.0,9.0
+2017-03-09 19:30:00,USD,High,Unemployment Claims,243K,239K,223K,90.0,-20.0,-20.0,7.0
+2017-03-09 19:30:00,USD,Medium,Import Prices m/m,0.2%,0.1%,0.6%,90.0,-20.0,-20.0,7.0
+2017-03-09 21:30:00,USD,Low,Natural Gas Storage,-68B,-59B,7B,90.0,-23.0,14.0,-11.0
+2017-03-10 13:00:00,EUR,Low,German Trade Balance,18.5B,19.2B,18.3B,104.0,-12.0,-7.0,5.0
+2017-03-10 13:00:00,EUR,Low,German WPI m/m,0.5%,0.3%,0.8%,104.0,-12.0,-7.0,5.0
+2017-03-10 13:45:00,EUR,Low,French Industrial Production m/m,-0.3%,0.6%,-1.1%,104.0,8.0,-7.0,-5.0
+2017-03-10 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,11.9%,11.6%,11.6%,104.0,26.0,23.0,11.0
+2017-03-10 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,0.2%,104.0,-13.0,-10.0,-8.0
+2017-03-10 19:30:00,USD,High,Non-Farm Employment Change,235K,196K,238K,104.0,-13.0,-10.0,-8.0
+2017-03-10 19:30:00,USD,High,Unemployment Rate,4.7%,4.7%,4.8%,104.0,-13.0,-10.0,-8.0
+2017-03-11 01:00:00,USD,Low,Federal Budget Balance,-192.0B,-175.0B,51.3B,35.0,18.0,9.0,8.0
+2017-03-13 16:00:00,EUR,Low,Italian Industrial Production m/m,-2.3%,-0.6%,1.4%,-59.0,-14.0,-12.0,-8.0
+2017-03-14 14:00:00,EUR,Low,German Final CPI m/m,0.6%,0.6%,0.6%,-40.0,15.0,-8.0,-8.0
+2017-03-14 17:00:00,EUR,Medium,German ZEW Economic Sentiment,12.8,13.2,10.4,-40.0,9.0,8.0,6.0
+2017-03-14 17:00:00,EUR,Low,Industrial Production m/m,0.9%,1.2%,-1.2%,-40.0,9.0,8.0,6.0
+2017-03-14 17:00:00,EUR,Low,ZEW Economic Sentiment,25.6,19.3,17.1,-40.0,9.0,8.0,6.0
+2017-03-14 17:00:00,USD,Low,NFIB Small Business Index,105.3,106.1,105.9,-40.0,9.0,8.0,6.0
+2017-03-14 19:30:00,USD,High,PPI m/m,0.3%,0.1%,0.6%,-40.0,8.0,8.0,8.0
+2017-03-14 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.2%,0.4%,-40.0,8.0,8.0,8.0
+2017-03-15 14:45:00,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%,44.0,-12.0,-7.0,-5.0
+2017-03-15 16:00:00,EUR,Low,Italian Retail Sales m/m,1.4%,0.1%,-0.5%,44.0,-14.0,6.0,6.0
+2017-03-15 17:00:00,EUR,Low,Final Employment Change q/q,0.3%,0.2%,0.2%,44.0,-11.0,-10.0,-9.0
+2017-03-15 19:30:00,USD,High,CPI m/m,0.1%,0.0%,0.6%,44.0,-21.0,-10.0,7.0
+2017-03-15 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.3%,44.0,-21.0,-10.0,7.0
+2017-03-15 19:30:00,USD,High,Core Retail Sales m/m,0.2%,0.1%,1.2%,44.0,-21.0,-10.0,7.0
+2017-03-15 19:30:00,USD,High,Retail Sales m/m,0.1%,0.2%,0.6%,44.0,-21.0,-10.0,7.0
+2017-03-15 19:30:00,USD,Medium,Empire State Manufacturing Index,16.4,15.3,18.7,44.0,-21.0,-10.0,7.0
+2017-03-15 21:00:00,USD,Low,Business Inventories m/m,0.3%,0.3%,0.4%,44.0,15.0,14.0,-7.0
+2017-03-15 21:00:00,USD,Low,NAHB Housing Market Index,71,65,65,44.0,15.0,14.0,-7.0
+2017-03-15 21:30:00,USD,High,Crude Oil Inventories,-0.2M,3.3M,8.2M,44.0,14.0,7.0,-6.0
+2017-03-16 01:00:00,USD,High,Federal Funds Rate,<1.00%,<1.00%,<0.75%,127.0,91.0,76.0,76.0
+2017-03-16 03:00:00,USD,Low,TIC Long-Term Purchases,6.3B,13.4B,-12.9B,127.0,34.0,34.0,31.0
+2017-03-16 17:00:00,EUR,Medium,Final CPI y/y,2.0%,2.0%,2.0%,127.0,14.0,14.0,11.0
+2017-03-16 17:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,127.0,14.0,14.0,11.0
+2017-03-16 19:30:00,USD,High,Building Permits,1.21M,1.26M,1.29M,127.0,18.0,18.0,12.0
+2017-03-16 19:30:00,USD,High,Philly Fed Manufacturing Index,32.8,30.2,43.3,127.0,18.0,18.0,12.0
+2017-03-16 19:30:00,USD,High,Unemployment Claims,241K,245K,243K,127.0,18.0,18.0,12.0
+2017-03-16 19:30:00,USD,Medium,Housing Starts,1.29M,1.26M,1.25M,127.0,18.0,18.0,12.0
+2017-03-16 21:00:00,USD,Medium,JOLTS Job Openings,5.63M,5.45M,5.54M,127.0,18.0,15.0,7.0
+2017-03-16 21:30:00,USD,Low,Natural Gas Storage,-53B,-60B,-68B,127.0,-17.0,-9.0,-6.0
+2017-03-17 16:00:00,EUR,Low,Italian Trade Balance,-0.57B,3.45B,5.73B,75.0,12.0,12.0,8.0
+2017-03-17 17:00:00,EUR,Low,Trade Balance,15.7B,22.3B,23.1B,75.0,-10.0,10.0,-9.0
+2017-03-17 20:15:00,USD,Medium,Capacity Utilization Rate,75.4%,75.5%,75.5%,75.0,22.0,-11.0,-7.0
+2017-03-17 20:15:00,USD,Medium,Industrial Production m/m,0.0%,0.3%,-0.1%,75.0,22.0,-11.0,-7.0
+2017-03-17 21:00:00,USD,High,Prelim UoM Consumer Sentiment,97.6,97.1,96.3,75.0,-14.0,12.0,11.0
+2017-03-17 21:00:00,USD,Low,CB Leading Index m/m,0.6%,0.4%,0.6%,75.0,-14.0,12.0,11.0
+2017-03-20 14:00:00,EUR,Low,German PPI m/m,0.2%,0.4%,0.7%,44.0,10.0,10.0,5.0
+2017-03-21 19:30:00,USD,Medium,Current Account,-112B,-129B,-116B,100.0,16.0,-11.0,-4.0
+2017-03-22 16:00:00,EUR,Low,Current Account,24.1B,29.3B,30.8B,49.0,-12.0,-12.0,-6.0
+2017-03-22 20:00:00,USD,Low,HPI m/m,0.0%,0.4%,0.4%,49.0,-15.0,9.0,9.0
+2017-03-22 21:00:00,USD,Medium,Existing Home Sales,5.48M,5.59M,5.69M,49.0,24.0,16.0,12.0
+2017-03-22 21:30:00,USD,High,Crude Oil Inventories,5.0M,1.9M,-0.2M,49.0,19.0,19.0,-10.0
+2017-03-23 14:00:00,EUR,Low,German GfK Consumer Climate,9.8,10.1,10.0,-48.0,-12.0,-7.0,-7.0
+2017-03-23 19:30:00,USD,High,Unemployment Claims,261K,240K,246K,-48.0,16.0,12.0,8.0
+2017-03-23 21:00:00,EUR,Low,Belgian NBB Business Climate,-1.6,-0.6,-1.1,-48.0,15.0,10.0,-9.0
+2017-03-23 21:00:00,USD,Medium,New Home Sales,592K,566K,558K,-48.0,15.0,10.0,-9.0
+2017-03-23 21:30:00,USD,Low,Natural Gas Storage,-150B,-147B,-53B,-48.0,-14.0,9.0,-7.0
+2017-03-23 22:00:00,EUR,Low,Consumer Confidence,-5,-6,-6,-48.0,-20.0,-14.0,-11.0
+2017-03-24 15:00:00,EUR,Medium,French Flash Manufacturing PMI,53.4,52.4,52.2,55.0,34.0,14.0,12.0
+2017-03-24 15:00:00,EUR,Medium,French Flash Services PMI,58.5,56.2,56.4,55.0,34.0,14.0,12.0
+2017-03-24 15:30:00,EUR,Medium,German Flash Manufacturing PMI,58.3,56.6,56.8,55.0,21.0,21.0,21.0
+2017-03-24 15:30:00,EUR,Medium,German Flash Services PMI,55.6,54.5,54.4,55.0,21.0,21.0,21.0
+2017-03-24 16:00:00,EUR,Medium,Flash Manufacturing PMI,56.2,55.3,55.4,55.0,12.0,7.0,5.0
+2017-03-24 16:00:00,EUR,Medium,Flash Services PMI,56.5,55.4,55.5,55.0,12.0,7.0,5.0
+2017-03-24 19:30:00,USD,High,Core Durable Goods Orders m/m,0.4%,0.5%,0.0%,55.0,10.0,10.0,-7.0
+2017-03-24 19:30:00,USD,Medium,Durable Goods Orders m/m,1.7%,1.1%,2.0%,55.0,10.0,10.0,-7.0
+2017-03-24 20:45:00,USD,Low,Flash Manufacturing PMI,53.4,54.9,54.2,55.0,13.0,-12.0,-7.0
+2017-03-24 20:45:00,USD,Low,Flash Services PMI,52.9,53.9,53.8,55.0,13.0,-12.0,-7.0
+2017-03-27 15:00:00,EUR,High,German ifo Business Climate,112.3,111.2,111.1,79.0,-14.0,9.0,9.0
+2017-03-27 15:00:00,EUR,Medium,M3 Money Supply y/y,4.7%,4.9%,4.8%,79.0,-14.0,9.0,9.0
+2017-03-27 15:00:00,EUR,Low,Private Loans y/y,2.3%,2.3%,2.2%,79.0,-14.0,9.0,9.0
+2017-03-28 19:30:00,USD,Low,Goods Trade Balance,-64.8B,-66.6B,-68.8B,-43.0,11.0,-9.0,-8.0
+2017-03-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,0.4%,0.2%,-0.2%,-43.0,11.0,-9.0,-8.0
+2017-03-28 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.7%,5.7%,5.5%,-43.0,14.0,11.0,7.0
+2017-03-28 20:59:00,USD,Low,Richmond Manufacturing Index,22,16,17,-43.0,14.0,12.0,-11.0
+2017-03-28 21:00:00,USD,High,CB Consumer Confidence,125.6,113.9,116.1,-43.0,14.0,12.0,-11.0
+2017-03-29 13:00:00,EUR,Low,German Import Prices m/m,0.7%,0.4%,0.9%,-99.0,-26.0,-15.0,-15.0
+2017-03-29 21:00:00,USD,Medium,Pending Home Sales m/m,5.5%,2.3%,-2.8%,-99.0,16.0,-10.0,-8.0
+2017-03-29 21:30:00,USD,High,Crude Oil Inventories,0.9M,1.2M,5.0M,-99.0,-14.0,-13.0,9.0
+2017-03-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,2.3%,2.6%,3.0%,-71.0,-28.0,-12.0,-11.0
+2017-03-30 14:00:00,EUR,Medium,German Prelim CPI m/m,0.2%,0.4%,0.6%,-71.0,-28.0,-12.0,-11.0
+2017-03-30 19:30:00,USD,High,Final GDP q/q,2.1%,2.0%,1.9%,-71.0,23.0,-18.0,-13.0
+2017-03-30 19:30:00,USD,High,Unemployment Claims,258K,244K,261K,-71.0,23.0,-18.0,-13.0
+2017-03-30 19:30:00,USD,Low,Final GDP Price Index q/q,2.1%,2.0%,2.0%,-71.0,23.0,-18.0,-13.0
+2017-03-30 21:30:00,USD,Low,Natural Gas Storage,-43B,-37B,-150B,-71.0,12.0,12.0,8.0
+2017-03-31 13:00:00,EUR,Medium,German Retail Sales m/m,1.8%,0.7%,-1.0%,-34.0,10.0,9.0,7.0
+2017-03-31 13:45:00,EUR,Low,French Consumer Spending m/m,-0.8%,0.3%,0.6%,-34.0,16.0,13.0,9.0
+2017-03-31 13:45:00,EUR,Low,French Prelim CPI m/m,0.6%,0.7%,0.1%,-34.0,16.0,13.0,9.0
+2017-03-31 14:55:00,EUR,Medium,German Unemployment Change,-30K,-10K,-17K,-34.0,8.0,6.0,6.0
+2017-03-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.5%,1.8%,2.0%,-34.0,-25.0,-10.0,-7.0
+2017-03-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.7%,0.8%,0.9%,-34.0,-25.0,-10.0,-7.0
+2017-03-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.0%,0.1%,0.4%,-34.0,-25.0,-10.0,-7.0
+2017-03-31 19:30:00,USD,Medium,Core PCE Price Index m/m,0.2%,0.2%,0.3%,-34.0,21.0,-12.0,-7.0
+2017-03-31 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.2%,0.2%,-34.0,21.0,-12.0,-7.0
+2017-03-31 19:30:00,USD,Low,Personal Income m/m,0.4%,0.4%,0.5%,-34.0,21.0,-12.0,-7.0
+2017-03-31 20:45:00,USD,Medium,Chicago PMI,57.7,57.2,57.4,-34.0,-19.0,-13.0,-7.0
+2017-03-31 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,96.9,97.8,97.6,-34.0,25.0,-15.0,-10.0
+2017-04-03 14:15:00,EUR,Medium,Spanish Manufacturing PMI,53.9,54.6,54.8,-39.0,14.0,-8.0,-7.0
+2017-04-03 14:45:00,EUR,Low,Italian Manufacturing PMI,55.7,55.2,55.0,-39.0,15.0,14.0,8.0
+2017-04-03 14:50:00,EUR,Low,French Final Manufacturing PMI,53.3,53.4,53.4,-39.0,14.0,13.0,8.0
+2017-04-03 14:55:00,EUR,Low,German Final Manufacturing PMI,58.3,58.3,58.3,-39.0,13.0,12.0,11.0
+2017-04-03 15:00:00,EUR,Low,Final Manufacturing PMI,56.2,56.3,56.2,-39.0,8.0,8.0,7.0
+2017-04-03 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.5%,11.9%,11.8%,-39.0,8.0,8.0,7.0
+2017-04-03 16:00:00,EUR,Low,PPI m/m,0.0%,0.2%,1.1%,-39.0,-13.0,-9.0,-7.0
+2017-04-03 16:00:00,EUR,Low,Unemployment Rate,9.5%,9.5%,9.6%,-39.0,-13.0,-9.0,-7.0
+2017-04-03 20:45:00,USD,Low,Final Manufacturing PMI,53.3,53.5,53.4,-39.0,20.0,20.0,-5.0
+2017-04-03 21:00:00,USD,High,ISM Manufacturing PMI,57.2,57.2,57.7,-39.0,-28.0,20.0,20.0
+2017-04-03 21:00:00,USD,Low,Construction Spending m/m,0.8%,1.0%,-0.4%,-39.0,-28.0,20.0,20.0
+2017-04-03 21:00:00,USD,Low,ISM Manufacturing Prices,70.5,68.5,68.0,-39.0,-28.0,20.0,20.0
+2017-04-03 21:30:00,USD,Low,Total Vehicle Sales,16.6M,17.4M,17.6M,-39.0,-31.0,-22.0,-7.0
+2017-04-03 21:30:00,USD,Low,Wards Total Vehicle Sales,16.5M,17.3M,17.3M,-39.0,-31.0,-22.0,-7.0
+2017-04-04 14:00:00,EUR,Medium,Spanish Unemployment Change,-48.6K,-41.2K,-9.4K,-41.0,-15.0,-9.0,-5.0
+2017-04-04 16:00:00,EUR,Low,Retail Sales m/m,0.7%,0.5%,0.1%,-41.0,-13.0,-11.0,-4.0
+2017-04-04 19:30:00,USD,Medium,Trade Balance,-43.6B,-46.0B,-48.2B,-41.0,9.0,-7.0,7.0
+2017-04-04 21:00:00,USD,Medium,Factory Orders m/m,1.0%,1.0%,1.5%,-41.0,16.0,8.0,5.0
+2017-04-04 21:00:00,USD,Low,IBD/TIPP Economic Optimism,51.7,53.2,55.3,-41.0,16.0,8.0,5.0
+2017-04-05 14:15:00,EUR,Low,Spanish Services PMI,57.4,57.2,57.7,-44.0,-14.0,-10.0,9.0
+2017-04-05 14:45:00,EUR,Low,Italian Services PMI,52.9,54.3,54.1,-44.0,-10.0,-6.0,-6.0
+2017-04-05 14:50:00,EUR,Low,French Final Services PMI,57.5,58.5,58.5,-44.0,10.0,-9.0,3.0
+2017-04-05 14:55:00,EUR,Low,German Final Services PMI,55.6,55.6,55.6,-44.0,10.0,-9.0,4.0
+2017-04-05 15:00:00,EUR,Low,Final Services PMI,56.0,56.5,56.5,-44.0,10.0,-9.0,-4.0
+2017-04-05 19:15:00,USD,High,ADP Non-Farm Employment Change,263K,184K,245K,-44.0,-27.0,-27.0,-27.0
+2017-04-05 20:45:00,USD,Low,Final Services PMI,52.8,53.1,52.9,-44.0,-17.0,-16.0,8.0
+2017-04-05 21:00:00,USD,High,ISM Services PMI,55.2,57.0,57.6,-44.0,-17.0,-17.0,-16.0
+2017-04-05 21:30:00,USD,High,Crude Oil Inventories,1.6M,-0.1M,0.9M,-44.0,11.0,9.0,9.0
+2017-04-06 13:00:00,EUR,Medium,German Factory Orders m/m,3.4%,3.5%,-6.8%,-54.0,10.0,8.0,8.0
+2017-04-06 19:30:00,USD,High,Unemployment Claims,234K,251K,259K,-54.0,7.0,7.0,7.0
+2017-04-06 21:30:00,USD,Low,Natural Gas Storage,2B,10B,-43B,-54.0,-16.0,-10.0,6.0
+2017-04-07 13:00:00,EUR,Low,German Industrial Production m/m,2.2%,-0.1%,2.2%,-71.0,-8.0,-8.0,-6.0
+2017-04-07 13:00:00,EUR,Low,German Trade Balance,21.0B,19.4B,18.9B,-71.0,-8.0,-8.0,-6.0
+2017-04-07 13:45:00,EUR,Low,French Industrial Production m/m,-1.6%,0.5%,-0.2%,-71.0,-16.0,-5.0,3.0
+2017-04-07 13:45:00,EUR,Low,French Trade Balance,-6.6B,-4.9B,-8.1B,-71.0,-16.0,-5.0,3.0
+2017-04-07 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.3%,-0.1%,1.4%,-71.0,-12.0,-6.0,5.0
+2017-04-07 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.3%,-71.0,-55.0,-55.0,35.0
+2017-04-07 19:30:00,USD,High,Non-Farm Employment Change,98K,174K,219K,-71.0,-55.0,-55.0,35.0
+2017-04-07 19:30:00,USD,High,Unemployment Rate,4.5%,4.7%,4.7%,-71.0,-55.0,-55.0,35.0
+2017-04-07 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.4%,0.1%,-0.1%,-71.0,-21.0,12.0,12.0
+2017-04-08 02:00:00,USD,Low,Consumer Credit m/m,15.2B,14.2B,10.9B,22.0,9.0,5.0,5.0
+2017-04-10 15:00:00,EUR,Low,Italian Industrial Production m/m,1.0%,0.4%,-2.3%,37.0,-12.0,-10.0,-4.0
+2017-04-10 15:30:00,EUR,Low,Sentix Investor Confidence,23.9,20.1,20.7,37.0,11.0,9.0,5.0
+2017-04-11 16:00:00,EUR,Medium,German ZEW Economic Sentiment,19.5,13.2,12.8,51.0,11.0,11.0,6.0
+2017-04-11 16:00:00,EUR,Low,Industrial Production m/m,-0.3%,0.2%,0.3%,51.0,11.0,11.0,6.0
+2017-04-11 16:00:00,EUR,Low,ZEW Economic Sentiment,26.3,25.0,25.6,51.0,11.0,11.0,6.0
+2017-04-11 17:00:00,USD,Low,NFIB Small Business Index,104.7,104.7,105.3,51.0,14.0,14.0,8.0
+2017-04-11 21:00:00,USD,Medium,JOLTS Job Openings,5.74M,5.59M,5.63M,51.0,19.0,7.0,4.0
+2017-04-12 13:00:00,EUR,Low,German WPI m/m,0.0%,0.4%,0.5%,29.0,11.0,9.0,8.0
+2017-04-12 19:30:00,USD,Medium,Import Prices m/m,-0.2%,-0.3%,0.4%,29.0,7.0,5.0,-4.0
+2017-04-12 21:30:00,USD,High,Crude Oil Inventories,-2.2M,-0.7M,1.6M,29.0,9.0,9.0,6.0
+2017-04-13 01:00:00,USD,Low,Federal Budget Balance,-176.2B,-150.0B,-192.0B,89.0,8.0,8.0,6.0
+2017-04-13 13:00:00,EUR,Low,German Final CPI m/m,0.2%,0.2%,0.2%,89.0,-25.0,-10.0,10.0
+2017-04-13 13:45:00,EUR,Low,French Final CPI m/m,0.6%,0.6%,0.6%,89.0,-18.0,-14.0,-12.0
+2017-04-13 19:30:00,USD,High,PPI m/m,-0.1%,0.0%,0.3%,89.0,13.0,-8.0,-8.0
+2017-04-13 19:30:00,USD,High,Unemployment Claims,234K,242K,235K,89.0,13.0,-8.0,-8.0
+2017-04-13 19:30:00,USD,Medium,Core PPI m/m,0.0%,0.2%,0.3%,89.0,13.0,-8.0,-8.0
+2017-04-13 21:00:00,USD,High,Prelim UoM Consumer Sentiment,98.0,97.1,96.9,89.0,21.0,12.0,-9.0
+2017-04-13 21:30:00,USD,Low,Natural Gas Storage,10B,5B,2B,89.0,12.0,10.0,6.0
+2017-04-14 19:30:00,USD,High,CPI m/m,-0.3%,0.0%,0.1%,24.0,19.0,19.0,16.0
+2017-04-14 19:30:00,USD,High,Core CPI m/m,-0.1%,0.2%,0.2%,24.0,19.0,19.0,16.0
+2017-04-14 19:30:00,USD,High,Core Retail Sales m/m,0.0%,0.2%,0.0%,24.0,19.0,19.0,16.0
+2017-04-14 19:30:00,USD,High,Retail Sales m/m,-0.2%,0.1%,-0.3%,24.0,19.0,19.0,16.0
+2017-04-14 21:00:00,USD,Low,Business Inventories m/m,0.3%,0.3%,0.3%,24.0,6.0,4.0,4.0
+2017-04-17 19:30:00,USD,Medium,Empire State Manufacturing Index,5.2,15.2,16.4,67.0,-6.0,-5.0,4.0
+2017-04-17 21:00:00,USD,Low,NAHB Housing Market Index,68,70,71,67.0,11.0,8.0,7.0
+2017-04-18 03:00:00,USD,Low,TIC Long-Term Purchases,53.4B,12.4B,5.9B,73.0,6.0,6.0,2.0
+2017-04-18 19:30:00,USD,High,Building Permits,1.26M,1.25M,1.22M,73.0,15.0,15.0,-5.0
+2017-04-18 19:30:00,USD,Medium,Housing Starts,1.22M,1.25M,1.30M,73.0,15.0,15.0,-5.0
+2017-04-18 20:15:00,USD,Medium,Capacity Utilization Rate,76.1%,76.3%,75.4%,73.0,-12.0,-12.0,5.0
+2017-04-18 20:15:00,USD,Medium,Industrial Production m/m,0.5%,0.5%,0.0%,73.0,-12.0,-12.0,5.0
+2017-04-19 15:04:00,EUR,Low,Italian Trade Balance,1.88B,2.24B,-0.57B,-37.0,-13.0,-12.0,-5.0
+2017-04-19 16:00:00,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%,-37.0,14.0,-9.0,-7.0
+2017-04-19 16:00:00,EUR,Low,Final Core CPI y/y,0.7%,0.7%,0.7%,-37.0,14.0,-9.0,-7.0
+2017-04-19 16:00:00,EUR,Low,Trade Balance,19.2B,18.6B,15.7B,-37.0,14.0,-9.0,-7.0
+2017-04-19 21:30:00,USD,High,Crude Oil Inventories,-1.0M,-1.0M,-2.2M,-37.0,-12.0,11.0,11.0
+2017-04-20 13:00:00,EUR,Low,German PPI m/m,0.0%,0.2%,0.2%,70.0,26.0,-4.0,3.0
+2017-04-20 19:30:00,USD,High,Philly Fed Manufacturing Index,22.0,25.6,32.8,70.0,21.0,-8.0,-8.0
+2017-04-20 19:30:00,USD,High,Unemployment Claims,244K,241K,234K,70.0,21.0,-8.0,-8.0
+2017-04-20 21:00:00,EUR,Low,Consumer Confidence,-4,-5,-5,70.0,-18.0,-18.0,-8.0
+2017-04-20 21:00:00,USD,Low,CB Leading Index m/m,0.4%,0.2%,0.5%,70.0,-18.0,-18.0,-8.0
+2017-04-20 21:30:00,USD,Low,Natural Gas Storage,54B,49B,10B,70.0,16.0,13.0,8.0
+2017-04-21 14:00:00,EUR,Medium,French Flash Manufacturing PMI,55.1,53.2,53.3,-65.0,-20.0,14.0,9.0
+2017-04-21 14:00:00,EUR,Medium,French Flash Services PMI,57.7,57.2,57.5,-65.0,-20.0,14.0,9.0
+2017-04-21 14:30:00,EUR,Medium,German Flash Manufacturing PMI,58.2,58.1,58.3,-65.0,-17.0,-17.0,-10.0
+2017-04-21 14:30:00,EUR,Medium,German Flash Services PMI,54.7,55.5,55.6,-65.0,-17.0,-17.0,-10.0
+2017-04-21 15:00:00,EUR,Medium,Flash Manufacturing PMI,56.8,56.1,56.2,-65.0,-9.0,6.0,-4.0
+2017-04-21 15:00:00,EUR,Medium,Flash Services PMI,56.2,56.0,56.0,-65.0,-9.0,6.0,-4.0
+2017-04-21 15:00:00,EUR,Low,Current Account,37.9B,26.3B,26.1B,-65.0,-9.0,6.0,-4.0
+2017-04-21 20:45:00,USD,Low,Flash Manufacturing PMI,52.8,53.9,53.3,-65.0,-19.0,-19.0,-9.0
+2017-04-21 20:45:00,USD,Low,Flash Services PMI,52.5,53.7,52.8,-65.0,-19.0,-19.0,-9.0
+2017-04-21 21:00:00,USD,Medium,Existing Home Sales,5.71M,5.61M,5.47M,-65.0,-19.0,18.0,-11.0
+2017-04-24 15:00:00,EUR,High,German ifo Business Climate,112.9,112.4,112.4,-88.0,-26.0,20.0,20.0
+2017-04-25 19:58:00,EUR,Low,Belgian NBB Business Climate,-0.8,-1.4,-1.6,109.0,18.0,13.0,-13.0
+2017-04-25 20:00:00,USD,Low,HPI m/m,0.8%,0.1%,0.2%,109.0,21.0,13.0,11.0
+2017-04-25 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.9%,5.7%,5.7%,109.0,21.0,13.0,11.0
+2017-04-25 20:59:00,USD,Low,Richmond Manufacturing Index,20,18,22,109.0,42.0,38.0,30.0
+2017-04-25 21:00:00,USD,High,CB Consumer Confidence,120.3,123.7,124.9,109.0,42.0,42.0,30.0
+2017-04-25 21:00:00,USD,Medium,New Home Sales,621K,590K,587K,109.0,42.0,42.0,30.0
+2017-04-26 21:30:00,USD,High,Crude Oil Inventories,-3.6M,-1.1M,-1.0M,-95.0,-22.0,-18.0,-8.0
+2017-04-27 13:00:00,EUR,Low,German GfK Consumer Climate,10.2,9.9,9.8,-81.0,11.0,-7.0,-6.0
+2017-04-27 13:00:00,EUR,Medium,German Prelim CPI m/m,0.0%,-0.1%,0.2%,-81.0,11.0,-7.0,-6.0
+2017-04-27 14:00:00,EUR,Medium,Spanish Flash CPI y/y,2.6%,2.5%,2.3%,-81.0,-15.0,12.0,12.0
+2017-04-27 14:00:00,EUR,Medium,Spanish Unemployment Rate,18.8%,18.6%,18.6%,-81.0,-15.0,12.0,12.0
+2017-04-27 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,-81.0,53.0,-18.0,-18.0
+2017-04-27 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.2%,0.4%,0.5%,-81.0,-76.0,-46.0,45.0
+2017-04-27 19:30:00,USD,High,Unemployment Claims,257K,241K,243K,-81.0,-76.0,-46.0,45.0
+2017-04-27 19:30:00,USD,Medium,Durable Goods Orders m/m,0.7%,1.5%,1.8%,-81.0,-76.0,-46.0,45.0
+2017-04-27 19:30:00,USD,Low,Goods Trade Balance,-64.8B,-65.2B,-63.9B,-81.0,-76.0,-46.0,45.0
+2017-04-27 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,-0.1%,0.3%,0.2%,-81.0,-76.0,-46.0,45.0
+2017-04-27 21:00:00,USD,Medium,Pending Home Sales m/m,-0.8%,-0.6%,5.5%,-81.0,20.0,15.0,-12.0
+2017-04-27 21:30:00,USD,Low,Natural Gas Storage,74B,72B,54B,-81.0,10.0,10.0,7.0
+2017-04-28 12:30:00,EUR,Low,French Flash GDP q/q,0.3%,0.4%,0.5%,90.0,17.0,7.0,7.0
+2017-04-28 13:00:00,EUR,Medium,German Retail Sales m/m,0.1%,0.1%,1.1%,90.0,22.0,11.0,9.0
+2017-04-28 13:00:00,EUR,Low,German Import Prices m/m,-0.5%,0.3%,0.7%,90.0,22.0,11.0,9.0
+2017-04-28 13:45:00,EUR,Low,French Consumer Spending m/m,-0.4%,0.6%,-0.7%,90.0,13.0,13.0,7.0
+2017-04-28 13:45:00,EUR,Low,French Prelim CPI m/m,0.1%,0.2%,0.6%,90.0,13.0,13.0,7.0
+2017-04-28 14:00:00,EUR,Medium,Spanish Flash GDP q/q,0.8%,0.7%,0.7%,90.0,10.0,10.0,10.0
+2017-04-28 15:00:00,EUR,Medium,M3 Money Supply y/y,5.3%,4.7%,4.7%,90.0,16.0,13.0,13.0
+2017-04-28 15:00:00,EUR,Low,Private Loans y/y,2.4%,2.4%,2.3%,90.0,16.0,13.0,13.0
+2017-04-28 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.9%,1.8%,1.5%,90.0,48.0,48.0,46.0
+2017-04-28 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.2%,1.0%,0.7%,90.0,48.0,48.0,46.0
+2017-04-28 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,0.0%,90.0,48.0,48.0,46.0
+2017-04-28 19:30:00,USD,High,Advance GDP q/q,0.7%,1.3%,2.1%,90.0,-30.0,-23.0,-23.0
+2017-04-28 19:30:00,USD,Medium,Advance GDP Price Index q/q,2.3%,2.0%,2.1%,90.0,-30.0,-23.0,-23.0
+2017-04-28 19:30:00,USD,Medium,Employment Cost Index q/q,0.8%,0.6%,0.5%,90.0,-30.0,-23.0,-23.0
+2017-04-28 20:45:00,USD,Medium,Chicago PMI,58.3,56.9,57.7,90.0,-27.0,-27.0,9.0
+2017-04-28 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,97.0,98.1,98.0,90.0,-38.0,-27.0,-27.0
+2017-05-01 19:30:00,USD,Medium,Core PCE Price Index m/m,-0.1%,-0.1%,0.2%,40.0,-15.0,14.0,13.0
+2017-05-01 19:30:00,USD,Medium,Personal Spending m/m,0.0%,0.2%,0.0%,40.0,-15.0,14.0,13.0
+2017-05-01 19:30:00,USD,Low,Personal Income m/m,0.2%,0.4%,0.3%,40.0,-15.0,14.0,13.0
+2017-05-01 20:45:00,USD,Low,Final Manufacturing PMI,52.8,52.8,52.8,40.0,18.0,16.0,-5.0
+2017-05-01 21:00:00,USD,High,ISM Manufacturing PMI,54.8,56.6,57.2,40.0,15.0,15.0,13.0
+2017-05-01 21:00:00,USD,Low,Construction Spending m/m,-0.2%,0.5%,1.8%,40.0,15.0,15.0,13.0
+2017-05-01 21:00:00,USD,Low,ISM Manufacturing Prices,68.5,66.5,70.5,40.0,15.0,15.0,13.0
+2017-05-02 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.5,54.3,53.9,-37.0,-15.0,9.0,9.0
+2017-05-02 14:45:00,EUR,Low,Italian Manufacturing PMI,56.2,55.9,55.7,-37.0,12.0,-11.0,-9.0
+2017-05-02 14:50:00,EUR,Low,French Final Manufacturing PMI,55.1,55.1,55.1,-37.0,12.0,-7.0,-7.0
+2017-05-02 14:55:00,EUR,Low,German Final Manufacturing PMI,58.2,58.2,58.2,-37.0,12.0,-6.0,-6.0
+2017-05-02 15:00:00,EUR,Low,Final Manufacturing PMI,56.7,56.8,56.8,-37.0,13.0,6.0,6.0
+2017-05-02 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.7%,11.6%,11.5%,-37.0,13.0,6.0,6.0
+2017-05-02 16:00:00,EUR,Low,Unemployment Rate,9.5%,9.4%,9.5%,-37.0,12.0,11.0,-8.0
+2017-05-02 16:00:00,USD,Low,Wards Total Vehicle Sales,16.8M,17.1M,16.7M,-37.0,12.0,11.0,-8.0
+2017-05-02 21:32:00,USD,Low,Total Vehicle Sales,16.9M,17.1M,16.6M,-37.0,11.0,10.0,8.0
+2017-05-03 14:55:00,EUR,Medium,German Unemployment Change,-15K,-10K,-29K,-34.0,-14.0,-14.0,6.0
+2017-05-03 16:00:00,EUR,Medium,Prelim Flash GDP q/q,0.5%,0.5%,0.4%,-34.0,8.0,7.0,-5.0
+2017-05-03 16:00:00,EUR,Low,PPI m/m,-0.3%,0.1%,0.0%,-34.0,8.0,7.0,-5.0
+2017-05-03 19:15:00,USD,High,ADP Non-Farm Employment Change,177K,178K,255K,-34.0,-11.0,-11.0,8.0
+2017-05-03 20:45:00,USD,Low,Final Services PMI,53.1,52.5,52.5,-34.0,12.0,-11.0,-4.0
+2017-05-03 21:00:00,USD,High,ISM Services PMI,57.5,56.1,55.2,-34.0,12.0,11.0,9.0
+2017-05-03 21:30:00,USD,High,Crude Oil Inventories,-0.9M,-3.3M,-3.6M,-34.0,13.0,-11.0,-7.0
+2017-05-04 01:00:00,USD,High,Federal Funds Rate,<1.00%,<1.00%,<1.00%,104.0,-33.0,-33.0,-32.0
+2017-05-04 14:00:00,EUR,Medium,Spanish Unemployment Change,-129.3K,-78.2K,-48.6K,104.0,36.0,8.0,5.0
+2017-05-04 14:15:00,EUR,Low,Spanish Services PMI,57.8,57.7,57.4,104.0,34.0,17.0,6.0
+2017-05-04 14:45:00,EUR,Low,Italian Services PMI,56.2,53.7,52.9,104.0,25.0,19.0,18.0
+2017-05-04 14:50:00,EUR,Low,French Final Services PMI,56.7,57.7,57.7,104.0,16.0,10.0,10.0
+2017-05-04 14:55:00,EUR,Low,German Final Services PMI,55.4,54.7,54.7,104.0,14.0,-8.0,7.0
+2017-05-04 15:00:00,EUR,Low,Final Services PMI,56.4,56.3,56.2,104.0,14.0,-8.0,7.0
+2017-05-04 16:00:00,EUR,Low,Retail Sales m/m,0.3%,0.1%,0.5%,104.0,18.0,16.0,5.0
+2017-05-04 19:30:00,USD,High,Unemployment Claims,238K,246K,257K,104.0,20.0,17.0,11.0
+2017-05-04 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,-0.6%,0.1%,1.3%,104.0,20.0,17.0,11.0
+2017-05-04 19:30:00,USD,Medium,Prelim Unit Labor Costs q/q,3.0%,2.5%,1.7%,104.0,20.0,17.0,11.0
+2017-05-04 19:30:00,USD,Medium,Trade Balance,-43.7B,-44.9B,-43.8B,104.0,20.0,17.0,11.0
+2017-05-04 21:00:00,USD,Medium,Factory Orders m/m,0.2%,0.6%,1.2%,104.0,-21.0,-13.0,11.0
+2017-05-04 21:30:00,USD,Low,Natural Gas Storage,67B,61B,74B,104.0,22.0,-21.0,8.0
+2017-05-05 19:30:00,USD,High,Average Hourly Earnings m/m,0.3%,0.3%,0.1%,52.0,44.0,44.0,44.0
+2017-05-05 19:30:00,USD,High,Non-Farm Employment Change,211K,194K,79K,52.0,44.0,44.0,44.0
+2017-05-05 19:30:00,USD,High,Unemployment Rate,4.4%,4.6%,4.5%,52.0,44.0,44.0,44.0
+2017-05-06 02:00:00,USD,Low,Consumer Credit m/m,16.4B,15.0B,13.7B,15.0,13.0,10.0,-4.0
+2017-05-08 13:00:00,EUR,Low,German Factory Orders m/m,1.0%,0.7%,3.5%,-104.0,-21.0,-21.0,-11.0
+2017-05-08 15:30:00,EUR,Low,Sentix Investor Confidence,27.4,25.3,23.9,-104.0,-26.0,-14.0,-9.0
+2017-05-09 13:00:00,EUR,Low,German Industrial Production m/m,-0.4%,-0.6%,1.8%,-65.0,-22.0,-22.0,-6.0
+2017-05-09 13:00:00,EUR,Low,German Trade Balance,19.6B,21.2B,21.2B,-65.0,-22.0,-22.0,-6.0
+2017-05-09 15:00:00,EUR,Low,Italian Retail Sales m/m,0.0%,0.2%,-0.2%,-65.0,-20.0,-12.0,-5.0
+2017-05-09 17:00:00,USD,Low,NFIB Small Business Index,104.5,104.0,104.7,-65.0,-20.0,-14.0,4.0
+2017-05-09 21:00:00,USD,Medium,JOLTS Job Openings,5.74M,5.67M,5.68M,-65.0,-16.0,-10.0,8.0
+2017-05-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.2%,-0.1%,-0.1%,-65.0,-16.0,-10.0,8.0
+2017-05-09 21:00:00,USD,Low,IBD/TIPP Economic Optimism,51.3,52.3,51.7,-65.0,-16.0,-10.0,8.0
+2017-05-10 13:45:00,EUR,Low,French Industrial Production m/m,2.0%,1.2%,-1.7%,-39.0,12.0,11.0,5.0
+2017-05-10 13:45:00,EUR,Low,French Trade Balance,-5.4B,-5.9B,-6.4B,-39.0,12.0,11.0,5.0
+2017-05-10 15:00:00,EUR,Low,Italian Industrial Production m/m,0.4%,0.3%,1.0%,-39.0,-24.0,-9.0,5.0
+2017-05-10 19:30:00,USD,Medium,Import Prices m/m,0.5%,0.2%,0.1%,-39.0,9.0,-7.0,-7.0
+2017-05-10 21:30:00,USD,High,Crude Oil Inventories,-5.2M,-2.0M,-0.9M,-39.0,-13.0,-12.0,-11.0
+2017-05-11 01:00:00,USD,Low,Federal Budget Balance,182.4B,175.0B,-176.2B,-53.0,9.0,-6.0,-5.0
+2017-05-11 13:00:00,EUR,Low,German WPI m/m,0.3%,0.1%,0.0%,-53.0,14.0,7.0,6.0
+2017-05-11 19:30:00,USD,High,PPI m/m,0.5%,0.2%,-0.1%,-53.0,24.0,17.0,13.0
+2017-05-11 19:30:00,USD,High,Unemployment Claims,236K,245K,238K,-53.0,24.0,17.0,13.0
+2017-05-11 19:30:00,USD,Medium,Core PPI m/m,0.4%,0.2%,0.0%,-53.0,24.0,17.0,13.0
+2017-05-11 21:30:00,USD,Low,Natural Gas Storage,45B,52B,67B,-53.0,10.0,-7.0,-7.0
+2017-05-12 13:00:00,EUR,Medium,German Prelim GDP q/q,0.6%,0.6%,0.4%,78.0,-12.0,-8.0,-8.0
+2017-05-12 13:00:00,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%,78.0,-12.0,-8.0,-8.0
+2017-05-12 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,0.3%,0.2%,0.4%,78.0,-16.0,-16.0,-12.0
+2017-05-12 16:00:00,EUR,Low,Industrial Production m/m,-0.1%,0.3%,-0.1%,78.0,13.0,10.0,7.0
+2017-05-12 19:30:00,USD,High,CPI m/m,0.2%,0.3%,-0.3%,78.0,54.0,41.0,41.0
+2017-05-12 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,-0.1%,78.0,54.0,41.0,41.0
+2017-05-12 19:30:00,USD,High,Core Retail Sales m/m,0.3%,0.5%,0.3%,78.0,54.0,41.0,41.0
+2017-05-12 19:30:00,USD,High,Retail Sales m/m,0.4%,0.6%,0.1%,78.0,54.0,41.0,41.0
+2017-05-12 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,97.7,97.0,97.0,78.0,13.0,-11.0,10.0
+2017-05-12 21:00:00,USD,Low,Business Inventories m/m,0.2%,0.1%,0.2%,78.0,13.0,-11.0,10.0
+2017-05-15 19:30:00,USD,Medium,Empire State Manufacturing Index,-1.0,7.2,5.2,67.0,15.0,13.0,10.0
+2017-05-15 21:00:00,USD,Low,NAHB Housing Market Index,70,68,68,67.0,-13.0,-9.0,7.0
+2017-05-16 03:00:00,USD,Low,TIC Long-Term Purchases,59.8B,68.3B,53.1B,123.0,-4.0,-3.0,2.0
+2017-05-16 13:45:00,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%,123.0,28.0,19.0,9.0
+2017-05-16 15:00:00,EUR,Low,Italian Prelim GDP q/q,0.2%,0.2%,0.2%,123.0,21.0,13.0,8.0
+2017-05-16 16:00:00,EUR,Medium,Flash GDP q/q,0.5%,0.5%,0.5%,123.0,17.0,-16.0,-16.0
+2017-05-16 16:00:00,EUR,Medium,German ZEW Economic Sentiment,20.6,22.3,19.5,123.0,17.0,-16.0,-16.0
+2017-05-16 16:00:00,EUR,Low,Trade Balance,23.1B,18.8B,18.8B,123.0,17.0,-16.0,-16.0
+2017-05-16 16:00:00,EUR,Low,ZEW Economic Sentiment,35.1,29.1,26.3,123.0,17.0,-16.0,-16.0
+2017-05-16 19:30:00,USD,High,Building Permits,1.23M,1.27M,1.27M,123.0,34.0,34.0,19.0
+2017-05-16 19:30:00,USD,Medium,Housing Starts,1.17M,1.26M,1.20M,123.0,34.0,34.0,19.0
+2017-05-16 20:15:00,USD,Medium,Capacity Utilization Rate,76.7%,76.3%,76.1%,123.0,-12.0,-11.0,7.0
+2017-05-16 20:15:00,USD,Medium,Industrial Production m/m,1.0%,0.4%,0.4%,123.0,-12.0,-11.0,7.0
+2017-05-17 15:00:00,EUR,Low,Italian Trade Balance,5.42B,1.97B,1.88B,75.0,-15.0,-11.0,11.0
+2017-05-17 16:00:00,EUR,Medium,Final CPI y/y,1.9%,1.9%,1.9%,75.0,15.0,15.0,15.0
+2017-05-17 16:00:00,EUR,Low,Final Core CPI y/y,1.2%,1.2%,1.2%,75.0,15.0,15.0,15.0
+2017-05-17 21:30:00,USD,High,Crude Oil Inventories,-1.8M,-2.5M,-5.2M,75.0,13.0,12.0,-12.0
+2017-05-18 19:30:00,USD,High,Unemployment Claims,232K,240K,236K,-67.0,-31.0,-31.0,-23.0
+2017-05-18 19:30:00,USD,Medium,Philly Fed Manufacturing Index,38.8,19.9,22.0,-67.0,-31.0,-31.0,-23.0
+2017-05-18 21:00:00,USD,Low,CB Leading Index m/m,0.3%,0.4%,0.3%,-67.0,19.0,19.0,19.0
+2017-05-18 21:30:00,USD,Low,Natural Gas Storage,68B,61B,45B,-67.0,22.0,15.0,14.0
+2017-05-19 13:00:00,EUR,Low,German PPI m/m,0.4%,0.2%,0.0%,121.0,17.0,15.0,9.0
+2017-05-19 15:00:00,EUR,Low,Current Account,34.1B,32.3B,37.8B,121.0,25.0,7.0,-5.0
+2017-05-19 21:00:00,EUR,Low,Consumer Confidence,-3,-3,-4,121.0,13.0,-11.0,-9.0
+2017-05-23 13:00:00,EUR,Low,German Final GDP q/q,0.6%,0.6%,0.6%,-86.0,-23.0,-22.0,-16.0
+2017-05-23 14:00:00,EUR,Medium,French Flash Manufacturing PMI,54.0,55.2,55.1,-86.0,45.0,34.0,34.0
+2017-05-23 14:00:00,EUR,Medium,French Flash Services PMI,58.0,56.8,56.7,-86.0,45.0,34.0,34.0
+2017-05-23 14:30:00,EUR,Medium,German Flash Manufacturing PMI,59.4,58.0,58.2,-86.0,-27.0,23.0,23.0
+2017-05-23 14:30:00,EUR,Medium,German Flash Services PMI,55.2,55.5,55.4,-86.0,-27.0,23.0,23.0
+2017-05-23 15:00:00,EUR,High,German ifo Business Climate,114.6,113.1,113.0,-86.0,19.0,-19.0,-19.0
+2017-05-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,57.0,56.5,56.7,-86.0,19.0,-19.0,-19.0
+2017-05-23 15:00:00,EUR,Medium,Flash Services PMI,56.2,56.5,56.4,-86.0,19.0,-19.0,-19.0
+2017-05-23 20:45:00,USD,Low,Flash Manufacturing PMI,52.5,53.2,52.8,-86.0,-27.0,-21.0,-15.0
+2017-05-23 20:45:00,USD,Low,Flash Services PMI,54.0,53.3,53.1,-86.0,-27.0,-21.0,-15.0
+2017-05-23 20:59:00,USD,Low,Richmond Manufacturing Index,1,15,20,-86.0,-20.0,-17.0,-13.0
+2017-05-23 21:00:00,USD,Medium,New Home Sales,569K,611K,642K,-86.0,-20.0,-17.0,-14.0
+2017-05-24 13:00:00,EUR,Low,German GfK Consumer Climate,10.4,10.2,10.2,-40.0,12.0,-7.0,-6.0
+2017-05-24 19:58:00,USD,Low,HPI m/m,0.6%,0.5%,0.8%,-40.0,-23.0,19.0,-14.0
+2017-05-24 20:03:00,EUR,Low,Belgian NBB Business Climate,-1.1,-0.5,-0.8,-40.0,-23.0,-23.0,13.0
+2017-05-24 21:00:00,USD,Medium,Existing Home Sales,5.57M,5.65M,5.70M,-40.0,-15.0,10.0,10.0
+2017-05-24 21:30:00,USD,High,Crude Oil Inventories,-4.4M,-2.4M,-1.8M,-40.0,-20.0,-12.0,-8.0
+2017-05-25 19:30:00,USD,High,Unemployment Claims,234K,238K,233K,74.0,19.0,-17.0,-17.0
+2017-05-25 19:30:00,USD,Low,Goods Trade Balance,-67.6B,-64.7B,-65.1B,74.0,19.0,-17.0,-17.0
+2017-05-25 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,-0.3%,0.2%,0.1%,74.0,19.0,-17.0,-17.0
+2017-05-25 21:30:00,USD,Low,Natural Gas Storage,75B,72B,68B,74.0,14.0,10.0,9.0
+2017-05-26 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.4%,0.4%,0.0%,-74.0,-33.0,-15.0,-14.0
+2017-05-26 19:30:00,USD,High,Prelim GDP q/q,1.2%,0.9%,0.7%,-74.0,-33.0,-15.0,-14.0
+2017-05-26 19:30:00,USD,Medium,Durable Goods Orders m/m,-0.7%,-1.4%,0.9%,-74.0,-33.0,-15.0,-14.0
+2017-05-26 19:30:00,USD,Low,Prelim GDP Price Index q/q,2.2%,2.3%,2.3%,-74.0,-33.0,-15.0,-14.0
+2017-05-26 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,97.1,97.6,97.7,-74.0,23.0,23.0,16.0
+2017-05-29 15:00:00,EUR,Medium,M3 Money Supply y/y,4.9%,5.2%,5.3%,28.0,13.0,7.0,5.0
+2017-05-29 15:00:00,EUR,Low,Private Loans y/y,2.4%,2.5%,2.4%,28.0,13.0,7.0,5.0
+2017-05-30 13:00:00,EUR,Low,German Import Prices m/m,-0.1%,0.2%,-0.5%,95.0,21.0,-15.0,9.0
+2017-05-30 13:00:00,EUR,Medium,German Prelim CPI m/m,-0.2%,-0.1%,0.0%,95.0,21.0,-15.0,9.0
+2017-05-30 13:45:00,EUR,Low,French Consumer Spending m/m,0.5%,0.8%,-0.1%,95.0,23.0,16.0,10.0
+2017-05-30 13:45:00,EUR,Low,French Prelim GDP q/q,0.4%,0.3%,0.3%,95.0,23.0,16.0,10.0
+2017-05-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.9%,2.1%,2.6%,95.0,18.0,13.0,10.0
+2017-05-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.2%,0.1%,-0.1%,95.0,22.0,-12.0,-12.0
+2017-05-30 19:30:00,USD,Medium,Personal Spending m/m,0.4%,0.4%,0.3%,95.0,22.0,-12.0,-12.0
+2017-05-30 19:30:00,USD,Low,Personal Income m/m,0.4%,0.4%,0.2%,95.0,22.0,-12.0,-12.0
+2017-05-30 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.9%,5.6%,5.9%,95.0,30.0,14.0,12.0
+2017-05-30 21:00:00,USD,High,CB Consumer Confidence,117.9,120.1,119.4,95.0,-30.0,-20.0,-16.0
+2017-05-31 13:00:00,EUR,Medium,German Retail Sales m/m,-0.2%,0.4%,0.2%,88.0,25.0,13.0,13.0
+2017-05-31 13:45:00,EUR,Low,French Prelim CPI m/m,0.1%,0.2%,0.1%,88.0,21.0,18.0,13.0
+2017-05-31 14:55:00,EUR,Low,German Unemployment Change,-9K,-14K,-15K,88.0,-16.0,-13.0,-7.0
+2017-05-31 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.1%,11.6%,11.5%,88.0,-15.0,-13.0,-7.0
+2017-05-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.4%,1.5%,1.9%,88.0,21.0,14.0,11.0
+2017-05-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,1.0%,1.2%,88.0,21.0,14.0,11.0
+2017-05-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.2%,-0.2%,0.4%,88.0,21.0,14.0,11.0
+2017-05-31 16:00:00,EUR,Low,Unemployment Rate,9.3%,9.4%,9.4%,88.0,21.0,14.0,11.0
+2017-05-31 20:45:00,USD,Medium,Chicago PMI,59.4,57.0,58.3,88.0,-21.0,16.0,16.0
+2017-05-31 21:00:00,USD,Medium,Pending Home Sales m/m,-1.3%,0.7%,-0.9%,88.0,25.0,-12.0,-11.0
+2017-06-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,55.4,54.9,54.5,-54.0,-12.0,-9.0,-9.0
+2017-06-01 14:45:00,EUR,Low,Italian Manufacturing PMI,55.1,56.1,56.2,-54.0,-14.0,8.0,-6.0
+2017-06-01 14:50:00,EUR,Low,French Final Manufacturing PMI,53.8,54.0,54.0,-54.0,-14.0,8.0,5.0
+2017-06-01 14:55:00,EUR,Low,German Final Manufacturing PMI,59.5,59.4,59.4,-54.0,-14.0,8.0,5.0
+2017-06-01 15:00:00,EUR,Low,Final Manufacturing PMI,57.0,57.0,57.0,-54.0,-14.0,-11.0,6.0
+2017-06-01 19:15:00,USD,High,ADP Non-Farm Employment Change,253K,181K,174K,-54.0,17.0,-15.0,-15.0
+2017-06-01 19:30:00,USD,High,Unemployment Claims,248K,239K,235K,-54.0,12.0,9.0,7.0
+2017-06-01 20:45:00,USD,Low,Final Manufacturing PMI,52.7,52.5,52.5,-54.0,-18.0,16.0,8.0
+2017-06-01 21:00:00,USD,High,ISM Manufacturing PMI,54.9,54.7,54.8,-54.0,-18.0,-14.0,12.0
+2017-06-01 21:00:00,USD,Low,Construction Spending m/m,-1.4%,0.5%,1.1%,-54.0,-18.0,-14.0,12.0
+2017-06-01 21:00:00,USD,Low,ISM Manufacturing Prices,60.5,67.0,68.5,-54.0,-18.0,-14.0,12.0
+2017-06-01 21:00:00,USD,Low,Wards Total Vehicle Sales,16.6M,16.5M,17.0M,-54.0,-18.0,-14.0,12.0
+2017-06-01 21:30:00,USD,Low,Natural Gas Storage,81B,78B,75B,-54.0,-12.0,11.0,4.0
+2017-06-01 22:00:00,USD,High,Crude Oil Inventories,-6.4M,-2.7M,-4.4M,-54.0,-17.0,-11.0,-11.0
+2017-06-01 22:00:00,USD,Low,Total Vehicle Sales,16.7M,17.0M,16.9M,-54.0,-17.0,-11.0,-11.0
+2017-06-02 14:00:00,EUR,Medium,Spanish Unemployment Change,-111.9K,-110.2K,-129.3K,77.0,-13.0,-6.0,-6.0
+2017-06-02 16:00:00,EUR,Low,PPI m/m,0.0%,0.2%,-0.3%,77.0,-7.0,-6.0,5.0
+2017-06-02 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.2%,77.0,68.0,68.0,63.0
+2017-06-02 19:30:00,USD,High,Non-Farm Employment Change,138K,181K,174K,77.0,68.0,68.0,63.0
+2017-06-02 19:30:00,USD,High,Unemployment Rate,4.3%,4.4%,4.4%,77.0,68.0,68.0,63.0
+2017-06-02 19:30:00,USD,Medium,Trade Balance,-47.6B,-45.5B,-45.3B,77.0,68.0,68.0,63.0
+2017-06-05 14:15:00,EUR,Low,Spanish Services PMI,57.3,57.5,57.8,-48.0,-13.0,-10.0,-7.0
+2017-06-05 14:45:00,EUR,Low,Italian Services PMI,55.1,55.4,56.2,-48.0,-12.0,-11.0,-11.0
+2017-06-05 14:50:00,EUR,Low,French Final Services PMI,57.2,58.0,58.0,-48.0,-9.0,-8.0,-8.0
+2017-06-05 14:55:00,EUR,Low,German Final Services PMI,55.4,55.2,55.2,-48.0,9.0,-8.0,-8.0
+2017-06-05 15:00:00,EUR,Low,Final Services PMI,56.3,56.2,56.2,-48.0,9.0,5.0,5.0
+2017-06-05 19:30:00,USD,Medium,Revised Nonfarm Productivity q/q,0.0%,-0.6%,-0.6%,-48.0,20.0,-9.0,-7.0
+2017-06-05 19:30:00,USD,Low,Revised Unit Labor Costs q/q,2.2%,3.0%,3.0%,-48.0,20.0,-9.0,-7.0
+2017-06-05 20:45:00,USD,Low,Final Services PMI,53.6,54.1,54.0,-48.0,-10.0,-9.0,-7.0
+2017-06-05 21:00:00,USD,High,ISM Services PMI,56.9,57.1,57.5,-48.0,13.0,8.0,-8.0
+2017-06-05 21:00:00,USD,Medium,Factory Orders m/m,-0.2%,-0.2%,1.0%,-48.0,13.0,8.0,-8.0
+2017-06-06 15:30:00,EUR,Low,Sentix Investor Confidence,28.4,27.6,27.4,-37.0,-13.0,9.0,7.0
+2017-06-06 16:00:00,EUR,Low,Retail Sales m/m,0.1%,0.2%,0.2%,-37.0,-9.0,-9.0,-8.0
+2017-06-06 21:00:00,USD,Medium,JOLTS Job Openings,6.04M,5.65M,5.79M,-37.0,15.0,15.0,-9.0
+2017-06-07 13:00:00,EUR,Low,German Factory Orders m/m,-2.1%,-0.2%,1.1%,-80.0,14.0,-5.0,5.0
+2017-06-07 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.1%,0.2%,0.0%,-80.0,15.0,8.0,8.0
+2017-06-07 21:30:00,USD,High,Crude Oil Inventories,3.3M,-3.1M,-6.4M,-80.0,-35.0,-21.0,20.0
+2017-06-08 02:00:00,USD,Low,Consumer Credit m/m,8.2B,15.2B,19.5B,-77.0,16.0,5.0,4.0
+2017-06-08 13:00:00,EUR,Low,German Industrial Production m/m,0.8%,0.6%,-0.1%,-77.0,-18.0,-9.0,8.0
+2017-06-08 13:45:00,EUR,Low,French Trade Balance,-5.5B,-5.9B,-4.8B,-77.0,11.0,10.0,-9.0
+2017-06-08 16:00:00,EUR,Low,Revised GDP q/q,0.6%,0.5%,0.5%,-77.0,-23.0,-13.0,-13.0
+2017-06-08 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,-77.0,-63.0,-45.0,-43.0
+2017-06-08 19:30:00,USD,High,Unemployment Claims,245K,241K,255K,-77.0,-55.0,-55.0,-51.0
+2017-06-08 21:00:00,USD,Low,IBD/TIPP Economic Optimism,51.3,51.6,51.3,-77.0,28.0,-23.0,-23.0
+2017-06-08 21:30:00,USD,Low,Natural Gas Storage,106B,99B,81B,-77.0,10.0,10.0,10.0
+2017-06-09 13:00:00,EUR,Low,German Trade Balance,19.8B,20.3B,19.9B,-67.0,29.0,29.0,29.0
+2017-06-09 13:45:00,EUR,Low,French Industrial Production m/m,-0.5%,0.3%,2.2%,-67.0,-13.0,12.0,10.0
+2017-06-09 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,11.6%,11.6%,11.8%,-67.0,23.0,-10.0,-8.0
+2017-06-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,-0.5%,-0.1%,-0.3%,-67.0,15.0,15.0,15.0
+2017-06-12 15:00:00,EUR,Low,Italian Industrial Production m/m,-0.4%,0.2%,0.4%,-40.0,-12.0,-10.0,-8.0
+2017-06-13 01:00:00,USD,Low,Federal Budget Balance,-88.4B,-87.3B,182.4B,39.0,10.0,-6.0,-4.0
+2017-06-13 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.4%,0.3%,0.3%,39.0,10.0,-6.0,-3.0
+2017-06-13 13:00:00,EUR,Low,German WPI m/m,-0.7%,0.2%,0.3%,39.0,13.0,10.0,8.0
+2017-06-13 16:00:00,EUR,Medium,German ZEW Economic Sentiment,18.6,21.6,20.6,39.0,-13.0,-11.0,4.0
+2017-06-13 16:00:00,EUR,Low,ZEW Economic Sentiment,37.7,37.2,35.1,39.0,-13.0,-11.0,4.0
+2017-06-13 16:57:00,USD,Low,NFIB Small Business Index,104.5,105.2,104.5,39.0,-12.0,7.0,7.0
+2017-06-13 19:30:00,USD,High,PPI m/m,0.0%,0.0%,0.5%,39.0,-13.0,-10.0,-7.0
+2017-06-13 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.2%,0.4%,39.0,-13.0,-10.0,-7.0
+2017-06-14 13:00:00,EUR,Low,German Final CPI m/m,-0.2%,0.5%,-0.2%,98.0,12.0,10.0,-6.0
+2017-06-14 16:00:00,EUR,Low,Final Employment Change q/q,0.4%,0.3%,0.4%,98.0,-13.0,5.0,5.0
+2017-06-14 16:00:00,EUR,Low,Industrial Production m/m,0.5%,0.5%,0.2%,98.0,-13.0,5.0,5.0
+2017-06-14 19:30:00,USD,High,CPI m/m,-0.1%,0.2%,0.2%,98.0,75.0,65.0,57.0
+2017-06-14 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.1%,98.0,75.0,65.0,57.0
+2017-06-14 19:30:00,USD,High,Core Retail Sales m/m,-0.3%,0.2%,0.3%,98.0,75.0,65.0,57.0
+2017-06-14 19:30:00,USD,High,Retail Sales m/m,-0.3%,0.1%,0.4%,98.0,75.0,65.0,57.0
+2017-06-14 21:00:00,USD,Low,Business Inventories m/m,-0.2%,-0.1%,0.2%,98.0,25.0,25.0,25.0
+2017-06-14 21:30:00,USD,High,Crude Oil Inventories,-1.7M,-2.3M,3.3M,98.0,-9.0,8.0,-7.0
+2017-06-15 01:00:00,USD,High,Federal Funds Rate,<1.25%,<1.25%,<1.00%,-156.0,-81.0,-42.0,-36.0
+2017-06-15 13:45:00,EUR,Low,French Final CPI m/m,0.0%,0.1%,0.1%,-156.0,-39.0,-34.0,-8.0
+2017-06-15 16:00:00,EUR,Low,Trade Balance,19.6B,22.4B,22.2B,-156.0,-29.0,-10.0,9.0
+2017-06-15 19:30:00,USD,High,Unemployment Claims,237K,241K,245K,-156.0,-22.0,-16.0,-15.0
+2017-06-15 19:30:00,USD,Medium,Empire State Manufacturing Index,19.8,5.2,-1.0,-156.0,-22.0,-16.0,-15.0
+2017-06-15 19:30:00,USD,Medium,Import Prices m/m,-0.3%,0.1%,0.2%,-156.0,-22.0,-16.0,-15.0
+2017-06-15 19:30:00,USD,Medium,Philly Fed Manufacturing Index,27.6,25.5,38.8,-156.0,-22.0,-16.0,-15.0
+2017-06-15 20:15:00,USD,Medium,Capacity Utilization Rate,76.6%,76.8%,76.7%,-156.0,-22.0,-10.0,7.0
+2017-06-15 20:15:00,USD,Medium,Industrial Production m/m,0.0%,0.2%,1.1%,-156.0,-22.0,-10.0,7.0
+2017-06-15 21:00:00,USD,Low,NAHB Housing Market Index,67,70,69,-156.0,20.0,16.0,-16.0
+2017-06-15 21:30:00,USD,Low,Natural Gas Storage,78B,88B,106B,-156.0,17.0,-11.0,-8.0
+2017-06-16 03:00:00,USD,Low,TIC Long-Term Purchases,1.8B,37.3B,59.7B,62.0,8.0,8.0,4.0
+2017-06-16 15:00:00,EUR,Low,Italian Trade Balance,3.60B,3.41B,5.31B,62.0,10.0,10.0,10.0
+2017-06-16 16:00:00,EUR,Medium,Final CPI y/y,1.4%,1.4%,1.4%,62.0,-14.0,11.0,11.0
+2017-06-16 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,62.0,-14.0,11.0,11.0
+2017-06-16 19:30:00,USD,High,Building Permits,1.17M,1.25M,1.23M,62.0,-15.0,-13.0,11.0
+2017-06-16 19:30:00,USD,Medium,Housing Starts,1.09M,1.23M,1.16M,62.0,-15.0,-13.0,11.0
+2017-06-16 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,94.5,97.2,97.1,62.0,26.0,19.0,15.0
+2017-06-20 13:00:00,EUR,Low,German PPI m/m,-0.2%,-0.1%,0.4%,-46.0,-14.0,7.0,6.0
+2017-06-20 15:00:00,EUR,Low,Current Account,22.2B,31.3B,35.7B,-46.0,-12.0,-11.0,-7.0
+2017-06-20 19:30:00,USD,Medium,Current Account,-117B,-124B,-114B,-46.0,-13.0,-10.0,-7.0
+2017-06-21 21:00:00,USD,Medium,Existing Home Sales,5.62M,5.54M,5.56M,35.0,13.0,10.0,10.0
+2017-06-21 21:30:00,USD,High,Crude Oil Inventories,-2.5M,-1.2M,-1.7M,35.0,10.0,10.0,6.0
+2017-06-22 19:30:00,USD,High,Unemployment Claims,241K,241K,238K,33.0,-15.0,-11.0,-7.0
+2017-06-22 20:00:00,USD,Low,HPI m/m,0.7%,0.4%,0.7%,33.0,-11.0,-9.0,-6.0
+2017-06-22 21:00:00,EUR,Low,Consumer Confidence,-1,-3,-3,33.0,12.0,-11.0,-9.0
+2017-06-22 21:00:00,USD,Low,CB Leading Index m/m,0.3%,0.4%,0.2%,33.0,12.0,-11.0,-9.0
+2017-06-22 21:30:00,USD,Low,Natural Gas Storage,61B,55B,78B,33.0,-11.0,-9.0,-5.0
+2017-06-23 14:00:00,EUR,Medium,French Flash Manufacturing PMI,55.0,54.1,53.8,70.0,-11.0,-9.0,9.0
+2017-06-23 14:00:00,EUR,Medium,French Flash Services PMI,55.3,57.1,57.2,70.0,-11.0,-9.0,9.0
+2017-06-23 14:30:00,EUR,Medium,German Flash Manufacturing PMI,59.3,59.1,59.5,70.0,19.0,-9.0,-9.0
+2017-06-23 14:30:00,EUR,Medium,German Flash Services PMI,53.7,55.4,55.4,70.0,19.0,-9.0,-9.0
+2017-06-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,57.3,56.9,57.0,70.0,-17.0,12.0,12.0
+2017-06-23 15:00:00,EUR,Medium,Flash Services PMI,54.7,56.2,56.3,70.0,-17.0,12.0,12.0
+2017-06-23 20:00:00,EUR,Low,Belgian NBB Business Climate,-2.0,-0.8,-1.1,70.0,20.0,7.0,6.0
+2017-06-23 20:45:00,USD,Low,Flash Manufacturing PMI,52.1,53.1,52.7,70.0,23.0,13.0,12.0
+2017-06-23 20:45:00,USD,Low,Flash Services PMI,53.0,53.9,53.6,70.0,23.0,13.0,12.0
+2017-06-23 21:00:00,USD,Medium,New Home Sales,610K,599K,593K,70.0,23.0,14.0,-10.0
+2017-06-26 15:00:00,EUR,Medium,German ifo Business Climate,115.1,114.7,114.6,48.0,-20.0,-15.0,-9.0
+2017-06-26 19:30:00,USD,High,Core Durable Goods Orders m/m,0.1%,0.4%,-0.5%,48.0,31.0,31.0,30.0
+2017-06-26 19:30:00,USD,Medium,Durable Goods Orders m/m,-1.1%,-0.5%,-0.8%,48.0,31.0,31.0,30.0
+2017-06-27 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.7%,5.9%,5.9%,159.0,28.0,13.0,13.0
+2017-06-27 20:59:00,USD,Low,Richmond Manufacturing Index,7,4,1,159.0,-15.0,-15.0,-13.0
+2017-06-27 21:00:00,USD,High,CB Consumer Confidence,118.9,116.1,117.6,159.0,-15.0,-15.0,-13.0
+2017-06-28 13:00:00,EUR,Low,German Import Prices m/m,-1.0%,-0.6%,-0.1%,99.0,-26.0,19.0,14.0
+2017-06-28 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,5.0%,4.9%,99.0,-27.0,19.0,-17.0
+2017-06-28 15:00:00,EUR,Low,Private Loans y/y,2.6%,2.5%,2.4%,99.0,-27.0,19.0,-17.0
+2017-06-28 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.1%,0.1%,-0.2%,99.0,-10.0,-10.0,-9.0
+2017-06-28 19:30:00,USD,Low,Goods Trade Balance,-65.9B,-66.2B,-67.1B,99.0,23.0,-19.0,-19.0
+2017-06-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,0.3%,0.2%,-0.5%,99.0,23.0,-19.0,-19.0
+2017-06-28 21:00:00,USD,Medium,Pending Home Sales m/m,-0.8%,0.9%,-1.7%,99.0,-30.0,25.0,25.0
+2017-06-28 21:30:00,USD,High,Crude Oil Inventories,0.1M,-2.1M,-2.5M,99.0,-31.0,-22.0,11.0
+2017-06-29 13:00:00,EUR,Low,German GfK Consumer Climate,10.6,10.4,10.4,62.0,-15.0,-15.0,12.0
+2017-06-29 13:00:00,EUR,Medium,German Prelim CPI m/m,0.2%,0.0%,-0.2%,62.0,-15.0,-15.0,12.0
+2017-06-29 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.5%,1.6%,1.9%,62.0,26.0,26.0,26.0
+2017-06-29 19:30:00,USD,High,Final GDP q/q,1.4%,1.2%,1.2%,62.0,22.0,-19.0,-15.0
+2017-06-29 19:30:00,USD,High,Unemployment Claims,244K,241K,242K,62.0,22.0,-19.0,-15.0
+2017-06-29 19:30:00,USD,Low,Final GDP Price Index q/q,1.9%,2.2%,2.2%,62.0,22.0,-19.0,-15.0
+2017-06-29 21:30:00,USD,Low,Natural Gas Storage,46B,50B,61B,62.0,19.0,17.0,6.0
+2017-06-30 13:00:00,EUR,Medium,German Retail Sales m/m,0.5%,0.3%,-0.2%,-53.0,-19.0,-11.0,-9.0
+2017-06-30 13:45:00,EUR,Low,French Consumer Spending m/m,1.0%,0.5%,0.4%,-53.0,-38.0,-23.0,-18.0
+2017-06-30 13:45:00,EUR,Low,French Prelim CPI m/m,0.0%,0.0%,0.0%,-53.0,-38.0,-23.0,-18.0
+2017-06-30 14:55:00,EUR,Low,German Unemployment Change,7K,-10K,-7K,-53.0,-20.0,10.0,10.0
+2017-06-30 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.3%,1.2%,1.4%,-53.0,18.0,-18.0,-18.0
+2017-06-30 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.1%,1.0%,0.9%,-53.0,18.0,-18.0,-18.0
+2017-06-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,-53.0,16.0,-14.0,-14.0
+2017-06-30 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.1%,0.4%,-53.0,16.0,-14.0,-14.0
+2017-06-30 19:30:00,USD,Low,Personal Income m/m,0.4%,0.3%,0.3%,-53.0,16.0,-14.0,-14.0
+2017-06-30 20:45:00,USD,Medium,Chicago PMI,65.7,58.1,59.4,-53.0,-17.0,13.0,9.0
+2017-06-30 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,95.1,94.5,94.5,-53.0,-32.0,-9.0,8.0
+2017-07-03 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.7,55.6,55.4,-71.0,-28.0,-14.0,-10.0
+2017-07-03 14:45:00,EUR,Low,Italian Manufacturing PMI,55.2,55.3,55.1,-71.0,-18.0,-17.0,-5.0
+2017-07-03 14:50:00,EUR,Low,French Final Manufacturing PMI,54.8,55.0,55.0,-71.0,-17.0,-17.0,-8.0
+2017-07-03 14:55:00,EUR,Low,German Final Manufacturing PMI,59.6,59.3,59.3,-71.0,-17.0,-17.0,-8.0
+2017-07-03 15:00:00,EUR,Low,Final Manufacturing PMI,57.4,57.3,57.3,-71.0,-18.0,-15.0,-14.0
+2017-07-03 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.3%,11.1%,11.2%,-71.0,-18.0,-15.0,-14.0
+2017-07-03 16:00:00,EUR,Low,Unemployment Rate,9.3%,9.3%,9.3%,-71.0,-13.0,10.0,8.0
+2017-07-03 20:45:00,USD,Low,Final Manufacturing PMI,52.0,52.1,52.1,-71.0,16.0,-15.0,9.0
+2017-07-03 21:00:00,USD,High,ISM Manufacturing PMI,57.8,55.0,54.9,-71.0,16.0,16.0,14.0
+2017-07-03 21:00:00,USD,Low,Construction Spending m/m,0.0%,0.3%,-0.7%,-71.0,16.0,16.0,14.0
+2017-07-03 21:00:00,USD,Low,ISM Manufacturing Prices,55.0,58.5,60.5,-71.0,16.0,16.0,14.0
+2017-07-03 21:00:00,USD,Low,Wards Total Vehicle Sales,16.4M,16.5M,16.7M,-71.0,16.0,16.0,14.0
+2017-07-03 21:00:00,USD,Low,Total Vehicle Sales,16.5M,16.5M,16.7M,-71.0,16.0,16.0,14.0
+2017-07-04 14:00:00,EUR,Medium,Spanish Unemployment Change,-98.3K,-120.3K,-111.9K,-41.0,-18.0,-18.0,-18.0
+2017-07-04 16:00:00,EUR,Low,PPI m/m,-0.4%,-0.2%,0.0%,-41.0,-12.0,-12.0,-7.0
+2017-07-05 14:15:00,EUR,Low,Spanish Services PMI,58.3,56.6,57.3,-56.0,-13.0,-10.0,-4.0
+2017-07-05 14:45:00,EUR,Low,Italian Services PMI,53.6,54.6,55.1,-56.0,-25.0,-11.0,7.0
+2017-07-05 14:50:00,EUR,Low,French Final Services PMI,56.9,55.3,55.3,-56.0,-25.0,-13.0,-8.0
+2017-07-05 14:55:00,EUR,Low,German Final Services PMI,54.0,53.7,53.7,-56.0,-25.0,-17.0,-11.0
+2017-07-05 15:00:00,EUR,Low,Final Services PMI,55.4,54.7,54.7,-56.0,-24.0,-16.0,-10.0
+2017-07-05 16:00:00,EUR,Low,Retail Sales m/m,0.4%,0.4%,0.1%,-56.0,27.0,27.0,27.0
+2017-07-05 21:00:00,USD,Medium,Factory Orders m/m,-0.8%,-0.5%,-0.3%,-56.0,11.0,11.0,-7.0
+2017-07-05 21:13:00,USD,Low,IBD/TIPP Economic Optimism,50.2,51.6,51.3,-56.0,11.0,11.0,10.0
+2017-07-06 13:00:00,EUR,Low,German Factory Orders m/m,1.0%,1.9%,-2.2%,97.0,11.0,7.0,-5.0
+2017-07-06 19:15:00,USD,High,ADP Non-Farm Employment Change,158K,184K,230K,97.0,-15.0,-14.0,13.0
+2017-07-06 19:30:00,USD,High,Unemployment Claims,248K,243K,244K,97.0,-11.0,-10.0,-10.0
+2017-07-06 19:30:00,USD,Medium,Trade Balance,-46.5B,-46.3B,-47.6B,97.0,-11.0,-10.0,-10.0
+2017-07-06 20:45:00,USD,Low,Final Services PMI,54.2,53.0,53.0,97.0,10.0,9.0,9.0
+2017-07-06 21:00:00,USD,High,ISM Services PMI,57.4,56.5,56.9,97.0,13.0,9.0,-7.0
+2017-07-06 22:00:00,USD,High,Crude Oil Inventories,-6.3M,-2.4M,0.1M,97.0,-9.0,-9.0,-9.0
+2017-07-07 13:00:00,EUR,Low,German Industrial Production m/m,1.2%,0.2%,0.7%,-60.0,12.0,11.0,10.0
+2017-07-07 13:45:00,EUR,Low,French Industrial Production m/m,1.9%,0.5%,-0.6%,-60.0,14.0,6.0,-5.0
+2017-07-07 13:45:00,EUR,Low,French Trade Balance,-4.9B,-4.9B,-5.6B,-60.0,14.0,6.0,-5.0
+2017-07-07 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.1%,0.3%,-0.4%,-60.0,-12.0,-11.0,-9.0
+2017-07-07 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,0.1%,-60.0,-59.0,54.0,54.0
+2017-07-07 19:30:00,USD,High,Non-Farm Employment Change,222K,175K,152K,-60.0,-59.0,54.0,54.0
+2017-07-07 19:30:00,USD,High,Unemployment Rate,4.4%,4.3%,4.3%,-60.0,-59.0,54.0,54.0
+2017-07-07 21:30:00,USD,Low,Natural Gas Storage,72B,61B,46B,-60.0,13.0,12.0,6.0
+2017-07-10 13:00:00,EUR,Low,German Trade Balance,20.3B,20.3B,19.7B,-36.0,-13.0,-9.0,-7.0
+2017-07-10 15:30:00,EUR,Low,Sentix Investor Confidence,28.3,28.1,28.4,-36.0,-22.0,-17.0,-14.0
+2017-07-11 02:00:00,USD,Low,Consumer Credit m/m,18.4B,12.1B,12.9B,65.0,-6.0,-4.0,-4.0
+2017-07-11 15:00:00,EUR,Low,Italian Industrial Production m/m,0.7%,0.5%,-0.5%,65.0,10.0,9.0,9.0
+2017-07-11 17:00:00,USD,Low,NFIB Small Business Index,103.6,104.4,104.5,65.0,8.0,-7.0,-3.0
+2017-07-11 21:00:00,USD,Medium,JOLTS Job Openings,5.67M,5.98M,5.97M,65.0,30.0,-16.0,-16.0
+2017-07-11 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.4%,0.3%,0.3%,65.0,30.0,-16.0,-16.0
+2017-07-12 13:00:00,EUR,Low,German WPI m/m,0.0%,0.2%,-0.7%,-98.0,-21.0,-12.0,-12.0
+2017-07-12 16:00:00,EUR,Low,Industrial Production m/m,1.3%,1.0%,0.3%,-98.0,-18.0,-11.0,-8.0
+2017-07-12 21:30:00,USD,High,Crude Oil Inventories,-7.6M,-3.2M,-6.3M,-98.0,33.0,25.0,21.0
+2017-07-13 13:00:00,EUR,Low,German Final CPI m/m,0.2%,0.2%,0.2%,-85.0,-12.0,-10.0,10.0
+2017-07-13 13:45:00,EUR,Low,French Final CPI m/m,0.0%,0.0%,0.0%,-85.0,-24.0,9.0,-8.0
+2017-07-13 19:30:00,USD,High,PPI m/m,0.1%,0.0%,0.0%,-85.0,17.0,17.0,17.0
+2017-07-13 19:30:00,USD,High,Unemployment Claims,247K,245K,250K,-85.0,17.0,17.0,17.0
+2017-07-13 19:30:00,USD,Medium,Core PPI m/m,0.1%,0.2%,0.3%,-85.0,17.0,17.0,17.0
+2017-07-13 21:30:00,USD,Low,Natural Gas Storage,57B,59B,72B,-85.0,-28.0,15.0,9.0
+2017-07-14 00:58:00,USD,Low,Federal Budget Balance,-90.2B,-36.2B,-88.4B,79.0,10.0,6.0,6.0
+2017-07-14 16:00:00,EUR,Low,Italian Trade Balance,4.34B,2.43B,3.60B,79.0,11.0,8.0,8.0
+2017-07-14 16:00:00,EUR,Low,Trade Balance,19.7B,20.3B,18.6B,79.0,11.0,8.0,8.0
+2017-07-14 19:30:00,USD,High,CPI m/m,0.0%,0.1%,-0.1%,79.0,53.0,53.0,33.0
+2017-07-14 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.1%,79.0,53.0,53.0,33.0
+2017-07-14 19:30:00,USD,High,Core Retail Sales m/m,-0.2%,0.2%,-0.3%,79.0,53.0,53.0,33.0
+2017-07-14 19:30:00,USD,High,Retail Sales m/m,-0.2%,0.1%,-0.1%,79.0,53.0,53.0,33.0
+2017-07-14 20:15:00,USD,Medium,Capacity Utilization Rate,76.6%,76.7%,76.4%,79.0,27.0,-26.0,-8.0
+2017-07-14 20:15:00,USD,Medium,Industrial Production m/m,0.4%,0.3%,0.1%,79.0,27.0,-26.0,-8.0
+2017-07-14 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,93.1,95.1,95.1,79.0,-27.0,-15.0,-15.0
+2017-07-14 21:00:00,USD,Low,Business Inventories m/m,0.3%,0.3%,-0.2%,79.0,-27.0,-15.0,-15.0
+2017-07-17 16:00:00,EUR,Medium,Final CPI y/y,1.3%,1.3%,1.3%,52.0,15.0,-7.0,-6.0
+2017-07-17 16:00:00,EUR,Low,Final Core CPI y/y,1.1%,1.1%,1.1%,52.0,15.0,-7.0,-6.0
+2017-07-17 19:30:00,USD,Medium,Empire State Manufacturing Index,9.8,15.2,19.8,52.0,-10.0,9.0,8.0
+2017-07-18 16:00:00,EUR,Medium,German ZEW Economic Sentiment,17.5,17.8,18.6,111.0,41.0,26.0,11.0
+2017-07-18 16:00:00,EUR,Low,ZEW Economic Sentiment,35.6,37.2,37.7,111.0,41.0,26.0,11.0
+2017-07-18 19:30:00,USD,Medium,Import Prices m/m,-0.2%,-0.2%,-0.1%,111.0,29.0,23.0,23.0
+2017-07-18 21:00:00,USD,Low,NAHB Housing Market Index,64,67,66,111.0,-10.0,-7.0,5.0
+2017-07-19 03:00:00,USD,Low,TIC Long-Term Purchases,91.9B,20.3B,9.7B,-56.0,-7.0,-5.0,-5.0
+2017-07-19 19:30:00,USD,High,Building Permits,1.25M,1.20M,1.17M,-56.0,-15.0,-15.0,-6.0
+2017-07-19 19:30:00,USD,Medium,Housing Starts,1.22M,1.16M,1.12M,-56.0,-15.0,-15.0,-6.0
+2017-07-19 21:30:00,USD,High,Crude Oil Inventories,-4.7M,-3.6M,-7.6M,-56.0,20.0,9.0,-8.0
+2017-07-20 13:00:00,EUR,Low,German PPI m/m,0.0%,-0.1%,-0.2%,179.0,17.0,10.0,7.0
+2017-07-20 15:00:00,EUR,Low,Current Account,30.1B,23.3B,23.5B,179.0,11.0,-8.0,-8.0
+2017-07-20 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,179.0,54.0,-19.0,-18.0
+2017-07-20 19:30:00,USD,High,Unemployment Claims,233K,245K,248K,179.0,80.0,80.0,43.0
+2017-07-20 19:30:00,USD,Medium,Philly Fed Manufacturing Index,19.5,23.4,27.6,179.0,80.0,80.0,43.0
+2017-07-20 21:00:00,EUR,Low,Consumer Confidence,-2,-1,-1,179.0,96.0,45.0,15.0
+2017-07-20 21:00:00,USD,Low,CB Leading Index m/m,0.6%,0.4%,0.2%,179.0,96.0,45.0,15.0
+2017-07-20 21:30:00,USD,Low,Natural Gas Storage,28B,39B,57B,179.0,54.0,54.0,38.0
+2017-07-24 14:00:00,EUR,Medium,French Flash Manufacturing PMI,55.4,54.6,54.8,-58.0,-31.0,18.0,15.0
+2017-07-24 14:00:00,EUR,Medium,French Flash Services PMI,55.9,56.6,56.9,-58.0,-31.0,18.0,15.0
+2017-07-24 14:30:00,EUR,Medium,German Flash Manufacturing PMI,58.3,59.1,59.6,-58.0,-21.0,-21.0,-14.0
+2017-07-24 14:30:00,EUR,Medium,German Flash Services PMI,53.5,54.4,54.0,-58.0,-21.0,-21.0,-14.0
+2017-07-24 15:00:00,EUR,Medium,Flash Manufacturing PMI,56.8,57.3,57.4,-58.0,15.0,12.0,10.0
+2017-07-24 15:00:00,EUR,Medium,Flash Services PMI,55.4,55.5,55.4,-58.0,15.0,12.0,10.0
+2017-07-24 20:45:00,USD,Low,Flash Manufacturing PMI,53.2,52.3,52.0,-58.0,-7.0,-6.0,5.0
+2017-07-24 20:45:00,USD,Low,Flash Services PMI,54.2,54.3,54.2,-58.0,-7.0,-6.0,5.0
+2017-07-24 21:00:00,USD,Medium,Existing Home Sales,5.52M,5.59M,5.62M,-58.0,16.0,-7.0,-5.0
+2017-07-25 13:00:00,EUR,Low,German Import Prices m/m,-1.1%,-0.7%,-1.0%,82.0,11.0,10.0,10.0
+2017-07-25 15:00:00,EUR,Medium,German ifo Business Climate,116.0,114.9,115.2,82.0,-19.0,17.0,17.0
+2017-07-25 19:59:00,EUR,Low,Belgian NBB Business Climate,-1.5,-1.9,-2.0,82.0,-32.0,-25.0,18.0
+2017-07-25 20:00:00,USD,Low,HPI m/m,0.4%,0.5%,0.6%,82.0,-32.0,-32.0,18.0
+2017-07-25 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.7%,5.8%,5.8%,82.0,-32.0,-32.0,18.0
+2017-07-25 20:59:00,USD,Low,Richmond Manufacturing Index,14,7,7,82.0,-42.0,-16.0,-16.0
+2017-07-25 21:00:00,USD,High,CB Consumer Confidence,121.1,116.5,117.3,82.0,-39.0,-13.0,-13.0
+2017-07-26 21:00:00,USD,Medium,New Home Sales,610K,615K,605K,-48.0,17.0,-12.0,-10.0
+2017-07-26 21:30:00,USD,High,Crude Oil Inventories,-7.2M,-3.3M,-4.7M,-48.0,16.0,16.0,11.0
+2017-07-27 01:00:00,USD,Medium,Federal Funds Rate,<1.25%,<1.25%,<1.25%,149.0,80.0,80.0,78.0
+2017-07-27 13:00:00,EUR,Low,German GfK Consumer Climate,10.8,10.7,10.6,149.0,-20.0,-19.0,-19.0
+2017-07-27 14:00:00,EUR,Medium,Spanish Unemployment Rate,17.2%,17.8%,18.8%,149.0,-19.0,-19.0,-13.0
+2017-07-27 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,5.0%,4.9%,149.0,19.0,-14.0,-9.0
+2017-07-27 15:00:00,EUR,Low,Private Loans y/y,2.6%,2.7%,2.6%,149.0,19.0,-14.0,-9.0
+2017-07-27 19:30:00,USD,High,Core Durable Goods Orders m/m,0.2%,0.4%,0.3%,149.0,16.0,16.0,15.0
+2017-07-27 19:30:00,USD,High,Unemployment Claims,244K,240K,234K,149.0,16.0,16.0,15.0
+2017-07-27 19:30:00,USD,Medium,Durable Goods Orders m/m,6.5%,3.5%,-0.8%,149.0,16.0,16.0,15.0
+2017-07-27 19:30:00,USD,Low,Goods Trade Balance,-63.9B,-65.0B,-66.3B,149.0,16.0,16.0,15.0
+2017-07-27 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,0.6%,0.3%,0.4%,149.0,16.0,16.0,15.0
+2017-07-27 21:30:00,USD,Low,Natural Gas Storage,17B,28B,28B,149.0,-27.0,-27.0,-15.0
+2017-07-28 12:30:00,EUR,Low,French Flash GDP q/q,0.5%,0.5%,0.5%,104.0,10.0,-5.0,5.0
+2017-07-28 12:30:00,EUR,Medium,German Prelim CPI m/m,0.4%,0.2%,0.2%,104.0,10.0,-5.0,5.0
+2017-07-28 13:45:00,EUR,Low,French Consumer Spending m/m,-0.8%,-0.3%,0.9%,104.0,28.0,28.0,10.0
+2017-07-28 13:45:00,EUR,Low,French Prelim CPI m/m,-0.3%,-0.4%,0.0%,104.0,28.0,28.0,10.0
+2017-07-28 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.5%,1.5%,1.5%,104.0,-24.0,-18.0,18.0
+2017-07-28 14:00:00,EUR,Medium,Spanish Flash GDP q/q,0.9%,0.9%,0.8%,104.0,-24.0,-18.0,18.0
+2017-07-28 19:30:00,USD,High,Advance GDP q/q,2.6%,2.5%,1.4%,104.0,-38.0,-38.0,32.0
+2017-07-28 19:30:00,USD,Medium,Advance GDP Price Index q/q,1.0%,1.3%,1.9%,104.0,-38.0,-38.0,32.0
+2017-07-28 19:30:00,USD,Medium,Employment Cost Index q/q,0.5%,0.6%,0.8%,104.0,-38.0,-38.0,32.0
+2017-07-28 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,93.4,93.2,93.1,104.0,27.0,16.0,16.0
+2017-07-31 13:00:00,EUR,Medium,German Retail Sales m/m,1.1%,0.1%,0.5%,109.0,-22.0,-22.0,-14.0
+2017-07-31 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.1%,11.2%,11.3%,109.0,10.0,-5.0,-5.0
+2017-07-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.3%,1.3%,1.3%,109.0,-17.0,12.0,12.0
+2017-07-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.2%,1.1%,1.1%,109.0,-17.0,12.0,12.0
+2017-07-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.1%,0.0%,-0.1%,109.0,-17.0,12.0,12.0
+2017-07-31 16:00:00,EUR,Low,Unemployment Rate,9.1%,9.2%,9.2%,109.0,-17.0,12.0,12.0
+2017-07-31 20:45:00,USD,Medium,Chicago PMI,58.9,60.8,65.7,109.0,19.0,15.0,11.0
+2017-07-31 21:00:00,USD,Medium,Pending Home Sales m/m,1.5%,0.9%,-0.7%,109.0,44.0,13.0,9.0
+2017-08-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.0,54.9,54.7,-60.0,22.0,-8.0,-8.0
+2017-08-01 14:45:00,EUR,Low,Italian Manufacturing PMI,55.1,55.2,55.2,-60.0,18.0,18.0,7.0
+2017-08-01 14:50:00,EUR,Low,French Final Manufacturing PMI,54.9,55.4,55.4,-60.0,-18.0,17.0,17.0
+2017-08-01 14:55:00,EUR,Low,German Final Manufacturing PMI,58.1,58.3,58.3,-60.0,-18.0,17.0,17.0
+2017-08-01 14:55:00,EUR,Low,German Unemployment Change,-9K,-4K,6K,-60.0,-18.0,17.0,17.0
+2017-08-01 15:00:00,EUR,Low,Final Manufacturing PMI,56.6,56.8,56.8,-60.0,-18.0,-16.0,14.0
+2017-08-01 16:00:00,EUR,Medium,Prelim Flash GDP q/q,0.6%,0.6%,0.6%,-60.0,-17.0,-17.0,-17.0
+2017-08-01 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,-60.0,-11.0,-11.0,-9.0
+2017-08-01 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.1%,0.2%,-60.0,-11.0,-11.0,-9.0
+2017-08-01 19:30:00,USD,Low,Personal Income m/m,0.0%,0.4%,0.3%,-60.0,-11.0,-11.0,-9.0
+2017-08-01 20:45:00,USD,Low,Final Manufacturing PMI,53.3,53.2,53.2,-60.0,-39.0,27.0,17.0
+2017-08-01 21:00:00,USD,High,ISM Manufacturing PMI,56.3,56.4,57.8,-60.0,-54.0,23.0,23.0
+2017-08-01 21:00:00,USD,Low,Construction Spending m/m,-1.3%,0.4%,0.3%,-60.0,-54.0,23.0,23.0
+2017-08-01 21:00:00,USD,Low,ISM Manufacturing Prices,62.0,56.5,55.0,-60.0,-54.0,23.0,23.0
+2017-08-01 21:00:00,USD,Low,Wards Total Vehicle Sales,16.7M,16.8M,16.6M,-60.0,-54.0,23.0,23.0
+2017-08-01 21:18:00,USD,Low,Total Vehicle Sales,16.7M,16.8M,16.5M,-60.0,-48.0,-48.0,-16.0
+2017-08-02 14:00:00,EUR,Medium,Spanish Unemployment Change,-26.9K,-66.5K,-98.3K,78.0,-16.0,-11.0,-9.0
+2017-08-02 16:00:00,EUR,Low,PPI m/m,-0.1%,-0.1%,-0.3%,78.0,-22.0,-22.0,-15.0
+2017-08-02 19:15:00,USD,High,ADP Non-Farm Employment Change,178K,187K,191K,78.0,20.0,20.0,-18.0
+2017-08-02 21:30:00,USD,High,Crude Oil Inventories,-1.5M,-3.2M,-7.2M,78.0,25.0,-12.0,12.0
+2017-08-03 14:15:00,EUR,Low,Spanish Services PMI,57.6,58.4,58.3,-79.0,-16.0,-6.0,-6.0
+2017-08-03 14:45:00,EUR,Low,Italian Services PMI,56.3,54.2,53.6,-79.0,-14.0,-14.0,-8.0
+2017-08-03 14:50:00,EUR,Low,French Final Services PMI,56.0,55.9,55.9,-79.0,-14.0,-14.0,-10.0
+2017-08-03 14:55:00,EUR,Low,German Final Services PMI,53.1,53.5,53.5,-79.0,-12.0,-12.0,-11.0
+2017-08-03 15:00:00,EUR,Low,Final Services PMI,55.4,55.4,55.4,-79.0,13.0,-12.0,-12.0
+2017-08-03 16:00:00,EUR,Low,Retail Sales m/m,0.5%,0.0%,0.4%,-79.0,9.0,7.0,5.0
+2017-08-03 19:30:00,USD,High,Unemployment Claims,240K,242K,245K,-79.0,-25.0,-19.0,-14.0
+2017-08-03 20:45:00,USD,Low,Final Services PMI,54.7,54.2,54.2,-79.0,34.0,28.0,11.0
+2017-08-03 21:00:00,USD,High,ISM Services PMI,53.9,56.9,57.4,-79.0,47.0,34.0,28.0
+2017-08-03 21:00:00,USD,Medium,Factory Orders m/m,3.0%,2.9%,-0.3%,-79.0,47.0,34.0,28.0
+2017-08-03 21:30:00,USD,Low,Natural Gas Storage,20B,23B,17B,-79.0,26.0,26.0,-11.0
+2017-08-04 13:00:00,EUR,Low,German Factory Orders m/m,1.0%,0.6%,1.1%,-161.0,11.0,-11.0,-11.0
+2017-08-04 15:00:00,EUR,Low,Italian Retail Sales m/m,0.6%,0.1%,0.0%,-161.0,7.0,4.0,-4.0
+2017-08-04 19:30:00,USD,High,Average Hourly Earnings m/m,0.3%,0.3%,0.2%,-161.0,-42.0,-42.0,-42.0
+2017-08-04 19:30:00,USD,High,Non-Farm Employment Change,209K,182K,231K,-161.0,-42.0,-42.0,-42.0
+2017-08-04 19:30:00,USD,High,Unemployment Rate,4.3%,4.3%,4.4%,-161.0,-42.0,-42.0,-42.0
+2017-08-04 19:30:00,USD,Low,Trade Balance,-43.6B,-43.9B,-46.4B,-161.0,-42.0,-42.0,-42.0
+2017-08-07 13:00:00,EUR,Low,German Industrial Production m/m,-1.1%,0.2%,1.2%,44.0,-12.0,11.0,7.0
+2017-08-07 15:30:00,EUR,Low,Sentix Investor Confidence,27.7,27.8,28.3,44.0,-14.0,-13.0,-7.0
+2017-08-08 02:00:00,USD,Low,Consumer Credit m/m,12.4B,15.6B,18.3B,-109.0,8.0,7.0,-5.0
+2017-08-08 13:00:00,EUR,Low,German Trade Balance,21.2B,20.8B,20.3B,-109.0,11.0,9.0,-5.0
+2017-08-08 13:45:00,EUR,Low,French Trade Balance,-4.7B,-5.1B,-4.4B,-109.0,15.0,-10.0,-8.0
+2017-08-08 17:00:00,USD,Low,NFIB Small Business Index,105.2,103.6,103.6,-109.0,11.0,6.0,-3.0
+2017-08-08 21:00:00,USD,Medium,JOLTS Job Openings,6.16M,5.74M,5.70M,-109.0,-80.0,-65.0,-33.0
+2017-08-08 21:00:00,USD,Low,IBD/TIPP Economic Optimism,52.2,50.6,50.2,-109.0,-80.0,-65.0,-33.0
+2017-08-09 15:00:00,EUR,Low,Italian Industrial Production m/m,1.1%,0.2%,0.7%,-81.0,-21.0,-17.0,-11.0
+2017-08-09 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,0.9%,0.7%,0.0%,-81.0,-58.0,-13.0,-13.0
+2017-08-09 19:30:00,USD,Medium,Prelim Unit Labor Costs q/q,0.6%,1.1%,2.2%,-81.0,-58.0,-13.0,-13.0
+2017-08-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.7%,0.6%,0.6%,-81.0,41.0,32.0,13.0
+2017-08-09 21:30:00,USD,High,Crude Oil Inventories,-6.5M,-2.6M,-1.5M,-81.0,19.0,19.0,-6.0
+2017-08-10 13:45:00,EUR,Low,French Industrial Production m/m,-1.1%,-0.6%,1.9%,-66.0,-13.0,12.0,-5.0
+2017-08-10 15:00:00,EUR,Low,Italian Trade Balance,4.50B,3.87B,4.34B,-66.0,15.0,9.0,9.0
+2017-08-10 19:30:00,USD,High,PPI m/m,-0.1%,0.1%,0.1%,-66.0,23.0,-22.0,19.0
+2017-08-10 19:30:00,USD,High,Unemployment Claims,244K,240K,241K,-66.0,23.0,-22.0,19.0
+2017-08-10 19:30:00,USD,Medium,Core PPI m/m,-0.1%,0.2%,0.1%,-66.0,23.0,-22.0,19.0
+2017-08-10 21:30:00,USD,Low,Natural Gas Storage,28B,38B,20B,-66.0,33.0,33.0,15.0
+2017-08-11 01:00:00,USD,Low,Federal Budget Balance,-42.9B,-60.9B,-90.2B,86.0,22.0,4.0,-4.0
+2017-08-11 13:00:00,EUR,Low,German Final CPI m/m,0.4%,0.4%,0.4%,86.0,-14.0,10.0,-9.0
+2017-08-11 13:00:00,EUR,Low,German WPI m/m,-0.1%,0.3%,0.0%,86.0,-14.0,10.0,-9.0
+2017-08-11 13:45:00,EUR,Low,French Final CPI m/m,-0.3%,-0.3%,-0.3%,86.0,-12.0,-8.0,4.0
+2017-08-11 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,0.5%,0.4%,0.4%,86.0,-12.0,-8.0,4.0
+2017-08-11 19:30:00,USD,High,CPI m/m,0.1%,0.2%,0.0%,86.0,72.0,72.0,70.0
+2017-08-11 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.1%,86.0,72.0,72.0,70.0
+2017-08-14 16:00:00,EUR,Low,Industrial Production m/m,-0.6%,-0.4%,1.2%,-68.0,-10.0,-8.0,-7.0
+2017-08-15 13:00:00,EUR,Medium,German Prelim GDP q/q,0.6%,0.7%,0.7%,-108.0,-29.0,-13.0,-10.0
+2017-08-15 19:30:00,USD,High,Core Retail Sales m/m,0.5%,0.3%,0.1%,-108.0,-51.0,-51.0,-45.0
+2017-08-15 19:30:00,USD,High,Retail Sales m/m,0.6%,0.3%,0.3%,-108.0,-51.0,-51.0,-45.0
+2017-08-15 19:30:00,USD,Medium,Empire State Manufacturing Index,25.2,10.1,9.8,-108.0,-51.0,-51.0,-45.0
+2017-08-15 19:30:00,USD,Medium,Import Prices m/m,0.1%,0.1%,-0.2%,-108.0,-51.0,-51.0,-45.0
+2017-08-15 21:00:00,USD,Low,Business Inventories m/m,0.5%,0.4%,0.3%,-108.0,18.0,10.0,-8.0
+2017-08-15 21:00:00,USD,Low,NAHB Housing Market Index,68,64,64,-108.0,18.0,10.0,-8.0
+2017-08-16 03:00:00,USD,Low,TIC Long-Term Purchases,34.4B,28.3B,91.9B,-76.0,-8.0,-5.0,3.0
+2017-08-16 15:00:00,EUR,Low,Italian Prelim GDP q/q,0.4%,0.4%,0.2%,-76.0,48.0,-33.0,-33.0
+2017-08-16 16:00:00,EUR,Medium,Flash GDP q/q,0.6%,0.6%,0.6%,-76.0,-17.0,14.0,10.0
+2017-08-16 19:30:00,USD,High,Building Permits,1.22M,1.25M,1.28M,-76.0,-39.0,-19.0,15.0
+2017-08-16 19:30:00,USD,Medium,Housing Starts,1.16M,1.22M,1.21M,-76.0,-39.0,-19.0,15.0
+2017-08-16 21:30:00,USD,High,Crude Oil Inventories,-8.9M,-3.0M,-6.5M,-76.0,-18.0,-14.0,9.0
+2017-08-17 16:00:00,EUR,Medium,Final CPI y/y,1.3%,1.3%,1.3%,-128.0,-34.0,-14.0,5.0
+2017-08-17 16:00:00,EUR,Low,Final Core CPI y/y,1.2%,1.2%,1.2%,-128.0,-34.0,-14.0,5.0
+2017-08-17 16:00:00,EUR,Low,Trade Balance,22.3B,20.4B,19.0B,-128.0,-34.0,-14.0,5.0
+2017-08-17 19:30:00,USD,High,Unemployment Claims,232K,240K,244K,-128.0,38.0,-17.0,-16.0
+2017-08-17 19:30:00,USD,Medium,Philly Fed Manufacturing Index,18.9,18.3,19.5,-128.0,38.0,-17.0,-16.0
+2017-08-17 19:47:00,USD,Medium,Capacity Utilization Rate,76.7%,76.7%,76.7%,-128.0,38.0,22.0,15.0
+2017-08-17 19:47:00,USD,Medium,Industrial Production m/m,0.2%,0.3%,0.4%,-128.0,38.0,22.0,15.0
+2017-08-17 21:00:00,USD,Low,CB Leading Index m/m,0.3%,0.3%,0.6%,-128.0,-33.0,24.0,19.0
+2017-08-17 21:30:00,USD,Low,Natural Gas Storage,53B,47B,28B,-128.0,32.0,32.0,20.0
+2017-08-18 13:00:00,EUR,Low,German PPI m/m,0.2%,0.0%,0.0%,66.0,16.0,-12.0,-11.0
+2017-08-18 15:00:00,EUR,Low,Current Account,21.2B,27.3B,30.5B,66.0,25.0,13.0,11.0
+2017-08-18 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,97.6,94.0,93.4,66.0,-23.0,-23.0,-22.0
+2017-08-22 16:00:00,EUR,Medium,German ZEW Economic Sentiment,10.0,14.8,17.5,-83.0,-17.0,8.0,-8.0
+2017-08-22 16:00:00,EUR,Low,ZEW Economic Sentiment,29.3,34.2,35.6,-83.0,-17.0,8.0,-8.0
+2017-08-22 20:00:00,USD,Low,HPI m/m,0.1%,0.5%,0.3%,-83.0,-18.0,12.0,11.0
+2017-08-22 20:59:00,USD,Low,Richmond Manufacturing Index,14,11,14,-83.0,15.0,-8.0,8.0
+2017-08-23 14:00:00,EUR,Medium,French Flash Manufacturing PMI,55.8,54.5,54.9,80.0,44.0,-20.0,-8.0
+2017-08-23 14:00:00,EUR,Medium,French Flash Services PMI,55.5,55.9,56.0,80.0,44.0,-20.0,-8.0
+2017-08-23 14:30:00,EUR,Medium,German Flash Manufacturing PMI,59.4,57.7,58.1,80.0,46.0,37.0,31.0
+2017-08-23 14:30:00,EUR,Medium,German Flash Services PMI,53.4,53.4,53.1,80.0,46.0,37.0,31.0
+2017-08-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,57.4,56.3,56.6,80.0,17.0,17.0,-14.0
+2017-08-23 15:00:00,EUR,Medium,Flash Services PMI,54.9,55.4,55.4,80.0,17.0,17.0,-14.0
+2017-08-23 20:45:00,USD,Low,Flash Manufacturing PMI,52.5,53.4,53.3,80.0,33.0,27.0,11.0
+2017-08-23 20:45:00,USD,Low,Flash Services PMI,56.9,55.0,54.7,80.0,33.0,27.0,11.0
+2017-08-23 20:56:00,EUR,Low,Consumer Confidence,-2,-2,-2,80.0,24.0,24.0,16.0
+2017-08-23 21:00:00,USD,Medium,New Home Sales,571K,611K,630K,80.0,22.0,22.0,17.0
+2017-08-23 21:30:00,USD,High,Crude Oil Inventories,-3.3M,-3.3M,-8.9M,80.0,-11.0,-11.0,9.0
+2017-08-24 19:30:00,USD,High,Unemployment Claims,234K,237K,232K,-39.0,-15.0,-13.0,-13.0
+2017-08-24 19:59:00,EUR,Low,Belgian NBB Business Climate,-2.1,-1.6,-1.5,-39.0,-13.0,-13.0,7.0
+2017-08-24 21:00:00,USD,Medium,Existing Home Sales,5.44M,5.55M,5.51M,-39.0,18.0,-9.0,-5.0
+2017-08-24 21:30:00,USD,Low,Natural Gas Storage,43B,44B,53B,-39.0,19.0,18.0,-12.0
+2017-08-25 13:00:00,EUR,Low,German Final GDP q/q,0.6%,0.6%,0.6%,113.0,-8.0,-6.0,-6.0
+2017-08-25 13:00:00,EUR,Low,German Import Prices m/m,-0.4%,0.1%,-1.1%,113.0,-8.0,-6.0,-6.0
+2017-08-25 15:00:00,EUR,High,German ifo Business Climate,115.9,115.5,116.0,113.0,22.0,19.0,7.0
+2017-08-25 19:30:00,USD,High,Core Durable Goods Orders m/m,0.5%,0.4%,0.1%,113.0,14.0,10.0,10.0
+2017-08-25 19:30:00,USD,Medium,Durable Goods Orders m/m,-6.8%,-6.0%,6.4%,113.0,14.0,10.0,10.0
+2017-08-28 15:00:00,EUR,Medium,M3 Money Supply y/y,4.5%,4.9%,5.0%,66.0,18.0,16.0,8.0
+2017-08-28 15:00:00,EUR,Low,Private Loans y/y,2.6%,2.7%,2.6%,66.0,18.0,16.0,8.0
+2017-08-28 19:30:00,USD,Low,Goods Trade Balance,-65.1B,-64.5B,-64.0B,66.0,14.0,14.0,12.0
+2017-08-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,0.4%,0.3%,0.7%,66.0,14.0,14.0,12.0
+2017-08-29 13:00:00,EUR,Low,German GfK Consumer Climate,10.9,10.8,10.8,115.0,44.0,16.0,-9.0
+2017-08-29 13:45:00,EUR,Low,French Consumer Spending m/m,0.7%,0.7%,-0.7%,115.0,44.0,44.0,29.0
+2017-08-29 13:45:00,EUR,Low,French Prelim GDP q/q,0.5%,0.5%,0.5%,115.0,44.0,44.0,29.0
+2017-08-29 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.7%,5.6%,5.7%,115.0,-14.0,-7.0,-7.0
+2017-08-29 21:00:00,USD,High,CB Consumer Confidence,122.9,120.9,120.0,115.0,-19.0,-18.0,-18.0
+2017-08-30 13:00:00,EUR,Medium,German Prelim CPI m/m,0.1%,0.1%,0.4%,-128.0,-26.0,-24.0,-9.0
+2017-08-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.6%,1.7%,1.5%,-128.0,-31.0,-26.0,-15.0
+2017-08-30 19:15:00,USD,High,ADP Non-Farm Employment Change,237K,185K,201K,-128.0,37.0,-31.0,9.0
+2017-08-30 19:30:00,USD,High,Prelim GDP q/q,3.0%,2.7%,2.6%,-128.0,38.0,33.0,-31.0
+2017-08-30 19:30:00,USD,Low,Prelim GDP Price Index q/q,1.0%,1.0%,1.0%,-128.0,38.0,33.0,-31.0
+2017-08-30 21:30:00,USD,High,Crude Oil Inventories,-5.4M,-1.8M,-3.3M,-128.0,23.0,23.0,-14.0
+2017-08-31 13:00:00,EUR,Medium,German Retail Sales m/m,-1.2%,-0.5%,1.3%,85.0,29.0,-10.0,6.0
+2017-08-31 13:45:00,EUR,Low,French Prelim CPI m/m,0.5%,0.5%,-0.3%,85.0,22.0,21.0,14.0
+2017-08-31 14:55:00,EUR,Low,German Unemployment Change,-5K,-6K,-8K,85.0,-13.0,7.0,6.0
+2017-08-31 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.3%,11.1%,11.2%,85.0,16.0,7.0,-5.0
+2017-08-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.5%,1.4%,1.3%,85.0,-34.0,-19.0,-19.0
+2017-08-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.2%,1.2%,1.2%,85.0,-34.0,-19.0,-19.0
+2017-08-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,0.1%,85.0,-34.0,-19.0,-19.0
+2017-08-31 16:00:00,EUR,Low,Unemployment Rate,9.1%,9.1%,9.1%,85.0,-34.0,-19.0,-19.0
+2017-08-31 19:30:00,USD,High,Unemployment Claims,236K,237K,235K,85.0,25.0,22.0,18.0
+2017-08-31 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,85.0,25.0,22.0,18.0
+2017-08-31 19:30:00,USD,Medium,Personal Spending m/m,0.3%,0.4%,0.2%,85.0,25.0,22.0,18.0
+2017-08-31 19:30:00,USD,Low,Personal Income m/m,0.4%,0.3%,0.0%,85.0,25.0,22.0,18.0
+2017-08-31 20:45:00,USD,Medium,Chicago PMI,58.9,58.7,58.9,85.0,25.0,13.0,-9.0
+2017-08-31 21:00:00,USD,Medium,Pending Home Sales m/m,-0.8%,0.4%,1.3%,85.0,48.0,23.0,13.0
+2017-08-31 21:30:00,USD,Low,Natural Gas Storage,30B,33B,43B,85.0,34.0,34.0,-8.0
+2017-09-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,52.4,54.4,54.0,-130.0,14.0,-9.0,5.0
+2017-09-01 14:45:00,EUR,Low,Italian Manufacturing PMI,56.3,55.3,55.1,-130.0,23.0,14.0,9.0
+2017-09-01 14:50:00,EUR,Low,French Final Manufacturing PMI,55.8,55.8,55.8,-130.0,23.0,14.0,10.0
+2017-09-01 14:55:00,EUR,Low,German Final Manufacturing PMI,59.3,59.4,59.4,-130.0,20.0,12.0,8.0
+2017-09-01 15:00:00,EUR,Low,Final Manufacturing PMI,57.4,57.4,57.4,-130.0,20.0,16.0,11.0
+2017-09-01 19:30:00,USD,High,Average Hourly Earnings m/m,0.1%,0.2%,0.3%,-130.0,-90.0,-86.0,-74.0
+2017-09-01 19:30:00,USD,High,Non-Farm Employment Change,156K,180K,189K,-130.0,-90.0,-86.0,-74.0
+2017-09-01 19:30:00,USD,High,Unemployment Rate,4.4%,4.3%,4.3%,-130.0,-90.0,-86.0,-74.0
+2017-09-01 20:45:00,USD,Low,Final Manufacturing PMI,52.8,52.5,52.5,-130.0,35.0,-34.0,-19.0
+2017-09-01 21:00:00,USD,High,ISM Manufacturing PMI,58.8,56.5,56.3,-130.0,45.0,30.0,25.0
+2017-09-01 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,96.8,97.4,97.6,-130.0,45.0,30.0,25.0
+2017-09-01 21:00:00,USD,Low,Construction Spending m/m,-0.6%,0.5%,-1.4%,-130.0,45.0,30.0,25.0
+2017-09-01 21:00:00,USD,Low,ISM Manufacturing Prices,62.0,61.9,62.0,-130.0,45.0,30.0,25.0
+2017-09-01 21:00:00,USD,Low,Wards Total Vehicle Sales,16.0M,16.6M,16.7M,-130.0,45.0,30.0,25.0
+2017-09-01 21:00:00,USD,Low,Total Vehicle Sales,16.1M,16.6M,16.7M,-130.0,45.0,30.0,25.0
+2017-09-04 14:00:00,EUR,Medium,Spanish Unemployment Change,46.4K,16.3K,-26.9K,49.0,-16.0,-14.0,-10.0
+2017-09-04 15:30:00,EUR,Low,Sentix Investor Confidence,28.2,27.4,27.7,49.0,15.0,14.0,-9.0
+2017-09-04 16:00:00,EUR,Low,PPI m/m,0.0%,0.1%,-0.2%,49.0,-14.0,-13.0,6.0
+2017-09-05 14:15:00,EUR,Low,Spanish Services PMI,56.0,56.9,57.6,72.0,-39.0,-35.0,-11.0
+2017-09-05 14:45:00,EUR,Low,Italian Services PMI,55.1,55.5,56.3,72.0,15.0,13.0,11.0
+2017-09-05 14:50:00,EUR,Low,French Final Services PMI,54.9,55.5,55.5,72.0,19.0,14.0,10.0
+2017-09-05 14:55:00,EUR,Low,German Final Services PMI,53.5,53.4,53.4,72.0,15.0,10.0,7.0
+2017-09-05 15:00:00,EUR,Low,Final Services PMI,54.7,54.9,54.9,72.0,13.0,-8.0,4.0
+2017-09-05 16:00:00,EUR,Low,Retail Sales m/m,-0.3%,-0.2%,0.6%,72.0,-9.0,-7.0,-4.0
+2017-09-05 21:00:00,USD,Medium,Factory Orders m/m,-3.3%,-3.3%,3.2%,72.0,53.0,26.0,26.0
+2017-09-06 13:00:00,EUR,Low,German Factory Orders m/m,-0.7%,0.2%,0.9%,47.0,-13.0,-13.0,-12.0
+2017-09-06 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.2%,-0.2%,0.6%,47.0,17.0,15.0,14.0
+2017-09-06 19:30:00,USD,Medium,Trade Balance,-43.7B,-44.6B,-43.5B,47.0,-15.0,13.0,11.0
+2017-09-06 20:45:00,USD,Low,Final Services PMI,56.0,56.8,56.9,47.0,-24.0,-20.0,-10.0
+2017-09-06 21:00:00,USD,High,ISM Services PMI,55.3,55.8,53.9,47.0,31.0,-24.0,-20.0
+2017-09-07 13:00:00,EUR,Low,German Industrial Production m/m,0.0%,0.5%,-1.1%,151.0,14.0,9.0,-9.0
+2017-09-07 13:45:00,EUR,Low,French Trade Balance,-6.0B,-4.5B,-4.9B,151.0,22.0,19.0,6.0
+2017-09-07 16:00:00,EUR,Low,Revised GDP q/q,0.6%,0.6%,0.6%,151.0,25.0,17.0,8.0
+2017-09-07 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,151.0,-87.0,-27.0,-27.0
+2017-09-07 19:30:00,USD,High,Unemployment Claims,298K,245K,236K,151.0,127.0,120.0,-87.0
+2017-09-07 19:30:00,USD,Low,Revised Nonfarm Productivity q/q,1.5%,1.3%,0.9%,151.0,127.0,120.0,-87.0
+2017-09-07 19:30:00,USD,Low,Revised Unit Labor Costs q/q,0.2%,0.3%,0.6%,151.0,127.0,120.0,-87.0
+2017-09-07 20:58:00,USD,Low,IBD/TIPP Economic Optimism,53.4,53.1,52.2,151.0,-22.0,21.0,15.0
+2017-09-07 21:30:00,USD,Low,Natural Gas Storage,65B,63B,30B,151.0,33.0,-22.0,-22.0
+2017-09-07 22:00:00,USD,High,Crude Oil Inventories,4.6M,4.1M,-5.4M,151.0,30.0,28.0,17.0
+2017-09-08 13:00:00,EUR,Low,German Trade Balance,19.5B,20.3B,21.2B,103.0,-35.0,-26.0,-16.0
+2017-09-08 13:45:00,EUR,Low,French Industrial Production m/m,0.5%,0.5%,-1.1%,103.0,-31.0,-17.0,11.0
+2017-09-08 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.6%,0.4%,0.4%,103.0,-25.0,-19.0,14.0
+2017-09-09 02:00:00,USD,Low,Consumer Credit m/m,18.5B,15.1B,11.8B,14.0,12.0,12.0,12.0
+2017-09-11 15:00:00,EUR,Low,Italian Industrial Production m/m,0.1%,-0.5%,1.1%,-72.0,17.0,12.0,7.0
+2017-09-12 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.4%,0.5%,0.5%,-52.0,26.0,11.0,7.0
+2017-09-12 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,11.2%,11.3%,11.6%,-52.0,-21.0,-14.0,-5.0
+2017-09-12 17:00:00,USD,Low,NFIB Small Business Index,105.3,104.8,105.2,-52.0,-33.0,-7.0,-4.0
+2017-09-12 21:00:00,USD,Medium,JOLTS Job Openings,6.17M,5.96M,6.12M,-52.0,26.0,26.0,16.0
+2017-09-13 13:00:00,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%,-115.0,-18.0,12.0,9.0
+2017-09-13 13:00:00,EUR,Low,German WPI m/m,0.3%,0.1%,-0.1%,-115.0,-18.0,12.0,9.0
+2017-09-13 14:00:00,EUR,Low,Final Employment Change q/q,0.4%,0.3%,0.5%,-115.0,21.0,18.0,10.0
+2017-09-13 16:00:00,EUR,Low,Industrial Production m/m,0.1%,0.1%,-0.6%,-115.0,-19.0,-11.0,-8.0
+2017-09-13 19:30:00,USD,High,PPI m/m,0.2%,0.3%,-0.1%,-115.0,-42.0,-20.0,-10.0
+2017-09-13 19:30:00,USD,Medium,Core PPI m/m,0.1%,0.2%,-0.1%,-115.0,-42.0,-20.0,-10.0
+2017-09-13 21:30:00,USD,High,Crude Oil Inventories,5.9M,4.1M,4.6M,-115.0,-28.0,13.0,-10.0
+2017-09-14 00:59:00,USD,Low,Federal Budget Balance,-107.7B,-118.6B,-42.9B,-72.0,-12.0,-5.0,-4.0
+2017-09-14 13:45:00,EUR,Low,French Final CPI m/m,0.5%,0.5%,0.5%,-72.0,18.0,9.0,7.0
+2017-09-14 19:30:00,USD,High,CPI m/m,0.4%,0.3%,0.1%,-72.0,71.0,71.0,-56.0
+2017-09-14 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.1%,-72.0,71.0,71.0,-56.0
+2017-09-14 19:30:00,USD,High,Unemployment Claims,284K,303K,298K,-72.0,71.0,71.0,-56.0
+2017-09-14 21:30:00,USD,Low,Natural Gas Storage,91B,80B,65B,-72.0,-24.0,-23.0,-14.0
+2017-09-15 16:00:00,EUR,Low,Trade Balance,18.6B,20.1B,21.7B,103.0,29.0,29.0,18.0
+2017-09-15 19:30:00,USD,High,Core Retail Sales m/m,0.2%,0.5%,0.4%,103.0,-25.0,-25.0,24.0
+2017-09-15 19:30:00,USD,High,Retail Sales m/m,-0.2%,0.1%,0.3%,103.0,-25.0,-25.0,24.0
+2017-09-15 19:30:00,USD,Medium,Empire State Manufacturing Index,24.4,18.2,25.2,103.0,-25.0,-25.0,24.0
+2017-09-15 20:15:00,USD,Medium,Capacity Utilization Rate,76.1%,76.8%,76.9%,103.0,-25.0,-20.0,16.0
+2017-09-15 20:15:00,USD,Medium,Industrial Production m/m,-0.9%,0.1%,0.4%,103.0,-25.0,-20.0,16.0
+2017-09-15 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,95.3,95.1,96.8,103.0,19.0,-19.0,-17.0
+2017-09-15 21:00:00,USD,Low,Business Inventories m/m,0.2%,0.2%,0.5%,103.0,19.0,-19.0,-17.0
+2017-09-18 15:02:00,EUR,Low,Italian Trade Balance,6.56B,3.89B,4.50B,54.0,23.0,12.0,9.0
+2017-09-18 16:00:00,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%,54.0,16.0,-9.0,-9.0
+2017-09-18 16:00:00,EUR,Low,Final Core CPI y/y,1.2%,1.2%,1.2%,54.0,16.0,-9.0,-9.0
+2017-09-18 21:00:00,USD,Low,NAHB Housing Market Index,64,67,67,54.0,-20.0,-10.0,6.0
+2017-09-19 03:00:00,USD,Low,TIC Long-Term Purchases,1.3B,42.3B,34.4B,78.0,-9.0,6.0,3.0
+2017-09-19 15:00:00,EUR,Low,Current Account,25.1B,22.3B,22.8B,78.0,-32.0,14.0,11.0
+2017-09-19 16:00:00,EUR,Medium,German ZEW Economic Sentiment,17.0,12.3,10.0,78.0,11.0,11.0,8.0
+2017-09-19 16:00:00,EUR,Low,ZEW Economic Sentiment,31.7,32.4,29.3,78.0,11.0,11.0,8.0
+2017-09-19 19:30:00,USD,High,Building Permits,1.30M,1.22M,1.23M,78.0,21.0,21.0,21.0
+2017-09-19 19:30:00,USD,Medium,Current Account,-123B,-115B,-114B,78.0,21.0,21.0,21.0
+2017-09-19 19:30:00,USD,Medium,Housing Starts,1.18M,1.17M,1.19M,78.0,21.0,21.0,21.0
+2017-09-19 19:30:00,USD,Medium,Import Prices m/m,0.6%,0.4%,-0.1%,78.0,21.0,21.0,21.0
+2017-09-20 13:00:00,EUR,Low,German PPI m/m,0.2%,0.1%,0.2%,51.0,-19.0,-14.0,-11.0
+2017-09-20 21:00:00,USD,Medium,Existing Home Sales,5.35M,5.46M,5.44M,51.0,9.0,-9.0,-9.0
+2017-09-20 21:30:00,USD,High,Crude Oil Inventories,4.6M,2.8M,5.9M,51.0,-17.0,-6.0,6.0
+2017-09-21 01:00:00,USD,High,Federal Funds Rate,<1.25%,<1.25%,<1.25%,-172.0,-172.0,-150.0,-106.0
+2017-09-21 19:30:00,USD,High,Unemployment Claims,259K,302K,282K,-172.0,22.0,22.0,20.0
+2017-09-21 19:30:00,USD,Medium,Philly Fed Manufacturing Index,23.8,17.3,18.9,-172.0,22.0,22.0,20.0
+2017-09-21 20:00:00,USD,Low,HPI m/m,0.2%,0.4%,0.1%,-172.0,20.0,-10.0,-10.0
+2017-09-21 20:55:00,EUR,Low,Consumer Confidence,-1,-2,-2,-172.0,-14.0,-14.0,-11.0
+2017-09-21 21:00:00,USD,Low,CB Leading Index m/m,0.4%,0.3%,0.3%,-172.0,-15.0,11.0,-8.0
+2017-09-21 21:30:00,USD,Low,Natural Gas Storage,97B,93B,91B,-172.0,28.0,-15.0,-10.0
+2017-09-22 14:00:00,EUR,Medium,French Flash Manufacturing PMI,56.0,55.6,55.8,76.0,33.0,13.0,-9.0
+2017-09-22 14:00:00,EUR,Medium,French Flash Services PMI,57.1,54.8,54.9,76.0,33.0,13.0,-9.0
+2017-09-22 14:30:00,EUR,Medium,German Flash Manufacturing PMI,60.6,59.0,59.3,76.0,23.0,23.0,20.0
+2017-09-22 14:30:00,EUR,Medium,German Flash Services PMI,55.6,53.8,53.5,76.0,23.0,23.0,20.0
+2017-09-22 15:00:00,EUR,Medium,Flash Manufacturing PMI,58.2,57.2,57.4,76.0,-15.0,8.0,8.0
+2017-09-22 15:00:00,EUR,Medium,Flash Services PMI,55.6,54.7,54.7,76.0,-15.0,8.0,8.0
+2017-09-22 19:59:00,EUR,Low,Belgian NBB Business Climate,-3.5,-2.0,-2.1,76.0,-16.0,-15.0,-6.0
+2017-09-22 20:45:00,USD,Low,Flash Manufacturing PMI,53.0,52.9,52.8,76.0,21.0,16.0,-10.0
+2017-09-22 20:45:00,USD,Low,Flash Services PMI,55.1,55.8,56.0,76.0,21.0,16.0,-10.0
+2017-09-25 15:00:00,EUR,Medium,German ifo Business Climate,115.2,116.0,115.9,-104.0,17.0,-12.0,-12.0
+2017-09-26 13:00:00,EUR,Low,German Import Prices m/m,0.0%,0.1%,-0.4%,-104.0,19.0,14.0,13.0
+2017-09-26 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.8%,5.7%,5.6%,-104.0,-17.0,-9.0,6.0
+2017-09-26 20:59:00,USD,Low,Richmond Manufacturing Index,19,13,14,-104.0,-26.0,-11.0,10.0
+2017-09-26 21:00:00,USD,High,CB Consumer Confidence,119.8,119.9,120.4,-104.0,-26.0,-11.0,10.0
+2017-09-26 21:00:00,USD,Medium,New Home Sales,560K,585K,580K,-104.0,-26.0,-11.0,10.0
+2017-09-27 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,4.6%,4.5%,-93.0,-26.0,-22.0,-8.0
+2017-09-27 15:00:00,EUR,Low,Private Loans y/y,2.7%,2.7%,2.7%,-93.0,-26.0,-22.0,-8.0
+2017-09-27 19:30:00,USD,High,Core Durable Goods Orders m/m,0.2%,0.2%,0.6%,-93.0,-21.0,-20.0,-15.0
+2017-09-27 19:30:00,USD,Medium,Durable Goods Orders m/m,1.7%,1.0%,-6.8%,-93.0,-21.0,-20.0,-15.0
+2017-09-27 21:00:00,USD,Medium,Pending Home Sales m/m,-2.6%,-0.5%,-0.8%,-93.0,27.0,23.0,23.0
+2017-09-27 21:30:00,USD,High,Crude Oil Inventories,-1.8M,2.9M,4.6M,-93.0,26.0,23.0,-10.0
+2017-09-28 13:00:00,EUR,Low,German GfK Consumer Climate,10.8,11.0,10.9,82.0,29.0,21.0,14.0
+2017-09-28 13:00:00,EUR,Medium,German Prelim CPI m/m,0.1%,0.1%,0.1%,82.0,29.0,21.0,14.0
+2017-09-28 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.8%,1.8%,1.6%,82.0,33.0,-27.0,-22.0
+2017-09-28 19:30:00,USD,High,Final GDP q/q,3.1%,3.0%,3.0%,82.0,26.0,-16.0,-12.0
+2017-09-28 19:30:00,USD,High,Unemployment Claims,272K,269K,260K,82.0,26.0,-16.0,-12.0
+2017-09-28 19:30:00,USD,Low,Final GDP Price Index q/q,1.0%,1.0%,1.0%,82.0,26.0,-16.0,-12.0
+2017-09-28 19:30:00,USD,Low,Goods Trade Balance,-62.9B,-65.0B,-63.9B,82.0,26.0,-16.0,-12.0
+2017-09-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,1.0%,0.4%,0.6%,82.0,26.0,-16.0,-12.0
+2017-09-28 21:30:00,USD,Low,Natural Gas Storage,58B,77B,97B,82.0,12.0,11.0,-8.0
+2017-09-29 13:00:00,EUR,Medium,German Retail Sales m/m,-0.4%,0.5%,0.6%,60.0,28.0,10.0,4.0
+2017-09-29 13:45:00,EUR,Low,French Consumer Spending m/m,-0.3%,0.2%,0.6%,60.0,19.0,-11.0,9.0
+2017-09-29 13:45:00,EUR,Low,French Prelim CPI m/m,-0.1%,-0.2%,0.5%,60.0,19.0,-11.0,9.0
+2017-09-29 14:55:00,EUR,Low,German Unemployment Change,-23K,-5K,-6K,60.0,12.0,12.0,10.0
+2017-09-29 16:00:00,EUR,Medium,CPI Flash Estimate y/y,1.5%,1.6%,1.5%,60.0,13.0,8.0,-8.0
+2017-09-29 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.1%,1.2%,1.2%,60.0,13.0,8.0,-8.0
+2017-09-29 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.3%,-0.2%,0.3%,60.0,13.0,8.0,-8.0
+2017-09-29 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.2%,0.1%,60.0,30.0,30.0,27.0
+2017-09-29 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.1%,0.3%,60.0,30.0,30.0,27.0
+2017-09-29 19:30:00,USD,Low,Personal Income m/m,0.2%,0.2%,0.3%,60.0,30.0,30.0,27.0
+2017-09-29 20:45:00,USD,Medium,Chicago PMI,65.2,58.6,58.9,60.0,-32.0,-32.0,-32.0
+2017-09-29 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,95.1,95.3,95.3,60.0,30.0,13.0,13.0
+2017-10-02 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.3,53.2,52.4,-85.0,-18.0,-15.0,-9.0
+2017-10-02 14:45:00,EUR,Low,Italian Manufacturing PMI,56.3,56.9,56.3,-85.0,12.0,9.0,9.0
+2017-10-02 14:50:00,EUR,Low,French Final Manufacturing PMI,56.1,56.0,56.0,-85.0,15.0,-7.0,7.0
+2017-10-02 14:55:00,EUR,Low,German Final Manufacturing PMI,60.6,60.6,60.6,-85.0,19.0,-11.0,-6.0
+2017-10-02 15:00:00,EUR,Low,Final Manufacturing PMI,58.1,58.2,58.2,-85.0,19.0,-11.0,-7.0
+2017-10-02 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.2%,11.2%,11.3%,-85.0,19.0,-11.0,-7.0
+2017-10-02 16:00:00,EUR,Low,Unemployment Rate,9.1%,9.0%,9.1%,-85.0,-18.0,-9.0,8.0
+2017-10-02 20:45:00,USD,Low,Final Manufacturing PMI,53.1,53.0,53.0,-85.0,-25.0,-25.0,-13.0
+2017-10-02 21:00:00,USD,High,ISM Manufacturing PMI,60.8,57.9,58.8,-85.0,24.0,21.0,14.0
+2017-10-02 21:00:00,USD,Low,Construction Spending m/m,0.5%,0.4%,-1.2%,-85.0,24.0,21.0,14.0
+2017-10-02 21:00:00,USD,Low,ISM Manufacturing Prices,71.5,64.5,62.0,-85.0,24.0,21.0,14.0
+2017-10-03 14:00:00,EUR,Medium,Spanish Unemployment Change,27.9K,21.3K,46.4K,77.0,24.0,17.0,-5.0
+2017-10-03 16:00:00,EUR,Low,PPI m/m,0.3%,0.1%,0.0%,77.0,17.0,11.0,6.0
+2017-10-03 19:30:00,USD,Low,Wards Total Vehicle Sales,18.5M,17.2M,16.0M,77.0,20.0,-11.0,-11.0
+2017-10-04 11:30:00,USD,Low,Total Vehicle Sales,18.6M,16.9M,16.1M,53.0,10.0,4.0,-2.0
+2017-10-04 14:15:00,EUR,Low,Spanish Services PMI,56.7,55.5,56.0,53.0,19.0,16.0,9.0
+2017-10-04 14:45:00,EUR,Low,Italian Services PMI,53.2,54.8,55.1,53.0,10.0,10.0,-5.0
+2017-10-04 14:50:00,EUR,Low,French Final Services PMI,57.0,57.1,57.1,53.0,10.0,10.0,9.0
+2017-10-04 14:55:00,EUR,Low,German Final Services PMI,55.6,55.6,55.6,53.0,-10.0,10.0,10.0
+2017-10-04 15:00:00,EUR,Low,Final Services PMI,55.8,55.6,55.6,53.0,-10.0,10.0,10.0
+2017-10-04 16:00:00,EUR,Low,Retail Sales m/m,-0.5%,0.3%,-0.3%,53.0,6.0,-6.0,-6.0
+2017-10-04 19:15:00,USD,High,ADP Non-Farm Employment Change,135K,131K,228K,53.0,-24.0,-24.0,-19.0
+2017-10-04 20:45:00,USD,Low,Final Services PMI,55.3,55.1,55.1,53.0,-21.0,-21.0,11.0
+2017-10-04 21:00:00,USD,High,ISM Services PMI,59.8,55.5,55.3,53.0,18.0,-17.0,-17.0
+2017-10-04 21:30:00,USD,High,Crude Oil Inventories,-6.0M,-0.5M,-1.8M,53.0,-11.0,-11.0,9.0
+2017-10-05 19:30:00,USD,High,Unemployment Claims,260K,266K,272K,-76.0,-27.0,-17.0,7.0
+2017-10-05 19:30:00,USD,Medium,Trade Balance,-42.4B,-42.7B,-43.6B,-76.0,-27.0,-17.0,7.0
+2017-10-05 21:00:00,USD,Medium,Factory Orders m/m,1.2%,1.0%,-3.3%,-76.0,-21.0,20.0,16.0
+2017-10-05 21:30:00,USD,Low,Natural Gas Storage,42B,56B,58B,-76.0,-28.0,-19.0,-10.0
+2017-10-06 13:00:00,EUR,Low,German Factory Orders m/m,3.6%,0.7%,-0.4%,69.0,-17.0,-16.0,-12.0
+2017-10-06 13:45:00,EUR,Low,French Trade Balance,-4.5B,-5.4B,-5.8B,69.0,-13.0,8.0,6.0
+2017-10-06 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.3%,0.2%,-0.4%,69.0,13.0,9.0,-6.0
+2017-10-06 19:30:00,USD,High,Average Hourly Earnings m/m,0.5%,0.3%,0.2%,69.0,38.0,-31.0,-31.0
+2017-10-06 19:30:00,USD,High,Non-Farm Employment Change,-33K,82K,169K,69.0,38.0,-31.0,-31.0
+2017-10-06 19:30:00,USD,High,Unemployment Rate,4.2%,4.4%,4.4%,69.0,38.0,-31.0,-31.0
+2017-10-06 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.9%,1.0%,1.0%,69.0,54.0,39.0,-16.0
+2017-10-07 02:00:00,USD,Low,Consumer Credit m/m,13.1B,15.8B,17.7B,13.0,-5.0,-5.0,-5.0
+2017-10-09 13:00:00,EUR,Low,German Industrial Production m/m,2.6%,0.9%,-0.1%,36.0,-17.0,-15.0,-14.0
+2017-10-09 15:30:00,EUR,Low,Sentix Investor Confidence,29.7,28.6,28.2,36.0,11.0,11.0,11.0
+2017-10-10 13:00:00,EUR,Low,German Trade Balance,21.6B,19.8B,19.3B,79.0,22.0,22.0,7.0
+2017-10-10 13:45:00,EUR,Low,French Industrial Production m/m,-0.3%,0.4%,0.8%,79.0,-16.0,-13.0,-6.0
+2017-10-10 15:00:00,EUR,Low,Italian Industrial Production m/m,1.2%,0.1%,0.1%,79.0,20.0,18.0,12.0
+2017-10-10 17:00:00,USD,Low,NFIB Small Business Index,103.0,105.1,105.3,79.0,-28.0,-17.0,-15.0
+2017-10-10 21:00:00,USD,Low,IBD/TIPP Economic Optimism,50.3,54.2,53.4,79.0,17.0,-8.0,7.0
+2017-10-11 21:00:00,USD,Medium,JOLTS Job Openings,6.08M,6.13M,6.14M,63.0,-17.0,-15.0,-9.0
+2017-10-12 13:45:00,EUR,Low,French Final CPI m/m,-0.2%,-0.1%,-0.1%,-51.0,-16.0,-14.0,7.0
+2017-10-12 16:00:00,EUR,Low,Industrial Production m/m,1.4%,0.6%,0.3%,-51.0,-15.0,-14.0,-5.0
+2017-10-12 19:30:00,USD,High,PPI m/m,0.4%,0.4%,0.2%,-51.0,-15.0,-15.0,-14.0
+2017-10-12 19:30:00,USD,High,Unemployment Claims,243K,251K,258K,-51.0,-15.0,-15.0,-14.0
+2017-10-12 19:30:00,USD,Medium,Core PPI m/m,0.4%,0.2%,0.1%,-51.0,-15.0,-15.0,-14.0
+2017-10-12 21:30:00,USD,Low,Natural Gas Storage,87B,74B,42B,-51.0,-15.0,11.0,-7.0
+2017-10-12 22:00:00,USD,High,Crude Oil Inventories,-2.7M,-1.9M,-6.0M,-51.0,13.0,-12.0,-12.0
+2017-10-13 13:00:00,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%,69.0,-13.0,7.0,-5.0
+2017-10-13 19:30:00,USD,High,CPI m/m,0.5%,0.6%,0.4%,69.0,68.0,67.0,67.0
+2017-10-13 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.2%,69.0,68.0,67.0,67.0
+2017-10-13 19:30:00,USD,High,Core Retail Sales m/m,1.0%,0.9%,0.5%,69.0,68.0,67.0,67.0
+2017-10-13 19:30:00,USD,High,Retail Sales m/m,1.6%,1.7%,-0.1%,69.0,68.0,67.0,67.0
+2017-10-13 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,101.1,95.1,95.1,69.0,-38.0,-25.0,-15.0
+2017-10-13 21:00:00,USD,Low,Business Inventories m/m,0.7%,0.7%,0.3%,69.0,-38.0,-25.0,-15.0
+2017-10-16 13:00:00,EUR,Low,German WPI m/m,0.6%,0.4%,0.3%,-39.0,-16.0,-11.0,-11.0
+2017-10-16 16:00:00,EUR,Low,Trade Balance,21.6B,20.3B,17.9B,-39.0,8.0,-6.0,-6.0
+2017-10-16 19:30:00,USD,Medium,Empire State Manufacturing Index,30.2,20.3,24.4,-39.0,14.0,12.0,9.0
+2017-10-17 15:05:00,EUR,Low,Italian Trade Balance,2.77B,4.23B,6.56B,-75.0,-15.0,-7.0,4.0
+2017-10-17 16:00:00,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%,-75.0,-14.0,-14.0,8.0
+2017-10-17 16:00:00,EUR,Medium,German ZEW Economic Sentiment,17.6,20.1,17.0,-75.0,-14.0,-14.0,8.0
+2017-10-17 16:00:00,EUR,Low,Final Core CPI y/y,1.1%,1.1%,1.1%,-75.0,-14.0,-14.0,8.0
+2017-10-17 16:00:00,EUR,Low,ZEW Economic Sentiment,26.7,34.2,31.7,-75.0,-14.0,-14.0,8.0
+2017-10-17 19:30:00,USD,Medium,Import Prices m/m,0.7%,0.6%,0.6%,-75.0,-18.0,-12.0,-7.0
+2017-10-17 20:15:00,USD,Medium,Capacity Utilization Rate,76.0%,76.2%,75.8%,-75.0,-17.0,-9.0,6.0
+2017-10-17 20:15:00,USD,Medium,Industrial Production m/m,0.3%,0.3%,-0.7%,-75.0,-17.0,-9.0,6.0
+2017-10-17 21:00:00,USD,Low,NAHB Housing Market Index,68,64,64,-75.0,17.0,-10.0,-10.0
+2017-10-18 03:00:00,USD,Low,TIC Long-Term Purchases,67.2B,14.3B,1.2B,64.0,-3.0,2.0,-2.0
+2017-10-18 19:30:00,USD,High,Building Permits,1.22M,1.25M,1.27M,64.0,14.0,14.0,14.0
+2017-10-18 19:30:00,USD,Medium,Housing Starts,1.13M,1.18M,1.18M,64.0,14.0,14.0,14.0
+2017-10-18 21:30:00,USD,High,Crude Oil Inventories,-5.7M,-4.7M,-2.7M,64.0,14.0,13.0,13.0
+2017-10-19 19:30:00,USD,High,Unemployment Claims,222K,240K,244K,90.0,-15.0,-15.0,-15.0
+2017-10-19 19:30:00,USD,Medium,Philly Fed Manufacturing Index,27.9,21.9,23.8,90.0,-15.0,-15.0,-15.0
+2017-10-19 21:00:00,USD,Low,CB Leading Index m/m,-0.2%,0.1%,0.4%,90.0,17.0,-7.0,-7.0
+2017-10-19 21:30:00,USD,Low,Natural Gas Storage,51B,59B,87B,90.0,17.0,17.0,17.0
+2017-10-20 13:00:00,EUR,Low,German PPI m/m,0.3%,0.1%,0.2%,-95.0,14.0,12.0,-5.0
+2017-10-20 15:00:00,EUR,Low,Current Account,33.3B,26.2B,31.5B,-95.0,-9.0,-9.0,-5.0
+2017-10-20 21:00:00,USD,Medium,Existing Home Sales,5.39M,5.30M,5.35M,-95.0,18.0,13.0,-6.0
+2017-10-21 01:00:00,USD,Low,Federal Budget Balance,8.0B,-0.9B,-107.7B,-22.0,-18.0,-18.0,14.0
+2017-10-23 21:00:00,EUR,Low,Consumer Confidence,-1,-1,-1,-44.0,-14.0,9.0,9.0
+2017-10-24 14:00:00,EUR,Medium,French Flash Manufacturing PMI,56.7,56.2,56.1,52.0,-17.0,-17.0,-14.0
+2017-10-24 14:00:00,EUR,Medium,French Flash Services PMI,57.4,57.0,57.0,52.0,-17.0,-17.0,-14.0
+2017-10-24 14:30:00,EUR,Medium,German Flash Manufacturing PMI,60.5,60.1,60.6,52.0,21.0,15.0,15.0
+2017-10-24 14:30:00,EUR,Medium,German Flash Services PMI,55.2,55.5,55.6,52.0,21.0,15.0,15.0
+2017-10-24 15:00:00,EUR,Medium,Flash Manufacturing PMI,58.6,57.9,58.1,52.0,11.0,11.0,11.0
+2017-10-24 15:00:00,EUR,Medium,Flash Services PMI,54.9,55.7,55.8,52.0,11.0,11.0,11.0
+2017-10-24 19:57:00,EUR,Low,Belgian NBB Business Climate,0.5,-2.9,-3.5,52.0,11.0,-7.0,5.0
+2017-10-24 20:45:00,USD,Low,Flash Manufacturing PMI,54.5,53.3,53.1,52.0,21.0,16.0,-8.0
+2017-10-24 20:45:00,USD,Low,Flash Services PMI,55.9,55.2,55.3,52.0,21.0,16.0,-8.0
+2017-10-24 20:59:00,USD,Low,Richmond Manufacturing Index,12,17,19,52.0,21.0,21.0,16.0
+2017-10-25 15:00:00,EUR,Medium,German ifo Business Climate,116.7,115.2,115.3,64.0,14.0,9.0,9.0
+2017-10-25 19:30:00,USD,High,Core Durable Goods Orders m/m,0.7%,0.5%,0.5%,64.0,29.0,13.0,-9.0
+2017-10-25 19:30:00,USD,Medium,Durable Goods Orders m/m,2.2%,1.0%,2.0%,64.0,29.0,13.0,-9.0
+2017-10-25 20:00:00,USD,Low,HPI m/m,0.7%,0.4%,0.4%,64.0,24.0,22.0,22.0
+2017-10-25 21:00:00,USD,Medium,New Home Sales,667K,555K,561K,64.0,32.0,29.0,21.0
+2017-10-25 21:30:00,USD,High,Crude Oil Inventories,0.9M,-2.6M,-5.7M,64.0,13.0,13.0,13.0
+2017-10-26 13:00:00,EUR,Low,German GfK Consumer Climate,10.7,10.8,10.8,-157.0,-12.0,-10.0,-5.0
+2017-10-26 14:00:00,EUR,Medium,Spanish Unemployment Rate,16.4%,16.6%,17.2%,-157.0,-14.0,-11.0,6.0
+2017-10-26 15:00:00,EUR,Medium,M3 Money Supply y/y,5.1%,5.0%,5.0%,-157.0,-8.0,-8.0,-4.0
+2017-10-26 15:00:00,EUR,Low,Private Loans y/y,2.7%,2.8%,2.7%,-157.0,-8.0,-8.0,-4.0
+2017-10-26 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,-157.0,-76.0,-74.0,-56.0
+2017-10-26 19:30:00,USD,High,Unemployment Claims,233K,235K,223K,-157.0,47.0,31.0,-19.0
+2017-10-26 19:30:00,USD,Low,Goods Trade Balance,-64.1B,-63.8B,-63.3B,-157.0,47.0,31.0,-19.0
+2017-10-26 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,0.3%,0.4%,0.9%,-157.0,47.0,31.0,-19.0
+2017-10-26 21:00:00,USD,Medium,Pending Home Sales m/m,0.0%,0.2%,-2.8%,-157.0,-26.0,13.0,12.0
+2017-10-26 21:30:00,USD,Low,Natural Gas Storage,64B,61B,51B,-157.0,-34.0,-23.0,-13.0
+2017-10-27 13:00:00,EUR,Low,German Import Prices m/m,0.9%,0.5%,0.0%,-109.0,-22.0,-18.0,-9.0
+2017-10-27 19:30:00,USD,High,Advance GDP q/q,3.0%,2.6%,3.1%,-109.0,24.0,24.0,-20.0
+2017-10-27 19:30:00,USD,Medium,Advance GDP Price Index q/q,2.2%,1.7%,1.0%,-109.0,24.0,24.0,-20.0
+2017-10-27 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,100.7,100.8,101.1,-109.0,45.0,45.0,45.0
+2017-10-30 14:00:00,EUR,Medium,German Retail Sales m/m,0.5%,0.5%,-0.2%,52.0,21.0,-15.0,-10.0
+2017-10-30 14:00:00,EUR,Medium,German Prelim CPI m/m,0.0%,0.1%,0.1%,52.0,21.0,-15.0,-10.0
+2017-10-30 15:00:00,EUR,Medium,Spanish Flash CPI y/y,1.6%,1.7%,1.8%,52.0,20.0,18.0,12.0
+2017-10-30 15:00:00,EUR,Medium,Spanish Flash GDP q/q,0.8%,0.8%,0.9%,52.0,20.0,18.0,12.0
+2017-10-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,52.0,-28.0,-23.0,-7.0
+2017-10-30 19:30:00,USD,Medium,Personal Spending m/m,1.0%,0.8%,0.1%,52.0,-28.0,-23.0,-7.0
+2017-10-30 19:30:00,USD,Low,Personal Income m/m,0.4%,0.4%,0.2%,52.0,-28.0,-23.0,-7.0
+2017-10-31 13:30:00,EUR,Low,French Flash GDP q/q,0.5%,0.5%,0.6%,37.0,-16.0,9.0,6.0
+2017-10-31 14:45:00,EUR,Low,French Consumer Spending m/m,0.9%,0.6%,-0.2%,37.0,17.0,17.0,9.0
+2017-10-31 14:45:00,EUR,Low,French Prelim CPI m/m,0.1%,0.1%,-0.2%,37.0,17.0,17.0,9.0
+2017-10-31 16:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.1%,11.1%,11.1%,37.0,-10.0,-7.0,-7.0
+2017-10-31 17:00:00,EUR,Medium,CPI Flash Estimate y/y,1.4%,1.5%,1.5%,37.0,11.0,11.0,9.0
+2017-10-31 17:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,1.1%,1.1%,37.0,11.0,11.0,9.0
+2017-10-31 17:00:00,EUR,Medium,Prelim Flash GDP q/q,0.6%,0.5%,0.7%,37.0,11.0,11.0,9.0
+2017-10-31 17:00:00,EUR,Low,Italian Prelim CPI m/m,-0.2%,0.1%,-0.3%,37.0,11.0,11.0,9.0
+2017-10-31 17:00:00,EUR,Low,Unemployment Rate,8.9%,9.0%,9.0%,37.0,11.0,11.0,9.0
+2017-10-31 19:30:00,USD,Medium,Employment Cost Index q/q,0.7%,0.7%,0.5%,37.0,13.0,-10.0,-10.0
+2017-10-31 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.9%,5.8%,5.8%,37.0,-9.0,-9.0,9.0
+2017-10-31 20:45:00,USD,Medium,Chicago PMI,66.2,60.2,65.2,37.0,17.0,-16.0,7.0
+2017-10-31 21:00:00,USD,High,CB Consumer Confidence,125.9,121.1,120.6,37.0,17.0,15.0,-14.0
+2017-11-01 19:15:00,USD,High,ADP Non-Farm Employment Change,235K,202K,110K,-52.0,-27.0,-24.0,-24.0
+2017-11-01 20:45:00,USD,Low,Final Manufacturing PMI,54.6,54.5,54.5,-52.0,37.0,30.0,9.0
+2017-11-01 21:00:00,USD,High,ISM Manufacturing PMI,58.7,59.5,60.8,-52.0,33.0,33.0,26.0
+2017-11-01 21:00:00,USD,Low,Construction Spending m/m,0.3%,-0.1%,0.1%,-52.0,33.0,33.0,26.0
+2017-11-01 21:00:00,USD,Low,ISM Manufacturing Prices,68.5,68.0,71.5,-52.0,33.0,33.0,26.0
+2017-11-01 21:00:00,USD,Low,Wards Total Vehicle Sales,18.0M,17.5M,18.5M,-52.0,33.0,33.0,26.0
+2017-11-01 21:30:00,USD,High,Crude Oil Inventories,-2.4M,-1.5M,0.9M,-52.0,-16.0,-14.0,-11.0
+2017-11-01 21:30:00,USD,Low,Total Vehicle Sales,18.1M,17.5M,18.6M,-52.0,-16.0,-14.0,-11.0
+2017-11-02 01:00:00,USD,Medium,Federal Funds Rate,<1.25%,<1.25%,<1.25%,77.0,-30.0,-30.0,-27.0
+2017-11-02 15:15:00,EUR,Low,Spanish Manufacturing PMI,55.8,54.8,54.3,77.0,-14.0,-6.0,-4.0
+2017-11-02 15:45:00,EUR,Low,Italian Manufacturing PMI,57.8,56.6,56.3,77.0,15.0,-12.0,-12.0
+2017-11-02 15:50:00,EUR,Low,French Final Manufacturing PMI,56.1,56.7,56.7,77.0,15.0,10.0,9.0
+2017-11-02 15:55:00,EUR,Low,German Final Manufacturing PMI,60.6,60.5,60.5,77.0,11.0,7.0,4.0
+2017-11-02 15:55:00,EUR,Low,German Unemployment Change,-11K,-10K,-22K,77.0,11.0,7.0,4.0
+2017-11-02 16:00:00,EUR,Low,Final Manufacturing PMI,58.5,58.6,58.6,77.0,12.0,8.0,5.0
+2017-11-02 19:30:00,USD,High,Unemployment Claims,229K,235K,234K,77.0,-27.0,16.0,-11.0
+2017-11-02 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,3.0%,2.5%,1.5%,77.0,-27.0,16.0,-11.0
+2017-11-02 19:30:00,USD,Medium,Prelim Unit Labor Costs q/q,0.5%,0.5%,0.2%,77.0,-27.0,16.0,-11.0
+2017-11-02 21:30:00,USD,Low,Natural Gas Storage,65B,63B,64B,77.0,-20.0,-20.0,-13.0
+2017-11-03 16:00:00,EUR,Medium,Spanish Unemployment Change,56.8K,44.6K,27.9K,-90.0,9.0,-7.0,-7.0
+2017-11-03 19:30:00,USD,High,Average Hourly Earnings m/m,0.0%,0.2%,0.5%,-90.0,-42.0,-41.0,32.0
+2017-11-03 19:30:00,USD,High,Non-Farm Employment Change,261K,312K,18K,-90.0,-42.0,-41.0,32.0
+2017-11-03 19:30:00,USD,High,Unemployment Rate,4.1%,4.2%,4.2%,-90.0,-42.0,-41.0,32.0
+2017-11-03 19:30:00,USD,Medium,Trade Balance,-43.5B,-43.3B,-42.8B,-90.0,-42.0,-41.0,32.0
+2017-11-03 20:45:00,USD,Low,Final Services PMI,55.3,55.7,55.9,-90.0,-35.0,-23.0,-9.0
+2017-11-03 21:00:00,USD,High,ISM Services PMI,60.1,58.5,59.8,-90.0,-35.0,-22.0,-15.0
+2017-11-03 21:00:00,USD,Medium,Factory Orders m/m,1.4%,1.3%,1.2%,-90.0,-35.0,-22.0,-15.0
+2017-11-06 13:00:00,EUR,Low,German Factory Orders m/m,1.0%,-1.0%,4.1%,-43.0,-12.0,6.0,6.0
+2017-11-06 14:15:00,EUR,Low,Spanish Services PMI,54.6,55.7,56.7,-43.0,21.0,13.0,-9.0
+2017-11-06 14:45:00,EUR,Low,Italian Services PMI,52.1,53.1,53.2,-43.0,-11.0,-9.0,8.0
+2017-11-06 14:50:00,EUR,Low,French Final Services PMI,57.3,57.4,57.4,-43.0,-11.0,-9.0,-7.0
+2017-11-06 14:55:00,EUR,Low,German Final Services PMI,54.7,55.2,55.2,-43.0,-9.0,-9.0,-8.0
+2017-11-06 15:00:00,EUR,Low,Final Services PMI,55.0,54.9,54.9,-43.0,-9.0,-9.0,-8.0
+2017-11-06 15:30:00,EUR,Low,Sentix Investor Confidence,34.0,31.2,29.7,-43.0,-25.0,5.0,3.0
+2017-11-06 16:00:00,EUR,Low,PPI m/m,0.6%,0.4%,0.3%,-43.0,-25.0,-25.0,-8.0
+2017-11-07 13:00:00,EUR,Low,German Industrial Production m/m,-1.6%,-0.7%,2.6%,-62.0,-13.0,4.0,3.0
+2017-11-07 15:00:00,EUR,Low,Italian Retail Sales m/m,0.9%,0.2%,-0.2%,-62.0,-28.0,-14.0,-7.0
+2017-11-07 16:00:00,EUR,Low,Retail Sales m/m,0.7%,0.6%,-0.1%,-62.0,11.0,8.0,8.0
+2017-11-07 21:00:00,USD,Low,IBD/TIPP Economic Optimism,53.6,51.2,50.3,-62.0,21.0,17.0,8.0
+2017-11-07 21:00:00,USD,Low,JOLTS Job Openings,6.09M,5.98M,6.09M,-62.0,21.0,17.0,8.0
+2017-11-08 02:00:00,USD,Low,Consumer Credit m/m,20.8B,18.4B,13.1B,37.0,14.0,11.0,7.0
+2017-11-08 13:45:00,EUR,Low,French Trade Balance,-4.7B,-4.7B,-4.2B,37.0,18.0,8.0,8.0
+2017-11-08 21:30:00,USD,High,Crude Oil Inventories,2.2M,-2.5M,-2.4M,37.0,-13.0,8.0,-5.0
+2017-11-09 13:00:00,EUR,Low,German Trade Balance,21.8B,21.0B,21.3B,68.0,10.0,6.0,-4.0
+2017-11-09 19:30:00,USD,High,Unemployment Claims,239K,232K,229K,68.0,-11.0,-11.0,-11.0
+2017-11-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.3%,0.3%,0.3%,68.0,32.0,8.0,6.0
+2017-11-09 21:30:00,USD,Low,Natural Gas Storage,15B,15B,65B,68.0,29.0,25.0,13.0
+2017-11-10 13:45:00,EUR,Low,French Industrial Production m/m,0.6%,0.6%,-0.2%,55.0,-18.0,-13.0,5.0
+2017-11-10 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.3%,0.4%,55.0,-18.0,-13.0,5.0
+2017-11-10 15:00:00,EUR,Low,Italian Industrial Production m/m,-1.3%,-0.3%,1.2%,55.0,18.0,17.0,-10.0
+2017-11-10 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,97.8,100.8,100.7,55.0,18.0,11.0,5.0
+2017-11-13 13:00:00,EUR,Low,German WPI m/m,0.0%,0.4%,0.6%,38.0,-13.0,-6.0,-4.0
+2017-11-14 01:00:00,USD,Low,Federal Budget Balance,-63.2B,-58.2B,8.0B,119.0,6.0,6.0,6.0
+2017-11-14 13:00:00,EUR,Medium,German Prelim GDP q/q,0.8%,0.6%,0.6%,119.0,-10.0,-5.0,-3.0
+2017-11-14 13:00:00,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%,119.0,-10.0,-5.0,-3.0
+2017-11-14 15:00:00,EUR,Low,Italian Prelim GDP q/q,0.5%,0.5%,0.3%,119.0,25.0,15.0,-6.0
+2017-11-14 16:00:00,EUR,Medium,Flash GDP q/q,0.6%,0.6%,0.6%,119.0,16.0,-8.0,-6.0
+2017-11-14 16:00:00,EUR,Medium,German ZEW Economic Sentiment,18.7,19.8,17.6,119.0,16.0,-8.0,-6.0
+2017-11-14 16:00:00,EUR,Low,Industrial Production m/m,-0.6%,-0.6%,1.4%,119.0,16.0,-8.0,-6.0
+2017-11-14 16:00:00,EUR,Low,ZEW Economic Sentiment,30.9,29.3,26.7,119.0,16.0,-8.0,-6.0
+2017-11-14 17:00:00,USD,Low,NFIB Small Business Index,103.8,104.2,103.0,119.0,12.0,12.0,-6.0
+2017-11-14 19:30:00,USD,High,PPI m/m,0.4%,0.1%,0.4%,119.0,20.0,17.0,16.0
+2017-11-14 19:30:00,USD,Medium,Core PPI m/m,0.4%,0.2%,0.4%,119.0,20.0,17.0,16.0
+2017-11-15 13:45:00,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%,97.0,26.0,24.0,-4.0
+2017-11-15 16:00:00,EUR,Low,Trade Balance,25.0B,21.2B,21.0B,97.0,19.0,-13.0,-13.0
+2017-11-15 19:30:00,USD,High,CPI m/m,0.1%,0.1%,0.5%,97.0,-13.0,-11.0,-7.0
+2017-11-15 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.1%,97.0,-13.0,-11.0,-7.0
+2017-11-15 19:30:00,USD,High,Core Retail Sales m/m,0.1%,0.2%,1.2%,97.0,-13.0,-11.0,-7.0
+2017-11-15 19:30:00,USD,High,Retail Sales m/m,0.2%,0.0%,1.9%,97.0,-13.0,-11.0,-7.0
+2017-11-15 19:30:00,USD,Medium,Empire State Manufacturing Index,19.4,25.5,30.2,97.0,-13.0,-11.0,-7.0
+2017-11-15 21:00:00,USD,Low,Business Inventories m/m,0.0%,0.0%,0.6%,97.0,-31.0,-29.0,-23.0
+2017-11-15 21:30:00,USD,High,Crude Oil Inventories,1.9M,-2.1M,2.2M,97.0,-22.0,-15.0,13.0
+2017-11-16 03:00:00,USD,Low,TIC Long-Term Purchases,80.9B,34.6B,73.2B,-47.0,6.0,6.0,4.0
+2017-11-16 15:00:00,EUR,Low,Italian Trade Balance,3.99B,3.42B,2.76B,-47.0,25.0,22.0,12.0
+2017-11-16 16:00:00,EUR,Medium,Final CPI y/y,1.4%,1.4%,1.4%,-47.0,-17.0,-17.0,-12.0
+2017-11-16 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,-47.0,-17.0,-17.0,-12.0
+2017-11-16 19:30:00,USD,High,Unemployment Claims,249K,235K,239K,-47.0,14.0,-9.0,-9.0
+2017-11-16 19:30:00,USD,Medium,Import Prices m/m,0.2%,0.4%,0.8%,-47.0,14.0,-9.0,-9.0
+2017-11-16 19:38:00,USD,Medium,Philly Fed Manufacturing Index,22.7,24.5,27.9,-47.0,20.0,-7.0,-7.0
+2017-11-16 20:15:00,USD,Medium,Capacity Utilization Rate,77.0%,76.3%,76.4%,-47.0,13.0,13.0,-7.0
+2017-11-16 20:15:00,USD,Medium,Industrial Production m/m,0.9%,0.5%,0.4%,-47.0,13.0,13.0,-7.0
+2017-11-16 21:00:00,USD,Low,NAHB Housing Market Index,70,67,68,-47.0,17.0,13.0,13.0
+2017-11-16 21:30:00,USD,Low,Natural Gas Storage,-18B,-15B,15B,-47.0,-23.0,11.0,9.0
+2017-11-17 15:00:00,EUR,Low,Current Account,37.8B,30.2B,34.5B,62.0,-16.0,-8.0,7.0
+2017-11-17 19:30:00,USD,High,Building Permits,1.30M,1.25M,1.23M,62.0,-12.0,-10.0,-6.0
+2017-11-17 19:30:00,USD,Medium,Housing Starts,1.29M,1.19M,1.14M,62.0,-12.0,-10.0,-6.0
+2017-11-20 13:00:00,EUR,Low,German PPI m/m,0.3%,0.2%,0.3%,86.0,9.0,6.0,5.0
+2017-11-20 21:00:00,USD,Low,CB Leading Index m/m,1.2%,0.6%,0.1%,86.0,-20.0,-8.0,6.0
+2017-11-21 21:00:00,USD,Medium,Existing Home Sales,5.48M,5.42M,5.37M,-44.0,22.0,9.0,9.0
+2017-11-22 19:30:00,USD,High,Core Durable Goods Orders m/m,0.4%,0.4%,1.1%,67.0,12.0,-7.0,7.0
+2017-11-22 19:30:00,USD,High,Unemployment Claims,239K,241K,252K,67.0,12.0,-7.0,7.0
+2017-11-22 19:30:00,USD,Medium,Durable Goods Orders m/m,-1.2%,0.4%,2.0%,67.0,12.0,-7.0,7.0
+2017-11-22 21:00:00,EUR,Low,Consumer Confidence,0,-1,-1,67.0,28.0,17.0,10.0
+2017-11-22 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,98.5,98.2,97.8,67.0,28.0,17.0,10.0
+2017-11-22 21:30:00,USD,High,Crude Oil Inventories,-1.9M,-1.4M,1.9M,67.0,31.0,12.0,8.0
+2017-11-23 11:00:00,USD,Low,Natural Gas Storage,-46B,-51B,-18B,70.0,6.0,6.0,6.0
+2017-11-23 13:00:00,EUR,Low,German Final GDP q/q,0.8%,0.8%,0.8%,70.0,9.0,9.0,-4.0
+2017-11-23 14:00:00,EUR,Medium,French Flash Manufacturing PMI,57.5,55.9,56.1,70.0,-16.0,15.0,15.0
+2017-11-23 14:00:00,EUR,Medium,French Flash Services PMI,60.2,57.1,57.3,70.0,-16.0,15.0,15.0
+2017-11-23 14:30:00,EUR,Medium,German Flash Manufacturing PMI,62.5,60.4,60.6,70.0,23.0,-14.0,-10.0
+2017-11-23 14:30:00,EUR,Medium,German Flash Services PMI,54.9,55.2,54.7,70.0,23.0,-14.0,-10.0
+2017-11-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,60.0,58.3,58.5,70.0,19.0,19.0,19.0
+2017-11-23 15:00:00,EUR,Medium,Flash Services PMI,56.2,55.3,55.0,70.0,19.0,19.0,19.0
+2017-11-23 19:59:00,EUR,Low,Belgian NBB Business Climate,1.6,0.8,0.5,70.0,7.0,7.0,6.0
+2017-11-24 15:00:00,EUR,Medium,German ifo Business Climate,117.5,116.6,116.8,108.0,21.0,11.0,6.0
+2017-11-24 20:45:00,USD,Low,Flash Manufacturing PMI,53.8,55.1,54.6,108.0,37.0,33.0,19.0
+2017-11-24 20:45:00,USD,Low,Flash Services PMI,54.7,55.5,55.3,108.0,37.0,33.0,19.0
+2017-11-27 21:00:00,USD,Medium,New Home Sales,685K,627K,645K,-56.0,-26.0,-12.0,-8.0
+2017-11-28 13:00:00,EUR,Low,German Import Prices m/m,0.6%,0.4%,0.9%,-56.0,9.0,9.0,7.0
+2017-11-28 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,5.1%,5.2%,-56.0,31.0,31.0,17.0
+2017-11-28 15:00:00,EUR,Low,Private Loans y/y,2.7%,2.8%,2.7%,-56.0,31.0,31.0,17.0
+2017-11-28 18:00:00,EUR,Low,German GfK Consumer Climate,10.7,10.8,10.7,-56.0,9.0,7.0,6.0
+2017-11-28 19:30:00,USD,Low,Goods Trade Balance,-68.3B,-65.0B,-64.1B,-56.0,22.0,-10.0,-6.0
+2017-11-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,-0.4%,0.5%,0.1%,-56.0,22.0,-10.0,-6.0
+2017-11-28 20:00:00,USD,Low,HPI m/m,0.3%,0.6%,0.8%,-56.0,21.0,20.0,9.0
+2017-11-28 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,6.2%,6.0%,5.8%,-56.0,21.0,20.0,9.0
+2017-11-28 20:59:00,USD,Low,Richmond Manufacturing Index,30,14,12,-56.0,-19.0,-16.0,-9.0
+2017-11-28 21:00:00,USD,High,CB Consumer Confidence,129.5,123.9,126.2,-56.0,-21.0,-16.0,-9.0
+2017-11-29 13:00:00,EUR,Medium,German Prelim CPI m/m,0.3%,0.3%,0.0%,-66.0,10.0,9.0,4.0
+2017-11-29 13:45:00,EUR,Low,French Consumer Spending m/m,-1.9%,0.0%,1.0%,-66.0,10.0,9.0,2.0
+2017-11-29 13:45:00,EUR,Low,French Prelim GDP q/q,0.5%,0.5%,0.5%,-66.0,10.0,9.0,2.0
+2017-11-29 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.6%,1.7%,1.6%,-66.0,15.0,9.0,9.0
+2017-11-29 19:30:00,USD,High,Prelim GDP q/q,3.3%,3.3%,3.0%,-66.0,-27.0,-13.0,-13.0
+2017-11-29 19:30:00,USD,Low,Prelim GDP Price Index q/q,2.1%,2.2%,2.2%,-66.0,-27.0,-13.0,-13.0
+2017-11-29 21:00:00,USD,Medium,Pending Home Sales m/m,3.5%,1.1%,-0.4%,-66.0,-11.0,8.0,8.0
+2017-11-29 21:30:00,USD,High,Crude Oil Inventories,-3.4M,-2.5M,-1.9M,-66.0,26.0,-11.0,8.0
+2017-11-30 13:00:00,EUR,Medium,German Retail Sales m/m,-1.2%,0.3%,0.5%,123.0,14.0,-10.0,-5.0
+2017-11-30 13:45:00,EUR,Low,French Prelim CPI m/m,0.1%,0.1%,0.1%,123.0,12.0,8.0,8.0
+2017-11-30 14:55:00,EUR,Low,German Unemployment Change,-18K,-10K,-12K,123.0,-30.0,-21.0,-10.0
+2017-11-30 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.1%,11.1%,11.1%,123.0,-25.0,-17.0,-7.0
+2017-11-30 16:00:00,EUR,High,CPI Flash Estimate y/y,1.5%,1.6%,1.4%,123.0,-21.0,-21.0,-18.0
+2017-11-30 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,1.0%,0.9%,123.0,-21.0,-21.0,-18.0
+2017-11-30 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.2%,0.1%,-0.2%,123.0,-21.0,-21.0,-18.0
+2017-11-30 16:00:00,EUR,Low,Unemployment Rate,8.8%,8.9%,8.9%,123.0,-21.0,-21.0,-18.0
+2017-11-30 19:30:00,USD,High,Unemployment Claims,238K,241K,240K,123.0,10.0,8.0,7.0
+2017-11-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.2%,0.2%,0.2%,123.0,10.0,8.0,7.0
+2017-11-30 19:30:00,USD,Medium,Personal Spending m/m,0.3%,0.2%,0.9%,123.0,10.0,8.0,7.0
+2017-11-30 19:30:00,USD,Low,Personal Income m/m,0.4%,0.3%,0.4%,123.0,10.0,8.0,7.0
+2017-11-30 20:45:00,USD,Medium,Chicago PMI,63.9,62.2,66.2,123.0,46.0,18.0,10.0
+2017-11-30 21:30:00,USD,Low,Natural Gas Storage,-33B,-37B,-46B,123.0,43.0,30.0,22.0
+2017-12-01 14:15:00,EUR,Low,Spanish Manufacturing PMI,56.1,56.6,55.8,-90.0,22.0,-12.0,-7.0
+2017-12-01 14:45:00,EUR,Low,Italian Manufacturing PMI,58.3,58.4,57.8,-90.0,33.0,22.0,10.0
+2017-12-01 14:50:00,EUR,Low,French Final Manufacturing PMI,57.7,57.5,57.5,-90.0,33.0,23.0,18.0
+2017-12-01 14:55:00,EUR,Low,German Final Manufacturing PMI,62.5,62.5,62.5,-90.0,33.0,26.0,22.0
+2017-12-01 15:00:00,EUR,Low,Final Manufacturing PMI,60.1,60.0,60.0,-90.0,29.0,24.0,17.0
+2017-12-01 20:45:00,USD,Low,Final Manufacturing PMI,53.9,53.8,53.8,-90.0,-14.0,-11.0,-11.0
+2017-12-01 21:00:00,USD,High,ISM Manufacturing PMI,58.2,58.4,58.7,-90.0,-13.0,-10.0,6.0
+2017-12-01 21:00:00,USD,Low,Construction Spending m/m,1.4%,0.5%,0.3%,-90.0,-13.0,-10.0,6.0
+2017-12-01 21:00:00,USD,Low,ISM Manufacturing Prices,65.5,67.0,68.5,-90.0,-13.0,-10.0,6.0
+2017-12-01 21:15:00,USD,Low,Wards Total Vehicle Sales,17.4M,17.5M,18.0M,-90.0,-23.0,10.0,-6.0
+2017-12-01 21:15:00,USD,Low,Total Vehicle Sales,17.5M,17.5M,18.1M,-90.0,-23.0,10.0,-6.0
+2017-12-04 14:00:00,EUR,Medium,Spanish Unemployment Change,7.3K,54.3K,56.8K,-49.0,-29.0,-29.0,-22.0
+2017-12-04 15:30:00,EUR,Low,Sentix Investor Confidence,31.1,32.3,34.0,-49.0,-23.0,14.0,-8.0
+2017-12-04 16:00:00,EUR,Low,PPI m/m,0.4%,0.4%,0.5%,-49.0,-22.0,-18.0,-15.0
+2017-12-04 21:00:00,USD,Medium,Factory Orders m/m,-0.1%,-0.3%,1.7%,-49.0,-13.0,-13.0,-13.0
+2017-12-05 14:15:00,EUR,Low,Spanish Services PMI,54.4,55.2,54.6,-69.0,-20.0,-14.0,-9.0
+2017-12-05 14:45:00,EUR,Low,Italian Services PMI,54.7,53.4,52.1,-69.0,-21.0,-13.0,-9.0
+2017-12-05 14:50:00,EUR,Low,French Final Services PMI,60.4,60.2,60.2,-69.0,-20.0,-12.0,-12.0
+2017-12-05 14:55:00,EUR,Low,German Final Services PMI,54.3,54.9,54.9,-69.0,-18.0,-11.0,-11.0
+2017-12-05 15:00:00,EUR,Low,Final Services PMI,56.2,56.2,56.2,-69.0,-17.0,-12.0,9.0
+2017-12-05 16:00:00,EUR,Low,Retail Sales m/m,-1.1%,-0.6%,0.8%,-69.0,,,
+2017-12-05 19:30:00,USD,Medium,Trade Balance,-48.7B,-46.2B,-44.9B,-69.0,-25.0,-18.0,-10.0
+2017-12-05 20:45:00,USD,Low,Final Services PMI,54.5,55.4,54.7,-69.0,-31.0,-31.0,-17.0
+2017-12-05 21:00:00,USD,High,ISM Services PMI,57.4,59.2,60.1,-69.0,-24.0,-24.0,-24.0
+2017-12-06 13:00:00,EUR,Low,German Factory Orders m/m,0.5%,-0.2%,1.2%,-67.0,-12.0,-5.0,-4.0
+2017-12-06 19:15:00,USD,High,ADP Non-Farm Employment Change,190K,189K,235K,-67.0,15.0,-9.0,6.0
+2017-12-06 19:30:00,USD,Low,Revised Nonfarm Productivity q/q,3.0%,3.3%,3.0%,-67.0,15.0,11.0,-5.0
+2017-12-06 19:30:00,USD,Low,Revised Unit Labor Costs q/q,-0.2%,0.2%,0.5%,-67.0,15.0,11.0,-5.0
+2017-12-06 20:59:00,USD,Low,IBD/TIPP Economic Optimism,51.9,54.6,53.6,-67.0,-21.0,-12.0,-12.0
+2017-12-06 21:30:00,USD,High,Crude Oil Inventories,-5.6M,-3.2M,-3.4M,-67.0,-22.0,-20.0,-11.0
+2017-12-07 13:00:00,EUR,Low,German Industrial Production m/m,-1.4%,0.9%,-0.9%,-32.0,6.0,-3.0,3.0
+2017-12-07 13:45:00,EUR,Low,French Trade Balance,-5.0B,-4.7B,-4.6B,-32.0,9.0,9.0,6.0
+2017-12-07 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,11.2%,11.2%,11.2%,-32.0,-16.0,14.0,12.0
+2017-12-07 16:00:00,EUR,Low,Revised GDP q/q,0.6%,0.6%,0.6%,-32.0,-10.0,9.0,6.0
+2017-12-07 19:30:00,USD,High,Unemployment Claims,236K,239K,238K,-32.0,15.0,8.0,-7.0
+2017-12-07 21:30:00,USD,Low,Natural Gas Storage,2B,-5B,-33B,-32.0,-11.0,10.0,8.0
+2017-12-08 02:00:00,USD,Low,Consumer Credit m/m,20.5B,17.4B,19.2B,-84.0,-24.0,-18.0,-15.0
+2017-12-08 13:00:00,EUR,Low,German Trade Balance,19.9B,22.0B,21.9B,-84.0,-16.0,-12.0,3.0
+2017-12-08 13:45:00,EUR,Low,French Industrial Production m/m,1.9%,-0.1%,0.8%,-84.0,-14.0,-14.0,-5.0
+2017-12-08 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,-0.1%,-84.0,14.0,-11.0,-3.0
+2017-12-08 19:30:00,USD,High,Non-Farm Employment Change,228K,198K,244K,-84.0,14.0,-11.0,-3.0
+2017-12-08 19:30:00,USD,High,Unemployment Rate,4.1%,4.1%,4.1%,-84.0,14.0,-11.0,-3.0
+2017-12-08 21:00:00,USD,Medium,Prelim UoM Consumer Sentiment,96.8,99.0,98.5,-84.0,-18.0,-14.0,-14.0
+2017-12-08 21:00:00,USD,Low,Final Wholesale Inventories m/m,-0.5%,-0.4%,-0.4%,-84.0,-18.0,-14.0,-14.0
+2017-12-11 15:00:00,EUR,Low,Italian Retail Sales m/m,-1.0%,-0.1%,0.8%,49.0,21.0,18.0,-8.0
+2017-12-11 21:00:00,USD,Low,JOLTS Job Openings,6.00M,6.03M,6.18M,49.0,18.0,9.0,9.0
+2017-12-12 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.3%,0.2%,0.2%,-84.0,4.0,-3.0,2.0
+2017-12-12 16:00:00,EUR,Medium,German ZEW Economic Sentiment,17.4,17.9,18.7,-84.0,-13.0,-13.0,-8.0
+2017-12-12 16:00:00,EUR,Low,ZEW Economic Sentiment,29.0,30.2,30.9,-84.0,-13.0,-13.0,-8.0
+2017-12-12 17:00:00,USD,Low,NFIB Small Business Index,107.5,104.6,103.8,-84.0,-15.0,-15.0,-10.0
+2017-12-12 19:30:00,USD,High,PPI m/m,0.4%,0.4%,0.4%,-84.0,-10.0,5.0,4.0
+2017-12-12 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.2%,0.4%,-84.0,-10.0,5.0,4.0
+2017-12-13 01:00:00,USD,Low,Federal Budget Balance,-138.5B,-135.2B,-63.2B,50.0,14.0,12.0,10.0
+2017-12-13 13:00:00,EUR,Low,German Final CPI m/m,0.3%,0.3%,0.3%,50.0,-8.0,5.0,5.0
+2017-12-13 13:00:00,EUR,Low,German WPI m/m,0.5%,0.2%,0.0%,50.0,-8.0,5.0,5.0
+2017-12-13 15:00:00,EUR,Low,Italian Industrial Production m/m,0.5%,0.7%,-1.3%,50.0,10.0,7.0,7.0
+2017-12-13 16:00:00,EUR,Low,Final Employment Change q/q,0.4%,0.4%,0.4%,50.0,13.0,10.0,6.0
+2017-12-13 16:00:00,EUR,Low,Industrial Production m/m,0.2%,0.0%,-0.5%,50.0,13.0,10.0,6.0
+2017-12-13 19:30:00,USD,High,CPI m/m,0.4%,0.4%,0.1%,50.0,-11.0,10.0,4.0
+2017-12-13 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.2%,50.0,-11.0,10.0,4.0
+2017-12-13 21:30:00,USD,High,Crude Oil Inventories,-5.1M,-3.6M,-5.6M,50.0,17.0,-15.0,-9.0
+2017-12-14 01:00:00,USD,High,Federal Funds Rate,<1.50%,<1.50%,<1.25%,105.0,16.0,7.0,5.0
+2017-12-14 13:45:00,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%,105.0,-10.0,8.0,3.0
+2017-12-14 14:00:00,EUR,Medium,French Flash Manufacturing PMI,59.3,57.2,57.7,105.0,-15.0,8.0,8.0
+2017-12-14 14:00:00,EUR,Medium,French Flash Services PMI,59.4,59.8,60.4,105.0,-15.0,8.0,8.0
+2017-12-14 14:30:00,EUR,Medium,German Flash Manufacturing PMI,63.3,62.1,62.5,105.0,23.0,-15.0,-10.0
+2017-12-14 14:30:00,EUR,Medium,German Flash Services PMI,55.8,54.6,54.3,105.0,23.0,-15.0,-10.0
+2017-12-14 15:00:00,EUR,Medium,Flash Manufacturing PMI,60.6,59.8,60.1,105.0,20.0,16.0,9.0
+2017-12-14 15:00:00,EUR,Medium,Flash Services PMI,56.5,56.0,56.2,105.0,20.0,16.0,9.0
+2017-12-14 18:45:00,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%,105.0,21.0,-8.0,-8.0
+2017-12-14 19:30:00,USD,High,Core Retail Sales m/m,1.0%,0.6%,0.4%,105.0,22.0,-19.0,-17.0
+2017-12-14 19:30:00,USD,High,Retail Sales m/m,0.8%,0.3%,0.5%,105.0,22.0,-19.0,-17.0
+2017-12-14 19:30:00,USD,Medium,Import Prices m/m,0.7%,0.7%,0.1%,105.0,22.0,-19.0,-17.0
+2017-12-14 19:30:00,USD,Medium,Unemployment Claims,225K,237K,236K,105.0,22.0,-19.0,-17.0
+2017-12-14 20:45:00,USD,Low,Flash Manufacturing PMI,55.0,54.0,53.9,105.0,-45.0,-45.0,-29.0
+2017-12-14 20:45:00,USD,Low,Flash Services PMI,52.4,54.8,54.5,105.0,-45.0,-45.0,-29.0
+2017-12-14 21:00:00,USD,Low,Business Inventories m/m,-0.1%,-0.1%,0.0%,105.0,-32.0,27.0,-25.0
+2017-12-14 21:30:00,USD,Low,Natural Gas Storage,-69B,-55B,2B,105.0,-33.0,-20.0,11.0
+2017-12-15 16:00:00,EUR,Low,Trade Balance,19.0B,24.4B,24.5B,-52.0,19.0,10.0,7.0
+2017-12-15 19:30:00,USD,Medium,Empire State Manufacturing Index,18.0,18.8,19.4,-52.0,18.0,11.0,8.0
+2017-12-15 20:15:00,USD,Medium,Capacity Utilization Rate,77.1%,77.2%,77.0%,-52.0,-20.0,-8.0,-7.0
+2017-12-15 20:15:00,USD,Medium,Industrial Production m/m,0.2%,0.3%,1.2%,-52.0,-20.0,-8.0,-7.0
+2017-12-16 03:00:00,USD,Low,TIC Long-Term Purchases,23.2B,57.6B,80.9B,-33.0,-6.0,4.0,4.0
+2017-12-18 15:00:00,EUR,Low,Italian Trade Balance,4.95B,3.23B,3.99B,96.0,16.0,-7.0,-6.0
+2017-12-18 16:00:00,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%,96.0,9.0,-8.0,7.0
+2017-12-18 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,96.0,9.0,-8.0,7.0
+2017-12-18 21:00:00,USD,Low,NAHB Housing Market Index,74,70,69,96.0,22.0,18.0,12.0
+2017-12-19 15:00:00,EUR,Medium,German ifo Business Climate,117.2,117.6,117.6,56.0,16.0,11.0,7.0
+2017-12-19 19:30:00,USD,High,Building Permits,1.30M,1.27M,1.32M,56.0,17.0,16.0,-3.0
+2017-12-19 19:30:00,USD,Medium,Current Account,-101B,-116B,-124B,56.0,17.0,16.0,-3.0
+2017-12-19 19:30:00,USD,Medium,Housing Starts,1.30M,1.25M,1.26M,56.0,17.0,16.0,-3.0
+2017-12-20 13:00:00,EUR,Low,German PPI m/m,0.1%,0.2%,0.3%,86.0,-20.0,-13.0,-11.0
+2017-12-20 15:00:00,EUR,Low,Current Account,30.8B,33.4B,39.2B,86.0,19.0,15.0,-7.0
+2017-12-20 20:00:00,EUR,Low,Belgian NBB Business Climate,0.1,2.0,1.6,86.0,8.0,7.0,4.0
+2017-12-20 21:00:00,USD,Medium,Existing Home Sales,5.81M,5.53M,5.50M,86.0,20.0,13.0,13.0
+2017-12-20 21:30:00,USD,High,Crude Oil Inventories,-6.5M,-3.6M,-5.1M,86.0,38.0,19.0,11.0
+2017-12-21 19:30:00,USD,High,Final GDP q/q,3.2%,3.3%,3.3%,-40.0,12.0,12.0,-7.0
+2017-12-21 19:30:00,USD,Medium,Philly Fed Manufacturing Index,26.2,21.5,22.7,-40.0,12.0,12.0,-7.0
+2017-12-21 19:30:00,USD,Medium,Unemployment Claims,245K,232K,225K,-40.0,12.0,12.0,-7.0
+2017-12-21 19:30:00,USD,Low,Final GDP Price Index q/q,2.1%,2.1%,2.1%,-40.0,12.0,12.0,-7.0
+2017-12-21 20:00:00,USD,Low,HPI m/m,0.5%,0.4%,0.5%,-40.0,15.0,-8.0,-5.0
+2017-12-21 21:00:00,EUR,Low,Consumer Confidence,1,0,0,-40.0,20.0,12.0,-11.0
+2017-12-21 21:00:00,USD,Low,CB Leading Index m/m,0.4%,0.4%,1.2%,-40.0,20.0,12.0,-11.0
+2017-12-21 21:30:00,USD,Low,Natural Gas Storage,-182B,-160B,-69B,-40.0,12.0,12.0,9.0
+2017-12-22 13:00:00,EUR,Low,German GfK Consumer Climate,10.8,10.7,10.7,-63.0,12.0,-5.0,-4.0
+2017-12-22 13:00:00,EUR,Low,German Import Prices m/m,0.8%,0.7%,0.6%,-63.0,12.0,-5.0,-4.0
+2017-12-22 13:45:00,EUR,Low,French Consumer Spending m/m,2.2%,1.4%,-2.1%,-63.0,-8.0,6.0,-4.0
+2017-12-22 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.1%,0.5%,0.9%,-63.0,-8.0,-8.0,4.0
+2017-12-22 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.2%,-63.0,-8.0,-8.0,4.0
+2017-12-22 19:30:00,USD,Medium,Durable Goods Orders m/m,1.3%,2.1%,-0.8%,-63.0,-8.0,-8.0,4.0
+2017-12-22 19:30:00,USD,Medium,Personal Spending m/m,0.6%,0.5%,0.2%,-63.0,-8.0,-8.0,4.0
+2017-12-22 19:30:00,USD,Low,Personal Income m/m,0.3%,0.4%,0.4%,-63.0,-8.0,-8.0,4.0
+2017-12-22 21:00:00,USD,Medium,New Home Sales,733K,654K,624K,-63.0,-13.0,-7.0,-5.0
+2017-12-22 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,95.9,97.1,96.8,-63.0,-13.0,-7.0,-5.0
+2017-12-26 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,6.4%,6.3%,6.2%,32.0,9.0,8.0,6.0
+2017-12-26 20:59:00,USD,Low,Richmond Manufacturing Index,20,22,30,32.0,20.0,14.0,10.0
+2017-12-27 21:00:00,USD,High,CB Consumer Confidence,122.1,128.2,128.6,56.0,10.0,4.0,4.0
+2017-12-27 21:00:00,USD,Medium,Pending Home Sales m/m,0.2%,-0.4%,3.5%,56.0,10.0,4.0,4.0
+2017-12-28 19:30:00,USD,High,Unemployment Claims,245K,240K,245K,70.0,-10.0,9.0,6.0
+2017-12-28 19:30:00,USD,Low,Goods Trade Balance,-69.7B,-67.7B,-68.1B,70.0,-10.0,9.0,6.0
+2017-12-28 19:30:00,USD,Low,Prelim Wholesale Inventories m/m,0.7%,0.4%,-0.5%,70.0,-10.0,9.0,6.0
+2017-12-28 20:45:00,USD,Medium,Chicago PMI,67.6,62.2,63.9,70.0,8.0,8.0,6.0
+2017-12-28 21:30:00,USD,Low,Natural Gas Storage,-112B,-115B,-182B,70.0,8.0,7.0,6.0
+2017-12-28 22:00:00,USD,High,Crude Oil Inventories,-4.6M,-3.9M,-6.5M,70.0,-14.0,-6.0,-5.0
+2017-12-29 06:30:00,EUR,Medium,German Prelim CPI m/m,0.6%,0.5%,0.3%,86.0,4.0,-2.0,1.0
+2017-12-29 14:00:00,EUR,Medium,Spanish Flash CPI y/y,1.2%,1.5%,1.7%,86.0,-13.0,-10.0,-9.0
+2017-12-29 15:00:00,EUR,Medium,M3 Money Supply y/y,4.9%,4.9%,5.0%,86.0,17.0,13.0,7.0
+2017-12-29 15:00:00,EUR,Low,Private Loans y/y,2.8%,2.8%,2.7%,86.0,17.0,13.0,7.0
+2017-01-02 14:15:00,EUR,Low,Spanish Manufacturing PMI,55.8,56.4,56.1,,,,
+2017-01-02 14:45:00,EUR,Low,Italian Manufacturing PMI,57.4,58.6,58.3,,,,
+2017-01-02 14:50:00,EUR,Low,French Final Manufacturing PMI,58.8,59.3,59.3,,,,
+2017-01-02 14:55:00,EUR,Low,German Final Manufacturing PMI,63.3,63.3,63.3,,,,
+2017-01-02 15:00:00,EUR,Low,Final Manufacturing PMI,60.6,60.6,60.6,,,,
+2017-01-02 20:45:00,USD,Low,Final Manufacturing PMI,55.1,55.0,55.0,,,,
+2017-01-03 14:00:00,EUR,Medium,Spanish Unemployment Change,-61.5K,-58.7K,7.3K,-150.0,-35.0,-30.0,-29.0
+2017-01-03 14:55:00,EUR,Low,German Unemployment Change,-29K,-13K,-20K,-150.0,-45.0,-37.0,9.0
+2017-01-03 21:00:00,USD,High,ISM Manufacturing PMI,59.7,58.1,58.2,-150.0,23.0,11.0,-6.0
+2017-01-03 21:00:00,USD,Low,Construction Spending m/m,0.8%,0.6%,0.9%,-150.0,23.0,11.0,-6.0
+2017-01-03 21:00:00,USD,Low,ISM Manufacturing Prices,69.0,64.8,65.5,-150.0,23.0,11.0,-6.0
+2017-01-03 21:00:00,USD,Low,Wards Total Vehicle Sales,17.8M,17.5M,17.4M,-150.0,23.0,11.0,-6.0
+2017-01-03 21:00:00,USD,Low,Total Vehicle Sales,17.9M,17.5M,17.5M,-150.0,23.0,11.0,-6.0
+2017-01-04 14:15:00,EUR,Low,Spanish Services PMI,54.6,54.7,54.4,101.0,33.0,14.0,12.0
+2017-01-04 14:45:00,EUR,Low,Italian Services PMI,55.4,54.7,54.7,101.0,27.0,27.0,-8.0
+2017-01-04 14:50:00,EUR,Low,French Final Services PMI,59.1,59.4,59.4,101.0,27.0,27.0,-8.0
+2017-01-04 14:55:00,EUR,Low,German Final Services PMI,55.8,55.8,55.8,101.0,27.0,27.0,26.0
+2017-01-04 15:00:00,EUR,Low,Final Services PMI,56.6,56.5,56.5,101.0,-25.0,24.0,24.0
+2017-01-04 19:15:00,USD,High,ADP Non-Farm Employment Change,250K,191K,185K,101.0,18.0,16.0,8.0
+2017-01-04 19:30:00,USD,High,Unemployment Claims,250K,241K,247K,101.0,22.0,18.0,16.0
+2017-01-04 20:45:00,USD,Low,Final Services PMI,53.7,52.4,52.4,101.0,21.0,-9.0,-9.0
+2017-01-04 21:30:00,USD,Low,Natural Gas Storage,-206B,-221B,-112B,101.0,31.0,21.0,-8.0
+2017-01-04 22:00:00,USD,High,Crude Oil Inventories,-7.4M,-5.2M,-4.6M,101.0,27.0,20.0,17.0
+2017-01-05 13:00:00,EUR,Medium,German Retail Sales m/m,2.3%,1.0%,-1.0%,163.0,34.0,18.0,14.0
+2017-01-05 13:45:00,EUR,Low,French Prelim CPI m/m,0.3%,0.3%,0.1%,163.0,-28.0,-19.0,13.0
+2017-01-05 16:00:00,EUR,High,CPI Flash Estimate y/y,1.4%,1.4%,1.5%,163.0,-22.0,-20.0,-9.0
+2017-01-05 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,1.0%,0.9%,163.0,-22.0,-20.0,-9.0
+2017-01-05 16:00:00,EUR,Low,PPI m/m,0.6%,0.3%,0.4%,163.0,-22.0,-20.0,-9.0
+2017-01-05 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.4%,0.2%,-0.2%,163.0,-22.0,-20.0,-9.0
+2017-01-05 19:30:00,USD,High,Average Hourly Earnings m/m,0.3%,0.3%,0.1%,163.0,30.0,-18.0,-12.0
+2017-01-05 19:30:00,USD,High,Non-Farm Employment Change,148K,190K,252K,163.0,30.0,-18.0,-12.0
+2017-01-05 19:30:00,USD,High,Unemployment Rate,4.1%,4.1%,4.1%,163.0,30.0,-18.0,-12.0
+2017-01-05 19:30:00,USD,Low,Trade Balance,-50.5B,-49.7B,-48.9B,163.0,30.0,-18.0,-12.0
+2017-01-05 21:00:00,USD,High,ISM Services PMI,55.9,57.6,57.4,163.0,23.0,21.0,12.0
+2017-01-05 21:00:00,USD,Low,Factory Orders m/m,1.3%,1.1%,0.4%,163.0,23.0,21.0,12.0

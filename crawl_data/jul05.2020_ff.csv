@@ -1,0 +1,64 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 5 2020,9:00pm,NZD,Low,ANZ Commodity Prices m/m,-0.7%,,1.1%
+,9:02pm,AUD,Low,MI Inflation Gauge m/m,0.6%,,-1.2%
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,42.0%,,-0.3%
+Mon Jul 6 2020,2:00am,EUR,Low,German Factory Orders m/m,10.4%,15.1%,-26.2%
+,4:30am,EUR,Low,Sentix Investor Confidence,-18.2,-10.8,-24.8
+,,GBP,Low,Construction PMI,55.3,46.0,28.9
+,4:34am,GBP,Low,Housing Equity Withdrawal q/q,-5.1B,-5.5B,-5.0B
+,5:00am,EUR,Low,Retail Sales m/m,17.8%,15.0%,-12.1%
+,9:45am,USD,Low,Final Services PMI,47.9,47.0,46.7
+,10:00am,USD,High,ISM Services PMI,57.1,50.0,45.4
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,6:03pm,NZD,Low,NZIER Business Confidence,-63,,-70
+,6:30pm,AUD,Low,AIG Services Index,31.5,,31.6
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-2.1%,-0.9%,-0.7%
+,,JPY,Low,Household Spending y/y,-16.2%,-11.8%,-11.1%
+,11:35pm,JPY,Low,30-y Bond Auction,0.61|3.9,,0.53|2.8
+Tue Jul 7 2020,12:30am,AUD,High,Cash Rate,0.25%,0.25%,0.25%
+,,AUD,High,RBA Rate Statement,,,
+,1:00am,JPY,Low,Leading Indicators,79.3%,79.5%,77.7%
+,2:00am,EUR,Low,German Industrial Production m/m,7.8%,11.0%,-17.5%
+,2:45am,EUR,Low,French Trade Balance,-7.1B,-4.5B,-5.1B
+,3:00am,CHF,Low,Foreign Currency Reserves,850B,,817B
+,3:30am,GBP,Low,Halifax HPI m/m,-0.1%,-0.8%,-0.2%
+,4:02am,EUR,Low,Italian Retail Sales m/m,24.3%,15.0%,-10.7%
+,5:00am,EUR,Medium,EU Economic Forecasts,,,
+,9:59am,USD,Low,IBD/TIPP Economic Optimism,44.0,48.2,47.0
+,10:00am,CAD,Low,Ivey PMI,58.2,50.2,39.1
+,,USD,Low,JOLTS Job Openings,5.40M,4.70M,5.00M
+,10:55am,NZD,Low,GDT Price Index,8.3%,,1.9%
+,1:00pm,USD,Low,FOMC Member Quarles Speaks,,,
+,7:50pm,JPY,Low,Bank Lending y/y,6.2%,5.0%,4.8%
+,,JPY,Low,Current Account,0.82T,0.71T,0.25T
+Wed Jul 8 2020,1:00am,JPY,Low,Economy Watchers Sentiment,38.8,24.7,15.5
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.6%,3.2%
+,10:30am,USD,Medium,Crude Oil Inventories,5.7M,-3.2M,-7.2M
+,1:01pm,USD,Low,10-y Bond Auction,0.65|2.6,,0.83|2.3
+,3:00pm,USD,Low,Consumer Credit m/m,-18.3B,-15.2B,-70.2B
+,7:01pm,GBP,Low,RICS House Price Balance,-15%,-25%,-32%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,1.7%,-5.2%,-12.0%
+,,JPY,Low,M2 Money Stock y/y,7.2%,5.6%,5.1%
+,9:00pm,NZD,Medium,Prelim ANZ Business Confidence,-29.8,,-34.4
+,9:30pm,CNY,Low,CPI y/y,2.5%,2.5%,2.4%
+,9:32pm,CNY,Low,PPI y/y,-3.0%,-3.2%,-3.7%
+Thu Jul 9 2020,1:59am,JPY,Low,Prelim Machine Tool Orders y/y,-32.0%,,-52.8%
+,2:00am,EUR,Low,German Trade Balance,7.6B,6.6B,3.4B
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,8:15am,CAD,Low,Housing Starts,212K,185K,195K
+,8:30am,USD,Medium,Unemployment Claims,1314K,1375K,1413K
+,10:00am,USD,Low,Final Wholesale Inventories m/m,-1.2%,-1.2%,-1.2%
+,10:30am,USD,Low,Natural Gas Storage,56B,60B,65B
+,1:01pm,USD,Low,30-y Bond Auction,1.33|2.5,,1.45|2.3
+,7:50pm,JPY,Low,PPI y/y,-1.6%,-2.0%,-2.8%
+Fri Jul 10 2020,2:45am,EUR,Low,French Industrial Production m/m,19.6%,15.2%,-20.6%
+,3:30am,CNY,Low,M2 Money Supply y/y,11.1%,11.1%,11.1%
+,,CNY,Low,New Loans,1810B,1800B,1480B
+,4:00am,EUR,Low,Italian Industrial Production m/m,42.1%,23.5%,-20.5%
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,CAD,High,Employment Change,952.9K,700.0K,289.6K
+,,CAD,High,Unemployment Rate,12.3%,12.0%,13.7%
+,,USD,Medium,Core PPI m/m,-0.3%,0.1%,-0.1%
+,,USD,Medium,PPI m/m,-0.2%,0.4%,0.4%
+,9:30am,GBP,Low,CB Leading Index m/m,-1.4%,,-3.7%
+Sat Jul 11 2020,,,No specified,,,,

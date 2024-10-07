@@ -1,0 +1,1576 @@
+Time,Currency,Impact,Event,Actual,Forecast,Previous,EffectDay,Effect60,Effect30,Effect15
+2015-01-05 07:35:00,EUR,High,German Prelim CPI m/m,0.0%,0.1%,0.0%,,,,
+2015-01-05 14:00:00,EUR,Medium,Spanish Unemployment Change,-64.4K,-72.0K,-14.7K,,,,
+2015-01-05 15:30:00,EUR,Low,Sentix Investor Confidence,0.9,-0.9,-2.5,,,,
+2015-01-05 19:00:00,USD,Low,Total Vehicle Sales,16.9M,16.9M,17.2M,,,,
+2015-01-06 14:15:00,EUR,Medium,Spanish Services PMI,54.3,52.9,52.7,,,,
+2015-01-06 14:45:00,EUR,Medium,Italian Services PMI,49.4,51.4,51.8,,,,
+2015-01-06 14:50:00,EUR,Low,French Final Services PMI,50.6,49.8,49.8,,,,
+2015-01-06 14:55:00,EUR,Medium,German Final Services PMI,52.1,51.4,51.4,,,,
+2015-01-06 15:00:00,EUR,Low,Final Services PMI,51.6,51.9,51.9,,,,
+2015-01-06 20:45:00,USD,Low,Final Services PMI,53.3,53.8,53.6,,,,
+2015-01-06 21:00:00,USD,High,ISM Services PMI,56.2,58.2,59.3,,,,
+2015-01-06 21:00:00,USD,Medium,Factory Orders m/m,-0.7%,-0.3%,-0.7%,,,,
+2015-01-07 13:00:00,EUR,Medium,German Retail Sales m/m,1.0%,0.2%,2.0%,,,,
+2015-01-07 14:55:00,EUR,Medium,German Unemployment Change,-27K,-6K,-16K,,,,
+2015-01-07 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,13.4%,13.3%,13.3%,,,,
+2015-01-07 16:00:00,EUR,High,CPI Flash Estimate y/y,-0.2%,0.0%,0.3%,,,,
+2015-01-07 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.8%,0.6%,0.7%,,,,
+2015-01-07 16:00:00,EUR,Medium,Unemployment Rate,11.5%,11.5%,11.5%,,,,
+2015-01-07 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.0%,-0.2%,-0.2%,,,,
+2015-01-07 19:15:00,USD,High,ADP Non-Farm Employment Change,241K,227K,227K,,,,
+2015-01-07 19:30:00,USD,High,Trade Balance,-39.0B,-42.3B,-42.2B,,,,
+2015-01-07 21:30:00,USD,Medium,Crude Oil Inventories,-3.1M,0.9M,-1.8M,,,,
+2015-01-08 13:00:00,EUR,Low,German Factory Orders m/m,-2.4%,-0.6%,2.9%,,,,
+2015-01-08 16:00:00,EUR,Medium,Retail Sales m/m,0.6%,0.3%,0.6%,,,,
+2015-01-08 16:00:00,EUR,Low,PPI m/m,-0.3%,-0.2%,-0.3%,,,,
+2015-01-08 19:30:00,USD,High,Unemployment Claims,294K,291K,298K,,,,
+2015-01-08 21:30:00,USD,Low,Natural Gas Storage,-131B,-120B,-26B,,,,
+2015-01-09 02:00:00,USD,Low,Consumer Credit m/m,14.1B,15.1B,16.0B,,,,
+2015-01-09 13:00:00,EUR,Low,German Industrial Production m/m,-0.1%,0.4%,0.6%,,,,
+2015-01-09 13:00:00,EUR,Low,German Trade Balance,17.7B,19.4B,20.6B,,,,
+2015-01-09 13:45:00,EUR,Medium,French Industrial Production m/m,-0.3%,0.4%,-0.7%,,,,
+2015-01-09 13:45:00,EUR,Low,French Trade Balance,-3.2B,-4.5B,-4.3B,,,,
+2015-01-09 19:30:00,USD,High,Non-Farm Employment Change,252K,241K,353K,,,,
+2015-01-09 19:30:00,USD,High,Unemployment Rate,5.6%,5.7%,5.8%,,,,
+2015-01-09 19:30:00,USD,Medium,Average Hourly Earnings m/m,-0.2%,0.2%,0.2%,,,,
+2015-01-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.8%,0.4%,0.6%,,,,
+2015-01-13 13:00:00,EUR,Low,German WPI m/m,-1.0%,0.2%,-0.7%,,,,
+2015-01-13 15:00:00,EUR,Low,Italian Industrial Production m/m,0.3%,0.1%,0.0%,,,,
+2015-01-13 20:00:00,USD,Low,NFIB Small Business Index,100.4,98.6,98.1,,,,
+2015-01-13 21:00:00,USD,Medium,JOLTS Job Openings,4.97M,4.86M,4.83M,,,,
+2015-01-13 21:00:00,USD,Low,IBD/TIPP Economic Optimism,51.5,48.9,48.4,,,,
+2015-01-14 01:00:00,USD,Low,Federal Budget Balance,1.9B,3.8B,-56.8B,,,,
+2015-01-14 13:45:00,EUR,Low,French Final CPI m/m,0.1%,0.0%,-0.2%,,,,
+2015-01-14 16:00:00,EUR,Low,Industrial Production m/m,0.2%,0.0%,0.3%,,,,
+2015-01-14 19:30:00,USD,High,Core Retail Sales m/m,-1.0%,0.1%,0.1%,,,,
+2015-01-14 19:30:00,USD,High,Retail Sales m/m,-0.9%,0.2%,0.4%,,,,
+2015-01-14 19:30:00,USD,Medium,Import Prices m/m,-2.5%,-2.7%,-1.8%,,,,
+2015-01-14 21:00:00,USD,Medium,Business Inventories m/m,0.2%,0.2%,0.2%,,,,
+2015-01-14 21:30:00,USD,Medium,Crude Oil Inventories,5.4M,1.2M,-3.1M,,,,
+2015-01-15 16:00:00,EUR,Low,Trade Balance,20.0B,21.3B,19.6B,,,,
+2015-01-15 19:30:00,USD,High,PPI m/m,-0.3%,-0.3%,-0.2%,,,,
+2015-01-15 19:30:00,USD,High,Unemployment Claims,316K,299K,297K,,,,
+2015-01-15 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.2%,0.0%,,,,
+2015-01-15 19:30:00,USD,Medium,Empire State Manufacturing Index,10.0,5.3,-3.6,,,,
+2015-01-15 21:00:00,USD,High,Philly Fed Manufacturing Index,6.3,20.3,24.5,,,,
+2015-01-15 21:30:00,USD,Low,Natural Gas Storage,-236B,-224B,-131B,,,,
+2015-01-16 13:00:00,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%,,,,
+2015-01-16 16:00:00,EUR,Medium,Final CPI y/y,-0.2%,-0.2%,-0.2%,,,,
+2015-01-16 16:00:00,EUR,Low,Final Core CPI y/y,0.7%,0.8%,0.8%,,,,
+2015-01-16 19:30:00,USD,High,CPI m/m,-0.4%,-0.3%,-0.3%,,,,
+2015-01-16 19:30:00,USD,High,Core CPI m/m,0.0%,0.1%,0.1%,,,,
+2015-01-16 20:15:00,USD,Medium,Capacity Utilization Rate,79.7%,80.2%,80.0%,,,,
+2015-01-16 20:15:00,USD,Medium,Industrial Production m/m,-0.1%,0.1%,1.3%,,,,
+2015-01-16 21:00:00,USD,High,Prelim UoM Consumer Sentiment,98.2,94.2,93.6,,,,
+2015-01-17 03:00:00,USD,Low,TIC Long-Term Purchases,33.5B,27.3B,-1.4B,,,,
+2015-01-19 15:00:00,EUR,Low,Current Account,18.1B,22.7B,19.5B,,,,
+2015-01-20 13:00:00,EUR,Low,German PPI m/m,-0.7%,-0.3%,0.0%,,,,
+2015-01-20 15:03:00,EUR,Low,Italian Trade Balance,3.54B,4.32B,5.40B,,,,
+2015-01-20 16:00:00,EUR,High,German ZEW Economic Sentiment,48.4,40.1,34.9,,,,
+2015-01-20 16:00:00,EUR,Medium,ZEW Economic Sentiment,45.2,37.6,31.8,,,,
+2015-01-20 21:00:00,USD,Medium,NAHB Housing Market Index,57,58,58,,,,
+2015-01-21 19:30:00,USD,High,Building Permits,1.03M,1.06M,1.05M,,,,
+2015-01-21 19:30:00,USD,Medium,Housing Starts,1.09M,1.04M,1.04M,,,,
+2015-01-22 14:00:00,EUR,Medium,Spanish Unemployment Rate,23.7%,23.6%,23.7%,,,,
+2015-01-22 16:00:00,EUR,Low,Italian Retail Sales m/m,0.1%,0.1%,0.0%,,,,
+2015-01-22 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,,,,
+2015-01-22 19:30:00,USD,High,Unemployment Claims,307K,301K,317K,,,,
+2015-01-22 20:00:00,USD,Low,HPI m/m,0.8%,0.4%,0.4%,,,,
+2015-01-22 21:00:00,EUR,Low,Consumer Confidence,-9,-11,-11,,,,
+2015-01-22 21:30:00,USD,Low,Natural Gas Storage,-216B,-231B,-236B,,,,
+2015-01-22 22:00:00,USD,Medium,Crude Oil Inventories,10.1M,2.5M,5.4M,,,,
+2015-01-23 14:00:00,EUR,High,French Flash Manufacturing PMI,49.5,48.1,47.5,,,,
+2015-01-23 14:00:00,EUR,Medium,French Flash Services PMI,49.5,50.9,50.6,,,,
+2015-01-23 14:30:00,EUR,High,German Flash Manufacturing PMI,51.0,51.8,51.2,,,,
+2015-01-23 14:30:00,EUR,Medium,German Flash Services PMI,52.7,52.6,52.1,,,,
+2015-01-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,51.0,51.0,50.6,,,,
+2015-01-23 15:00:00,EUR,Medium,Flash Services PMI,52.3,52.1,51.6,,,,
+2015-01-23 20:00:00,EUR,Low,Belgian NBB Business Climate,-8.8,-6.1,-6.9,,,,
+2015-01-23 20:45:00,USD,Medium,Flash Manufacturing PMI,53.7,54.1,53.9,,,,
+2015-01-23 21:00:00,USD,Medium,Existing Home Sales,5.04M,5.08M,4.92M,,,,
+2015-01-23 21:00:00,USD,Low,CB Leading Index m/m,0.5%,0.5%,0.4%,,,,
+2015-01-26 15:00:00,EUR,High,German ifo Business Climate,106.7,106.7,105.5,,,,
+2015-01-27 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.8%,0.6%,-0.7%,,,,
+2015-01-27 19:30:00,USD,Medium,Durable Goods Orders m/m,-3.4%,0.6%,-0.9%,,,,
+2015-01-27 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,4.3%,4.4%,4.5%,,,,
+2015-01-27 20:45:00,USD,Low,Flash Services PMI,54.0,53.9,53.3,,,,
+2015-01-27 20:59:00,USD,Low,Richmond Manufacturing Index,6,6,7,,,,
+2015-01-27 21:00:00,USD,High,CB Consumer Confidence,102.9,95.3,93.1,,,,
+2015-01-27 21:00:00,USD,High,New Home Sales,481K,452K,431K,,,,
+2015-01-28 13:00:00,EUR,Medium,German GfK Consumer Climate,9.3,9.2,9.0,,,,
+2015-01-28 13:00:00,EUR,Low,German Import Prices m/m,-1.7%,-1.4%,-0.8%,,,,
+2015-01-28 21:30:00,USD,Medium,Crude Oil Inventories,8.9M,4.2M,10.1M,,,,
+2015-01-29 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,,,,
+2015-01-29 13:00:00,EUR,High,German Prelim CPI m/m,-1.0%,-0.8%,0.0%,,,,
+2015-01-29 14:55:00,EUR,Medium,German Unemployment Change,-9K,-9K,-25K,,,,
+2015-01-29 15:00:00,EUR,Medium,M3 Money Supply y/y,3.6%,3.6%,3.1%,,,,
+2015-01-29 15:00:00,EUR,Medium,Private Loans y/y,-0.5%,-0.5%,-0.9%,,,,
+2015-01-29 19:30:00,USD,High,Unemployment Claims,265K,301K,308K,,,,
+2015-01-29 21:00:00,USD,Medium,Pending Home Sales m/m,-3.7%,0.6%,0.6%,,,,
+2015-01-29 21:30:00,USD,Low,Natural Gas Storage,-94B,-113B,-216B,,,,
+2015-01-30 13:00:00,EUR,Medium,German Retail Sales m/m,0.2%,0.4%,0.9%,,,,
+2015-01-30 13:45:00,EUR,Medium,French Consumer Spending m/m,1.5%,0.3%,0.2%,,,,
+2015-01-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-1.4%,-1.5%,-1.0%,,,,
+2015-01-30 14:00:00,EUR,Medium,Spanish Flash GDP q/q,0.7%,0.5%,0.5%,,,,
+2015-01-30 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.9%,13.5%,13.3%,,,,
+2015-01-30 16:00:00,EUR,High,CPI Flash Estimate y/y,-0.6%,-0.5%,-0.2%,,,,
+2015-01-30 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.6%,0.6%,0.7%,,,,
+2015-01-30 16:00:00,EUR,Medium,Unemployment Rate,11.4%,11.5%,11.5%,,,,
+2015-01-30 19:30:00,USD,High,Advance GDP q/q,2.6%,3.0%,5.0%,,,,
+2015-01-30 19:30:00,USD,Medium,Advance GDP Price Index q/q,0.0%,0.9%,1.4%,,,,
+2015-01-30 19:30:00,USD,Medium,Employment Cost Index q/q,0.6%,0.6%,0.7%,,,,
+2015-01-30 20:45:00,USD,Medium,Chicago PMI,59.4,57.7,58.3,,,,
+2015-01-30 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,98.1,98.5,98.2,,,,
+2015-02-02 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.7,54.2,53.8,,,,
+2015-02-02 14:45:00,EUR,Medium,Italian Manufacturing PMI,49.9,49.3,48.4,,,,
+2015-02-02 14:50:00,EUR,Low,French Final Manufacturing PMI,49.2,49.5,49.5,,,,
+2015-02-02 14:55:00,EUR,Medium,German Final Manufacturing PMI,50.9,51.0,51.0,,,,
+2015-02-02 15:00:00,EUR,Low,Final Manufacturing PMI,51.0,51.0,51.0,,,,
+2015-02-02 19:30:00,USD,Medium,Core PCE Price Index m/m,0.0%,0.0%,0.0%,,,,
+2015-02-02 19:30:00,USD,Medium,Personal Spending m/m,-0.3%,-0.1%,0.5%,,,,
+2015-02-02 19:30:00,USD,Low,Personal Income m/m,0.3%,0.2%,0.3%,,,,
+2015-02-02 20:45:00,USD,Low,Final Manufacturing PMI,53.9,54.1,53.7,,,,
+2015-02-02 21:00:00,USD,High,ISM Manufacturing PMI,53.5,54.9,55.5,,,,
+2015-02-02 21:00:00,USD,Low,Construction Spending m/m,0.4%,0.9%,-0.2%,,,,
+2015-02-02 21:00:00,USD,Low,ISM Manufacturing Prices,35.0,40.1,38.5,,,,
+2015-02-03 14:00:00,EUR,High,Spanish Unemployment Change,78.0K,83.4K,-64.4K,,,,
+2015-02-03 16:00:00,EUR,Low,PPI m/m,-1.0%,-0.7%,-0.3%,,,,
+2015-02-03 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.4%,-0.1%,0.0%,,,,
+2015-02-03 21:00:00,USD,Medium,Factory Orders m/m,-3.4%,-1.8%,-1.7%,,,,
+2015-02-03 21:06:00,USD,Low,Total Vehicle Sales,16.7M,17.0M,16.9M,,,,
+2015-02-04 14:15:00,EUR,Medium,Spanish Services PMI,56.7,54.5,54.3,,,,
+2015-02-04 14:45:00,EUR,Medium,Italian Services PMI,51.2,49.9,49.4,,,,
+2015-02-04 14:50:00,EUR,Low,French Final Services PMI,49.4,49.5,49.5,,,,
+2015-02-04 14:55:00,EUR,Medium,German Final Services PMI,54.0,52.7,52.7,,,,
+2015-02-04 15:00:00,EUR,Low,Final Services PMI,52.7,52.3,52.3,,,,
+2015-02-04 16:00:00,EUR,Medium,Retail Sales m/m,0.3%,-0.1%,0.7%,,,,
+2015-02-04 19:15:00,USD,High,ADP Non-Farm Employment Change,213K,224K,253K,,,,
+2015-02-04 20:45:00,USD,Low,Final Services PMI,54.2,54.3,54.0,,,,
+2015-02-04 21:00:00,USD,High,ISM Services PMI,56.7,56.6,56.2,,,,
+2015-02-04 21:30:00,USD,Medium,Crude Oil Inventories,6.3M,4.0M,8.9M,,,,
+2015-02-05 13:00:00,EUR,Medium,German Factory Orders m/m,4.2%,1.4%,-2.4%,,,,
+2015-02-05 19:30:00,USD,High,Trade Balance,-46.6B,-38.2B,-39.8B,,,,
+2015-02-05 19:30:00,USD,High,Unemployment Claims,278K,287K,267K,,,,
+2015-02-05 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,-1.8%,0.3%,2.3%,,,,
+2015-02-05 19:30:00,USD,Medium,Prelim Unit Labor Costs q/q,2.7%,1.3%,-1.0%,,,,
+2015-02-05 21:30:00,USD,Low,Natural Gas Storage,-115B,-119B,-94B,,,,
+2015-02-06 13:00:00,EUR,Low,German Industrial Production m/m,0.1%,0.4%,0.1%,,,,
+2015-02-06 13:45:00,EUR,Low,French Trade Balance,-3.4B,-3.1B,-3.1B,,,,
+2015-02-06 19:30:00,USD,High,Non-Farm Employment Change,257K,236K,329K,,,,
+2015-02-06 19:30:00,USD,High,Unemployment Rate,5.7%,5.6%,5.6%,,,,
+2015-02-06 19:30:00,USD,Medium,Average Hourly Earnings m/m,0.5%,0.3%,-0.2%,,,,
+2015-02-07 02:00:00,USD,Low,Consumer Credit m/m,14.8B,14.6B,13.5B,,,,
+2015-02-09 13:00:00,EUR,Low,German Trade Balance,21.8B,18.2B,17.9B,,,,
+2015-02-09 15:30:00,EUR,Low,Sentix Investor Confidence,12.4,3.4,0.9,,,,
+2015-02-10 13:45:00,EUR,Medium,French Industrial Production m/m,1.5%,0.3%,-0.2%,,,,
+2015-02-10 15:00:00,EUR,Low,Italian Industrial Production m/m,0.4%,0.1%,0.3%,,,,
+2015-02-10 20:00:00,USD,Low,NFIB Small Business Index,97.9,101.3,100.4,,,,
+2015-02-10 21:00:00,USD,Medium,JOLTS Job Openings,5.03M,5.03M,4.85M,,,,
+2015-02-10 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.1%,0.2%,0.8%,,,,
+2015-02-10 21:00:00,USD,Low,IBD/TIPP Economic Optimism,47.5,51.4,51.5,,,,
+2015-02-11 21:30:00,USD,Medium,Crude Oil Inventories,4.9M,3.7M,6.3M,,,,
+2015-02-12 01:00:00,USD,Low,Federal Budget Balance,-17.5B,-2.6B,1.9B,,,,
+2015-02-12 13:00:00,EUR,Low,German Final CPI m/m,-1.1%,-1.0%,-1.0%,,,,
+2015-02-12 16:00:00,EUR,Low,Industrial Production m/m,0.0%,0.3%,0.1%,,,,
+2015-02-12 19:30:00,USD,High,Core Retail Sales m/m,-0.9%,-0.4%,-0.9%,,,,
+2015-02-12 19:30:00,USD,High,Retail Sales m/m,-0.8%,-0.4%,-0.9%,,,,
+2015-02-12 19:30:00,USD,High,Unemployment Claims,304K,282K,279K,,,,
+2015-02-12 21:00:00,USD,Medium,Business Inventories m/m,0.1%,0.2%,0.2%,,,,
+2015-02-12 21:30:00,USD,Low,Natural Gas Storage,-160B,-165B,-115B,,,,
+2015-02-13 12:30:00,EUR,Medium,French Prelim GDP q/q,0.1%,0.1%,0.3%,,,,
+2015-02-13 13:00:00,EUR,Medium,German Prelim GDP q/q,0.7%,0.3%,0.1%,,,,
+2015-02-13 13:00:00,EUR,Low,German WPI m/m,-0.4%,0.4%,-1.0%,,,,
+2015-02-13 13:45:00,EUR,Medium,French Prelim Private Payrolls q/q,0.0%,-0.1%,-0.3%,,,,
+2015-02-13 15:00:00,EUR,Medium,Italian Prelim GDP q/q,0.0%,0.0%,-0.1%,,,,
+2015-02-13 16:00:00,EUR,Medium,Flash GDP q/q,0.3%,0.2%,0.2%,,,,
+2015-02-13 19:30:00,USD,Medium,Import Prices m/m,-2.8%,-3.1%,-1.9%,,,,
+2015-02-13 21:00:00,USD,High,Prelim UoM Consumer Sentiment,93.6,98.2,98.1,,,,
+2015-02-16 16:00:00,EUR,Low,Trade Balance,23.3B,21.3B,21.6B,,,,
+2015-02-17 15:00:00,EUR,Low,Italian Trade Balance,5.76B,3.27B,3.54B,,,,
+2015-02-17 16:00:00,EUR,High,German ZEW Economic Sentiment,53.0,55.4,48.4,,,,
+2015-02-17 16:00:00,EUR,Medium,ZEW Economic Sentiment,52.7,51.3,45.2,,,,
+2015-02-17 19:30:00,USD,Medium,Empire State Manufacturing Index,7.8,8.9,10.0,,,,
+2015-02-17 21:00:00,USD,Medium,NAHB Housing Market Index,55,58,57,,,,
+2015-02-18 19:30:00,USD,High,Building Permits,1.05M,1.08M,1.06M,,,,
+2015-02-18 19:30:00,USD,High,PPI m/m,-0.8%,-0.4%,-0.3%,,,,
+2015-02-18 19:30:00,USD,Medium,Core PPI m/m,-0.1%,0.1%,0.3%,,,,
+2015-02-18 19:30:00,USD,Medium,Housing Starts,1.07M,1.07M,1.09M,,,,
+2015-02-18 20:15:00,USD,Medium,Capacity Utilization Rate,79.4%,79.9%,79.4%,,,,
+2015-02-18 20:15:00,USD,Medium,Industrial Production m/m,0.2%,0.5%,-0.3%,,,,
+2015-02-19 03:00:00,USD,Low,TIC Long-Term Purchases,35.4B,41.3B,33.5B,,,,
+2015-02-19 13:45:00,EUR,Low,French Final CPI m/m,-1.0%,-0.9%,0.1%,,,,
+2015-02-19 15:00:00,EUR,Low,Current Account,17.8B,23.3B,19.9B,,,,
+2015-02-19 19:30:00,USD,High,Unemployment Claims,283K,293K,304K,,,,
+2015-02-19 20:59:00,EUR,Low,Consumer Confidence,-7,-8,-9,,,,
+2015-02-19 21:00:00,USD,High,Philly Fed Manufacturing Index,5.2,8.8,6.3,,,,
+2015-02-19 21:00:00,USD,Low,CB Leading Index m/m,0.2%,0.4%,0.4%,,,,
+2015-02-19 21:30:00,USD,Low,Natural Gas Storage,-111B,-110B,-160B,,,,
+2015-02-19 22:00:00,USD,Medium,Crude Oil Inventories,7.7M,-1.8M,4.9M,,,,
+2015-02-20 13:00:00,EUR,Low,German PPI m/m,-0.6%,-0.3%,-0.7%,,,,
+2015-02-20 14:00:00,EUR,High,French Flash Manufacturing PMI,47.7,49.7,49.2,,,,
+2015-02-20 14:00:00,EUR,Medium,French Flash Services PMI,53.4,49.9,49.4,,,,
+2015-02-20 14:30:00,EUR,High,German Flash Manufacturing PMI,50.9,51.8,50.9,,,,
+2015-02-20 14:30:00,EUR,Medium,German Flash Services PMI,55.5,54.3,54.0,,,,
+2015-02-20 15:00:00,EUR,Medium,Flash Manufacturing PMI,51.1,51.6,51.0,,,,
+2015-02-20 15:00:00,EUR,Medium,Flash Services PMI,53.9,53.2,52.7,,,,
+2015-02-20 20:45:00,USD,Medium,Flash Manufacturing PMI,54.3,53.7,53.9,,,,
+2015-02-23 15:00:00,EUR,High,German ifo Business Climate,106.8,107.4,106.7,,,,
+2015-02-23 21:00:00,USD,Medium,Existing Home Sales,4.82M,5.03M,5.07M,,,,
+2015-02-24 13:00:00,EUR,Low,German Final GDP q/q,0.7%,0.7%,0.7%,,,,
+2015-02-24 16:00:00,EUR,Medium,Final CPI y/y,-0.6%,-0.6%,-0.6%,,,,
+2015-02-24 16:00:00,EUR,Low,Final Core CPI y/y,0.6%,0.6%,0.6%,,,,
+2015-02-24 20:00:00,EUR,Low,Belgian NBB Business Climate,-8.3,-8.4,-8.8,,,,
+2015-02-24 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,4.5%,4.5%,4.3%,,,,
+2015-02-24 20:45:00,USD,Low,Flash Services PMI,57.0,54.5,54.2,,,,
+2015-02-24 20:59:00,USD,Low,Richmond Manufacturing Index,0,7,6,,,,
+2015-02-24 21:00:00,USD,High,CB Consumer Confidence,96.4,99.6,103.8,,,,
+2015-02-25 21:00:00,USD,High,New Home Sales,481K,471K,482K,,,,
+2015-02-25 21:30:00,USD,Medium,Crude Oil Inventories,8.4M,3.6M,7.7M,,,,
+2015-02-26 13:00:00,EUR,Medium,German GfK Consumer Climate,9.7,9.6,9.3,,,,
+2015-02-26 14:55:00,EUR,Medium,German Unemployment Change,-20K,-10K,-10K,,,,
+2015-02-26 15:00:00,EUR,Medium,M3 Money Supply y/y,4.1%,3.7%,3.6%,,,,
+2015-02-26 15:00:00,EUR,Medium,Private Loans y/y,-0.1%,-0.3%,-0.5%,,,,
+2015-02-26 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.2%,0.0%,0.1%,,,,
+2015-02-26 19:30:00,USD,High,CPI m/m,-0.7%,-0.6%,-0.4%,,,,
+2015-02-26 19:30:00,USD,High,Core CPI m/m,0.2%,0.1%,0.0%,,,,
+2015-02-26 19:30:00,USD,High,Unemployment Claims,313K,288K,282K,,,,
+2015-02-26 19:30:00,USD,Medium,Core Durable Goods Orders m/m,0.3%,0.6%,-0.9%,,,,
+2015-02-26 19:30:00,USD,Low,Durable Goods Orders m/m,2.8%,1.7%,-3.3%,,,,
+2015-02-26 20:00:00,USD,Low,HPI m/m,0.8%,0.5%,0.7%,,,,
+2015-02-26 21:30:00,USD,Low,Natural Gas Storage,-219B,-241B,-111B,,,,
+2015-02-27 13:00:00,EUR,Low,German Import Prices m/m,-0.8%,-0.8%,-1.7%,,,,
+2015-02-27 13:00:00,EUR,High,German Prelim CPI m/m,0.9%,0.6%,-1.1%,,,,
+2015-02-27 13:45:00,EUR,Medium,French Consumer Spending m/m,0.6%,-0.3%,1.6%,,,,
+2015-02-27 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-1.1%,-1.5%,-1.3%,,,,
+2015-02-27 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,-0.4%,,,,
+2015-02-27 19:30:00,USD,High,Prelim GDP q/q,2.2%,2.1%,2.6%,,,,
+2015-02-27 19:30:00,USD,Low,Prelim GDP Price Index q/q,0.1%,0.0%,0.0%,,,,
+2015-02-27 20:45:00,USD,Medium,Chicago PMI,45.8,58.4,59.4,,,,
+2015-02-27 21:00:00,USD,Medium,Pending Home Sales m/m,1.7%,2.5%,-1.5%,,,,
+2015-02-27 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,95.4,94.2,93.6,,,,
+2015-03-02 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.2,55.2,54.7,,,,
+2015-03-02 14:45:00,EUR,Medium,Italian Manufacturing PMI,51.9,50.2,49.9,,,,
+2015-03-02 14:50:00,EUR,Low,French Final Manufacturing PMI,47.6,47.7,47.7,,,,
+2015-03-02 14:55:00,EUR,Medium,German Final Manufacturing PMI,51.1,50.9,50.9,,,,
+2015-03-02 15:00:00,EUR,Low,Final Manufacturing PMI,51.0,51.1,51.1,,,,
+2015-03-02 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.6%,12.9%,12.7%,,,,
+2015-03-02 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,13.0%,12.8%,12.8%,,,,
+2015-03-02 16:00:00,EUR,High,CPI Flash Estimate y/y,-0.3%,-0.5%,-0.6%,,,,
+2015-03-02 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.6%,0.6%,0.6%,,,,
+2015-03-02 16:00:00,EUR,Medium,Unemployment Rate,11.2%,11.4%,11.3%,,,,
+2015-03-02 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.0%,,,,
+2015-03-02 19:30:00,USD,Medium,Personal Spending m/m,-0.2%,0.0%,-0.3%,,,,
+2015-03-02 19:30:00,USD,Low,Personal Income m/m,0.3%,0.4%,0.3%,,,,
+2015-03-02 20:45:00,USD,Low,Final Manufacturing PMI,55.1,54.3,54.3,,,,
+2015-03-02 21:00:00,USD,High,ISM Manufacturing PMI,52.9,53.4,53.5,,,,
+2015-03-02 21:00:00,USD,Low,Construction Spending m/m,-1.1%,0.4%,0.8%,,,,
+2015-03-02 21:00:00,USD,Low,ISM Manufacturing Prices,35.0,36.2,35.0,,,,
+2015-03-03 13:00:00,EUR,Medium,German Retail Sales m/m,2.9%,0.5%,0.6%,,,,
+2015-03-03 14:00:00,EUR,High,Spanish Unemployment Change,-13.5K,10.5K,78.0K,,,,
+2015-03-03 16:00:00,EUR,Low,PPI m/m,-0.9%,-0.5%,-1.0%,,,,
+2015-03-03 21:00:00,USD,Low,IBD/TIPP Economic Optimism,49.1,48.3,47.5,,,,
+2015-03-03 21:00:00,USD,Low,Total Vehicle Sales,16.2M,16.8M,16.7M,,,,
+2015-03-04 14:15:00,EUR,Medium,Spanish Services PMI,56.2,56.9,56.7,,,,
+2015-03-04 14:45:00,EUR,Medium,Italian Services PMI,50.0,51.8,51.2,,,,
+2015-03-04 14:50:00,EUR,Low,French Final Services PMI,53.4,53.4,53.4,,,,
+2015-03-04 14:55:00,EUR,Medium,German Final Services PMI,54.7,55.5,55.5,,,,
+2015-03-04 15:00:00,EUR,Low,Final Services PMI,53.7,53.9,53.9,,,,
+2015-03-04 16:00:00,EUR,Medium,Retail Sales m/m,1.1%,0.2%,0.4%,,,,
+2015-03-04 19:15:00,USD,High,ADP Non-Farm Employment Change,212K,219K,250K,,,,
+2015-03-04 20:45:00,USD,Low,Final Services PMI,57.1,54.8,57.0,,,,
+2015-03-04 21:00:00,USD,High,ISM Services PMI,56.9,56.5,56.7,,,,
+2015-03-04 21:30:00,USD,Medium,Crude Oil Inventories,10.3M,4.0M,8.4M,,,,
+2015-03-05 13:00:00,EUR,Medium,German Factory Orders m/m,-3.9%,-1.0%,4.4%,,,,
+2015-03-05 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,,,,
+2015-03-05 19:30:00,USD,High,Unemployment Claims,320K,293K,313K,,,,
+2015-03-05 19:30:00,USD,Medium,Revised Nonfarm Productivity q/q,-2.2%,-2.3%,-1.8%,,,,
+2015-03-05 19:30:00,USD,Low,Revised Unit Labor Costs q/q,4.1%,3.3%,2.7%,,,,
+2015-03-05 21:00:00,USD,Medium,Factory Orders m/m,-0.2%,0.2%,-3.5%,,,,
+2015-03-05 21:30:00,USD,Low,Natural Gas Storage,-228B,-224B,-219B,,,,
+2015-03-06 13:00:00,EUR,Low,German Industrial Production m/m,0.6%,0.6%,1.0%,,,,
+2015-03-06 13:45:00,EUR,Low,French Trade Balance,-3.7B,-3.0B,-3.3B,,,,
+2015-03-06 16:00:00,EUR,Low,Revised GDP q/q,0.3%,0.3%,0.3%,,,,
+2015-03-06 19:30:00,USD,High,Non-Farm Employment Change,295K,240K,239K,,,,
+2015-03-06 19:30:00,USD,High,Unemployment Rate,5.5%,5.6%,5.7%,,,,
+2015-03-06 19:30:00,USD,Medium,Average Hourly Earnings m/m,0.1%,0.2%,0.5%,,,,
+2015-03-06 19:30:00,USD,Medium,Trade Balance,-41.8B,-41.3B,-45.6B,,,,
+2015-03-07 02:00:00,USD,Low,Consumer Credit m/m,11.6B,14.7B,17.9B,,,,
+2015-03-09 14:00:00,EUR,Low,German Trade Balance,19.7B,20.4B,21.6B,,,,
+2015-03-09 16:30:00,EUR,Low,Sentix Investor Confidence,18.6,15.3,12.4,,,,
+2015-03-10 14:45:00,EUR,Medium,French Industrial Production m/m,0.4%,-0.2%,1.4%,,,,
+2015-03-10 16:00:00,EUR,Low,Italian Industrial Production m/m,-0.7%,0.2%,0.4%,,,,
+2015-03-10 20:00:00,USD,Low,NFIB Small Business Index,98.0,99.2,97.9,,,,
+2015-03-10 21:00:00,USD,Medium,JOLTS Job Openings,5.00M,5.04M,4.88M,,,,
+2015-03-10 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.3%,0.0%,0.0%,,,,
+2015-03-11 13:30:00,EUR,Low,French Final Private Payrolls q/q,0.0%,0.0%,0.0%,,,,
+2015-03-11 21:30:00,USD,Medium,Crude Oil Inventories,4.5M,4.5M,10.3M,,,,
+2015-03-12 14:00:00,EUR,Low,German Final CPI m/m,0.9%,0.9%,0.9%,,,,
+2015-03-12 14:45:00,EUR,Low,French Final CPI m/m,0.7%,0.6%,-1.0%,,,,
+2015-03-12 17:00:00,EUR,Low,Industrial Production m/m,-0.1%,0.3%,0.3%,,,,
+2015-03-12 19:30:00,USD,High,Core Retail Sales m/m,-0.1%,0.6%,-1.1%,,,,
+2015-03-12 19:30:00,USD,High,Retail Sales m/m,-0.6%,0.3%,-0.8%,,,,
+2015-03-12 19:30:00,USD,High,Unemployment Claims,289K,306K,325K,,,,
+2015-03-12 19:30:00,USD,Medium,Import Prices m/m,0.4%,0.2%,-3.1%,,,,
+2015-03-12 21:00:00,USD,Medium,Business Inventories m/m,0.0%,0.2%,0.0%,,,,
+2015-03-12 21:30:00,USD,Low,Natural Gas Storage,-198B,-189B,-228B,,,,
+2015-03-13 01:00:00,USD,Low,Federal Budget Balance,-192.3B,-188.9B,-17.5B,,,,
+2015-03-13 14:00:00,EUR,Low,German WPI m/m,0.5%,-0.2%,-0.4%,,,,
+2015-03-13 19:30:00,USD,High,PPI m/m,-0.5%,0.2%,-0.8%,,,,
+2015-03-13 19:30:00,USD,Medium,Core PPI m/m,-0.5%,0.1%,-0.1%,,,,
+2015-03-13 21:00:00,USD,High,Prelim UoM Consumer Sentiment,91.2,95.6,95.4,,,,
+2015-03-16 19:30:00,USD,Medium,Empire State Manufacturing Index,6.9,8.1,7.8,,,,
+2015-03-16 20:15:00,USD,Medium,Capacity Utilization Rate,78.9%,79.5%,79.1%,,,,
+2015-03-16 20:15:00,USD,Medium,Industrial Production m/m,0.1%,0.3%,-0.3%,,,,
+2015-03-16 21:00:00,USD,Medium,NAHB Housing Market Index,53,57,55,,,,
+2015-03-17 03:00:00,USD,Low,TIC Long-Term Purchases,-27.2B,27.2B,39.2B,,,,
+2015-03-17 17:00:00,EUR,High,German ZEW Economic Sentiment,54.8,58.9,53.0,,,,
+2015-03-17 17:00:00,EUR,Medium,Final CPI y/y,-0.3%,-0.3%,-0.3%,,,,
+2015-03-17 17:00:00,EUR,Medium,ZEW Economic Sentiment,62.4,58.2,52.7,,,,
+2015-03-17 17:00:00,EUR,Low,Final Core CPI y/y,0.7%,0.6%,0.6%,,,,
+2015-03-17 17:00:00,EUR,Low,Final Employment Change q/q,0.1%,0.1%,0.4%,,,,
+2015-03-17 19:30:00,USD,High,Building Permits,1.09M,1.07M,1.06M,,,,
+2015-03-17 19:30:00,USD,Medium,Housing Starts,0.90M,1.05M,1.08M,,,,
+2015-03-18 16:00:00,EUR,Low,Italian Trade Balance,0.22B,4.32B,5.74B,,,,
+2015-03-18 21:30:00,USD,Medium,Crude Oil Inventories,9.6M,4.0M,4.5M,,,,
+2015-03-19 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,,,,
+2015-03-19 17:20:00,EUR,High,Long Term Refinancing Operation,97.8B,40.0B,129.8B,,,,
+2015-03-19 19:30:00,USD,High,Unemployment Claims,291K,295K,290K,,,,
+2015-03-19 19:30:00,USD,Medium,Current Account,-113B,-103B,-99B,,,,
+2015-03-19 21:00:00,USD,High,Philly Fed Manufacturing Index,5.0,7.2,5.2,,,,
+2015-03-19 21:00:00,USD,Low,CB Leading Index m/m,0.2%,0.3%,0.2%,,,,
+2015-03-19 21:30:00,USD,Low,Natural Gas Storage,-45B,-50B,-198B,,,,
+2015-03-20 14:00:00,EUR,Low,German PPI m/m,0.1%,0.2%,-0.6%,,,,
+2015-03-20 16:00:00,EUR,Low,Current Account,29.4B,21.3B,22.5B,,,,
+2015-03-23 21:00:00,USD,Medium,Existing Home Sales,4.88M,4.91M,4.82M,,,,
+2015-03-23 22:00:00,EUR,Low,Consumer Confidence,-4,-6,-7,,,,
+2015-03-24 15:00:00,EUR,High,French Flash Manufacturing PMI,48.2,48.9,47.6,,,,
+2015-03-24 15:00:00,EUR,Medium,French Flash Services PMI,52.8,53.1,53.4,,,,
+2015-03-24 15:30:00,EUR,High,German Flash Manufacturing PMI,52.4,51.5,51.1,,,,
+2015-03-24 15:30:00,EUR,Medium,German Flash Services PMI,55.3,55.0,54.7,,,,
+2015-03-24 16:00:00,EUR,Medium,Flash Manufacturing PMI,51.9,51.6,51.0,,,,
+2015-03-24 16:00:00,EUR,Medium,Flash Services PMI,54.3,53.9,53.7,,,,
+2015-03-24 19:30:00,USD,High,CPI m/m,0.2%,0.2%,-0.7%,,,,
+2015-03-24 19:30:00,USD,High,Core CPI m/m,0.2%,0.1%,0.2%,,,,
+2015-03-24 20:00:00,USD,Low,HPI m/m,0.3%,0.5%,0.7%,,,,
+2015-03-24 20:45:00,USD,Medium,Flash Manufacturing PMI,55.3,54.9,55.1,,,,
+2015-03-24 20:59:00,USD,Low,Richmond Manufacturing Index,-8,2,0,,,,
+2015-03-24 21:00:00,EUR,Low,Belgian NBB Business Climate,-6.3,-7.5,-8.3,,,,
+2015-03-24 21:00:00,USD,Medium,New Home Sales,539K,466K,500K,,,,
+2015-03-25 16:00:00,EUR,High,German ifo Business Climate,107.9,107.4,106.8,,,,
+2015-03-25 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.4%,0.3%,0.0%,,,,
+2015-03-25 19:30:00,USD,Medium,Durable Goods Orders m/m,-1.4%,0.3%,2.0%,,,,
+2015-03-25 21:30:00,USD,Medium,Crude Oil Inventories,8.2M,5.0M,9.6M,,,,
+2015-03-26 14:00:00,EUR,Medium,German GfK Consumer Climate,10.0,9.8,9.7,,,,
+2015-03-26 16:00:00,EUR,Medium,M3 Money Supply y/y,4.0%,4.3%,3.7%,,,,
+2015-03-26 16:00:00,EUR,Medium,Private Loans y/y,-0.1%,0.1%,-0.2%,,,,
+2015-03-26 19:30:00,USD,High,Unemployment Claims,282K,291K,291K,,,,
+2015-03-26 20:45:00,USD,Low,Flash Services PMI,58.6,57.2,57.1,,,,
+2015-03-26 21:30:00,USD,Low,Natural Gas Storage,12B,10B,-45B,,,,
+2015-03-27 14:00:00,EUR,Low,German Import Prices m/m,1.4%,0.5%,-0.8%,,,,
+2015-03-27 17:00:00,EUR,Low,Italian Retail Sales m/m,0.1%,0.1%,-0.1%,,,,
+2015-03-27 19:30:00,USD,High,Final GDP q/q,2.2%,2.4%,2.2%,,,,
+2015-03-27 19:30:00,USD,Low,Final GDP Price Index q/q,0.1%,0.1%,0.1%,,,,
+2015-03-27 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,93.0,92.5,91.2,,,,
+2015-03-30 06:50:00,EUR,Medium,German Prelim CPI m/m,0.5%,0.4%,0.9%,,,,
+2015-03-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.7%,-1.0%,-1.1%,,,,
+2015-03-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,,,,
+2015-03-30 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.3%,-0.2%,,,,
+2015-03-30 19:30:00,USD,Low,Personal Income m/m,0.4%,0.3%,0.4%,,,,
+2015-03-30 21:00:00,USD,Medium,Pending Home Sales m/m,3.1%,0.5%,1.2%,,,,
+2015-03-31 13:00:00,EUR,Medium,German Retail Sales m/m,-0.5%,-0.9%,2.3%,,,,
+2015-03-31 13:45:00,EUR,Medium,French Consumer Spending m/m,0.1%,0.3%,0.7%,,,,
+2015-03-31 14:55:00,EUR,Medium,German Unemployment Change,-15K,-10K,-20K,,,,
+2015-03-31 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.7%,12.5%,12.6%,,,,
+2015-03-31 16:00:00,EUR,High,CPI Flash Estimate y/y,-0.1%,-0.3%,-0.3%,,,,
+2015-03-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.6%,0.6%,0.7%,,,,
+2015-03-31 16:00:00,EUR,Medium,Unemployment Rate,11.3%,11.2%,11.4%,,,,
+2015-03-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.1%,0.2%,0.4%,,,,
+2015-03-31 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,4.6%,4.6%,4.4%,,,,
+2015-03-31 20:45:00,USD,Medium,Chicago PMI,46.3,52.5,45.8,,,,
+2015-03-31 21:00:00,USD,High,CB Consumer Confidence,101.3,96.6,98.8,,,,
+2015-04-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.3,54.0,54.2,,,,
+2015-04-01 14:45:00,EUR,Medium,Italian Manufacturing PMI,53.3,52.2,51.9,,,,
+2015-04-01 14:50:00,EUR,Low,French Final Manufacturing PMI,48.8,48.2,48.2,,,,
+2015-04-01 14:55:00,EUR,Medium,German Final Manufacturing PMI,52.8,52.4,52.4,,,,
+2015-04-01 15:00:00,EUR,Low,Final Manufacturing PMI,52.2,51.9,51.9,,,,
+2015-04-01 19:15:00,USD,High,ADP Non-Farm Employment Change,189K,227K,214K,,,,
+2015-04-01 20:45:00,USD,Low,Final Manufacturing PMI,55.7,55.3,55.3,,,,
+2015-04-01 21:00:00,USD,High,ISM Manufacturing PMI,51.5,52.5,52.9,,,,
+2015-04-01 21:00:00,USD,Low,Construction Spending m/m,-0.1%,-0.1%,-1.7%,,,,
+2015-04-01 21:00:00,USD,Low,ISM Manufacturing Prices,39.0,38.1,35.0,,,,
+2015-04-01 21:30:00,USD,Medium,Crude Oil Inventories,4.8M,4.2M,8.2M,,,,
+2015-04-01 21:30:00,USD,Low,Total Vehicle Sales,17.2M,16.7M,16.2M,,,,
+2015-04-02 19:30:00,USD,High,Trade Balance,-35.4B,-41.3B,-42.7B,,,,
+2015-04-02 19:30:00,USD,High,Unemployment Claims,268K,286K,288K,,,,
+2015-04-02 21:00:00,USD,Medium,Factory Orders m/m,0.2%,-0.4%,-0.7%,,,,
+2015-04-02 21:30:00,USD,Low,Natural Gas Storage,-18B,-9B,12B,,,,
+2015-04-03 19:30:00,USD,High,Non-Farm Employment Change,126K,246K,264K,,,,
+2015-04-03 19:30:00,USD,High,Unemployment Rate,5.5%,5.5%,5.5%,,,,
+2015-04-03 19:30:00,USD,Medium,Average Hourly Earnings m/m,0.3%,0.2%,0.1%,,,,
+2015-04-06 14:00:00,EUR,High,Spanish Unemployment Change,-60.2K,-18.3K,-13.5K,,,,
+2015-04-06 20:45:00,USD,Low,Final Services PMI,59.2,58.6,58.6,,,,
+2015-04-06 21:00:00,USD,High,ISM Services PMI,56.5,56.6,56.9,,,,
+2015-04-07 14:15:00,EUR,Medium,Spanish Services PMI,57.3,56.5,56.2,,,,
+2015-04-07 14:45:00,EUR,Medium,Italian Services PMI,51.6,51.1,50.0,,,,
+2015-04-07 14:50:00,EUR,Low,French Final Services PMI,52.4,52.8,52.8,,,,
+2015-04-07 14:55:00,EUR,Medium,German Final Services PMI,55.4,55.3,55.3,,,,
+2015-04-07 15:00:00,EUR,Low,Final Services PMI,54.2,54.3,54.3,,,,
+2015-04-07 15:30:00,EUR,Low,Sentix Investor Confidence,20.0,20.9,18.6,,,,
+2015-04-07 16:00:00,EUR,Low,PPI m/m,0.5%,0.1%,-1.1%,,,,
+2015-04-07 21:00:00,USD,Medium,JOLTS Job Openings,5.13M,5.01M,4.97M,,,,
+2015-04-07 21:00:00,USD,Low,IBD/TIPP Economic Optimism,51.3,49.1,49.1,,,,
+2015-04-08 02:00:00,USD,Low,Consumer Credit m/m,15.5B,12.4B,10.8B,,,,
+2015-04-08 13:00:00,EUR,Medium,German Factory Orders m/m,-0.9%,1.5%,-2.6%,,,,
+2015-04-08 13:45:00,EUR,Low,French Trade Balance,-3.4B,-3.8B,-3.7B,,,,
+2015-04-08 16:00:00,EUR,Medium,Retail Sales m/m,-0.2%,-0.1%,0.9%,,,,
+2015-04-08 21:30:00,USD,Medium,Crude Oil Inventories,10.9M,3.3M,4.8M,,,,
+2015-04-09 13:00:00,EUR,Low,German Industrial Production m/m,0.2%,0.1%,-0.4%,,,,
+2015-04-09 13:00:00,EUR,Low,German Trade Balance,19.7B,20.3B,19.6B,,,,
+2015-04-09 19:30:00,USD,High,Unemployment Claims,281K,283K,267K,,,,
+2015-04-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.3%,0.2%,0.4%,,,,
+2015-04-09 21:30:00,USD,Low,Natural Gas Storage,15B,10B,-18B,,,,
+2015-04-10 13:45:00,EUR,Low,French Industrial Production m/m,0.0%,-0.1%,0.3%,,,,
+2015-04-10 19:30:00,USD,Medium,Import Prices m/m,-0.3%,-0.4%,0.2%,,,,
+2015-04-13 16:00:00,EUR,Low,Italian Industrial Production m/m,0.6%,0.5%,-0.7%,,,,
+2015-04-14 01:00:00,USD,Low,Federal Budget Balance,-52.9B,-43.1B,-192.3B,,,,
+2015-04-14 13:00:00,EUR,Low,German WPI m/m,1.0%,0.2%,0.5%,,,,
+2015-04-14 16:00:00,EUR,Low,Industrial Production m/m,1.1%,0.3%,-0.3%,,,,
+2015-04-14 19:30:00,USD,High,Core Retail Sales m/m,0.4%,0.7%,0.0%,,,,
+2015-04-14 19:30:00,USD,High,PPI m/m,0.2%,0.3%,-0.5%,,,,
+2015-04-14 19:30:00,USD,High,Retail Sales m/m,0.9%,1.1%,-0.5%,,,,
+2015-04-14 19:30:00,USD,Medium,Core PPI m/m,0.2%,0.2%,-0.5%,,,,
+2015-04-14 20:00:00,USD,Low,NFIB Small Business Index,95.2,98.4,98.0,,,,
+2015-04-14 21:00:00,USD,Medium,Business Inventories m/m,0.3%,0.2%,0.0%,,,,
+2015-04-15 13:00:00,EUR,Low,German Final CPI m/m,0.5%,0.5%,0.5%,,,,
+2015-04-15 13:45:00,EUR,Low,French Final CPI m/m,0.7%,0.7%,0.7%,,,,
+2015-04-15 13:45:00,EUR,Low,Trade Balance,21.2B,21.9B,22.7B,,,,
+2015-04-15 16:00:00,EUR,Low,Trade Balance,22.0B,21.2B,21.2B,,,,
+2015-04-15 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,,,,
+2015-04-15 19:30:00,USD,Medium,Empire State Manufacturing Index,-1.2,7.2,6.9,,,,
+2015-04-15 20:15:00,USD,Medium,Capacity Utilization Rate,78.4%,78.7%,79.0%,,,,
+2015-04-15 20:15:00,USD,Medium,Industrial Production m/m,-0.6%,-0.3%,0.1%,,,,
+2015-04-15 21:00:00,USD,Medium,NAHB Housing Market Index,56,55,52,,,,
+2015-04-15 21:30:00,USD,Medium,Crude Oil Inventories,1.3M,3.5M,10.9M,,,,
+2015-04-16 03:00:00,USD,Low,TIC Long-Term Purchases,9.8B,40.0B,-27.4B,,,,
+2015-04-16 15:02:00,EUR,Low,Italian Trade Balance,3.54B,1.21B,0.23B,,,,
+2015-04-16 19:30:00,USD,High,Building Permits,1.04M,1.08M,1.10M,,,,
+2015-04-16 19:30:00,USD,High,Unemployment Claims,294K,284K,282K,,,,
+2015-04-16 19:30:00,USD,Medium,Housing Starts,0.93M,1.05M,0.91M,,,,
+2015-04-16 21:00:00,USD,High,Philly Fed Manufacturing Index,7.5,6.5,5.0,,,,
+2015-04-16 21:30:00,USD,Low,Natural Gas Storage,63B,52B,15B,,,,
+2015-04-17 15:00:00,EUR,Low,Current Account,26.4B,29.1B,30.4B,,,,
+2015-04-17 16:00:00,EUR,Medium,Final CPI y/y,-0.1%,-0.1%,-0.1%,,,,
+2015-04-17 16:00:00,EUR,Low,Final Core CPI y/y,0.6%,0.6%,0.6%,,,,
+2015-04-17 19:30:00,USD,High,CPI m/m,0.2%,0.2%,0.2%,,,,
+2015-04-17 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.2%,,,,
+2015-04-17 21:00:00,USD,High,Prelim UoM Consumer Sentiment,95.9,93.8,93.0,,,,
+2015-04-17 21:00:00,USD,Low,CB Leading Index m/m,0.2%,0.3%,0.1%,,,,
+2015-04-20 13:00:00,EUR,Low,German PPI m/m,0.1%,0.2%,0.1%,,,,
+2015-04-21 16:00:00,EUR,High,German ZEW Economic Sentiment,53.3,55.6,54.8,,,,
+2015-04-21 16:00:00,EUR,Medium,ZEW Economic Sentiment,64.8,63.7,62.4,,,,
+2015-04-22 16:00:00,EUR,Low,Italian Retail Sales m/m,-0.2%,0.1%,0.2%,,,,
+2015-04-22 20:00:00,USD,Low,HPI m/m,0.7%,0.7%,0.3%,,,,
+2015-04-22 20:54:00,EUR,Low,Consumer Confidence,-5,-3,-4,,,,
+2015-04-22 21:00:00,USD,Medium,Existing Home Sales,5.19M,5.04M,4.89M,,,,
+2015-04-22 21:30:00,USD,Medium,Crude Oil Inventories,5.3M,2.7M,1.3M,,,,
+2015-04-23 13:00:00,EUR,Medium,German GfK Consumer Climate,10.1,10.0,10.0,,,,
+2015-04-23 14:00:00,EUR,High,French Flash Manufacturing PMI,48.4,49.4,48.8,,,,
+2015-04-23 14:00:00,EUR,Medium,French Flash Services PMI,50.8,52.5,52.4,,,,
+2015-04-23 14:00:00,EUR,Medium,Spanish Unemployment Rate,23.8%,23.5%,23.7%,,,,
+2015-04-23 14:30:00,EUR,High,German Flash Manufacturing PMI,51.9,53.1,52.8,,,,
+2015-04-23 14:30:00,EUR,Medium,German Flash Services PMI,54.4,55.6,55.4,,,,
+2015-04-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,51.9,52.6,52.2,,,,
+2015-04-23 15:00:00,EUR,Medium,Flash Services PMI,53.7,54.5,54.2,,,,
+2015-04-23 19:30:00,USD,High,Unemployment Claims,295K,288K,294K,,,,
+2015-04-23 20:45:00,USD,Medium,Flash Manufacturing PMI,54.2,55.6,55.7,,,,
+2015-04-23 21:00:00,USD,Medium,New Home Sales,481K,514K,543K,,,,
+2015-04-23 21:30:00,USD,Low,Natural Gas Storage,90B,83B,63B,,,,
+2015-04-24 15:00:00,EUR,High,German ifo Business Climate,108.6,108.5,107.9,,,,
+2015-04-24 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.2%,0.2%,-0.6%,,,,
+2015-04-24 19:30:00,USD,Medium,Durable Goods Orders m/m,4.0%,0.7%,-1.1%,,,,
+2015-04-24 20:00:00,EUR,Low,Belgian NBB Business Climate,-6.2,-5.8,-6.3,,,,
+2015-04-27 13:00:00,EUR,Low,German Import Prices m/m,1.0%,0.5%,1.4%,,,,
+2015-04-27 20:45:00,USD,Low,Flash Services PMI,57.8,59.1,59.2,,,,
+2015-04-28 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,4.7%,4.5%,,,,
+2015-04-28 20:59:00,USD,Low,Richmond Manufacturing Index,-3,-2,-8,,,,
+2015-04-28 21:00:00,USD,High,CB Consumer Confidence,95.2,102.6,101.4,,,,
+2015-04-29 13:00:00,EUR,Medium,German Prelim CPI m/m,-0.1%,-0.1%,0.5%,,,,
+2015-04-29 15:00:00,EUR,Medium,M3 Money Supply y/y,4.6%,4.3%,4.0%,,,,
+2015-04-29 15:00:00,EUR,Medium,Private Loans y/y,0.1%,0.1%,-0.1%,,,,
+2015-04-29 19:30:00,USD,High,Advance GDP q/q,0.2%,1.0%,2.2%,,,,
+2015-04-29 19:30:00,USD,Medium,Advance GDP Price Index q/q,-0.1%,0.4%,0.1%,,,,
+2015-04-29 21:00:00,USD,Medium,Pending Home Sales m/m,1.1%,1.1%,3.6%,,,,
+2015-04-29 21:30:00,USD,Medium,Crude Oil Inventories,1.9M,2.1M,5.3M,,,,
+2015-04-30 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,,,,
+2015-04-30 13:00:00,EUR,Medium,German Retail Sales m/m,-2.3%,0.5%,-0.1%,,,,
+2015-04-30 13:45:00,EUR,Low,French Consumer Spending m/m,-0.6%,-0.5%,0.2%,,,,
+2015-04-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.6%,-0.7%,-0.7%,,,,
+2015-04-30 14:00:00,EUR,Medium,Spanish Flash GDP q/q,0.9%,0.8%,0.7%,,,,
+2015-04-30 14:55:00,EUR,Medium,German Unemployment Change,-8K,-14K,-14K,,,,
+2015-04-30 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,13.0%,12.6%,12.7%,,,,
+2015-04-30 16:00:00,EUR,Medium,CPI Flash Estimate y/y,0.0%,0.0%,-0.1%,,,,
+2015-04-30 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.6%,0.6%,0.6%,,,,
+2015-04-30 16:00:00,EUR,Medium,Unemployment Rate,11.3%,11.2%,11.3%,,,,
+2015-04-30 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,0.1%,,,,
+2015-04-30 19:30:00,USD,High,Unemployment Claims,262K,290K,296K,,,,
+2015-04-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.2%,0.1%,,,,
+2015-04-30 19:30:00,USD,Medium,Employment Cost Index q/q,0.7%,0.6%,0.6%,,,,
+2015-04-30 19:30:00,USD,Medium,Personal Spending m/m,0.4%,0.6%,0.2%,,,,
+2015-04-30 19:30:00,USD,Low,Personal Income m/m,0.0%,0.2%,0.4%,,,,
+2015-04-30 20:45:00,USD,Medium,Chicago PMI,52.3,50.1,46.3,,,,
+2015-04-30 21:30:00,USD,Low,Natural Gas Storage,81B,79B,90B,,,,
+2015-05-01 20:45:00,USD,Low,Final Manufacturing PMI,54.1,54.2,54.2,,,,
+2015-05-01 21:00:00,USD,High,ISM Manufacturing PMI,51.5,52.1,51.5,,,,
+2015-05-01 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,95.9,96.1,95.9,,,,
+2015-05-01 21:00:00,USD,Low,Construction Spending m/m,-0.6%,0.5%,0.0%,,,,
+2015-05-01 21:00:00,USD,Low,ISM Manufacturing Prices,40.5,42.3,39.0,,,,
+2015-05-01 21:00:00,USD,Low,Total Vehicle Sales,16.5M,16.9M,17.2M,,,,
+2015-05-04 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.2,54.6,54.3,,,,
+2015-05-04 14:45:00,EUR,Medium,Italian Manufacturing PMI,53.8,53.4,53.3,,,,
+2015-05-04 14:50:00,EUR,Low,French Final Manufacturing PMI,48.0,48.4,48.4,,,,
+2015-05-04 14:55:00,EUR,Medium,German Final Manufacturing PMI,52.1,51.9,51.9,,,,
+2015-05-04 15:00:00,EUR,Low,Final Manufacturing PMI,52.0,51.9,51.9,,,,
+2015-05-04 15:30:00,EUR,Low,Sentix Investor Confidence,19.6,19.5,20.0,,,,
+2015-05-04 21:00:00,USD,Medium,Factory Orders m/m,2.1%,2.1%,-0.1%,,,,
+2015-05-05 14:00:00,EUR,High,Spanish Unemployment Change,-118.9K,-64.8K,-60.2K,,,,
+2015-05-05 16:00:00,EUR,Low,PPI m/m,0.2%,0.3%,0.6%,,,,
+2015-05-05 19:30:00,USD,High,Trade Balance,-51.4B,-41.2B,-35.9B,,,,
+2015-05-05 20:45:00,USD,Low,Final Services PMI,57.4,57.8,57.8,,,,
+2015-05-05 21:00:00,USD,High,ISM Services PMI,57.8,56.2,56.5,,,,
+2015-05-05 21:00:00,USD,Low,IBD/TIPP Economic Optimism,49.7,50.6,51.3,,,,
+2015-05-06 14:15:00,EUR,Medium,Spanish Services PMI,60.3,57.4,57.3,,,,
+2015-05-06 14:45:00,EUR,Medium,Italian Services PMI,53.1,52.1,51.6,,,,
+2015-05-06 14:50:00,EUR,Low,French Final Services PMI,51.4,50.8,50.8,,,,
+2015-05-06 14:55:00,EUR,Medium,German Final Services PMI,54.0,54.4,54.4,,,,
+2015-05-06 15:00:00,EUR,Low,Final Services PMI,54.1,53.7,53.7,,,,
+2015-05-06 16:00:00,EUR,Medium,Retail Sales m/m,-0.8%,-0.4%,0.1%,,,,
+2015-05-06 19:15:00,USD,High,ADP Non-Farm Employment Change,169K,199K,175K,,,,
+2015-05-06 19:30:00,USD,High,Prelim Unit Labor Costs q/q,5.0%,4.5%,4.1%,,,,
+2015-05-06 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,-1.9%,-1.8%,-2.2%,,,,
+2015-05-06 21:30:00,USD,Medium,Crude Oil Inventories,-3.9M,1.3M,1.9M,,,,
+2015-05-07 13:00:00,EUR,Medium,German Factory Orders m/m,0.9%,1.6%,-0.9%,,,,
+2015-05-07 13:45:00,EUR,Low,French Industrial Production m/m,-0.3%,0.1%,0.5%,,,,
+2015-05-07 13:45:00,EUR,Low,French Trade Balance,-4.6B,-3.5B,-3.6B,,,,
+2015-05-07 19:30:00,USD,High,Unemployment Claims,265K,277K,262K,,,,
+2015-05-07 21:30:00,USD,Low,Natural Gas Storage,76B,75B,81B,,,,
+2015-05-08 02:00:00,USD,Low,Consumer Credit m/m,20.5B,15.8B,14.8B,,,,
+2015-05-08 13:00:00,EUR,Low,German Industrial Production m/m,-0.5%,0.4%,0.0%,,,,
+2015-05-08 13:00:00,EUR,Low,German Trade Balance,19.3B,20.3B,20.0B,,,,
+2015-05-08 15:00:00,EUR,Low,Italian Industrial Production m/m,0.4%,0.3%,0.7%,,,,
+2015-05-08 19:30:00,USD,High,Non-Farm Employment Change,223K,228K,85K,,,,
+2015-05-08 19:30:00,USD,High,Unemployment Rate,5.4%,5.4%,5.5%,,,,
+2015-05-08 19:30:00,USD,Medium,Average Hourly Earnings m/m,0.1%,0.2%,0.2%,,,,
+2015-05-08 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.1%,0.3%,0.2%,,,,
+2015-05-12 19:48:00,USD,Low,NFIB Small Business Index,96.9,96.1,95.2,,,,
+2015-05-12 21:02:00,USD,Medium,JOLTS Job Openings,4.99M,5.16M,5.14M,,,,
+2015-05-13 00:58:00,USD,Low,Federal Budget Balance,156.7B,151.3B,-52.9B,,,,
+2015-05-13 12:30:00,EUR,Medium,French Prelim GDP q/q,0.6%,0.4%,0.0%,,,,
+2015-05-13 13:00:00,EUR,High,German Prelim GDP q/q,0.3%,0.5%,0.7%,,,,
+2015-05-13 13:00:00,EUR,Low,German Final CPI m/m,0.0%,-0.1%,-0.1%,,,,
+2015-05-13 13:00:00,EUR,Low,German WPI m/m,0.4%,0.4%,1.0%,,,,
+2015-05-13 13:45:00,EUR,Low,French Final CPI m/m,0.1%,0.2%,0.7%,,,,
+2015-05-13 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,-0.1%,0.0%,0.0%,,,,
+2015-05-13 15:00:00,EUR,Medium,Italian Prelim GDP q/q,0.3%,0.2%,0.0%,,,,
+2015-05-13 16:00:00,EUR,Medium,Flash GDP q/q,0.4%,0.5%,0.3%,,,,
+2015-05-13 16:00:00,EUR,Low,Industrial Production m/m,-0.3%,0.1%,1.0%,,,,
+2015-05-13 19:30:00,USD,High,Core Retail Sales m/m,0.1%,0.4%,0.7%,,,,
+2015-05-13 19:30:00,USD,High,Retail Sales m/m,0.0%,0.3%,1.1%,,,,
+2015-05-13 19:30:00,USD,Medium,Import Prices m/m,-0.3%,0.3%,-0.2%,,,,
+2015-05-13 21:00:00,USD,Medium,Business Inventories m/m,0.1%,0.2%,0.2%,,,,
+2015-05-13 21:30:00,USD,Medium,Crude Oil Inventories,-2.2M,-0.1M,-3.9M,,,,
+2015-05-14 19:30:00,USD,High,PPI m/m,-0.4%,0.1%,0.2%,,,,
+2015-05-14 19:30:00,USD,High,Unemployment Claims,264K,272K,265K,,,,
+2015-05-14 19:30:00,USD,Medium,Core PPI m/m,-0.2%,0.1%,0.2%,,,,
+2015-05-14 21:30:00,USD,Low,Natural Gas Storage,111B,112B,76B,,,,
+2015-05-15 19:30:00,USD,Medium,Empire State Manufacturing Index,3.1,5.1,-1.2,,,,
+2015-05-15 20:15:00,USD,Medium,Capacity Utilization Rate,78.2%,78.4%,78.6%,,,,
+2015-05-15 20:15:00,USD,Medium,Industrial Production m/m,-0.3%,0.1%,-0.3%,,,,
+2015-05-15 21:00:00,USD,High,Prelim UoM Consumer Sentiment,88.6,95.8,95.9,,,,
+2015-05-16 03:00:00,USD,Low,TIC Long-Term Purchases,17.6B,21.3B,20.9B,,,,
+2015-05-18 15:00:00,EUR,Low,Italian Trade Balance,4.06B,2.47B,3.54B,,,,
+2015-05-18 21:00:00,USD,Medium,NAHB Housing Market Index,54,57,56,,,,
+2015-05-19 16:00:00,EUR,High,German ZEW Economic Sentiment,41.9,48.8,53.3,,,,
+2015-05-19 16:00:00,EUR,Medium,Final CPI y/y,0.0%,0.0%,0.0%,,,,
+2015-05-19 16:00:00,EUR,Medium,ZEW Economic Sentiment,61.2,62.4,64.8,,,,
+2015-05-19 16:00:00,EUR,Low,Final Core CPI y/y,0.6%,0.6%,0.6%,,,,
+2015-05-19 16:00:00,EUR,Low,Trade Balance,19.7B,22.9B,22.6B,,,,
+2015-05-19 19:30:00,USD,High,Building Permits,1.14M,1.06M,1.04M,,,,
+2015-05-19 19:30:00,USD,Medium,Housing Starts,1.14M,1.02M,0.94M,,,,
+2015-05-20 13:00:00,EUR,Low,German PPI m/m,0.1%,0.1%,0.1%,,,,
+2015-05-20 21:30:00,USD,Medium,Crude Oil Inventories,-2.7M,-1.3M,-2.2M,,,,
+2015-05-21 14:00:00,EUR,High,French Flash Manufacturing PMI,49.3,48.6,48.0,,,,
+2015-05-21 14:00:00,EUR,Medium,French Flash Services PMI,51.6,52.0,51.4,,,,
+2015-05-21 14:30:00,EUR,High,German Flash Manufacturing PMI,51.4,51.9,52.1,,,,
+2015-05-21 14:30:00,EUR,Medium,German Flash Services PMI,52.9,53.9,54.0,,,,
+2015-05-21 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.3,51.8,52.0,,,,
+2015-05-21 15:00:00,EUR,Medium,Flash Services PMI,53.3,53.9,54.1,,,,
+2015-05-21 15:00:00,EUR,Low,Current Account,18.6B,26.1B,27.3B,,,,
+2015-05-21 19:30:00,USD,High,Unemployment Claims,274K,271K,264K,,,,
+2015-05-21 20:45:00,USD,Medium,Flash Manufacturing PMI,53.8,54.6,54.1,,,,
+2015-05-21 21:00:00,EUR,Low,Consumer Confidence,-6,-5,-5,,,,
+2015-05-21 21:00:00,USD,High,Existing Home Sales,5.04M,5.23M,5.21M,,,,
+2015-05-21 21:00:00,USD,High,Philly Fed Manufacturing Index,6.7,8.1,7.5,,,,
+2015-05-21 21:00:00,USD,Low,CB Leading Index m/m,0.7%,0.3%,0.4%,,,,
+2015-05-21 21:30:00,USD,Low,Natural Gas Storage,92B,100B,111B,,,,
+2015-05-22 13:00:00,EUR,Low,German Final GDP q/q,0.3%,0.3%,0.3%,,,,
+2015-05-22 15:00:00,EUR,High,German ifo Business Climate,108.5,108.3,108.6,,,,
+2015-05-22 16:00:00,EUR,Low,Italian Retail Sales m/m,-0.1%,0.2%,-0.1%,,,,
+2015-05-22 19:30:00,USD,High,CPI m/m,0.1%,0.1%,0.2%,,,,
+2015-05-22 19:30:00,USD,High,Core CPI m/m,0.3%,0.2%,0.2%,,,,
+2015-05-26 19:30:00,USD,High,Core Durable Goods Orders m/m,0.5%,0.5%,0.3%,,,,
+2015-05-26 19:30:00,USD,Medium,Durable Goods Orders m/m,-0.5%,-0.4%,4.7%,,,,
+2015-05-26 20:00:00,USD,Low,HPI m/m,0.3%,0.7%,0.6%,,,,
+2015-05-26 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,4.6%,5.0%,,,,
+2015-05-26 20:45:00,USD,Low,Flash Services PMI,56.4,57.0,57.4,,,,
+2015-05-26 20:59:00,USD,Low,Richmond Manufacturing Index,1,0,-3,,,,
+2015-05-26 21:00:00,USD,High,CB Consumer Confidence,95.4,95.2,94.3,,,,
+2015-05-26 21:00:00,USD,Medium,New Home Sales,517K,501K,484K,,,,
+2015-05-27 13:00:00,EUR,Medium,German GfK Consumer Climate,10.2,10.0,10.1,,,,
+2015-05-27 20:00:00,EUR,Low,Belgian NBB Business Climate,-4.9,-5.7,-6.2,,,,
+2015-05-28 13:00:00,EUR,Low,German Import Prices m/m,0.6%,0.5%,1.0%,,,,
+2015-05-28 19:30:00,USD,High,Unemployment Claims,282K,271K,275K,,,,
+2015-05-28 21:00:00,USD,Medium,Pending Home Sales m/m,3.4%,0.8%,1.2%,,,,
+2015-05-28 21:30:00,USD,Low,Natural Gas Storage,112B,95B,92B,,,,
+2015-05-28 22:00:00,USD,Medium,Crude Oil Inventories,-2.8M,-1.5M,-2.7M,,,,
+2015-05-29 13:00:00,EUR,Medium,German Retail Sales m/m,1.7%,1.1%,-1.4%,,,,
+2015-05-29 13:45:00,EUR,Low,French Consumer Spending m/m,0.1%,0.4%,-0.7%,,,,
+2015-05-29 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.2%,-0.5%,-0.6%,,,,
+2015-05-29 15:00:00,EUR,Medium,M3 Money Supply y/y,5.3%,4.9%,4.6%,,,,
+2015-05-29 15:00:00,EUR,Medium,Private Loans y/y,0.0%,0.4%,0.1%,,,,
+2015-05-29 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.2%,0.1%,0.2%,,,,
+2015-05-29 19:30:00,USD,High,Prelim GDP q/q,-0.7%,-0.8%,0.2%,,,,
+2015-05-29 19:30:00,USD,Low,Prelim GDP Price Index q/q,-0.1%,-0.1%,-0.1%,,,,
+2015-05-29 20:45:00,USD,Medium,Chicago PMI,46.2,53.1,52.3,,,,
+2015-05-29 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,90.7,90.0,88.6,,,,
+2015-06-01 08:45:00,EUR,Medium,German Prelim CPI m/m,0.1%,0.0%,0.0%,,,,
+2015-06-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,55.8,54.4,54.2,,,,
+2015-06-01 14:45:00,EUR,Medium,Italian Manufacturing PMI,54.8,53.1,53.8,,,,
+2015-06-01 14:50:00,EUR,Low,French Final Manufacturing PMI,49.4,49.3,49.3,,,,
+2015-06-01 14:55:00,EUR,Medium,German Final Manufacturing PMI,51.1,51.4,51.4,,,,
+2015-06-01 15:00:00,EUR,Low,Final Manufacturing PMI,52.2,52.3,52.3,,,,
+2015-06-01 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.2%,0.1%,,,,
+2015-06-01 19:30:00,USD,Medium,Personal Spending m/m,0.0%,0.2%,0.5%,,,,
+2015-06-01 19:30:00,USD,Low,Personal Income m/m,0.4%,0.3%,0.0%,,,,
+2015-06-01 20:45:00,USD,Low,Final Manufacturing PMI,54.0,54.2,53.8,,,,
+2015-06-01 21:00:00,USD,High,ISM Manufacturing PMI,52.8,51.9,51.5,,,,
+2015-06-01 21:00:00,USD,Low,Construction Spending m/m,2.2%,0.7%,0.5%,,,,
+2015-06-01 21:00:00,USD,Low,ISM Manufacturing Prices,49.5,43.0,40.5,,,,
+2015-06-02 14:00:00,EUR,Medium,Spanish Unemployment Change,-118.0K,-115.4K,-118.9K,,,,
+2015-06-02 14:55:00,EUR,Medium,German Unemployment Change,-6K,-10K,-9K,,,,
+2015-06-02 16:00:00,EUR,Medium,CPI Flash Estimate y/y,0.3%,0.2%,0.0%,,,,
+2015-06-02 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.7%,0.6%,,,,
+2015-06-02 16:00:00,EUR,Low,PPI m/m,-0.1%,0.1%,0.2%,,,,
+2015-06-02 21:00:00,USD,Medium,Factory Orders m/m,-0.4%,0.0%,2.2%,,,,
+2015-06-02 21:00:00,USD,Low,IBD/TIPP Economic Optimism,48.1,49.8,49.7,,,,
+2015-06-02 21:08:00,USD,Low,Total Vehicle Sales,17.8M,17.0M,16.5M,,,,
+2015-06-03 14:15:00,EUR,Medium,Spanish Services PMI,58.4,59.5,60.3,,,,
+2015-06-03 14:45:00,EUR,Medium,Italian Services PMI,52.5,52.8,53.1,,,,
+2015-06-03 14:50:00,EUR,Low,French Final Services PMI,52.8,51.6,51.6,,,,
+2015-06-03 14:55:00,EUR,Medium,German Final Services PMI,53.0,52.9,52.9,,,,
+2015-06-03 15:00:00,EUR,Low,Final Services PMI,53.8,53.3,53.3,,,,
+2015-06-03 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.4%,12.8%,12.6%,,,,
+2015-06-03 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,12.4%,12.9%,12.7%,,,,
+2015-06-03 16:00:00,EUR,Medium,Retail Sales m/m,0.7%,0.7%,-0.6%,,,,
+2015-06-03 16:00:00,EUR,Medium,Unemployment Rate,11.1%,11.2%,11.2%,,,,
+2015-06-03 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,,,,
+2015-06-03 19:15:00,USD,High,ADP Non-Farm Employment Change,201K,198K,165K,,,,
+2015-06-03 19:30:00,USD,High,Trade Balance,-40.9B,-43.9B,-50.6B,,,,
+2015-06-03 20:45:00,USD,Low,Final Services PMI,56.2,56.5,56.4,,,,
+2015-06-03 21:00:00,USD,High,ISM Services PMI,55.7,57.1,57.8,,,,
+2015-06-03 21:30:00,USD,Medium,Crude Oil Inventories,-1.9M,-1.9M,-2.8M,,,,
+2015-06-04 19:30:00,USD,High,Unemployment Claims,276K,280K,284K,,,,
+2015-06-04 19:30:00,USD,Medium,Revised Nonfarm Productivity q/q,-3.1%,-2.8%,-1.9%,,,,
+2015-06-04 19:30:00,USD,Low,Revised Unit Labor Costs q/q,6.7%,5.8%,5.0%,,,,
+2015-06-04 21:30:00,USD,Low,Natural Gas Storage,132B,119B,112B,,,,
+2015-06-05 13:00:00,EUR,Medium,German Factory Orders m/m,1.4%,0.6%,1.1%,,,,
+2015-06-05 13:45:00,EUR,Low,French Trade Balance,-3.0B,-4.0B,-4.4B,,,,
+2015-06-05 19:30:00,USD,High,Non-Farm Employment Change,280K,222K,221K,,,,
+2015-06-05 19:30:00,USD,High,Unemployment Rate,5.5%,5.4%,5.4%,,,,
+2015-06-05 19:30:00,USD,Medium,Average Hourly Earnings m/m,0.3%,0.2%,0.1%,,,,
+2015-06-06 02:00:00,USD,Low,Consumer Credit m/m,20.5B,16.5B,21.3B,,,,
+2015-06-08 13:00:00,EUR,Medium,German Industrial Production m/m,0.9%,0.6%,-0.4%,,,,
+2015-06-08 13:00:00,EUR,Low,German Trade Balance,22.3B,18.1B,19.4B,,,,
+2015-06-08 15:30:00,EUR,Low,Sentix Investor Confidence,17.1,18.9,19.6,,,,
+2015-06-09 16:00:00,EUR,Low,Revised GDP q/q,0.4%,0.4%,0.4%,,,,
+2015-06-09 17:00:00,USD,Low,NFIB Small Business Index,98.3,97.1,96.9,,,,
+2015-06-09 21:00:00,USD,Medium,JOLTS Job Openings,5.38M,5.03M,5.11M,,,,
+2015-06-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.4%,0.2%,0.2%,,,,
+2015-06-10 13:45:00,EUR,Low,French Industrial Production m/m,-0.9%,0.4%,0.0%,,,,
+2015-06-10 15:00:00,EUR,Low,Italian Industrial Production m/m,-0.3%,0.3%,0.5%,,,,
+2015-06-10 21:30:00,USD,Medium,Crude Oil Inventories,-6.8M,-1.5M,-1.9M,,,,
+2015-06-11 01:00:00,USD,Low,Federal Budget Balance,-82.4B,-97.4B,156.7B,,,,
+2015-06-11 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.0%,-0.1%,-0.1%,,,,
+2015-06-11 13:45:00,EUR,Low,French Final CPI m/m,0.2%,0.3%,0.1%,,,,
+2015-06-11 19:30:00,USD,High,Core Retail Sales m/m,1.0%,0.7%,0.1%,,,,
+2015-06-11 19:30:00,USD,High,Retail Sales m/m,1.2%,1.1%,0.2%,,,,
+2015-06-11 19:30:00,USD,High,Unemployment Claims,279K,277K,277K,,,,
+2015-06-11 19:30:00,USD,Medium,Import Prices m/m,1.3%,0.9%,-0.2%,,,,
+2015-06-11 21:00:00,USD,Medium,Business Inventories m/m,0.4%,0.2%,0.1%,,,,
+2015-06-11 21:30:00,USD,Low,Natural Gas Storage,111B,114B,132B,,,,
+2015-06-12 13:00:00,EUR,Low,German WPI m/m,0.5%,0.3%,0.4%,,,,
+2015-06-12 16:00:00,EUR,Low,Industrial Production m/m,0.1%,0.4%,-0.4%,,,,
+2015-06-12 19:30:00,USD,High,PPI m/m,0.5%,0.4%,-0.4%,,,,
+2015-06-12 19:30:00,USD,Medium,Core PPI m/m,0.1%,0.1%,-0.2%,,,,
+2015-06-12 21:00:00,USD,High,Prelim UoM Consumer Sentiment,94.6,91.3,90.7,,,,
+2015-06-15 16:00:00,EUR,Low,Trade Balance,24.3B,20.3B,19.9B,,,,
+2015-06-15 19:30:00,USD,Medium,Empire State Manufacturing Index,-2.0,5.8,3.1,,,,
+2015-06-15 20:15:00,USD,Medium,Capacity Utilization Rate,78.1%,78.3%,78.3%,,,,
+2015-06-15 20:15:00,USD,Medium,Industrial Production m/m,-0.2%,0.2%,-0.5%,,,,
+2015-06-15 21:00:00,USD,Medium,NAHB Housing Market Index,59,56,54,,,,
+2015-06-16 03:00:00,USD,Low,TIC Long-Term Purchases,53.9B,22.5B,25.6B,,,,
+2015-06-16 13:00:00,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%,,,,
+2015-06-16 16:00:00,EUR,High,German ZEW Economic Sentiment,31.5,37.5,41.9,,,,
+2015-06-16 16:00:00,EUR,Medium,ZEW Economic Sentiment,53.7,60.3,61.2,,,,
+2015-06-16 16:00:00,EUR,Low,Final Employment Change q/q,0.1%,0.1%,0.1%,,,,
+2015-06-16 19:30:00,USD,High,Building Permits,1.28M,1.11M,1.14M,,,,
+2015-06-16 19:30:00,USD,Medium,Housing Starts,1.04M,1.10M,1.17M,,,,
+2015-06-17 15:04:00,EUR,Low,Italian Trade Balance,3.74B,3.27B,4.01B,,,,
+2015-06-17 16:00:00,EUR,Medium,Final CPI y/y,0.3%,0.3%,0.3%,,,,
+2015-06-17 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,,,,
+2015-06-17 21:30:00,USD,Medium,Crude Oil Inventories,-2.7M,-1.6M,-6.8M,,,,
+2015-06-18 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,,,,
+2015-06-18 16:30:00,EUR,High,Long Term Refinancing Operation,73.8B,60.0B,97.8B,,,,
+2015-06-18 19:30:00,USD,High,CPI m/m,0.4%,0.5%,0.1%,,,,
+2015-06-18 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.3%,,,,
+2015-06-18 19:30:00,USD,High,Unemployment Claims,267K,278K,279K,,,,
+2015-06-18 19:30:00,USD,Medium,Current Account,-113B,-116B,-103B,,,,
+2015-06-18 21:00:00,USD,High,Philly Fed Manufacturing Index,15.2,8.1,6.7,,,,
+2015-06-18 21:00:00,USD,Low,CB Leading Index m/m,0.7%,0.4%,0.7%,,,,
+2015-06-18 21:30:00,USD,Low,Natural Gas Storage,89B,95B,111B,,,,
+2015-06-19 13:00:00,EUR,Low,German PPI m/m,0.0%,0.2%,0.1%,,,,
+2015-06-19 15:00:00,EUR,Low,Current Account,22.3B,18.1B,18.0B,,,,
+2015-06-22 21:00:00,EUR,Low,Consumer Confidence,-6,-6,-6,,,,
+2015-06-22 21:00:00,USD,High,Existing Home Sales,5.35M,5.27M,5.09M,,,,
+2015-06-23 14:00:00,EUR,High,French Flash Manufacturing PMI,50.5,50.1,49.4,,,,
+2015-06-23 14:00:00,EUR,Medium,French Flash Services PMI,54.1,52.5,52.8,,,,
+2015-06-23 14:30:00,EUR,High,German Flash Manufacturing PMI,51.9,51.5,51.1,,,,
+2015-06-23 14:30:00,EUR,Medium,German Flash Services PMI,54.2,52.9,53.0,,,,
+2015-06-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.5,52.0,52.2,,,,
+2015-06-23 15:00:00,EUR,Medium,Flash Services PMI,54.4,53.7,53.8,,,,
+2015-06-23 16:00:00,EUR,Low,Italian Retail Sales m/m,0.7%,0.1%,-0.1%,,,,
+2015-06-23 19:30:00,USD,High,Core Durable Goods Orders m/m,0.5%,0.6%,-0.2%,,,,
+2015-06-23 19:30:00,USD,Medium,Durable Goods Orders m/m,-1.8%,-0.6%,-1.0%,,,,
+2015-06-23 20:00:00,USD,Low,HPI m/m,0.3%,0.6%,0.3%,,,,
+2015-06-23 20:45:00,USD,Medium,Flash Manufacturing PMI,53.4,54.2,54.0,,,,
+2015-06-23 20:59:00,USD,Low,Richmond Manufacturing Index,6,3,1,,,,
+2015-06-23 21:00:00,USD,Medium,New Home Sales,546K,524K,534K,,,,
+2015-06-24 15:00:00,EUR,High,German ifo Business Climate,107.4,108.2,108.5,,,,
+2015-06-24 19:30:00,USD,High,Final GDP q/q,-0.2%,-0.2%,-0.7%,,,,
+2015-06-24 19:30:00,USD,Low,Final GDP Price Index q/q,0.0%,-0.1%,-0.1%,,,,
+2015-06-24 20:00:00,EUR,Low,Belgian NBB Business Climate,-3.9,-5.2,-4.9,,,,
+2015-06-24 21:30:00,USD,Medium,Crude Oil Inventories,-4.9M,-1.8M,-2.7M,,,,
+2015-06-25 13:00:00,EUR,Medium,German GfK Consumer Climate,10.1,10.1,10.2,,,,
+2015-06-25 19:30:00,USD,High,Unemployment Claims,271K,271K,268K,,,,
+2015-06-25 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,,,,
+2015-06-25 19:30:00,USD,Medium,Personal Spending m/m,0.9%,0.7%,0.1%,,,,
+2015-06-25 19:30:00,USD,Low,Personal Income m/m,0.5%,0.6%,0.5%,,,,
+2015-06-25 20:45:00,USD,Low,Flash Services PMI,54.8,56.5,56.2,,,,
+2015-06-25 21:30:00,USD,Low,Natural Gas Storage,75B,79B,89B,,,,
+2015-06-26 13:00:00,EUR,Low,German Import Prices m/m,-0.2%,0.2%,0.6%,,,,
+2015-06-26 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,5.4%,5.3%,,,,
+2015-06-26 15:00:00,EUR,Low,Private Loans y/y,0.5%,0.3%,0.0%,,,,
+2015-06-26 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,96.1,94.6,94.6,,,,
+2015-06-29 06:50:00,EUR,Medium,German Prelim CPI m/m,-0.1%,0.1%,0.1%,,,,
+2015-06-29 14:00:00,EUR,Medium,Spanish Flash CPI y/y,0.1%,-0.1%,-0.2%,,,,
+2015-06-29 21:00:00,USD,Medium,Pending Home Sales m/m,0.9%,1.3%,2.7%,,,,
+2015-06-30 13:00:00,EUR,Medium,German Retail Sales m/m,0.5%,0.0%,1.3%,,,,
+2015-06-30 13:45:00,EUR,Low,French Consumer Spending m/m,0.1%,0.3%,0.1%,,,,
+2015-06-30 14:55:00,EUR,Medium,German Unemployment Change,-1K,-5K,-5K,,,,
+2015-06-30 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.4%,12.5%,12.4%,,,,
+2015-06-30 16:00:00,EUR,Medium,CPI Flash Estimate y/y,0.2%,0.2%,0.3%,,,,
+2015-06-30 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.8%,0.8%,0.9%,,,,
+2015-06-30 16:00:00,EUR,Medium,Unemployment Rate,11.1%,11.1%,11.1%,,,,
+2015-06-30 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.1%,0.3%,0.1%,,,,
+2015-06-30 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,4.9%,5.3%,5.0%,,,,
+2015-06-30 20:45:00,USD,Medium,Chicago PMI,49.4,50.2,46.2,,,,
+2015-06-30 21:00:00,USD,High,CB Consumer Confidence,101.4,97.1,94.6,,,,
+2015-07-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,54.5,55.6,55.8,,,,
+2015-07-01 14:45:00,EUR,Low,Italian Manufacturing PMI,54.1,54.4,54.8,,,,
+2015-07-01 14:50:00,EUR,Low,French Final Manufacturing PMI,50.7,50.5,50.5,,,,
+2015-07-01 14:55:00,EUR,Medium,German Final Manufacturing PMI,51.9,51.9,51.9,,,,
+2015-07-01 15:00:00,EUR,Low,Final Manufacturing PMI,52.5,52.5,52.5,,,,
+2015-07-01 19:15:00,USD,High,ADP Non-Farm Employment Change,237K,219K,203K,,,,
+2015-07-01 20:45:00,USD,Low,Final Manufacturing PMI,53.6,53.4,53.4,,,,
+2015-07-01 21:00:00,USD,High,ISM Manufacturing PMI,53.5,53.2,52.8,,,,
+2015-07-01 21:00:00,USD,Low,Construction Spending m/m,0.8%,0.4%,2.1%,,,,
+2015-07-01 21:00:00,USD,Low,ISM Manufacturing Prices,49.5,51.1,49.5,,,,
+2015-07-01 21:30:00,USD,Medium,Crude Oil Inventories,2.4M,-1.9M,-4.9M,,,,
+2015-07-01 21:30:00,USD,Low,Total Vehicle Sales,17.2M,17.2M,17.8M,,,,
+2015-07-02 14:00:00,EUR,Medium,Spanish Unemployment Change,-94.7K,-124.3K,-118.0K,,,,
+2015-07-02 16:00:00,EUR,Low,PPI m/m,0.0%,0.1%,-0.1%,,,,
+2015-07-02 19:30:00,USD,High,Non-Farm Employment Change,223K,231K,254K,,,,
+2015-07-02 19:30:00,USD,High,Unemployment Rate,5.3%,5.4%,5.5%,,,,
+2015-07-02 19:30:00,USD,Medium,Average Hourly Earnings m/m,0.0%,0.2%,0.2%,,,,
+2015-07-02 19:30:00,USD,Medium,Unemployment Claims,281K,270K,271K,,,,
+2015-07-02 21:00:00,USD,Medium,Factory Orders m/m,-1.0%,-0.5%,-0.7%,,,,
+2015-07-02 21:30:00,USD,Low,Natural Gas Storage,69B,74B,75B,,,,
+2015-07-03 14:15:00,EUR,Medium,Spanish Services PMI,56.1,58.0,58.4,,,,
+2015-07-03 14:45:00,EUR,Low,Italian Services PMI,53.4,52.9,52.5,,,,
+2015-07-03 14:50:00,EUR,Low,French Final Services PMI,54.1,54.1,54.1,,,,
+2015-07-03 14:55:00,EUR,Low,German Final Services PMI,53.8,54.2,54.2,,,,
+2015-07-03 15:00:00,EUR,Low,Final Services PMI,54.4,54.4,54.4,,,,
+2015-07-03 16:00:00,EUR,Medium,Retail Sales m/m,0.2%,0.1%,0.7%,,,,
+2015-07-06 13:00:00,EUR,Medium,German Factory Orders m/m,-0.2%,0.0%,2.2%,,,,
+2015-07-06 15:30:00,EUR,Low,Sentix Investor Confidence,18.5,15.6,17.1,,,,
+2015-07-06 20:45:00,USD,Low,Final Services PMI,54.8,54.8,54.8,,,,
+2015-07-06 21:00:00,USD,High,ISM Services PMI,56.0,56.5,55.7,,,,
+2015-07-07 13:00:00,EUR,Low,German Industrial Production m/m,0.0%,0.1%,0.6%,,,,
+2015-07-07 13:45:00,EUR,Low,French Trade Balance,-4.0B,-3.3B,-3.3B,,,,
+2015-07-07 19:30:00,USD,High,Trade Balance,-41.9B,-42.5B,-40.7B,,,,
+2015-07-07 21:00:00,USD,Medium,JOLTS Job Openings,5.36M,5.33M,5.33M,,,,
+2015-07-07 21:00:00,USD,Low,IBD/TIPP Economic Optimism,48.1,48.9,48.1,,,,
+2015-07-08 21:30:00,USD,Medium,Crude Oil Inventories,0.4M,-0.6M,2.4M,,,,
+2015-07-09 02:00:00,USD,Low,Consumer Credit m/m,16.1B,18.5B,21.4B,,,,
+2015-07-09 13:00:00,EUR,Low,German Trade Balance,22.8B,20.6B,21.5B,,,,
+2015-07-09 19:30:00,USD,High,Unemployment Claims,297K,274K,282K,,,,
+2015-07-09 21:30:00,USD,Low,Natural Gas Storage,91B,86B,69B,,,,
+2015-07-10 13:00:00,EUR,Low,German WPI m/m,-0.2%,0.1%,0.5%,,,,
+2015-07-10 13:45:00,EUR,Low,French Industrial Production m/m,0.4%,0.5%,-0.8%,,,,
+2015-07-10 15:00:00,EUR,Low,Italian Industrial Production m/m,0.9%,0.3%,-0.3%,,,,
+2015-07-10 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.8%,0.3%,0.4%,,,,
+2015-07-14 01:00:00,USD,Low,Federal Budget Balance,51.8B,41.2B,-82.4B,,,,
+2015-07-14 13:00:00,EUR,Low,German Final CPI m/m,-0.1%,-0.1%,-0.1%,,,,
+2015-07-14 16:00:00,EUR,High,German ZEW Economic Sentiment,29.7,30.6,31.5,,,,
+2015-07-14 16:00:00,EUR,Medium,ZEW Economic Sentiment,42.7,51.1,53.7,,,,
+2015-07-14 16:00:00,EUR,Low,Industrial Production m/m,-0.4%,0.2%,0.0%,,,,
+2015-07-14 17:00:00,USD,Low,NFIB Small Business Index,94.1,98.6,98.3,,,,
+2015-07-14 19:30:00,USD,High,Core Retail Sales m/m,-0.1%,0.7%,0.8%,,,,
+2015-07-14 19:30:00,USD,High,Retail Sales m/m,-0.3%,0.2%,1.0%,,,,
+2015-07-14 19:30:00,USD,Medium,Import Prices m/m,-0.1%,0.1%,1.2%,,,,
+2015-07-14 21:00:00,USD,Medium,Business Inventories m/m,0.3%,0.3%,0.4%,,,,
+2015-07-15 13:45:00,EUR,Low,French Final CPI m/m,-0.1%,0.1%,0.2%,,,,
+2015-07-15 19:30:00,USD,High,PPI m/m,0.4%,0.2%,0.5%,,,,
+2015-07-15 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.1%,0.1%,,,,
+2015-07-15 19:30:00,USD,Medium,Empire State Manufacturing Index,3.9,3.4,-2.0,,,,
+2015-07-15 20:15:00,USD,Medium,Capacity Utilization Rate,78.4%,78.1%,78.2%,,,,
+2015-07-15 20:15:00,USD,Medium,Industrial Production m/m,0.3%,0.2%,-0.2%,,,,
+2015-07-15 21:30:00,USD,Medium,Crude Oil Inventories,-4.3M,-2.0M,0.4M,,,,
+2015-07-16 15:03:00,EUR,Low,Italian Trade Balance,4.18B,2.83B,3.73B,,,,
+2015-07-16 16:00:00,EUR,Medium,Final CPI y/y,0.2%,0.2%,0.2%,,,,
+2015-07-16 16:00:00,EUR,Low,Final Core CPI y/y,0.8%,0.8%,0.8%,,,,
+2015-07-16 16:00:00,EUR,Low,Trade Balance,21.2B,22.3B,23.9B,,,,
+2015-07-16 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,,,,
+2015-07-16 19:30:00,USD,High,Unemployment Claims,281K,284K,296K,,,,
+2015-07-16 21:00:00,USD,High,Philly Fed Manufacturing Index,5.7,11.9,15.2,,,,
+2015-07-16 21:00:00,USD,Low,NAHB Housing Market Index,60,59,60,,,,
+2015-07-16 21:30:00,USD,Low,Natural Gas Storage,99B,89B,91B,,,,
+2015-07-17 03:00:00,USD,Low,TIC Long-Term Purchases,93.0B,30.3B,54.4B,,,,
+2015-07-17 19:30:00,USD,High,Building Permits,1.34M,1.11M,1.25M,,,,
+2015-07-17 19:30:00,USD,High,CPI m/m,0.3%,0.3%,0.4%,,,,
+2015-07-17 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.1%,,,,
+2015-07-17 19:30:00,USD,Medium,Housing Starts,1.17M,1.10M,1.07M,,,,
+2015-07-17 21:00:00,USD,High,Prelim UoM Consumer Sentiment,93.3,96.0,96.1,,,,
+2015-07-20 13:00:00,EUR,Low,German PPI m/m,-0.1%,0.0%,0.0%,,,,
+2015-07-20 15:00:00,EUR,Low,Current Account,18.0B,23.1B,24.0B,,,,
+2015-07-22 16:00:00,EUR,Low,Italian Retail Sales m/m,-0.1%,0.1%,0.7%,,,,
+2015-07-22 20:00:00,USD,Low,HPI m/m,0.4%,0.5%,0.4%,,,,
+2015-07-22 21:00:00,USD,Medium,Existing Home Sales,5.49M,5.40M,5.32M,,,,
+2015-07-22 21:30:00,USD,Medium,Crude Oil Inventories,2.5M,-1.7M,-4.3M,,,,
+2015-07-23 14:00:00,EUR,Medium,Spanish Unemployment Rate,22.4%,22.8%,23.8%,,,,
+2015-07-23 19:30:00,USD,High,Unemployment Claims,255K,279K,281K,,,,
+2015-07-23 21:00:00,EUR,Low,Consumer Confidence,-7,-6,-6,,,,
+2015-07-23 21:00:00,USD,Low,CB Leading Index m/m,0.6%,0.1%,0.8%,,,,
+2015-07-23 21:30:00,USD,Low,Natural Gas Storage,61B,71B,99B,,,,
+2015-07-24 14:00:00,EUR,High,French Flash Manufacturing PMI,49.6,51.1,50.7,,,,
+2015-07-24 14:00:00,EUR,Medium,French Flash Services PMI,52.0,53.9,54.1,,,,
+2015-07-24 14:30:00,EUR,High,German Flash Manufacturing PMI,51.5,52.1,51.9,,,,
+2015-07-24 14:30:00,EUR,Medium,German Flash Services PMI,53.7,54.1,53.8,,,,
+2015-07-24 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.2,52.5,52.5,,,,
+2015-07-24 15:00:00,EUR,Medium,Flash Services PMI,53.8,54.2,54.4,,,,
+2015-07-24 20:08:00,EUR,Low,Belgian NBB Business Climate,-4.1,-4.0,-3.9,,,,
+2015-07-24 20:45:00,USD,Medium,Flash Manufacturing PMI,53.8,53.7,53.6,,,,
+2015-07-24 21:00:00,USD,Medium,New Home Sales,482K,543K,517K,,,,
+2015-07-27 13:00:00,EUR,Low,German Import Prices m/m,-0.5%,0.2%,-0.2%,,,,
+2015-07-27 15:00:00,EUR,High,German ifo Business Climate,108.0,107.6,107.5,,,,
+2015-07-27 15:00:00,EUR,Medium,M3 Money Supply y/y,5.0%,5.1%,5.0%,,,,
+2015-07-27 15:00:00,EUR,Low,Private Loans y/y,0.6%,0.7%,0.5%,,,,
+2015-07-27 19:30:00,USD,High,Core Durable Goods Orders m/m,0.8%,0.4%,0.0%,,,,
+2015-07-27 19:30:00,USD,Medium,Durable Goods Orders m/m,3.4%,3.2%,-2.2%,,,,
+2015-07-28 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,4.9%,5.2%,5.0%,,,,
+2015-07-28 20:45:00,USD,Low,Flash Services PMI,55.2,55.1,54.8,,,,
+2015-07-28 20:59:00,USD,Low,Richmond Manufacturing Index,13,6,6,,,,
+2015-07-28 21:00:00,USD,High,CB Consumer Confidence,90.9,100.1,99.8,,,,
+2015-07-29 13:00:00,EUR,Medium,German GfK Consumer Climate,10.1,10.1,10.1,,,,
+2015-07-29 21:00:00,USD,Medium,Pending Home Sales m/m,-1.8%,1.0%,0.6%,,,,
+2015-07-29 21:30:00,USD,Medium,Crude Oil Inventories,-4.2M,-0.1M,2.5M,,,,
+2015-07-30 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,,,,
+2015-07-30 08:30:00,EUR,Medium,German Prelim CPI m/m,0.2%,0.2%,-0.1%,,,,
+2015-07-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,0.0%,0.1%,0.1%,,,,
+2015-07-30 14:00:00,EUR,Medium,Spanish Flash GDP q/q,1.0%,1.1%,0.9%,,,,
+2015-07-30 14:55:00,EUR,Medium,German Unemployment Change,9K,-5K,1K,,,,
+2015-07-30 19:30:00,USD,High,Advance GDP q/q,2.3%,2.6%,-0.2%,,,,
+2015-07-30 19:30:00,USD,High,Unemployment Claims,267K,268K,255K,,,,
+2015-07-30 19:30:00,USD,Medium,Advance GDP Price Index q/q,2.0%,1.5%,0.0%,,,,
+2015-07-30 21:30:00,USD,Low,Natural Gas Storage,52B,53B,61B,,,,
+2015-07-31 13:00:00,EUR,Medium,German Retail Sales m/m,-2.3%,0.3%,0.4%,,,,
+2015-07-31 13:45:00,EUR,Low,French Consumer Spending m/m,0.4%,0.7%,0.1%,,,,
+2015-07-31 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.7%,12.3%,12.5%,,,,
+2015-07-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,0.2%,0.2%,0.2%,,,,
+2015-07-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.0%,0.8%,0.8%,,,,
+2015-07-31 16:00:00,EUR,Medium,Unemployment Rate,11.1%,11.0%,11.1%,,,,
+2015-07-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.1%,0.0%,0.2%,,,,
+2015-07-31 19:30:00,USD,Medium,Employment Cost Index q/q,0.2%,0.6%,0.7%,,,,
+2015-07-31 20:45:00,USD,Medium,Chicago PMI,54.7,50.7,49.4,,,,
+2015-07-31 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,93.1,94.2,93.3,,,,
+2015-08-03 14:15:00,EUR,Medium,Spanish Manufacturing PMI,53.6,54.2,54.5,,,,
+2015-08-03 14:45:00,EUR,Low,Italian Manufacturing PMI,55.3,54.6,54.1,,,,
+2015-08-03 14:50:00,EUR,Low,French Final Manufacturing PMI,49.6,49.6,49.6,,,,
+2015-08-03 14:55:00,EUR,Low,German Final Manufacturing PMI,51.8,51.5,51.5,,,,
+2015-08-03 15:00:00,EUR,Low,Final Manufacturing PMI,52.4,52.2,52.2,,,,
+2015-08-03 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,,,,
+2015-08-03 19:30:00,USD,Medium,Personal Spending m/m,0.2%,0.2%,0.7%,,,,
+2015-08-03 19:30:00,USD,Low,Personal Income m/m,0.4%,0.4%,0.4%,,,,
+2015-08-03 20:45:00,USD,High,ISM Manufacturing PMI,52.7,53.6,53.5,,,,
+2015-08-03 20:45:00,USD,Low,Final Manufacturing PMI,53.8,53.8,53.8,,,,
+2015-08-03 20:45:00,USD,Low,ISM Manufacturing Prices,44.0,49.5,49.5,,,,
+2015-08-03 21:00:00,USD,Low,Construction Spending m/m,0.1%,0.8%,1.8%,,,,
+2015-08-03 21:50:00,USD,Low,Total Vehicle Sales,17.6M,17.2M,17.2M,,,,
+2015-08-04 14:00:00,EUR,Medium,Spanish Unemployment Change,-74.0K,-45.6K,-94.7K,,,,
+2015-08-04 16:00:00,EUR,Low,PPI m/m,-0.1%,-0.1%,0.0%,,,,
+2015-08-04 21:00:00,USD,Medium,Factory Orders m/m,1.8%,1.8%,-1.1%,,,,
+2015-08-04 21:00:00,USD,Low,IBD/TIPP Economic Optimism,46.9,48.0,48.1,,,,
+2015-08-05 14:15:00,EUR,Medium,Spanish Services PMI,59.7,55.8,56.1,,,,
+2015-08-05 14:45:00,EUR,Low,Italian Services PMI,52.0,53.2,53.4,,,,
+2015-08-05 14:50:00,EUR,Low,French Final Services PMI,52.0,52.1,52.0,,,,
+2015-08-05 14:55:00,EUR,Low,German Final Services PMI,53.8,53.7,53.7,,,,
+2015-08-05 15:00:00,EUR,Low,Final Services PMI,54.0,53.8,53.8,,,,
+2015-08-05 15:00:00,EUR,Low,Italian Industrial Production m/m,-1.1%,-0.2%,0.9%,,,,
+2015-08-05 16:00:00,EUR,Low,Retail Sales m/m,-0.6%,-0.1%,0.1%,,,,
+2015-08-05 19:15:00,USD,High,ADP Non-Farm Employment Change,185K,216K,229K,,,,
+2015-08-05 19:30:00,USD,High,Trade Balance,-43.8B,-42.8B,-40.9B,,,,
+2015-08-05 20:45:00,USD,Low,Final Services PMI,55.7,55.2,55.2,,,,
+2015-08-05 21:00:00,USD,High,ISM Services PMI,60.3,56.3,56.0,,,,
+2015-08-05 21:30:00,USD,Medium,Crude Oil Inventories,-4.4M,-1.3M,-4.2M,,,,
+2015-08-06 13:00:00,EUR,Medium,German Factory Orders m/m,2.0%,0.4%,-0.3%,,,,
+2015-08-06 19:30:00,USD,High,Unemployment Claims,270K,273K,267K,,,,
+2015-08-06 21:30:00,USD,Low,Natural Gas Storage,32B,46B,52B,,,,
+2015-08-07 13:00:00,EUR,Low,German Industrial Production m/m,-1.4%,0.3%,0.2%,,,,
+2015-08-07 13:00:00,EUR,Low,German Trade Balance,22.0B,23.2B,22.6B,,,,
+2015-08-07 13:45:00,EUR,Low,French Industrial Production m/m,-0.1%,0.3%,0.4%,,,,
+2015-08-07 13:45:00,EUR,Low,French Trade Balance,-2.7B,-3.7B,-4.0B,,,,
+2015-08-07 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.0%,,,,
+2015-08-07 19:30:00,USD,High,Non-Farm Employment Change,215K,222K,231K,,,,
+2015-08-07 19:30:00,USD,High,Unemployment Rate,5.3%,5.3%,5.3%,,,,
+2015-08-08 02:00:00,USD,Low,Consumer Credit m/m,20.7B,17.2B,16.5B,,,,
+2015-08-10 15:30:00,EUR,Low,Sentix Investor Confidence,18.4,20.2,18.5,110.0,-13.0,-13.0,11.0
+2015-08-11 13:00:00,EUR,Low,German WPI m/m,0.1%,0.2%,-0.2%,128.0,-20.0,12.0,10.0
+2015-08-11 16:00:00,EUR,High,German ZEW Economic Sentiment,25.0,31.7,29.7,128.0,-23.0,-23.0,-19.0
+2015-08-11 16:00:00,EUR,Medium,ZEW Economic Sentiment,47.6,43.9,42.7,128.0,-23.0,-23.0,-19.0
+2015-08-11 17:00:00,USD,Low,NFIB Small Business Index,95.4,95.4,94.1,128.0,16.0,8.0,-7.0
+2015-08-11 19:30:00,USD,High,Prelim Unit Labor Costs q/q,0.5%,0.0%,6.7%,128.0,33.0,18.0,15.0
+2015-08-11 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,1.3%,1.6%,-3.1%,128.0,33.0,18.0,15.0
+2015-08-11 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.9%,0.4%,0.6%,128.0,-40.0,-31.0,-11.0
+2015-08-12 15:00:00,EUR,Low,Italian Trade Balance,2.81B,3.98B,4.14B,196.0,42.0,42.0,28.0
+2015-08-12 16:00:00,EUR,Low,Industrial Production m/m,-0.4%,-0.1%,-0.2%,196.0,15.0,12.0,-10.0
+2015-08-12 21:00:00,USD,Medium,JOLTS Job Openings,5.25M,5.33M,5.36M,196.0,24.0,-18.0,16.0
+2015-08-12 21:30:00,USD,Medium,Crude Oil Inventories,-1.7M,-1.6M,-4.4M,196.0,38.0,22.0,-10.0
+2015-08-13 01:00:00,USD,Low,Federal Budget Balance,-149.2B,-133.5B,51.8B,-109.0,-15.0,11.0,-6.0
+2015-08-13 13:00:00,EUR,Low,German Final CPI m/m,0.2%,0.2%,0.2%,-109.0,-36.0,-24.0,13.0
+2015-08-13 13:45:00,EUR,Low,French Final CPI m/m,-0.4%,-0.4%,-0.1%,-109.0,-24.0,-16.0,13.0
+2015-08-13 19:30:00,USD,High,Core Retail Sales m/m,0.4%,0.4%,0.4%,-109.0,-44.0,-44.0,-44.0
+2015-08-13 19:30:00,USD,High,Retail Sales m/m,0.6%,0.6%,0.0%,-109.0,-44.0,-44.0,-44.0
+2015-08-13 19:30:00,USD,High,Unemployment Claims,274K,272K,269K,-109.0,-44.0,-44.0,-44.0
+2015-08-13 19:30:00,USD,Medium,Import Prices m/m,-0.9%,-1.0%,0.0%,-109.0,-44.0,-44.0,-44.0
+2015-08-13 21:00:00,USD,Low,Business Inventories m/m,0.8%,0.3%,0.3%,-109.0,20.0,-15.0,-15.0
+2015-08-13 21:30:00,USD,Low,Natural Gas Storage,65B,47B,32B,-109.0,36.0,18.0,10.0
+2015-08-14 12:30:00,EUR,Low,French Prelim GDP q/q,0.0%,0.2%,0.7%,-91.0,-15.0,-5.0,-4.0
+2015-08-14 13:00:00,EUR,High,German Prelim GDP q/q,0.4%,0.5%,0.3%,-91.0,24.0,-12.0,-11.0
+2015-08-14 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.1%,0.0%,-91.0,-31.0,29.0,21.0
+2015-08-14 15:00:00,EUR,Low,Italian Prelim GDP q/q,0.2%,0.3%,0.3%,-91.0,20.0,15.0,11.0
+2015-08-14 16:00:00,EUR,Medium,Final CPI y/y,0.2%,0.2%,0.2%,-91.0,25.0,-16.0,-16.0
+2015-08-14 16:00:00,EUR,Medium,Flash GDP q/q,0.3%,0.4%,0.4%,-91.0,25.0,-16.0,-16.0
+2015-08-14 16:00:00,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%,-91.0,25.0,-16.0,-16.0
+2015-08-14 19:30:00,USD,High,PPI m/m,0.2%,0.1%,0.4%,-91.0,-38.0,-18.0,-18.0
+2015-08-14 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.1%,0.3%,-91.0,-38.0,-18.0,-18.0
+2015-08-14 20:15:00,USD,Medium,Capacity Utilization Rate,78.0%,78.0%,77.7%,-91.0,32.0,-22.0,-22.0
+2015-08-14 20:15:00,USD,Medium,Industrial Production m/m,0.6%,0.3%,0.1%,-91.0,32.0,-22.0,-22.0
+2015-08-14 21:00:00,USD,High,Prelim UoM Consumer Sentiment,92.9,93.5,93.1,-91.0,-52.0,21.0,21.0
+2015-08-17 16:00:00,EUR,Low,Trade Balance,21.9B,19.3B,21.3B,-66.0,-26.0,18.0,18.0
+2015-08-17 19:30:00,USD,Medium,Empire State Manufacturing Index,-14.9,5.0,3.9,-66.0,30.0,30.0,30.0
+2015-08-17 21:00:00,USD,Low,NAHB Housing Market Index,61,62,60,-66.0,-24.0,-19.0,-15.0
+2015-08-18 03:00:00,USD,Low,TIC Long-Term Purchases,103.1B,23.0B,93.0B,-77.0,-8.0,-6.0,-6.0
+2015-08-18 19:30:00,USD,High,Building Permits,1.12M,1.23M,1.34M,-77.0,-44.0,-39.0,-34.0
+2015-08-18 19:30:00,USD,Medium,Housing Starts,1.21M,1.19M,1.20M,-77.0,-44.0,-39.0,-34.0
+2015-08-19 15:00:00,EUR,Low,Current Account,25.4B,19.2B,19.1B,58.0,-19.0,10.0,10.0
+2015-08-19 19:30:00,USD,High,CPI m/m,0.1%,0.2%,0.3%,58.0,-57.0,-57.0,-57.0
+2015-08-19 19:30:00,USD,High,Core CPI m/m,0.1%,0.2%,0.2%,58.0,-57.0,-57.0,-57.0
+2015-08-19 21:30:00,USD,Medium,Crude Oil Inventories,2.6M,-0.6M,-1.7M,58.0,41.0,36.0,30.0
+2015-08-20 13:00:00,EUR,Low,German PPI m/m,0.0%,-0.1%,-0.1%,185.0,-19.0,-19.0,15.0
+2015-08-20 19:30:00,USD,High,Unemployment Claims,277K,272K,273K,185.0,-23.0,-23.0,13.0
+2015-08-20 21:00:00,USD,High,Existing Home Sales,5.59M,5.45M,5.48M,185.0,69.0,53.0,22.0
+2015-08-20 21:00:00,USD,High,Philly Fed Manufacturing Index,8.3,6.9,5.7,185.0,69.0,53.0,22.0
+2015-08-20 21:00:00,USD,Low,CB Leading Index m/m,-0.2%,0.2%,0.6%,185.0,69.0,53.0,22.0
+2015-08-20 21:30:00,USD,Low,Natural Gas Storage,53B,60B,65B,185.0,-30.0,-26.0,-20.0
+2015-08-21 13:00:00,EUR,Low,German GfK Consumer Climate,9.9,10.2,10.1,194.0,-19.0,-14.0,-14.0
+2015-08-21 14:00:00,EUR,High,French Flash Manufacturing PMI,48.6,49.8,49.6,194.0,-38.0,-31.0,-25.0
+2015-08-21 14:00:00,EUR,Medium,French Flash Services PMI,51.8,52.1,52.0,194.0,-38.0,-31.0,-25.0
+2015-08-21 14:30:00,EUR,High,German Flash Manufacturing PMI,53.2,51.7,51.8,194.0,-24.0,-20.0,-20.0
+2015-08-21 14:30:00,EUR,Medium,German Flash Services PMI,53.6,53.7,53.8,194.0,-24.0,-20.0,-20.0
+2015-08-21 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.4,52.3,52.4,194.0,22.0,13.0,-11.0
+2015-08-21 15:00:00,EUR,Medium,Flash Services PMI,54.3,54.1,54.0,194.0,22.0,13.0,-11.0
+2015-08-21 20:45:00,USD,Medium,Flash Manufacturing PMI,52.9,53.9,53.8,194.0,34.0,-27.0,12.0
+2015-08-21 21:00:00,EUR,Low,Consumer Confidence,-7,-7,-7,194.0,43.0,-27.0,-27.0
+2015-08-25 13:00:00,EUR,Low,German Final GDP q/q,0.4%,0.4%,0.4%,-225.0,31.0,31.0,-27.0
+2015-08-25 15:00:00,EUR,High,German ifo Business Climate,108.3,107.6,108.0,-225.0,51.0,27.0,-25.0
+2015-08-25 19:58:00,EUR,Low,Belgian NBB Business Climate,-5.1,-3.2,-4.1,-225.0,31.0,-25.0,-19.0
+2015-08-25 20:00:00,USD,Low,HPI m/m,0.2%,0.4%,0.5%,-225.0,-34.0,-25.0,-21.0
+2015-08-25 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,5.1%,5.0%,-225.0,-34.0,-25.0,-21.0
+2015-08-25 20:45:00,USD,Low,Flash Services PMI,55.2,54.1,55.7,-225.0,-48.0,-27.0,-25.0
+2015-08-25 20:59:00,USD,Low,Richmond Manufacturing Index,0,9,13,-225.0,-67.0,-39.0,24.0
+2015-08-25 21:00:00,USD,High,CB Consumer Confidence,101.5,92.8,91.0,-225.0,-68.0,-39.0,-26.0
+2015-08-25 21:00:00,USD,Medium,New Home Sales,507K,512K,481K,-225.0,-68.0,-39.0,-26.0
+2015-08-26 19:30:00,USD,High,Core Durable Goods Orders m/m,0.6%,0.3%,0.6%,-209.0,-37.0,-37.0,-37.0
+2015-08-26 19:30:00,USD,Medium,Durable Goods Orders m/m,2.0%,-0.4%,4.1%,-209.0,-37.0,-37.0,-37.0
+2015-08-26 21:30:00,USD,Medium,Crude Oil Inventories,-5.5M,1.0M,2.6M,-209.0,61.0,61.0,57.0
+2015-08-27 13:00:00,EUR,Low,German Import Prices m/m,-0.7%,-0.3%,-0.5%,-187.0,-36.0,-19.0,19.0
+2015-08-27 15:00:00,EUR,Medium,M3 Money Supply y/y,5.3%,4.9%,4.9%,-187.0,-39.0,22.0,-20.0
+2015-08-27 15:15:00,EUR,Low,Private Loans y/y,0.9%,0.7%,0.2%,-187.0,-39.0,-28.0,-16.0
+2015-08-27 19:30:00,USD,High,Prelim GDP q/q,3.7%,3.2%,2.3%,-187.0,-61.0,-50.0,-39.0
+2015-08-27 19:30:00,USD,High,Unemployment Claims,271K,275K,277K,-187.0,-61.0,-50.0,-39.0
+2015-08-27 19:30:00,USD,Low,Prelim GDP Price Index q/q,2.1%,2.0%,2.0%,-187.0,-61.0,-50.0,-39.0
+2015-08-27 21:00:00,USD,Medium,Pending Home Sales m/m,0.5%,1.3%,-1.7%,-187.0,-58.0,-26.0,-21.0
+2015-08-27 21:30:00,USD,Low,Natural Gas Storage,69B,59B,53B,-187.0,-37.0,-37.0,-12.0
+2015-08-28 12:45:00,EUR,Medium,German Prelim CPI m/m,0.0%,-0.1%,0.2%,-154.0,18.0,18.0,-7.0
+2015-08-28 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.4%,-0.1%,0.1%,-154.0,48.0,33.0,17.0
+2015-08-28 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,-154.0,-36.0,-31.0,19.0
+2015-08-28 19:30:00,USD,Medium,Personal Spending m/m,0.3%,0.4%,0.3%,-154.0,-36.0,-31.0,19.0
+2015-08-28 19:30:00,USD,Low,Personal Income m/m,0.4%,0.4%,0.4%,-154.0,-36.0,-31.0,19.0
+2015-08-28 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,91.9,93.2,92.9,-154.0,-32.0,-23.0,-17.0
+2015-08-31 13:00:00,EUR,Medium,German Retail Sales m/m,1.4%,1.3%,-1.0%,92.0,-30.0,-19.0,-17.0
+2015-08-31 15:00:00,EUR,Low,Italian Retail Sales m/m,-0.3%,0.1%,-0.2%,92.0,-26.0,14.0,13.0
+2015-08-31 16:00:00,EUR,Medium,CPI Flash Estimate y/y,0.2%,0.2%,0.2%,92.0,23.0,-19.0,-17.0
+2015-08-31 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.0%,1.0%,1.0%,92.0,23.0,-19.0,-17.0
+2015-08-31 16:00:00,EUR,Low,Italian Prelim CPI m/m,0.2%,0.2%,-0.1%,92.0,23.0,-19.0,-17.0
+2015-08-31 20:45:00,USD,Medium,Chicago PMI,54.4,54.7,54.7,92.0,-44.0,-16.0,-16.0
+2015-09-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,53.2,53.9,53.6,129.0,69.0,58.0,49.0
+2015-09-01 14:45:00,EUR,Low,Italian Manufacturing PMI,53.8,56.2,55.3,129.0,-55.0,-28.0,15.0
+2015-09-01 14:50:00,EUR,Low,French Final Manufacturing PMI,48.3,48.6,48.6,129.0,-55.0,-30.0,-23.0
+2015-09-01 14:55:00,EUR,Medium,German Unemployment Change,-7K,-3K,8K,129.0,-65.0,-31.0,-26.0
+2015-09-01 14:55:00,EUR,Low,German Final Manufacturing PMI,53.3,53.2,53.2,129.0,-65.0,-31.0,-26.0
+2015-09-01 15:00:00,EUR,Low,Final Manufacturing PMI,52.3,52.4,52.4,129.0,-61.0,-33.0,-21.0
+2015-09-01 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,12.0%,12.7%,12.5%,129.0,-61.0,-33.0,-21.0
+2015-09-01 15:00:00,EUR,Low,Italian Quarterly Unemployment Rate,12.4%,12.5%,12.3%,129.0,-61.0,-33.0,-21.0
+2015-09-01 16:00:00,EUR,Medium,Unemployment Rate,10.9%,11.1%,11.1%,129.0,-31.0,14.0,-12.0
+2015-09-01 20:45:00,USD,Low,Final Manufacturing PMI,53.0,52.9,52.9,129.0,-47.0,38.0,16.0
+2015-09-01 21:00:00,USD,High,ISM Manufacturing PMI,51.1,52.6,52.7,129.0,-47.0,-41.0,-36.0
+2015-09-01 21:00:00,USD,Low,Construction Spending m/m,0.7%,0.8%,0.7%,129.0,-47.0,-41.0,-36.0
+2015-09-01 21:00:00,USD,Low,IBD/TIPP Economic Optimism,42.0,47.3,46.9,129.0,-47.0,-41.0,-36.0
+2015-09-01 21:00:00,USD,Low,ISM Manufacturing Prices,39.0,39.7,44.0,129.0,-47.0,-41.0,-36.0
+2015-09-01 21:49:00,USD,Low,Total Vehicle Sales,17.8M,17.3M,17.6M,129.0,18.0,18.0,18.0
+2015-09-02 14:00:00,EUR,Medium,Spanish Unemployment Change,21.7K,35.3K,-74.0K,-97.0,-40.0,-30.0,-24.0
+2015-09-02 16:00:00,EUR,Low,PPI m/m,-0.1%,-0.1%,-0.1%,-97.0,-33.0,-21.0,-19.0
+2015-09-02 19:15:00,USD,High,ADP Non-Farm Employment Change,190K,204K,177K,-97.0,-40.0,-26.0,-20.0
+2015-09-02 19:30:00,USD,Medium,Revised Nonfarm Productivity q/q,3.3%,2.9%,1.3%,-97.0,-36.0,-28.0,-19.0
+2015-09-02 19:30:00,USD,Low,Revised Unit Labor Costs q/q,-1.4%,-0.5%,0.5%,-97.0,-36.0,-28.0,-19.0
+2015-09-02 21:00:00,USD,Medium,Factory Orders m/m,0.4%,0.8%,2.2%,-97.0,-25.0,-17.0,-14.0
+2015-09-02 21:30:00,USD,Medium,Crude Oil Inventories,4.7M,-0.7M,-5.5M,-97.0,-20.0,-20.0,-15.0
+2015-09-03 14:15:00,EUR,Low,Spanish Services PMI,59.6,59.3,59.7,-161.0,18.0,-18.0,-12.0
+2015-09-03 14:45:00,EUR,Low,Italian Services PMI,54.6,53.1,52.0,-161.0,17.0,16.0,-13.0
+2015-09-03 14:50:00,EUR,Low,French Final Services PMI,50.6,51.8,51.8,-161.0,17.0,16.0,13.0
+2015-09-03 14:55:00,EUR,Low,German Final Services PMI,54.9,53.6,53.6,-161.0,18.0,15.0,12.0
+2015-09-03 15:00:00,EUR,Low,Final Services PMI,54.4,54.3,54.3,-161.0,16.0,13.0,-9.0
+2015-09-03 16:00:00,EUR,Low,Retail Sales m/m,0.4%,0.6%,-0.2%,-161.0,-14.0,-9.0,-7.0
+2015-09-03 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,-161.0,-113.0,12.0,-8.0
+2015-09-03 19:30:00,USD,High,Trade Balance,-41.9B,-43.2B,-45.2B,-161.0,-127.0,-124.0,-110.0
+2015-09-03 19:30:00,USD,High,Unemployment Claims,282K,273K,270K,-161.0,-127.0,-124.0,-110.0
+2015-09-03 20:45:00,USD,Low,Final Services PMI,56.1,55.2,55.2,-161.0,-36.0,-34.0,-19.0
+2015-09-03 21:00:00,USD,High,ISM Services PMI,59.0,58.3,60.3,-161.0,-40.0,-19.0,-19.0
+2015-09-03 21:30:00,USD,Low,Natural Gas Storage,94B,88B,69B,-161.0,-34.0,-31.0,13.0
+2015-09-04 13:00:00,EUR,Medium,German Factory Orders m/m,-1.4%,-0.5%,1.8%,-100.0,-15.0,-13.0,13.0
+2015-09-04 19:30:00,USD,High,Average Hourly Earnings m/m,0.3%,0.2%,0.2%,-100.0,-100.0,-100.0,-100.0
+2015-09-04 19:30:00,USD,High,Non-Farm Employment Change,173K,215K,245K,-100.0,-100.0,-100.0,-100.0
+2015-09-04 19:30:00,USD,High,Unemployment Rate,5.1%,5.2%,5.3%,-100.0,-100.0,-100.0,-100.0
+2015-09-07 13:00:00,EUR,Low,German Industrial Production m/m,0.7%,1.2%,-0.9%,56.0,27.0,-23.0,-19.0
+2015-09-07 15:30:00,EUR,Low,Sentix Investor Confidence,13.6,16.2,18.4,56.0,30.0,16.0,11.0
+2015-09-08 13:00:00,EUR,Low,German Trade Balance,22.8B,21.8B,22.1B,-77.0,-34.0,28.0,15.0
+2015-09-08 13:45:00,EUR,Low,French Trade Balance,-3.3B,-3.2B,-2.8B,-77.0,-41.0,-36.0,-17.0
+2015-09-08 16:00:00,EUR,Low,Revised GDP q/q,0.4%,0.3%,0.3%,-77.0,-31.0,-16.0,-16.0
+2015-09-08 17:00:00,USD,Low,NFIB Small Business Index,95.9,96.0,95.4,-77.0,-11.0,-6.0,-4.0
+2015-09-09 02:13:00,USD,Low,Consumer Credit m/m,19.1B,18.4B,27.0B,-85.0,-13.0,12.0,12.0
+2015-09-09 21:00:00,USD,Medium,JOLTS Job Openings,5.75M,5.30M,5.32M,-85.0,43.0,34.0,18.0
+2015-09-10 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.2%,0.2%,0.2%,130.0,37.0,-15.0,-9.0
+2015-09-10 13:45:00,EUR,Low,French Industrial Production m/m,-0.8%,0.3%,0.0%,130.0,-37.0,-20.0,13.0
+2015-09-10 19:30:00,USD,High,Unemployment Claims,275K,279K,281K,130.0,29.0,29.0,26.0
+2015-09-10 19:30:00,USD,Medium,Import Prices m/m,-1.8%,-1.7%,-0.9%,130.0,29.0,29.0,26.0
+2015-09-10 21:00:00,USD,Low,Final Wholesale Inventories m/m,-0.1%,0.2%,0.7%,130.0,19.0,-13.0,12.0
+2015-09-10 21:30:00,USD,Low,Natural Gas Storage,68B,76B,94B,130.0,68.0,-18.0,-9.0
+2015-09-10 22:00:00,USD,Medium,Crude Oil Inventories,2.6M,0.9M,4.7M,130.0,66.0,66.0,46.0
+2015-09-11 13:00:00,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%,94.0,-29.0,-20.0,10.0
+2015-09-11 13:00:00,EUR,Low,German WPI m/m,-0.8%,0.2%,0.1%,94.0,-29.0,-20.0,10.0
+2015-09-11 15:00:00,EUR,Low,Italian Industrial Production m/m,1.1%,0.9%,-1.0%,94.0,-21.0,20.0,15.0
+2015-09-11 19:30:00,USD,High,PPI m/m,0.0%,-0.1%,0.2%,94.0,26.0,21.0,21.0
+2015-09-11 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.1%,0.3%,94.0,26.0,21.0,21.0
+2015-09-11 21:00:00,USD,High,Prelim UoM Consumer Sentiment,85.7,91.4,91.9,94.0,-22.0,-22.0,-15.0
+2015-09-12 00:55:00,USD,Low,Federal Budget Balance,-64.4B,-82.3B,-149.2B,-22.0,-14.0,-10.0,7.0
+2015-09-14 16:00:00,EUR,Low,Industrial Production m/m,0.6%,0.3%,-0.3%,-89.0,-14.0,-14.0,-9.0
+2015-09-15 13:45:00,EUR,Low,French Final CPI m/m,0.3%,0.4%,-0.4%,-70.0,21.0,-18.0,-17.0
+2015-09-15 16:00:00,EUR,High,German ZEW Economic Sentiment,12.1,18.3,25.0,-70.0,20.0,20.0,17.0
+2015-09-15 16:00:00,EUR,Medium,ZEW Economic Sentiment,33.3,42.1,47.6,-70.0,20.0,20.0,17.0
+2015-09-15 16:00:00,EUR,Low,Final Employment Change q/q,0.3%,0.1%,0.2%,-70.0,20.0,20.0,17.0
+2015-09-15 16:00:00,EUR,Low,Trade Balance,22.4B,21.4B,21.9B,-70.0,20.0,20.0,17.0
+2015-09-15 19:30:00,USD,High,Core Retail Sales m/m,0.1%,0.2%,0.6%,-70.0,-35.0,-35.0,-35.0
+2015-09-15 19:30:00,USD,High,Retail Sales m/m,0.2%,0.3%,0.7%,-70.0,-35.0,-35.0,-35.0
+2015-09-15 19:30:00,USD,Medium,Empire State Manufacturing Index,-14.7,-0.5,-14.9,-70.0,-35.0,-35.0,-35.0
+2015-09-15 20:15:00,USD,Medium,Capacity Utilization Rate,77.6%,77.9%,78.0%,-70.0,17.0,17.0,11.0
+2015-09-15 20:15:00,USD,Medium,Industrial Production m/m,-0.4%,-0.1%,0.9%,-70.0,17.0,17.0,11.0
+2015-09-15 21:00:00,USD,Low,Business Inventories m/m,0.1%,-0.2%,0.7%,-70.0,-44.0,9.0,9.0
+2015-09-16 16:00:00,EUR,Medium,Final CPI y/y,0.1%,0.2%,0.2%,107.0,-28.0,-28.0,-23.0
+2015-09-16 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,1.0%,1.0%,107.0,-28.0,-28.0,-23.0
+2015-09-16 19:30:00,USD,High,CPI m/m,-0.1%,0.0%,0.1%,107.0,46.0,38.0,29.0
+2015-09-16 19:30:00,USD,High,Core CPI m/m,0.1%,0.1%,0.1%,107.0,46.0,38.0,29.0
+2015-09-16 21:00:00,USD,Low,NAHB Housing Market Index,62,61,61,107.0,34.0,33.0,26.0
+2015-09-16 21:30:00,USD,Medium,Crude Oil Inventories,-2.1M,0.7M,2.6M,107.0,-22.0,-22.0,-11.0
+2015-09-17 03:00:00,USD,Low,TIC Long-Term Purchases,7.7B,27.5B,103.1B,63.0,10.0,-6.0,-4.0
+2015-09-17 15:02:00,EUR,Low,Italian Trade Balance,8.03B,2.47B,2.81B,63.0,-15.0,11.0,-10.0
+2015-09-17 19:30:00,USD,High,Building Permits,1.17M,1.15M,1.13M,63.0,14.0,14.0,14.0
+2015-09-17 19:30:00,USD,High,Unemployment Claims,264K,276K,275K,63.0,14.0,14.0,14.0
+2015-09-17 19:30:00,USD,Medium,Current Account,-110B,-111B,-118B,63.0,14.0,14.0,14.0
+2015-09-17 19:30:00,USD,Medium,Housing Starts,1.13M,1.16M,1.16M,63.0,14.0,14.0,14.0
+2015-09-17 21:00:00,USD,High,Philly Fed Manufacturing Index,-6.0,6.1,8.3,63.0,-23.0,13.0,13.0
+2015-09-17 21:30:00,USD,Low,Natural Gas Storage,73B,70B,68B,63.0,-19.0,-18.0,-13.0
+2015-09-18 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,157.0,91.0,91.0,91.0
+2015-09-18 15:00:00,EUR,Low,Current Account,22.6B,21.3B,24.9B,157.0,24.0,-10.0,-10.0
+2015-09-18 21:00:00,USD,Low,CB Leading Index m/m,0.1%,0.2%,-0.2%,157.0,-42.0,-40.0,-11.0
+2015-09-21 13:00:00,EUR,Low,German PPI m/m,-0.5%,-0.3%,0.0%,,,,
+2015-09-21 21:00:00,USD,Medium,Existing Home Sales,5.31M,5.50M,5.58M,,,,
+2015-09-22 20:00:00,USD,Low,HPI m/m,0.6%,0.4%,0.2%,,,,
+2015-09-22 20:59:00,USD,Low,Richmond Manufacturing Index,-5,4,0,,,,
+2015-09-22 21:00:00,EUR,Low,Consumer Confidence,-7,-7,-7,,,,
+2015-09-23 14:00:00,EUR,High,French Flash Manufacturing PMI,50.4,48.6,48.3,,,,
+2015-09-23 14:00:00,EUR,Medium,French Flash Services PMI,51.2,51.1,50.6,,,,
+2015-09-23 14:30:00,EUR,High,German Flash Manufacturing PMI,52.5,52.8,53.3,,,,
+2015-09-23 14:30:00,EUR,Medium,German Flash Services PMI,54.3,54.5,54.9,,,,
+2015-09-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.0,52.2,52.3,,,,
+2015-09-23 15:00:00,EUR,Medium,Flash Services PMI,54.0,54.1,54.4,,,,
+2015-09-23 20:45:00,USD,Low,Flash Manufacturing PMI,53.0,53.3,53.0,,,,
+2015-09-23 21:30:00,USD,Medium,Crude Oil Inventories,-1.9M,-1.0M,-2.1M,,,,
+2015-09-24 13:00:00,EUR,Low,German GfK Consumer Climate,9.6,9.8,9.9,131.0,37.0,15.0,-14.0
+2015-09-24 15:00:00,EUR,High,German ifo Business Climate,108.5,107.8,108.4,131.0,-39.0,-39.0,-32.0
+2015-09-24 16:00:00,EUR,Low,Italian Retail Sales m/m,0.4%,0.2%,-0.4%,131.0,21.0,21.0,20.0
+2015-09-24 16:31:00,EUR,High,Long Term Refinancing Operation,15.5B,50.3B,73.8B,131.0,-16.0,-16.0,-14.0
+2015-09-24 19:30:00,USD,High,Core Durable Goods Orders m/m,0.0%,0.2%,0.4%,131.0,36.0,16.0,16.0
+2015-09-24 19:30:00,USD,High,Unemployment Claims,267K,268K,264K,131.0,36.0,16.0,16.0
+2015-09-24 19:30:00,USD,Medium,Durable Goods Orders m/m,-2.0%,-2.0%,2.2%,131.0,36.0,16.0,16.0
+2015-09-24 20:00:00,EUR,Low,Belgian NBB Business Climate,-6.8,-4.7,-5.1,131.0,24.0,24.0,24.0
+2015-09-24 21:00:00,USD,Medium,New Home Sales,552K,516K,522K,131.0,55.0,28.0,-22.0
+2015-09-24 21:30:00,USD,Low,Natural Gas Storage,106B,95B,73B,131.0,36.0,36.0,26.0
+2015-09-25 15:00:00,EUR,Medium,M3 Money Supply y/y,4.8%,5.4%,5.3%,-142.0,28.0,21.0,-10.0
+2015-09-25 15:00:00,EUR,Low,Private Loans y/y,1.0%,1.1%,0.9%,-142.0,28.0,21.0,-10.0
+2015-09-25 19:30:00,USD,High,Final GDP q/q,3.9%,3.7%,3.7%,-142.0,49.0,35.0,34.0
+2015-09-25 19:30:00,USD,Low,Final GDP Price Index q/q,2.1%,2.1%,2.1%,-142.0,49.0,35.0,34.0
+2015-09-25 20:45:00,USD,Low,Flash Services PMI,55.6,55.5,56.1,-142.0,30.0,27.0,-23.0
+2015-09-25 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,87.2,87.2,85.7,-142.0,-27.0,24.0,24.0
+2015-09-28 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%,98.0,-25.0,-21.0,-21.0
+2015-09-28 19:30:00,USD,Medium,Personal Spending m/m,0.4%,0.3%,0.4%,98.0,-25.0,-21.0,-21.0
+2015-09-28 19:30:00,USD,Low,Personal Income m/m,0.3%,0.4%,0.5%,98.0,-25.0,-21.0,-21.0
+2015-09-28 21:00:00,USD,Medium,Pending Home Sales m/m,-1.4%,0.4%,0.5%,98.0,49.0,31.0,22.0
+2015-09-29 13:00:00,EUR,Low,German Import Prices m/m,-1.5%,-1.4%,-0.7%,-87.0,19.0,18.0,12.0
+2015-09-29 13:00:00,EUR,Medium,German Prelim CPI m/m,-0.2%,-0.1%,0.0%,-87.0,19.0,18.0,12.0
+2015-09-29 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.9%,-0.6%,-0.4%,-87.0,-38.0,-34.0,19.0
+2015-09-29 19:30:00,USD,Medium,Goods Trade Balance,-67.2B,-57.3B,-59.1B,-87.0,19.0,18.0,15.0
+2015-09-29 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,5.1%,4.9%,-87.0,50.0,18.0,18.0
+2015-09-29 21:00:00,USD,High,CB Consumer Confidence,103.0,96.2,101.3,-87.0,-29.0,-29.0,24.0
+2015-09-30 13:00:00,EUR,Medium,German Retail Sales m/m,-0.4%,0.2%,1.6%,-109.0,-19.0,-12.0,-12.0
+2015-09-30 13:00:00,EUR,Low,French Consumer Spending m/m,0.3%,0.2%,0.4%,-109.0,-19.0,-12.0,-12.0
+2015-09-30 13:45:00,EUR,Low,French Consumer Spending m/m,0.0%,0.4%,0.3%,-109.0,-20.0,-20.0,-12.0
+2015-09-30 14:55:00,EUR,Medium,German Unemployment Change,2K,-5K,-6K,-109.0,-18.0,-10.0,10.0
+2015-09-30 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.9%,12.0%,12.0%,-109.0,-18.0,-10.0,-6.0
+2015-09-30 16:00:00,EUR,Medium,CPI Flash Estimate y/y,-0.1%,0.0%,0.1%,-109.0,-23.0,17.0,12.0
+2015-09-30 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.9%,0.9%,-109.0,-23.0,17.0,12.0
+2015-09-30 16:00:00,EUR,Medium,Unemployment Rate,11.0%,10.9%,11.0%,-109.0,-23.0,17.0,12.0
+2015-09-30 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.3%,-0.2%,0.2%,-109.0,-23.0,17.0,12.0
+2015-09-30 19:15:00,USD,High,ADP Non-Farm Employment Change,200K,192K,186K,-109.0,25.0,-22.0,-22.0
+2015-09-30 20:45:00,USD,Medium,Chicago PMI,48.7,53.2,54.4,-109.0,-31.0,-17.0,-17.0
+2015-09-30 21:30:00,USD,Medium,Crude Oil Inventories,4.0M,-0.5M,-1.9M,-109.0,-24.0,-23.0,11.0
+2015-10-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,51.7,53.0,53.2,74.0,-23.0,16.0,8.0
+2015-10-01 14:45:00,EUR,Low,Italian Manufacturing PMI,52.7,53.4,53.8,74.0,21.0,-13.0,-10.0
+2015-10-01 14:50:00,EUR,Low,French Final Manufacturing PMI,50.6,50.4,50.4,74.0,21.0,10.0,-9.0
+2015-10-01 14:55:00,EUR,Low,German Final Manufacturing PMI,52.3,52.6,52.5,74.0,21.0,15.0,9.0
+2015-10-01 15:00:00,EUR,Low,Final Manufacturing PMI,52.0,52.0,52.0,74.0,29.0,21.0,9.0
+2015-10-01 19:30:00,USD,High,Unemployment Claims,277K,273K,267K,74.0,19.0,15.0,11.0
+2015-10-01 20:45:00,USD,Low,Final Manufacturing PMI,53.1,53.0,53.0,74.0,23.0,23.0,13.0
+2015-10-01 21:00:00,USD,High,ISM Manufacturing PMI,50.2,50.8,51.1,74.0,-21.0,-21.0,-20.0
+2015-10-01 21:00:00,USD,Low,Construction Spending m/m,0.7%,0.6%,0.4%,74.0,-21.0,-21.0,-20.0
+2015-10-01 21:00:00,USD,Low,ISM Manufacturing Prices,38.0,40.0,39.0,74.0,-21.0,-21.0,-20.0
+2015-10-01 21:30:00,USD,Low,Natural Gas Storage,98B,101B,106B,74.0,24.0,21.0,12.0
+2015-10-01 21:30:00,USD,Low,Total Vehicle Sales,18.2M,17.5M,17.8M,74.0,24.0,21.0,12.0
+2015-10-02 14:00:00,EUR,Medium,Spanish Unemployment Change,26.1K,17.9K,21.7K,168.0,-13.0,-13.0,-11.0
+2015-10-02 16:00:00,EUR,Low,PPI m/m,-0.8%,-0.5%,-0.2%,168.0,-12.0,8.0,8.0
+2015-10-02 19:30:00,USD,High,Average Hourly Earnings m/m,0.0%,0.2%,0.4%,168.0,164.0,164.0,159.0
+2015-10-02 19:30:00,USD,High,Non-Farm Employment Change,142K,201K,136K,168.0,164.0,164.0,159.0
+2015-10-02 19:30:00,USD,High,Unemployment Rate,5.1%,5.1%,5.1%,168.0,164.0,164.0,159.0
+2015-10-02 21:00:00,USD,Medium,Factory Orders m/m,-1.7%,-0.9%,0.2%,168.0,-50.0,-31.0,30.0
+2015-10-05 14:15:00,EUR,Low,Spanish Services PMI,55.1,59.7,59.6,-116.0,27.0,-22.0,22.0
+2015-10-05 14:45:00,EUR,Low,Italian Services PMI,53.3,54.8,54.6,-116.0,22.0,21.0,-13.0
+2015-10-05 14:50:00,EUR,Low,French Final Services PMI,51.9,51.2,51.2,-116.0,22.0,21.0,10.0
+2015-10-05 14:55:00,EUR,Low,German Final Services PMI,54.1,54.4,54.3,-116.0,22.0,22.0,11.0
+2015-10-05 15:00:00,EUR,Low,Final Services PMI,53.7,54.0,54.0,-116.0,20.0,20.0,20.0
+2015-10-05 15:30:00,EUR,Low,Sentix Investor Confidence,11.7,12.2,13.6,-116.0,30.0,15.0,-15.0
+2015-10-05 16:00:00,EUR,Low,Retail Sales m/m,0.0%,-0.1%,0.6%,-116.0,31.0,18.0,16.0
+2015-10-05 20:45:00,USD,Low,Final Services PMI,55.1,55.7,55.6,-116.0,-20.0,19.0,10.0
+2015-10-05 21:00:00,USD,High,ISM Services PMI,56.9,58.0,59.0,-116.0,20.0,-20.0,17.0
+2015-10-06 13:00:00,EUR,Medium,German Factory Orders m/m,-1.8%,0.5%,-2.2%,103.0,22.0,14.0,-11.0
+2015-10-06 19:30:00,USD,High,Trade Balance,-48.3B,-47.6B,-41.8B,103.0,-25.0,-25.0,-10.0
+2015-10-06 21:00:00,USD,Low,IBD/TIPP Economic Optimism,47.3,44.6,42.0,103.0,49.0,26.0,19.0
+2015-10-07 13:00:00,EUR,Low,German Industrial Production m/m,-1.2%,0.3%,1.2%,-73.0,-14.0,10.0,10.0
+2015-10-07 13:45:00,EUR,Low,French Trade Balance,-3.0B,-3.6B,-3.2B,-73.0,-39.0,-33.0,-11.0
+2015-10-07 21:30:00,USD,Medium,Crude Oil Inventories,3.1M,2.2M,4.0M,-73.0,49.0,29.0,25.0
+2015-10-08 02:00:00,USD,Low,Consumer Credit m/m,16.0B,18.8B,18.9B,81.0,-14.0,-11.0,-11.0
+2015-10-08 13:00:00,EUR,Low,German Trade Balance,19.6B,20.2B,22.4B,81.0,19.0,-12.0,-12.0
+2015-10-08 19:30:00,USD,High,Unemployment Claims,263K,274K,276K,81.0,27.0,22.0,-15.0
+2015-10-08 21:30:00,USD,Low,Natural Gas Storage,95B,101B,98B,81.0,32.0,20.0,12.0
+2015-10-09 13:45:00,EUR,Low,French Industrial Production m/m,1.6%,0.6%,-1.1%,125.0,54.0,38.0,9.0
+2015-10-09 15:00:00,EUR,Low,Italian Industrial Production m/m,-0.5%,-0.3%,1.1%,125.0,-26.0,-20.0,-18.0
+2015-10-09 19:30:00,USD,Medium,Import Prices m/m,-0.1%,-0.5%,-1.6%,125.0,-30.0,-19.0,-19.0
+2015-10-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.1%,0.1%,-0.3%,125.0,23.0,-21.0,-12.0
+2015-10-13 13:00:00,EUR,Low,German Final CPI m/m,-0.2%,-0.2%,-0.2%,67.0,-25.0,-23.0,-17.0
+2015-10-13 13:00:00,EUR,Low,German WPI m/m,-0.6%,-0.3%,-0.8%,67.0,-25.0,-23.0,-17.0
+2015-10-13 16:00:00,EUR,High,German ZEW Economic Sentiment,1.9,6.8,12.1,67.0,26.0,18.0,18.0
+2015-10-13 16:00:00,EUR,Medium,ZEW Economic Sentiment,30.1,30.1,33.3,67.0,26.0,18.0,18.0
+2015-10-13 17:00:00,USD,Low,NFIB Small Business Index,96.1,95.6,95.9,67.0,-25.0,-9.0,-9.0
+2015-10-14 13:45:00,EUR,Low,French Final CPI m/m,-0.4%,-0.4%,0.3%,70.0,30.0,21.0,-7.0
+2015-10-14 16:00:00,EUR,Low,Industrial Production m/m,-0.5%,-0.4%,0.8%,70.0,11.0,11.0,11.0
+2015-10-14 19:30:00,USD,High,Core Retail Sales m/m,-0.3%,-0.1%,-0.1%,70.0,38.0,36.0,34.0
+2015-10-14 19:30:00,USD,High,PPI m/m,-0.5%,-0.2%,0.0%,70.0,38.0,36.0,34.0
+2015-10-14 19:30:00,USD,High,Retail Sales m/m,0.1%,0.2%,0.0%,70.0,38.0,36.0,34.0
+2015-10-14 19:30:00,USD,Medium,Core PPI m/m,-0.3%,0.1%,0.3%,70.0,38.0,36.0,34.0
+2015-10-14 21:00:00,USD,Low,Business Inventories m/m,0.0%,0.1%,0.0%,70.0,30.0,27.0,15.0
+2015-10-15 19:30:00,USD,High,CPI m/m,-0.2%,-0.2%,-0.1%,-132.0,-77.0,-75.0,-75.0
+2015-10-15 19:30:00,USD,High,Core CPI m/m,0.2%,0.1%,0.1%,-132.0,-77.0,-75.0,-75.0
+2015-10-15 19:30:00,USD,High,Unemployment Claims,255K,269K,262K,-132.0,-77.0,-75.0,-75.0
+2015-10-15 19:30:00,USD,Medium,Empire State Manufacturing Index,-11.4,-7.3,-14.7,-132.0,-77.0,-75.0,-75.0
+2015-10-15 21:00:00,USD,High,Philly Fed Manufacturing Index,-4.5,-1.8,-6.0,-132.0,26.0,-15.0,-15.0
+2015-10-15 21:30:00,USD,Low,Natural Gas Storage,100B,92B,95B,-132.0,39.0,-24.0,-22.0
+2015-10-15 22:00:00,USD,Medium,Crude Oil Inventories,7.6M,2.2M,3.1M,-132.0,36.0,29.0,19.0
+2015-10-16 02:26:00,USD,Low,Federal Budget Balance,91.1B,93.8B,-64.4B,-67.0,11.0,-5.0,-4.0
+2015-10-16 15:00:00,EUR,Low,Italian Trade Balance,1.85B,4.23B,8.07B,-67.0,-25.0,-25.0,-16.0
+2015-10-16 16:00:00,EUR,Medium,Final CPI y/y,-0.1%,-0.1%,-0.1%,-67.0,-33.0,-17.0,-12.0
+2015-10-16 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,-67.0,-33.0,-17.0,-12.0
+2015-10-16 16:00:00,EUR,Low,Trade Balance,19.8B,22.2B,22.4B,-67.0,-33.0,-17.0,-12.0
+2015-10-16 20:15:00,USD,Medium,Capacity Utilization Rate,77.5%,77.4%,77.8%,-67.0,36.0,36.0,18.0
+2015-10-16 20:15:00,USD,Medium,Industrial Production m/m,-0.2%,-0.2%,-0.1%,-67.0,36.0,36.0,18.0
+2015-10-16 21:00:00,USD,High,Prelim UoM Consumer Sentiment,92.1,88.8,87.2,-67.0,-16.0,-16.0,-16.0
+2015-10-16 21:00:00,USD,Medium,JOLTS Job Openings,5.37M,5.77M,5.67M,-67.0,-16.0,-16.0,-16.0
+2015-10-17 03:00:00,USD,Low,TIC Long-Term Purchases,20.4B,24.3B,7.7B,-44.0,-11.0,-10.0,-10.0
+2015-10-19 21:00:00,USD,Low,NAHB Housing Market Index,64,62,61,-73.0,-23.0,-15.0,-14.0
+2015-10-20 13:00:00,EUR,Low,German PPI m/m,-0.4%,-0.1%,-0.5%,68.0,-9.0,9.0,-5.0
+2015-10-20 15:00:00,EUR,Low,Current Account,17.7B,20.1B,25.6B,68.0,22.0,22.0,17.0
+2015-10-20 19:30:00,USD,High,Building Permits,1.10M,1.16M,1.16M,68.0,-15.0,-15.0,-15.0
+2015-10-20 19:30:00,USD,Medium,Housing Starts,1.21M,1.14M,1.13M,68.0,-15.0,-15.0,-15.0
+2015-10-21 21:30:00,USD,Medium,Crude Oil Inventories,8.0M,3.5M,7.6M,-44.0,27.0,19.0,-9.0
+2015-10-22 14:00:00,EUR,Medium,Spanish Unemployment Rate,21.2%,21.9%,22.4%,-236.0,-37.0,-35.0,9.0
+2015-10-22 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,-236.0,-106.0,-15.0,9.0
+2015-10-22 19:30:00,USD,High,Unemployment Claims,259K,266K,256K,-236.0,-97.0,-88.0,-46.0
+2015-10-22 20:00:00,USD,Low,HPI m/m,0.3%,0.4%,0.5%,-236.0,-57.0,-44.0,25.0
+2015-10-22 21:00:00,EUR,Low,Consumer Confidence,-8,-7,-7,-236.0,30.0,29.0,17.0
+2015-10-22 21:00:00,USD,Medium,Existing Home Sales,5.55M,5.38M,5.30M,-236.0,30.0,29.0,17.0
+2015-10-22 21:00:00,USD,Low,CB Leading Index m/m,-0.2%,0.0%,0.0%,-236.0,30.0,29.0,17.0
+2015-10-22 21:30:00,USD,Low,Natural Gas Storage,81B,89B,100B,-236.0,-34.0,-26.0,-13.0
+2015-10-23 14:00:00,EUR,High,French Flash Manufacturing PMI,50.7,50.2,50.6,-133.0,-37.0,-37.0,23.0
+2015-10-23 14:00:00,EUR,Medium,French Flash Services PMI,52.3,51.9,51.9,-133.0,-37.0,-37.0,23.0
+2015-10-23 14:30:00,EUR,High,German Flash Manufacturing PMI,51.6,51.8,52.3,-133.0,36.0,17.0,17.0
+2015-10-23 14:30:00,EUR,Medium,German Flash Services PMI,55.2,54.0,54.1,-133.0,36.0,17.0,17.0
+2015-10-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.0,51.8,52.0,-133.0,34.0,31.0,16.0
+2015-10-23 15:00:00,EUR,Medium,Flash Services PMI,54.2,53.6,53.7,-133.0,34.0,31.0,16.0
+2015-10-23 16:00:00,EUR,Low,Italian Retail Sales m/m,0.3%,0.3%,0.3%,-133.0,-33.0,11.0,11.0
+2015-10-23 20:00:00,EUR,Low,Belgian NBB Business Climate,-4.0,-6.6,-6.8,-133.0,-39.0,18.0,17.0
+2015-10-23 20:45:00,USD,Low,Flash Manufacturing PMI,54.0,52.8,53.1,-133.0,-35.0,-35.0,-34.0
+2015-10-26 16:00:00,EUR,High,German ifo Business Climate,108.2,108.1,108.5,57.0,-23.0,-23.0,-23.0
+2015-10-26 21:00:00,USD,Medium,New Home Sales,468K,546K,529K,57.0,23.0,23.0,-20.0
+2015-10-27 16:00:00,EUR,Medium,M3 Money Supply y/y,4.9%,5.0%,4.9%,-48.0,16.0,-8.0,-6.0
+2015-10-27 16:00:00,EUR,Low,Private Loans y/y,1.1%,1.1%,1.0%,-48.0,16.0,-8.0,-6.0
+2015-10-27 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.4%,0.0%,-0.2%,-48.0,-34.0,-29.0,-20.0
+2015-10-27 19:30:00,USD,Medium,Durable Goods Orders m/m,-1.2%,-1.1%,-2.3%,-48.0,-34.0,-29.0,-20.0
+2015-10-27 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.1%,5.1%,4.9%,-48.0,-30.0,23.0,23.0
+2015-10-27 20:45:00,USD,Low,Flash Services PMI,54.4,55.3,55.1,-48.0,-22.0,-18.0,-14.0
+2015-10-27 20:59:00,USD,Low,Richmond Manufacturing Index,-1,-3,-5,-48.0,-22.0,-22.0,-18.0
+2015-10-27 21:00:00,USD,High,CB Consumer Confidence,97.6,102.5,102.6,-48.0,-22.0,-22.0,-18.0
+2015-10-28 14:00:00,EUR,Low,German GfK Consumer Climate,9.4,9.5,9.6,70.0,23.0,12.0,12.0
+2015-10-28 14:00:00,EUR,Low,German Import Prices m/m,-0.7%,-0.2%,-1.5%,70.0,23.0,12.0,12.0
+2015-10-28 19:30:00,USD,Medium,Goods Trade Balance,-58.6B,-64.9B,-67.2B,70.0,24.0,24.0,20.0
+2015-10-28 21:30:00,USD,Medium,Crude Oil Inventories,3.4M,3.7M,8.0M,70.0,20.0,20.0,9.0
+2015-10-29 01:00:00,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%,-187.0,-176.0,-147.0,-143.0
+2015-10-29 13:58:00,EUR,Medium,German Prelim CPI m/m,0.0%,-0.1%,-0.2%,-187.0,-22.0,17.0,-12.0
+2015-10-29 15:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.7%,-0.6%,-0.9%,-187.0,29.0,18.0,-13.0
+2015-10-29 15:55:00,EUR,Medium,German Unemployment Change,-5K,-4K,2K,-187.0,34.0,34.0,20.0
+2015-10-29 19:30:00,USD,High,Advance GDP q/q,1.5%,1.6%,3.9%,-187.0,-50.0,-39.0,-31.0
+2015-10-29 19:30:00,USD,High,Unemployment Claims,260K,264K,259K,-187.0,-50.0,-39.0,-31.0
+2015-10-29 19:30:00,USD,Medium,Advance GDP Price Index q/q,1.2%,1.5%,2.1%,-187.0,-50.0,-39.0,-31.0
+2015-10-29 21:00:00,USD,Medium,Pending Home Sales m/m,-2.3%,1.1%,-1.4%,-187.0,28.0,27.0,-21.0
+2015-10-29 21:30:00,USD,Low,Natural Gas Storage,63B,70B,81B,-187.0,-16.0,-14.0,-13.0
+2015-10-30 14:00:00,EUR,Medium,German Retail Sales m/m,0.0%,0.4%,-0.7%,121.0,22.0,12.0,-11.0
+2015-10-30 14:45:00,EUR,Low,French Consumer Spending m/m,0.0%,0.2%,0.1%,121.0,22.0,-19.0,-17.0
+2015-10-30 15:00:00,EUR,Medium,Spanish Flash GDP q/q,0.8%,0.9%,1.0%,121.0,26.0,18.0,18.0
+2015-10-30 16:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.8%,11.9%,11.9%,121.0,-21.0,17.0,17.0
+2015-10-30 17:00:00,EUR,Medium,CPI Flash Estimate y/y,0.0%,0.0%,-0.1%,121.0,22.0,18.0,-13.0
+2015-10-30 17:00:00,EUR,Medium,Core CPI Flash Estimate y/y,1.0%,0.9%,0.9%,121.0,22.0,18.0,-13.0
+2015-10-30 17:00:00,EUR,Medium,Unemployment Rate,10.8%,11.0%,10.9%,121.0,22.0,18.0,-13.0
+2015-10-30 17:00:00,EUR,Low,Italian Prelim CPI m/m,0.2%,0.1%,-0.4%,121.0,22.0,18.0,-13.0
+2015-10-30 19:30:00,USD,High,Employment Cost Index q/q,0.6%,0.6%,0.2%,121.0,-37.0,-30.0,-29.0
+2015-10-30 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.2%,0.1%,121.0,-37.0,-30.0,-29.0
+2015-10-30 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.2%,0.4%,121.0,-37.0,-30.0,-29.0
+2015-10-30 19:30:00,USD,Low,Personal Income m/m,0.1%,0.2%,0.4%,121.0,-37.0,-30.0,-29.0
+2015-10-30 20:45:00,USD,Medium,Chicago PMI,56.2,49.5,48.7,121.0,50.0,45.0,25.0
+2015-10-30 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,90.0,92.6,92.1,121.0,32.0,32.0,27.0
+2015-11-02 14:15:00,EUR,Medium,Spanish Manufacturing PMI,51.3,51.9,51.7,52.0,21.0,11.0,8.0
+2015-11-02 14:45:00,EUR,Low,Italian Manufacturing PMI,54.1,52.9,52.7,52.0,-32.0,-18.0,11.0
+2015-11-02 14:50:00,EUR,Low,French Final Manufacturing PMI,50.6,50.7,50.7,52.0,-32.0,-24.0,-8.0
+2015-11-02 14:55:00,EUR,Low,German Final Manufacturing PMI,52.1,51.6,51.6,52.0,-30.0,-30.0,-15.0
+2015-11-02 15:00:00,EUR,Low,Final Manufacturing PMI,52.3,52.0,52.0,52.0,-34.0,-29.0,-14.0
+2015-11-02 20:45:00,USD,Low,Final Manufacturing PMI,54.1,54.0,54.0,52.0,16.0,16.0,16.0
+2015-11-02 21:00:00,USD,High,ISM Manufacturing PMI,50.1,50.0,50.2,52.0,-19.0,-13.0,-10.0
+2015-11-02 21:00:00,USD,Low,Construction Spending m/m,0.6%,0.5%,0.7%,52.0,-19.0,-13.0,-10.0
+2015-11-02 21:00:00,USD,Low,ISM Manufacturing Prices,39.0,39.5,38.0,52.0,-19.0,-13.0,-10.0
+2015-11-03 14:00:00,EUR,Medium,Spanish Unemployment Change,82.3K,70.3K,26.1K,-95.0,-10.0,6.0,6.0
+2015-11-03 21:00:00,USD,Medium,Factory Orders m/m,-1.0%,-0.8%,-2.1%,-95.0,-32.0,12.0,-9.0
+2015-11-03 21:00:00,USD,Low,IBD/TIPP Economic Optimism,45.5,47.5,47.3,-95.0,-32.0,12.0,-9.0
+2015-11-03 21:00:00,USD,Low,Total Vehicle Sales,18.2M,17.8M,18.2M,-95.0,-32.0,12.0,-9.0
+2015-11-04 14:15:00,EUR,Low,Spanish Services PMI,55.9,55.5,55.1,-125.0,-17.0,9.0,-7.0
+2015-11-04 14:45:00,EUR,Low,Italian Services PMI,53.4,53.7,53.3,-125.0,-19.0,-17.0,9.0
+2015-11-04 14:50:00,EUR,Low,French Final Services PMI,52.7,52.3,52.3,-125.0,-23.0,-17.0,-8.0
+2015-11-04 14:55:00,EUR,Low,German Final Services PMI,54.5,55.2,55.2,-125.0,-24.0,-19.0,-10.0
+2015-11-04 15:00:00,EUR,Low,Final Services PMI,54.1,54.2,54.2,-125.0,-23.0,-17.0,-15.0
+2015-11-04 16:00:00,EUR,Low,PPI m/m,-0.3%,-0.4%,-0.8%,-125.0,-14.0,-14.0,-14.0
+2015-11-04 19:15:00,USD,High,ADP Non-Farm Employment Change,182K,183K,190K,-125.0,8.0,8.0,-7.0
+2015-11-04 19:30:00,USD,High,Trade Balance,-40.8B,-42.7B,-48.0B,-125.0,-26.0,-7.0,-7.0
+2015-11-04 20:45:00,USD,Low,Final Services PMI,54.8,54.6,54.4,-125.0,-40.0,-8.0,-7.0
+2015-11-04 21:00:00,USD,High,ISM Services PMI,59.1,56.6,56.9,-125.0,-40.0,-34.0,-8.0
+2015-11-04 21:30:00,USD,Medium,Crude Oil Inventories,2.8M,2.5M,3.4M,-125.0,-38.0,28.0,18.0
+2015-11-05 13:00:00,EUR,Medium,German Factory Orders m/m,-1.7%,1.1%,-1.8%,64.0,-16.0,-11.0,2.0
+2015-11-05 16:00:00,EUR,Low,Retail Sales m/m,-0.1%,0.2%,0.0%,64.0,-30.0,-25.0,-18.0
+2015-11-05 19:30:00,USD,High,Unemployment Claims,276K,263K,260K,64.0,20.0,11.0,-8.0
+2015-11-05 19:30:00,USD,Medium,Prelim Nonfarm Productivity q/q,1.6%,0.1%,3.3%,64.0,20.0,11.0,-8.0
+2015-11-05 19:30:00,USD,Medium,Prelim Unit Labor Costs q/q,1.4%,2.2%,-1.4%,64.0,20.0,11.0,-8.0
+2015-11-05 21:30:00,USD,Low,Natural Gas Storage,52B,60B,63B,64.0,-34.0,-24.0,10.0
+2015-11-06 13:00:00,EUR,Low,German Industrial Production m/m,-1.1%,0.6%,-0.6%,-188.0,-19.0,-13.0,-5.0
+2015-11-06 13:45:00,EUR,Low,French Trade Balance,-3.4B,-3.1B,-3.0B,-188.0,15.0,11.0,-8.0
+2015-11-06 19:30:00,USD,High,Average Hourly Earnings m/m,0.4%,0.2%,0.0%,-188.0,-49.0,-12.0,-6.0
+2015-11-06 19:30:00,USD,High,Non-Farm Employment Change,271K,181K,137K,-188.0,-49.0,-12.0,-6.0
+2015-11-06 19:30:00,USD,High,Unemployment Rate,5.0%,5.0%,5.1%,-188.0,-49.0,-12.0,-6.0
+2015-11-07 02:00:00,USD,Low,Consumer Credit m/m,28.9B,17.6B,16.0B,27.0,14.0,-12.0,-12.0
+2015-11-09 13:00:00,EUR,Low,German Trade Balance,19.4B,20.3B,19.6B,70.0,-7.0,7.0,7.0
+2015-11-09 15:30:00,EUR,Low,Sentix Investor Confidence,15.1,12.4,11.7,70.0,-19.0,-14.0,12.0
+2015-11-10 13:45:00,EUR,Low,French Industrial Production m/m,0.1%,0.1%,1.7%,-95.0,19.0,-7.0,-5.0
+2015-11-10 15:00:00,EUR,Low,Italian Industrial Production m/m,0.2%,0.5%,-0.5%,-95.0,-22.0,-17.0,-17.0
+2015-11-10 16:58:00,USD,Low,NFIB Small Business Index,96.1,96.4,96.1,-95.0,14.0,14.0,10.0
+2015-11-10 19:30:00,USD,Medium,Import Prices m/m,-0.5%,-0.1%,-0.6%,-95.0,-49.0,-40.0,10.0
+2015-11-10 21:00:00,USD,Low,Final Wholesale Inventories m/m,0.5%,0.0%,0.3%,-95.0,-27.0,-17.0,-9.0
+2015-11-11 13:00:00,EUR,Low,German WPI m/m,-0.4%,0.2%,-0.6%,92.0,-18.0,-16.0,-9.0
+2015-11-12 13:00:00,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%,118.0,8.0,7.0,-6.0
+2015-11-12 13:45:00,EUR,Low,French Final CPI m/m,0.1%,0.1%,-0.4%,118.0,-16.0,-15.0,-6.0
+2015-11-12 16:00:00,EUR,Low,Industrial Production m/m,-0.3%,-0.1%,-0.4%,118.0,28.0,28.0,17.0
+2015-11-12 19:30:00,USD,High,Unemployment Claims,276K,270K,276K,118.0,22.0,14.0,-10.0
+2015-11-12 21:00:00,USD,Medium,JOLTS Job Openings,5.53M,5.39M,5.38M,118.0,73.0,17.0,8.0
+2015-11-12 22:00:00,USD,Medium,Crude Oil Inventories,4.2M,0.8M,2.8M,118.0,-59.0,-54.0,-46.0
+2015-11-13 00:57:00,USD,Low,Federal Budget Balance,-136.5B,-130.2B,91.1B,-112.0,-14.0,-14.0,-10.0
+2015-11-13 12:30:00,EUR,Low,French Prelim GDP q/q,0.3%,0.3%,0.0%,-112.0,-19.0,-7.0,-4.0
+2015-11-13 13:00:00,EUR,High,German Prelim GDP q/q,0.3%,0.3%,0.4%,-112.0,15.0,-13.0,-9.0
+2015-11-13 13:45:00,EUR,Low,French Prelim Private Payrolls q/q,0.1%,0.1%,0.2%,-112.0,-15.0,8.0,7.0
+2015-11-13 15:00:00,EUR,Low,Italian Prelim GDP q/q,0.2%,0.3%,0.3%,-112.0,-25.0,-15.0,-11.0
+2015-11-13 16:00:00,EUR,Medium,Flash GDP q/q,0.3%,0.4%,0.4%,-112.0,-14.0,-14.0,11.0
+2015-11-13 16:00:00,EUR,Low,Trade Balance,20.1B,19.4B,19.0B,-112.0,-14.0,-14.0,11.0
+2015-11-13 19:30:00,USD,High,Core Retail Sales m/m,0.2%,0.4%,-0.4%,-112.0,-27.0,-11.0,-9.0
+2015-11-13 19:30:00,USD,High,PPI m/m,-0.4%,0.2%,-0.5%,-112.0,-27.0,-11.0,-9.0
+2015-11-13 19:30:00,USD,High,Retail Sales m/m,0.1%,0.3%,0.0%,-112.0,-27.0,-11.0,-9.0
+2015-11-13 19:30:00,USD,Medium,Core PPI m/m,-0.3%,0.1%,-0.3%,-112.0,-27.0,-11.0,-9.0
+2015-11-13 21:00:00,USD,High,Prelim UoM Consumer Sentiment,93.1,91.3,90.0,-112.0,21.0,-20.0,-20.0
+2015-11-13 21:00:00,USD,Low,Business Inventories m/m,0.3%,0.1%,0.1%,-112.0,21.0,-20.0,-20.0
+2015-11-13 21:30:00,USD,Low,Natural Gas Storage,49B,51B,52B,-112.0,37.0,-16.0,-16.0
+2015-11-16 16:00:00,EUR,Medium,Final CPI y/y,0.1%,0.0%,0.0%,71.0,-24.0,-21.0,-18.0
+2015-11-16 16:00:00,EUR,Low,Final Core CPI y/y,1.1%,1.0%,1.0%,71.0,-24.0,-21.0,-18.0
+2015-11-16 19:30:00,USD,Medium,Empire State Manufacturing Index,-10.7,-5.3,-11.4,71.0,-14.0,13.0,9.0
+2015-11-17 15:00:00,EUR,Low,Italian Trade Balance,2.19B,2.24B,1.85B,-77.0,-13.0,-13.0,-13.0
+2015-11-17 16:00:00,EUR,High,German ZEW Economic Sentiment,10.4,6.7,1.9,-77.0,31.0,16.0,12.0
+2015-11-17 16:00:00,EUR,Medium,ZEW Economic Sentiment,28.3,35.2,30.1,-77.0,31.0,16.0,12.0
+2015-11-17 19:30:00,USD,High,CPI m/m,0.2%,0.2%,-0.2%,-77.0,13.0,6.0,5.0
+2015-11-17 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.2%,-77.0,13.0,6.0,5.0
+2015-11-17 20:15:00,USD,Medium,Capacity Utilization Rate,77.5%,77.5%,77.7%,-77.0,-23.0,-20.0,-5.0
+2015-11-17 20:15:00,USD,Medium,Industrial Production m/m,-0.2%,0.1%,-0.2%,-77.0,-23.0,-20.0,-5.0
+2015-11-17 21:00:00,USD,Low,NAHB Housing Market Index,62,64,65,-77.0,22.0,15.0,10.0
+2015-11-18 03:00:00,USD,Low,TIC Long-Term Purchases,33.6B,23.3B,20.8B,-69.0,-13.0,-7.0,6.0
+2015-11-18 19:30:00,USD,High,Building Permits,1.15M,1.15M,1.11M,-69.0,-11.0,-11.0,10.0
+2015-11-18 19:30:00,USD,Medium,Housing Starts,1.06M,1.16M,1.19M,-69.0,-11.0,-11.0,10.0
+2015-11-18 21:30:00,USD,Medium,Crude Oil Inventories,0.3M,2.0M,4.2M,-69.0,-18.0,12.0,12.0
+2015-11-19 15:00:00,EUR,Low,Current Account,29.4B,18.3B,18.7B,146.0,22.0,-13.0,-11.0
+2015-11-19 19:30:00,USD,High,Philly Fed Manufacturing Index,1.9,0.1,-4.5,146.0,-39.0,-20.0,-19.0
+2015-11-19 19:30:00,USD,High,Unemployment Claims,271K,272K,276K,146.0,-39.0,-20.0,-19.0
+2015-11-19 21:00:00,USD,Low,CB Leading Index m/m,0.6%,0.5%,-0.1%,146.0,49.0,49.0,25.0
+2015-11-19 21:30:00,USD,Low,Natural Gas Storage,15B,23B,49B,146.0,-25.0,-25.0,-14.0
+2015-11-20 13:00:00,EUR,Low,German PPI m/m,-0.4%,-0.2%,-0.4%,-104.0,-12.0,-9.0,7.0
+2015-11-20 21:00:00,EUR,Low,Consumer Confidence,-6,-7,-8,-104.0,-26.0,16.0,10.0
+2015-11-23 14:00:00,EUR,High,French Flash Manufacturing PMI,50.8,50.7,50.6,-65.0,19.0,-18.0,-18.0
+2015-11-23 14:00:00,EUR,Medium,French Flash Services PMI,51.3,52.1,52.7,-65.0,19.0,-18.0,-18.0
+2015-11-23 14:30:00,EUR,High,German Flash Manufacturing PMI,52.6,52.2,52.1,-65.0,20.0,10.0,-8.0
+2015-11-23 14:30:00,EUR,Medium,German Flash Services PMI,55.6,54.3,54.5,-65.0,20.0,10.0,-8.0
+2015-11-23 15:00:00,EUR,Medium,Flash Manufacturing PMI,52.8,52.3,52.3,-65.0,22.0,15.0,15.0
+2015-11-23 15:00:00,EUR,Medium,Flash Services PMI,54.6,54.2,54.1,-65.0,22.0,15.0,15.0
+2015-11-23 20:45:00,USD,Low,Flash Manufacturing PMI,52.6,54.0,54.1,-65.0,24.0,24.0,21.0
+2015-11-23 21:00:00,USD,Medium,Existing Home Sales,5.36M,5.39M,5.55M,-65.0,26.0,-16.0,-13.0
+2015-11-24 13:00:00,EUR,Low,German Final GDP q/q,0.3%,0.3%,0.3%,72.0,-11.0,-11.0,-7.0
+2015-11-24 15:00:00,EUR,High,German ifo Business Climate,109.0,108.3,108.2,72.0,27.0,13.0,12.0
+2015-11-24 19:30:00,USD,High,Prelim GDP q/q,2.1%,2.0%,1.5%,72.0,30.0,17.0,-9.0
+2015-11-24 19:30:00,USD,Medium,Goods Trade Balance,-58.4B,-61.8B,-59.1B,72.0,30.0,17.0,-9.0
+2015-11-24 19:30:00,USD,Low,Prelim GDP Price Index q/q,1.3%,1.2%,1.2%,72.0,30.0,17.0,-9.0
+2015-11-24 20:00:00,EUR,Low,Belgian NBB Business Climate,-3.9,-3.2,-4.0,72.0,21.0,21.0,12.0
+2015-11-24 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.5%,5.2%,5.1%,72.0,21.0,21.0,12.0
+2015-11-24 20:59:00,USD,Low,Richmond Manufacturing Index,-3,0,-1,72.0,-37.0,-25.0,13.0
+2015-11-24 21:00:00,USD,High,CB Consumer Confidence,90.4,99.3,99.1,72.0,-37.0,-26.0,13.0
+2015-11-25 16:00:00,EUR,Low,Italian Retail Sales m/m,-0.1%,0.5%,0.2%,-123.0,-58.0,-38.0,-22.0
+2015-11-25 19:30:00,USD,High,Core Durable Goods Orders m/m,0.5%,0.5%,-0.3%,-123.0,-21.0,-14.0,-14.0
+2015-11-25 19:30:00,USD,High,Unemployment Claims,260K,273K,272K,-123.0,-21.0,-14.0,-14.0
+2015-11-25 19:30:00,USD,Medium,Core PCE Price Index m/m,0.0%,0.1%,0.2%,-123.0,-21.0,-14.0,-14.0
+2015-11-25 19:30:00,USD,Medium,Durable Goods Orders m/m,3.0%,1.6%,-0.8%,-123.0,-21.0,-14.0,-14.0
+2015-11-25 19:30:00,USD,Medium,Personal Spending m/m,0.1%,0.3%,0.1%,-123.0,-21.0,-14.0,-14.0
+2015-11-25 19:30:00,USD,Low,Personal Income m/m,0.4%,0.4%,0.2%,-123.0,-21.0,-14.0,-14.0
+2015-11-25 20:00:00,USD,Low,HPI m/m,0.8%,0.5%,0.3%,-123.0,-25.0,-21.0,-17.0
+2015-11-25 20:45:00,USD,Low,Flash Services PMI,56.5,55.2,54.8,-123.0,18.0,18.0,14.0
+2015-11-25 21:00:00,USD,Medium,New Home Sales,495K,500K,447K,-123.0,-19.0,-10.0,-10.0
+2015-11-25 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,91.3,93.2,93.1,-123.0,-19.0,-10.0,-10.0
+2015-11-25 21:30:00,USD,Medium,Crude Oil Inventories,1.0M,1.2M,0.3M,-123.0,27.0,-13.0,-12.0
+2015-11-26 11:00:00,USD,Low,Natural Gas Storage,9B,5B,15B,-41.0,-6.0,-3.0,-3.0
+2015-11-26 15:00:00,EUR,Medium,M3 Money Supply y/y,5.3%,4.9%,4.9%,-41.0,14.0,6.0,5.0
+2015-11-26 15:00:00,EUR,Low,Private Loans y/y,1.2%,1.2%,1.1%,-41.0,14.0,6.0,5.0
+2015-11-27 13:00:00,EUR,Low,German Import Prices m/m,-0.3%,-0.1%,-0.7%,-69.0,27.0,10.0,6.0
+2015-11-27 13:45:00,EUR,Low,French Consumer Spending m/m,-0.7%,0.2%,0.1%,-69.0,18.0,18.0,18.0
+2015-11-27 14:00:00,EUR,Medium,Spanish Flash CPI y/y,-0.3%,-0.5%,-0.7%,-69.0,-10.0,-9.0,-7.0
+2015-11-27 18:00:00,EUR,Low,German GfK Consumer Climate,9.3,9.2,9.4,-69.0,-17.0,11.0,7.0
+2015-11-30 13:00:00,EUR,Medium,German Retail Sales m/m,-0.4%,0.3%,0.0%,-37.0,-8.0,-5.0,-5.0
+2015-11-30 13:00:00,EUR,Medium,German Prelim CPI m/m,0.1%,0.1%,0.0%,-37.0,-8.0,-5.0,-5.0
+2015-11-30 16:00:00,EUR,Low,Italian Prelim CPI m/m,-0.4%,-0.2%,0.2%,-37.0,21.0,-18.0,-17.0
+2015-11-30 20:45:00,USD,Medium,Chicago PMI,48.7,54.3,56.2,-37.0,11.0,11.0,-9.0
+2015-11-30 21:00:00,USD,Medium,Pending Home Sales m/m,0.2%,1.6%,-1.6%,-37.0,11.0,11.0,11.0
+2015-12-01 14:15:00,EUR,Medium,Spanish Manufacturing PMI,53.1,51.9,51.3,79.0,-16.0,12.0,7.0
+2015-12-01 14:45:00,EUR,Low,Italian Manufacturing PMI,54.9,54.3,54.1,79.0,17.0,-12.0,-8.0
+2015-12-01 14:50:00,EUR,Low,French Final Manufacturing PMI,50.6,50.8,50.8,79.0,27.0,-12.0,-12.0
+2015-12-01 14:55:00,EUR,Medium,German Unemployment Change,-13K,-4K,-6K,79.0,29.0,-10.0,-10.0
+2015-12-01 14:55:00,EUR,Low,German Final Manufacturing PMI,52.9,52.6,52.6,79.0,29.0,-10.0,-10.0
+2015-12-01 15:00:00,EUR,Low,Final Manufacturing PMI,52.8,52.8,52.8,79.0,32.0,12.0,-7.0
+2015-12-01 15:00:00,EUR,Low,Italian Monthly Unemployment Rate,11.5%,11.7%,11.6%,79.0,32.0,12.0,-7.0
+2015-12-01 16:00:00,EUR,Medium,Unemployment Rate,10.7%,10.8%,10.8%,79.0,-25.0,-17.0,11.0
+2015-12-01 20:45:00,USD,Low,Final Manufacturing PMI,52.8,52.6,52.6,79.0,24.0,19.0,7.0
+2015-12-01 21:00:00,USD,High,ISM Manufacturing PMI,48.6,50.6,50.1,79.0,23.0,23.0,18.0
+2015-12-01 21:00:00,USD,Low,Construction Spending m/m,1.0%,0.5%,0.6%,79.0,23.0,23.0,18.0
+2015-12-01 21:00:00,USD,Low,ISM Manufacturing Prices,35.5,40.0,39.0,79.0,23.0,23.0,18.0
+2015-12-01 21:00:00,USD,Low,Total Vehicle Sales,18.2M,18.0M,18.2M,79.0,23.0,23.0,18.0
+2015-12-02 14:00:00,EUR,Medium,Spanish Unemployment Change,-27.1K,-10.3K,82.3K,-77.0,19.0,10.0,7.0
+2015-12-02 16:00:00,EUR,Medium,CPI Flash Estimate y/y,0.1%,0.2%,0.1%,-77.0,20.0,14.0,-10.0
+2015-12-02 16:00:00,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,1.1%,1.1%,-77.0,20.0,14.0,-10.0
+2015-12-02 16:00:00,EUR,Low,PPI m/m,-0.3%,-0.4%,-0.4%,-77.0,20.0,14.0,-10.0
+2015-12-02 19:15:00,USD,High,ADP Non-Farm Employment Change,217K,191K,196K,-77.0,24.0,-7.0,-7.0
+2015-12-02 19:30:00,USD,Medium,Revised Nonfarm Productivity q/q,2.2%,2.2%,1.6%,-77.0,-33.0,8.0,6.0
+2015-12-02 19:30:00,USD,Low,Revised Unit Labor Costs q/q,1.8%,1.1%,1.4%,-77.0,-33.0,8.0,6.0
+2015-12-02 21:30:00,USD,Medium,Crude Oil Inventories,1.2M,-0.6M,1.0M,-77.0,-32.0,-23.0,8.0
+2015-12-03 14:15:00,EUR,Low,Spanish Services PMI,56.7,56.2,55.9,403.0,-17.0,6.0,6.0
+2015-12-03 14:45:00,EUR,Low,Italian Services PMI,53.4,53.9,53.4,403.0,-20.0,-17.0,-5.0
+2015-12-03 14:50:00,EUR,Low,French Final Services PMI,51.0,51.3,51.3,403.0,-19.0,-17.0,-14.0
+2015-12-03 14:55:00,EUR,Low,German Final Services PMI,55.6,55.6,55.6,403.0,-19.0,-17.0,-17.0
+2015-12-03 15:00:00,EUR,Low,Final Services PMI,54.2,54.6,54.6,403.0,-16.0,-13.0,-13.0
+2015-12-03 16:00:00,EUR,Low,Retail Sales m/m,-0.1%,0.2%,-0.1%,403.0,-24.0,-20.0,-9.0
+2015-12-03 18:45:00,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%,403.0,89.0,-17.0,-10.0
+2015-12-03 19:30:00,USD,High,Unemployment Claims,269K,269K,260K,403.0,199.0,132.0,87.0
+2015-12-03 20:45:00,USD,Low,Final Services PMI,56.1,56.5,56.5,403.0,-104.0,-101.0,-81.0
+2015-12-03 21:00:00,USD,High,ISM Services PMI,55.9,58.1,59.1,403.0,-41.0,-41.0,-38.0
+2015-12-03 21:00:00,USD,Medium,Factory Orders m/m,1.5%,1.2%,-0.8%,403.0,-41.0,-41.0,-38.0
+2015-12-03 21:30:00,USD,Low,Natural Gas Storage,-53B,-22B,9B,403.0,78.0,-34.0,25.0
+2015-12-04 13:00:00,EUR,Medium,German Factory Orders m/m,1.8%,1.3%,-0.7%,-125.0,-29.0,-18.0,-8.0
+2015-12-04 19:30:00,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.4%,-125.0,68.0,-13.0,-10.0
+2015-12-04 19:30:00,USD,High,Non-Farm Employment Change,211K,201K,298K,-125.0,68.0,-13.0,-10.0
+2015-12-04 19:30:00,USD,High,Unemployment Rate,5.0%,5.0%,5.0%,-125.0,68.0,-13.0,-10.0
+2015-12-04 19:30:00,USD,Medium,Trade Balance,-43.9B,-40.6B,-42.5B,-125.0,68.0,-13.0,-10.0
+2015-12-07 13:00:00,EUR,Low,German Industrial Production m/m,0.2%,0.8%,-1.1%,-91.0,9.0,8.0,7.0
+2015-12-07 15:30:00,EUR,Low,Sentix Investor Confidence,15.7,17.2,15.1,-91.0,-25.0,-21.0,-15.0
+2015-12-08 02:00:00,USD,Low,Consumer Credit m/m,16.0B,18.3B,28.6B,70.0,9.0,9.0,8.0
+2015-12-08 13:45:00,EUR,Low,French Trade Balance,-4.6B,-3.3B,-3.6B,70.0,15.0,15.0,-2.0
+2015-12-08 16:00:00,EUR,Low,Revised GDP q/q,0.3%,0.3%,0.3%,70.0,-19.0,-18.0,-12.0
+2015-12-08 17:00:00,USD,Low,NFIB Small Business Index,94.8,96.6,96.1,70.0,-21.0,-21.0,-11.0
+2015-12-08 21:00:00,USD,Low,IBD/TIPP Economic Optimism,47.2,45.2,45.5,70.0,-31.0,-12.0,-12.0
+2015-12-08 21:02:00,USD,Medium,JOLTS Job Openings,5.38M,5.59M,5.53M,70.0,-31.0,-14.0,-12.0
+2015-12-09 13:00:00,EUR,Low,German Trade Balance,20.8B,19.2B,19.2B,119.0,19.0,10.0,8.0
+2015-12-09 21:00:00,USD,Low,Final Wholesale Inventories m/m,-0.1%,0.2%,0.2%,119.0,-32.0,20.0,20.0
+2015-12-09 21:30:00,USD,Medium,Crude Oil Inventories,-3.6M,0.7M,1.2M,119.0,22.0,16.0,-12.0
+2015-12-10 12:30:00,EUR,Low,French Final Private Payrolls q/q,0.0%,0.1%,0.1%,-118.0,-10.0,-6.0,-3.0
+2015-12-10 13:45:00,EUR,Low,French Final CPI m/m,-0.2%,0.0%,0.1%,-118.0,-10.0,-8.0,-6.0
+2015-12-10 13:45:00,EUR,Low,French Industrial Production m/m,0.5%,-0.1%,0.0%,-118.0,-10.0,-8.0,-6.0
+2015-12-10 19:30:00,USD,High,Unemployment Claims,282K,266K,269K,-118.0,-20.0,-12.0,-12.0
+2015-12-10 19:30:00,USD,Medium,Import Prices m/m,-0.4%,-0.8%,-0.3%,-118.0,-20.0,-12.0,-12.0
+2015-12-10 21:30:00,USD,Low,Natural Gas Storage,-76B,-64B,-53B,-118.0,25.0,25.0,-18.0
+2015-12-11 01:00:00,USD,Low,Federal Budget Balance,-64.6B,-68.2B,-136.5B,104.0,-18.0,-12.0,11.0
+2015-12-11 13:00:00,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%,104.0,14.0,14.0,7.0
+2015-12-11 13:00:00,EUR,Low,German WPI m/m,-0.2%,0.2%,-0.4%,104.0,14.0,14.0,7.0
+2015-12-11 15:00:00,EUR,Low,Italian Industrial Production m/m,0.5%,0.3%,0.2%,104.0,17.0,10.0,7.0
+2015-12-11 16:30:00,EUR,Medium,Long Term Refinancing Operation,18.3B,7.5B,15.5B,104.0,-26.0,-26.0,-23.0
+2015-12-11 17:00:00,EUR,Low,Italian Quarterly Unemployment Rate,11.7%,11.9%,12.3%,104.0,31.0,20.0,11.0
+2015-12-11 19:30:00,USD,High,Core Retail Sales m/m,0.4%,0.3%,0.1%,104.0,-28.0,-17.0,-12.0
+2015-12-11 19:30:00,USD,High,PPI m/m,0.3%,0.0%,-0.4%,104.0,-28.0,-17.0,-12.0
+2015-12-11 19:30:00,USD,High,Retail Sales m/m,0.2%,0.2%,0.1%,104.0,-28.0,-17.0,-12.0
+2015-12-11 19:30:00,USD,Medium,Core PPI m/m,0.3%,0.2%,-0.3%,104.0,-28.0,-17.0,-12.0
+2015-12-11 21:00:00,USD,High,Prelim UoM Consumer Sentiment,91.8,92.3,91.3,104.0,79.0,45.0,23.0
+2015-12-11 21:00:00,USD,Low,Business Inventories m/m,0.0%,0.1%,0.1%,104.0,79.0,45.0,23.0
+2015-12-14 16:00:00,EUR,Low,Industrial Production m/m,0.6%,0.3%,-0.3%,103.0,11.0,11.0,10.0
+2015-12-15 16:00:00,EUR,High,German ZEW Economic Sentiment,16.1,15.2,10.4,-151.0,-20.0,-20.0,-19.0
+2015-12-15 16:00:00,EUR,Medium,ZEW Economic Sentiment,33.9,34.4,28.3,-151.0,-20.0,-20.0,-19.0
+2015-12-15 16:00:00,EUR,Low,Final Employment Change q/q,0.3%,0.2%,0.4%,-151.0,-20.0,-20.0,-19.0
+2015-12-15 19:30:00,USD,High,CPI m/m,0.0%,0.0%,0.2%,-151.0,13.0,13.0,-13.0
+2015-12-15 19:30:00,USD,High,Core CPI m/m,0.2%,0.2%,0.2%,-151.0,13.0,13.0,-13.0
+2015-12-15 19:30:00,USD,Medium,Empire State Manufacturing Index,-4.6,-5.7,-10.7,-151.0,13.0,13.0,-13.0
+2015-12-15 21:00:00,USD,Low,NAHB Housing Market Index,61,63,62,-151.0,-32.0,-15.0,8.0
+2015-12-16 03:00:00,USD,Low,TIC Long-Term Purchases,-16.6B,32.4B,33.6B,54.0,14.0,-11.0,-11.0
+2015-12-16 14:00:00,EUR,High,French Flash Manufacturing PMI,51.6,50.6,50.6,54.0,-22.0,18.0,8.0
+2015-12-16 14:00:00,EUR,Medium,French Flash Services PMI,50.0,50.7,51.0,54.0,-22.0,18.0,8.0
+2015-12-16 14:30:00,EUR,High,German Flash Manufacturing PMI,53.0,52.7,52.9,54.0,-31.0,-18.0,-12.0
+2015-12-16 14:30:00,EUR,Medium,German Flash Services PMI,55.4,55.5,55.6,54.0,-31.0,-18.0,-12.0
+2015-12-16 15:00:00,EUR,Medium,Flash Manufacturing PMI,53.1,52.8,52.8,54.0,23.0,-21.0,-21.0
+2015-12-16 15:00:00,EUR,Medium,Flash Services PMI,53.9,54.0,54.2,54.0,23.0,-21.0,-21.0
+2015-12-16 16:00:00,EUR,Medium,Final CPI y/y,0.2%,0.1%,0.1%,54.0,-30.0,-23.0,-23.0
+2015-12-16 16:00:00,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%,54.0,-30.0,-23.0,-23.0
+2015-12-16 16:00:00,EUR,Low,Trade Balance,19.9B,22.3B,19.9B,54.0,-30.0,-23.0,-23.0
+2015-12-16 19:30:00,USD,High,Building Permits,1.29M,1.16M,1.16M,54.0,29.0,-12.0,-8.0
+2015-12-16 19:30:00,USD,Medium,Housing Starts,1.17M,1.14M,1.06M,54.0,29.0,-12.0,-8.0
+2015-12-16 20:15:00,USD,Medium,Capacity Utilization Rate,77.0%,77.3%,77.5%,54.0,-17.0,-17.0,-14.0
+2015-12-16 20:15:00,USD,Medium,Industrial Production m/m,-0.6%,0.0%,-0.4%,54.0,-17.0,-17.0,-14.0
+2015-12-16 20:45:00,USD,Low,Flash Manufacturing PMI,51.3,52.7,52.8,54.0,-16.0,-9.0,-8.0
+2015-12-16 21:30:00,USD,Medium,Crude Oil Inventories,4.8M,-0.3M,-3.6M,54.0,13.0,10.0,-8.0
+2015-12-17 01:00:00,USD,High,Federal Funds Rate,<0.50%,<0.50%,<0.25%,-207.0,43.0,22.0,13.0
+2015-12-17 15:00:00,EUR,High,German ifo Business Climate,108.7,109.2,109.0,-207.0,20.0,20.0,20.0
+2015-12-17 15:04:00,EUR,Low,Italian Trade Balance,4.81B,2.87B,2.19B,-207.0,18.0,18.0,18.0
+2015-12-17 19:30:00,USD,High,Philly Fed Manufacturing Index,-5.9,2.1,1.9,-207.0,-27.0,15.0,6.0
+2015-12-17 19:30:00,USD,High,Unemployment Claims,271K,271K,282K,-207.0,-27.0,15.0,6.0
+2015-12-17 19:30:00,USD,Medium,Current Account,-124B,-123B,-111B,-207.0,-27.0,15.0,6.0
+2015-12-17 21:00:00,USD,Low,CB Leading Index m/m,0.4%,0.2%,0.6%,-207.0,-33.0,-33.0,-18.0
+2015-12-17 21:30:00,USD,Low,Natural Gas Storage,-34B,-58B,-76B,-207.0,-22.0,-21.0,18.0
+2015-12-18 15:00:00,EUR,Low,Current Account,20.4B,32.2B,30.1B,66.0,-63.0,-63.0,-25.0
+2015-12-18 20:45:00,USD,Low,Flash Services PMI,53.7,55.9,56.1,66.0,19.0,-14.0,-10.0
+2015-12-21 13:00:00,EUR,Low,German PPI m/m,-0.2%,-0.2%,-0.4%,91.0,-11.0,8.0,6.0
+2015-12-21 21:00:00,EUR,Low,Consumer Confidence,-6,-6,-6,91.0,-25.0,-23.0,-14.0
+2015-12-22 13:00:00,EUR,Low,German GfK Consumer Climate,9.4,9.3,9.3,82.0,11.0,-4.0,-4.0
+2015-12-22 13:00:00,EUR,Low,German Import Prices m/m,-0.2%,0.2%,-0.3%,82.0,11.0,-4.0,-4.0
+2015-12-22 19:30:00,USD,High,Final GDP q/q,2.0%,1.9%,2.1%,82.0,26.0,-13.0,6.0
+2015-12-22 19:30:00,USD,Low,Final GDP Price Index q/q,1.3%,1.3%,1.3%,82.0,26.0,-13.0,6.0
+2015-12-22 19:55:00,EUR,Low,Belgian NBB Business Climate,-1.4,-4.0,-3.9,82.0,22.0,22.0,8.0
+2015-12-22 20:00:00,USD,Low,HPI m/m,0.5%,0.4%,0.7%,82.0,21.0,21.0,13.0
+2015-12-22 21:00:00,USD,Medium,Existing Home Sales,4.76M,5.32M,5.32M,82.0,22.0,16.0,-5.0
+2015-12-22 21:00:00,USD,Low,Richmond Manufacturing Index,6,-1,-3,82.0,22.0,16.0,-5.0
+2015-12-23 06:50:00,USD,Medium,Personal Spending m/m,0.3%,0.3%,0.0%,-109.0,4.0,3.0,2.0
+2015-12-23 13:45:00,EUR,Low,French Consumer Spending m/m,-1.1%,0.2%,-0.2%,-109.0,13.0,-10.0,5.0
+2015-12-23 16:00:00,EUR,Low,Italian Retail Sales m/m,-0.3%,0.3%,-0.1%,-109.0,16.0,-12.0,11.0
+2015-12-23 19:30:00,USD,High,Core Durable Goods Orders m/m,-0.1%,0.1%,0.6%,-109.0,-14.0,-6.0,-5.0
+2015-12-23 19:30:00,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.0%,-109.0,-14.0,-6.0,-5.0
+2015-12-23 19:30:00,USD,Medium,Durable Goods Orders m/m,0.0%,-0.6%,2.9%,-109.0,-14.0,-6.0,-5.0
+2015-12-23 19:30:00,USD,Low,Personal Income m/m,0.3%,0.2%,0.4%,-109.0,-14.0,-6.0,-5.0
+2015-12-23 21:00:00,USD,Medium,New Home Sales,490K,507K,470K,-109.0,20.0,18.0,7.0
+2015-12-23 21:00:00,USD,Medium,Revised UoM Consumer Sentiment,92.6,92.1,91.8,-109.0,20.0,18.0,7.0
+2015-12-23 21:30:00,USD,Medium,Crude Oil Inventories,-5.9M,1.4M,4.8M,-109.0,-17.0,-17.0,-14.0
+2015-12-24 19:30:00,USD,High,Unemployment Claims,267K,270K,272K,97.0,18.0,16.0,8.0
+2015-12-24 21:30:00,USD,Low,Natural Gas Storage,-32B,-26B,-34B,97.0,18.0,18.0,17.0
+2015-12-29 19:30:00,USD,Medium,Goods Trade Balance,-60.5B,-60.9B,-58.4B,-93.0,-28.0,9.0,-7.0
+2015-12-29 20:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,5.5%,5.6%,5.4%,-93.0,-64.0,-28.0,-22.0
+2015-12-29 21:00:00,USD,High,CB Consumer Confidence,96.5,93.9,92.6,-93.0,-11.0,10.0,10.0
+2015-12-30 14:00:00,EUR,Medium,Spanish Flash CPI y/y,0.0%,0.1%,-0.3%,-40.0,13.0,9.0,9.0
+2015-12-30 15:00:00,EUR,Medium,M3 Money Supply y/y,5.1%,5.2%,5.3%,-40.0,11.0,11.0,8.0
+2015-12-30 15:00:00,EUR,Low,Private Loans y/y,1.4%,1.3%,1.2%,-40.0,11.0,11.0,8.0
+2015-12-30 21:00:00,USD,Medium,Pending Home Sales m/m,-0.9%,0.6%,0.4%,-40.0,-28.0,-12.0,10.0
+2015-12-30 21:30:00,USD,Medium,Crude Oil Inventories,2.6M,-1.8M,-5.9M,-40.0,-26.0,-24.0,-13.0
+2015-12-31 19:30:00,USD,High,Unemployment Claims,287K,274K,267K,-84.0,13.0,-9.0,-9.0
+2015-12-31 20:45:00,USD,Medium,Chicago PMI,42.9,50.4,48.7,-84.0,-18.0,-13.0,-7.0
+2015-12-31 21:30:00,USD,Low,Natural Gas Storage,-58B,-54B,-32B,-84.0,15.0,13.0,13.0

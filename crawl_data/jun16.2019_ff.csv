@@ -1,0 +1,96 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 16 2019,7:01pm,GBP,Low,Rightmove HPI m/m,0.3%,,0.9%
+Mon Jun 17 2019,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Low,Foreign Securities Purchases,-12.80B,2.33B,-1.56B
+,,USD,Low,Empire State Manufacturing Index,-8.6,12.1,17.8
+,10:00am,USD,Low,NAHB Housing Market Index,64,67,66
+,2:00pm,EUR,High,ECB President Draghi Speaks,,,
+,2:30pm,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,46.9B,30.8B,-25.9B
+,5:00pm,NZD,Low,Westpac Consumer Sentiment,103.5,,103.8
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,-3.0%,-2.5%,-2.4%
+Tue Jun 18 2019,4:00am,EUR,High,ECB President Draghi Speaks,,,
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-21.1,-5.7,-2.1
+,,EUR,Low,Final CPI y/y,1.2%,1.2%,1.2%
+,,EUR,Low,Final Core CPI y/y,0.8%,0.8%,0.8%
+,,EUR,Low,Trade Balance,15.3B,16.4B,18.6B
+,,EUR,Low,ZEW Economic Sentiment,-20.2,-3.6,-1.6
+,5:34am,GBP,Low,10-y Bond Auction,0.89|2.1,,1.11|2.3
+,8:30am,CAD,Medium,Manufacturing Sales m/m,-0.6%,0.6%,2.6%
+,,USD,Medium,Building Permits,1.29M,1.30M,1.29M
+,,USD,Low,Housing Starts,1.27M,1.24M,1.28M
+,10:00am,GBP,High,BOE Gov Carney Speaks,,,
+,10:11am,NZD,Low,GDT Price Index,-3.8%,,-3.4%
+,10:30am,AUD,Low,CB Leading Index m/m,0.1%,,0.4%
+,6:45pm,NZD,Low,Current Account,0.68B,0.16B,-3.49B
+,7:50pm,JPY,Low,Trade Balance,-0.61T,-0.80T,-0.17T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,-0.1%
+Wed Jun 19 2019,2:00am,EUR,Low,German PPI m/m,-0.1%,0.2%,0.5%
+,4:00am,EUR,Low,Current Account,20.9B,23.2B,24.7B
+,4:02am,EUR,Low,Italian Trade Balance,2.89B,4.55B,4.58B
+,4:30am,GBP,High,CPI y/y,2.0%,2.0%,2.1%
+,,GBP,Medium,PPI Input m/m,0.0%,0.2%,1.9%
+,,GBP,Low,Core CPI y/y,1.7%,1.6%,1.8%
+,,GBP,Low,HPI y/y,1.4%,1.1%,1.6%
+,,GBP,Low,PPI Output m/m,0.3%,0.2%,0.3%
+,,GBP,Low,RPI y/y,3.0%,2.9%,3.0%
+,5:34am,EUR,Low,German 30-y Bond Auction,0.26|1.6,,0.53|1.8
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-15,-11,-10
+,8:30am,CAD,High,CPI m/m,0.4%,0.1%,0.4%
+,,CAD,Medium,Common CPI y/y,1.8%,1.9%,1.8%
+,,CAD,Medium,Median CPI y/y,2.1%,1.9%,1.9%
+,,CAD,Medium,Trimmed CPI y/y,2.3%,2.0%,2.0%
+,8:32am,CAD,Low,Core CPI m/m,0.4%,,0.0%
+,9:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,10:00am,EUR,High,ECB President Draghi Speaks,,,
+,10:30am,USD,Low,Crude Oil Inventories,-3.1M,-1.5M,2.2M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<2.50%,<2.50%,<2.50%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:45pm,NZD,High,GDP q/q,0.6%,0.6%,0.6%
+,9:30pm,AUD,Low,RBA Bulletin,,,
+,10:35pm,AUD,High,RBA Gov Lowe Speaks,,,
+,10:45pm,JPY,High,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Thu Jun 20 2019,12:30am,JPY,Low,All Industries Activity m/m,0.9%,0.7%,-0.3%
+,2:00am,CHF,Low,Trade Balance,3.41B,2.87B,2.31B
+,2:30am,JPY,High,BOJ Press Conference,,,
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,High,Retail Sales m/m,-0.5%,-0.5%,-0.1%
+,7:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.75%,0.75%,0.75%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,USD,Medium,Philly Fed Manufacturing Index,0.3,10.6,16.6
+,,USD,Low,Current Account,-130B,-125B,-144B
+,,USD,Low,Unemployment Claims,216K,220K,222K
+,8:32am,CAD,Low,ADP Non-Farm Employment Change,-16.0K,,24.0K
+,9:50am,EUR,Low,Consumer Confidence,-7,-7,-7
+,10:00am,USD,Low,CB Leading Index m/m,0.0%,0.1%,0.1%
+,10:30am,USD,Low,Natural Gas Storage,115B,106B,102B
+,4:00pm,GBP,High,BOE Gov Carney Speaks,,,
+,7:00pm,AUD,Low,Flash Manufacturing PMI,51.7,,51.0
+,,AUD,Low,Flash Services PMI,53.3,,51.5
+,7:30pm,JPY,Low,National Core CPI y/y,0.8%,0.7%,0.9%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,49.5,50.0,49.8
+Fri Jun 21 2019,3:15am,EUR,High,French Flash Services PMI,53.1,51.6,51.5
+,,EUR,Medium,French Flash Manufacturing PMI,52.0,51.0,50.6
+,3:30am,EUR,High,German Flash Manufacturing PMI,45.4,44.6,44.3
+,,EUR,High,German Flash Services PMI,55.6,55.3,55.4
+,4:00am,EUR,Medium,Flash Manufacturing PMI,47.8,48.0,47.7
+,,EUR,Medium,Flash Services PMI,53.4,53.0,52.9
+,4:30am,GBP,Medium,Public Sector Net Borrowing,4.5B,3.3B,6.2B
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,Core Retail Sales m/m,0.1%,0.6%,1.8%
+,,CAD,Medium,Retail Sales m/m,0.1%,0.3%,1.3%
+,,GBP,Medium,MPC Member Tenreyro Speaks,,,
+,9:45am,USD,Medium,Flash Manufacturing PMI,50.1,50.5,50.5
+,,USD,Low,Flash Services PMI,50.7,51.0,50.9
+,10:00am,USD,Low,Existing Home Sales,5.34M,5.29M,5.21M
+,11:00am,USD,Low,10-y Bond Auction,2.07|3.4,,2.13|2.5
+,12:00pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,4:30pm,USD,Low,Bank Stress Test Results,,,
+Sat Jun 22 2019,,,No specified,,,,

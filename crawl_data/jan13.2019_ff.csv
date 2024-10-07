@@ -1,0 +1,77 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 13 2019,All Day,JPY,Holiday,Bank Holiday,,,
+,7:09pm,AUD,Medium,MI Inflation Gauge m/m,0.4%,,0.0%
+,9:58pm,CNY,Medium,Trade Balance,395B,345B,306B
+,10:03pm,CNY,Low,USD-Denominated Trade Balance,57.1B,51.6B,44.7B
+Mon Jan 14 2019,2:00am,EUR,Low,German WPI m/m,-1.2%,0.3%,0.2%
+,3:01am,CNY,Low,Foreign Direct Investment ytd/y,0.9%,,-1.3%
+,5:00am,EUR,Low,Industrial Production m/m,-1.7%,0.3%,0.1%
+,4:00pm,NZD,Medium,NZIER Business Confidence,-17,,-30
+,4:45pm,NZD,Low,FPI m/m,-0.2%,,-0.6%
+,6:50pm,JPY,Low,M2 Money Stock y/y,2.4%,2.4%,2.3%
+Tue Jan 15 2019,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,-18.3%,,-17.0%
+,2:45am,EUR,Low,French Final CPI m/m,0.0%,0.0%,0.0%
+,,EUR,Low,French Gov Budget Balance,-95.6B,,-87.0B
+,3:01am,CNY,Low,M2 Money Supply y/y,8.1%,8.1%,8.0%
+,,CNY,Low,New Loans,1080B,825B,1250B
+,5:00am,EUR,Low,Trade Balance,15.1B,13.2B,13.5B
+,8:30am,USD,High,PPI m/m,-0.2%,-0.1%,0.1%
+,,USD,Medium,Core PPI m/m,-0.1%,0.2%,0.3%
+,,USD,Low,Empire State Manufacturing Index,3.9,11.6,10.9
+,9:14am,NZD,Low,GDT Price Index,4.2%,,2.8%
+,10:00am,EUR,High,ECB President Draghi Speaks,,,
+,10:02am,USD,Low,IBD/TIPP Economic Optimism,52.3,53.1,52.6
+,1:00pm,USD,Medium,FOMC Member George Speaks,,,
+,2:39pm,GBP,High,Parliament Brexit Vote,Reject,Reject,
+,6:30pm,AUD,Medium,Westpac Consumer Sentiment,-4.7%,,0.1%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,0.0%,3.3%,7.6%
+,,JPY,Low,PPI y/y,1.5%,1.8%,2.3%
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,-0.3%,-0.5%,2.2%
+Wed Jan 16 2019,2:00am,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
+,4:15am,GBP,High,BOE Gov Carney Speaks,,,
+,4:30am,GBP,High,CPI y/y,2.1%,2.1%,2.3%
+,,GBP,Medium,PPI Input m/m,-1.0%,-1.5%,-2.6%
+,,GBP,Medium,RPI y/y,2.7%,2.9%,3.2%
+,,GBP,Low,Core CPI y/y,1.9%,1.8%,1.8%
+,,GBP,Low,HPI y/y,2.8%,3.0%,2.7%
+,,GBP,Low,PPI Output m/m,-0.3%,0.1%,0.1%
+,5:34am,EUR,Low,German 30-y Bond Auction,0.85|1.1,,1.04|1.2
+,8:30am,USD,Low,Import Prices m/m,-1.0%,-1.3%,-1.9%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.5%,,-0.4%
+,10:00am,USD,Low,NAHB Housing Market Index,58,56,56
+,10:30am,USD,Low,Crude Oil Inventories,-2.7M,-1.4M,-1.7M
+,2:00pm,USD,Low,Beige Book,,,
+,2:15pm,GBP,High,Govt Confidence Vote,,,
+,7:00pm,AUD,Low,MI Inflation Expectations,3.5%,,4.0%
+,7:01pm,GBP,Low,RICS House Price Balance,-19%,-13%,-11%
+,7:30pm,AUD,Low,Home Loans m/m,-0.9%,-1.5%,2.1%
+,Day 1,All,High,G20 Meetings,,,
+,10:20pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Thu Jan 17 2019,4:00am,EUR,Low,Italian Trade Balance,3.84B,2.89B,3.82B
+,4:30am,GBP,Medium,BOE Credit Conditions Survey,,,
+,5:00am,EUR,Low,Final CPI y/y,1.6%,1.7%,1.6%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,-13.0K,,74.0K
+,,USD,Medium,Philly Fed Manufacturing Index,17.0,9.7,9.4
+,,USD,Low,Unemployment Claims,213K,219K,216K
+,10:30am,USD,Low,Natural Gas Storage,-81B,-73B,-91B
+,10:45am,USD,Medium,FOMC Member Quarles Speaks,,,
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,55.1,,53.7
+,6:30pm,JPY,Low,National Core CPI y/y,0.7%,0.8%,0.9%
+,Day 2,All,High,G20 Meetings,,,
+,11:30pm,JPY,Low,Revised Industrial Production m/m,-1.0%,-1.1%,-1.1%
+Fri Jan 18 2019,2:30am,CHF,Low,PPI m/m,-0.6%,-0.1%,-0.3%
+,4:00am,EUR,Low,Current Account,20.3B,24.1B,26.8B
+,4:30am,GBP,High,Retail Sales m/m,-0.9%,-0.8%,1.3%
+,8:30am,CAD,High,CPI m/m,-0.1%,-0.4%,-0.4%
+,,CAD,Medium,Common CPI y/y,1.9%,1.9%,1.9%
+,,CAD,Medium,Median CPI y/y,1.8%,1.9%,1.8%
+,,CAD,Medium,Trimmed CPI y/y,1.9%,1.9%,1.9%
+,,CAD,Low,Foreign Securities Purchases,9.45B,2.05B,3.97B
+,8:32am,CAD,Low,Core CPI m/m,-0.2%,,-0.2%
+,9:05am,USD,Medium,FOMC Member Williams Speaks,,,
+,9:15am,USD,Low,Capacity Utilization Rate,78.7%,78.6%,78.6%
+,,USD,Low,Industrial Production m/m,0.3%,0.2%,0.4%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,90.7,97.0,98.3
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.7%
+Sat Jan 19 2019,,,No specified,,,,

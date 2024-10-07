@@ -1,0 +1,54 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 20 2020,9:00pm,NZD,Low,Credit Card Spending y/y,-5.6%,,-6.0%
+Mon Dec 21 2020,6:00am,GBP,Low,CBI Realized Sales,-3,3,-25
+,8:30am,CAD,Low,NHPI m/m,0.6%,0.9%,0.8%
+,9:39am,EUR,Low,Consumer Confidence,-14,-18,-18
+,7:30pm,AUD,Low,Retail Sales m/m,7.0%,2.1%,1.4%
+,11:59pm,JPY,Low,BOJ Core CPI y/y,-0.1%,0.0%,0.0%
+Tue Dec 22 2020,2:00am,EUR,Low,German GfK Consumer Climate,-7.3,-8.7,-6.8
+,,GBP,Low,Final GDP q/q,16.0%,15.5%,15.5%
+,,GBP,Low,Public Sector Net Borrowing,30.8B,26.3B,20.9B
+,,GBP,Low,Revised Business Investment q/q,9.4%,8.8%,8.8%
+,2:02am,GBP,Low,Current Account,-15.7B,-12.9B,-11.9B
+,8:30am,USD,Medium,Final GDP q/q,33.4%,33.1%,33.1%
+,8:32am,USD,Low,Final GDP Price Index q/q,3.5%,3.6%,3.6%
+,9:00am,CNY,Low,CB Leading Index m/m,1.2%,,1.3%
+,9:59am,USD,Low,Richmond Manufacturing Index,19,11,15
+,10:00am,USD,Low,CB Consumer Confidence,88.6,97.1,92.9
+,,USD,Low,Existing Home Sales,6.69M,6.70M,6.86M
+,6:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,7:30pm,AUD,Low,Goods Trade Balance,1.96B,,4.67B
+,,AUD,Low,Private Sector Credit m/m,0.1%,0.1%,0.0%
+Wed Dec 23 2020,2:00am,EUR,Low,German Import Prices m/m,0.5%,0.3%,0.3%
+,8:30am,CAD,Medium,GDP m/m,0.4%,0.3%,0.8%
+,,USD,Low,Core Durable Goods Orders m/m,0.4%,0.5%,1.9%
+,,USD,Low,Core PCE Price Index m/m,0.0%,0.1%,0.0%
+,,USD,Low,Durable Goods Orders m/m,0.9%,0.6%,1.8%
+,,USD,Low,Personal Income m/m,-1.1%,-0.3%,-0.6%
+,,USD,Low,Personal Spending m/m,-0.4%,-0.2%,0.3%
+,,USD,Low,Unemployment Claims,803K,882K,892K
+,9:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,,USD,Low,HPI m/m,1.5%,0.6%,1.7%
+,10:00am,USD,Low,New Home Sales,841K,994K,945K
+,,USD,Low,Revised UoM Consumer Sentiment,80.7,81.0,81.4
+,,USD,Low,Revised UoM Inflation Expectations,2.5%,,2.3%
+,10:30am,USD,Low,Crude Oil Inventories,-0.6M,-2.9M,-3.1M
+,12:00pm,USD,Low,Natural Gas Storage,-152B,-160B,-122B
+,6:50pm,JPY,Low,SPPI y/y,-0.6%,-0.6%,-0.5%
+,11:55pm,JPY,Low,BOJ Gov Kuroda Speaks,,,
+Thu Dec 24 2020,All Day,EUR,Holiday,German Bank Holiday,,,
+,8:30am,CAD,Low,Building Permits m/m,12.9%,2.5%,-12.6%
+,All Day,AUD,Holiday,Bank Holiday,,,
+,All Day,NZD,Holiday,Bank Holiday,,,
+,6:30pm,JPY,Low,Tokyo Core CPI y/y,-0.9%,-0.8%,-0.7%
+,,JPY,Low,Unemployment Rate,2.9%,3.1%,3.1%
+,6:50pm,JPY,Low,Retail Sales y/y,0.7%,1.8%,6.4%
+Fri Dec 25 2020,12:00am,JPY,Low,Housing Starts y/y,-3.7%,-4.8%,-8.3%
+,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+Sat Dec 26 2020,,,No specified,,,,

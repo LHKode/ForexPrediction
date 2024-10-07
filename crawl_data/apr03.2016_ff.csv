@@ -1,0 +1,86 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 3 2016,7:50pm,JPY,Low,Monetary Base y/y,28.5%,28.7%,29.0%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.0%,,-0.2%
+,9:30pm,AUD,High,Building Approvals m/m,3.1%,2.1%,-6.6%
+,,AUD,High,Retail Sales m/m,0.0%,0.4%,0.3%
+,,AUD,Low,ANZ Job Advertisements m/m,0.2%,,-1.2%
+Mon Apr 4 2016,3:00am,EUR,Medium,Spanish Unemployment Change,-58.2K,21.3K,2.2K
+,4:30am,EUR,Low,Sentix Investor Confidence,5.7,6.9,5.5
+,,GBP,High,Construction PMI,54.2,54.3,54.2
+,5:00am,EUR,Medium,Unemployment Rate,10.3%,10.3%,10.3%
+,,EUR,Low,PPI m/m,-0.7%,-0.5%,-1.1%
+,10:00am,CAD,Low,BOC Gov Poloz Speaks,,,
+,,USD,Medium,Factory Orders m/m,-1.7%,-1.5%,1.2%
+,,USD,Low,Labor Market Conditions Index m/m,-2.1,,-2.5
+,6:00pm,NZD,Medium,NZIER Business Confidence,2,,15
+,7:30pm,AUD,Low,AIG Services Index,49.5,,51.8
+,8:00pm,JPY,Low,Average Cash Earnings y/y,0.9%,0.2%,0.0%
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,-1.3%,,0.5%
+,9:30pm,AUD,High,Trade Balance,-3.41B,-2.55B,-3.16B
+,11:45pm,JPY,Low,10-y Bond Auction,-0.07|3.9,,-0.02|3.2
+Tue Apr 5 2016,12:30am,AUD,High,Cash Rate,2.00%,2.00%,2.00%
+,,AUD,High,RBA Rate Statement,,,
+,2:00am,EUR,Medium,German Factory Orders m/m,-1.2%,0.5%,0.5%
+,3:15am,EUR,Low,Spanish Services PMI,55.3,54.2,54.1
+,3:45am,EUR,Low,Italian Services PMI,51.2,54.3,53.8
+,3:50am,EUR,Low,French Final Services PMI,49.9,51.2,51.2
+,3:55am,EUR,Low,German Final Services PMI,55.1,55.5,55.5
+,4:00am,EUR,Low,Final Services PMI,53.1,54.1,54.0
+,4:30am,GBP,High,Final Services PMI,53.7,53.9,52.7
+,,GBP,Low,FPC Meeting Minutes,,,
+,5:00am,EUR,Low,Retail Sales m/m,0.2%,0.2%,0.3%
+,8:30am,CAD,High,Trade Balance,-1.9B,0.9B,-0.6B
+,,USD,Medium,Trade Balance,-47.1B,-46.3B,-45.9B
+,9:45am,USD,Low,Final Services PMI,51.3,51.0,51.0
+,10:00am,USD,High,ISM Services PMI,54.5,54.1,53.4
+,,USD,Medium,JOLTS Job Openings,5.45M,5.57M,5.60M
+,,USD,Low,IBD/TIPP Economic Optimism,46.3,47.7,46.8
+,10:27am,NZD,High,GDT Price Index,2.1%,,-2.9%
+,4:00pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.7%,,-2.0%
+,9:45pm,CNY,Medium,Caixin Services PMI,52.2,51.4,51.2
+Wed Apr 6 2016,1:00am,JPY,Low,Leading Indicators,99.8%,99.9%,101.8%
+,2:00am,EUR,Low,German Industrial Production m/m,-0.5%,-1.8%,2.3%
+,3:40am,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,4:10am,EUR,Low,Retail PMI,49.2,,50.1
+,4:30am,GBP,Low,Housing Equity Withdrawal q/q,-9.5B,-9.2B,-9.7B
+,10:00am,CAD,Medium,Ivey PMI,50.1,54.9,53.4
+,10:30am,USD,High,Crude Oil Inventories,-4.9M,3.1M,2.3M
+,12:20pm,USD,Medium,FOMC Member Mester Speaks,,,
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,6:30pm,USD,Medium,FOMC Member Bullard Speaks,,,
+,7:30pm,AUD,Low,AIG Construction Index,45.2,,46.1
+,8:30pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Thu Apr 7 2016,2:45am,EUR,Low,French Trade Balance,-5.2B,-3.8B,-3.9B
+,3:00am,CHF,Medium,Foreign Currency Reserves,576B,,571B
+,3:30am,GBP,Medium,Halifax HPI m/m,2.6%,0.8%,-1.5%
+,4:46am,EUR,Low,Spanish 10-y Bond Auction,1.50|1.5,,1.48|2.0
+,4:59am,EUR,Low,French 10-y Bond Auction,0.43|1.7,,0.63|1.6
+,5:33am,GBP,Low,10-y Bond Auction,1.51|2.0,,1.88|1.6
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,Building Permits m/m,15.5%,4.7%,-9.5%
+,,USD,High,Unemployment Claims,267K,271K,276K
+,10:00am,EUR,High,ECB President Draghi Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,12B,7B,-25B
+,3:00pm,USD,Low,Consumer Credit m/m,17.2B,15.0B,14.9B
+,5:30pm,USD,High,Fed Chair Yellen Speaks,,,
+,7:50pm,JPY,Medium,Current Account,1.73T,1.57T,1.49T
+,8:15pm,USD,Medium,FOMC Member George Speaks,,,
+Fri Apr 8 2016,1:00am,JPY,Low,Consumer Confidence,41.7,40.5,40.1
+,1:45am,CHF,Low,Unemployment Rate,3.5%,3.5%,3.4%
+,2:00am,EUR,Low,German Trade Balance,19.8B,19.2B,18.7B
+,,JPY,Low,Economy Watchers Sentiment,45.4,46.5,44.6
+,2:45am,EUR,Low,French Gov Budget Balance,-25.6B,,-9.2B
+,,EUR,Low,French Industrial Production m/m,-1.0%,-0.3%,1.0%
+,3:15am,CHF,Low,CPI m/m,0.3%,0.3%,0.2%
+,4:30am,GBP,High,Manufacturing Production m/m,-1.1%,-0.2%,0.5%
+,,GBP,Medium,Goods Trade Balance,-12.0B,-10.3B,-12.2B
+,,GBP,Low,Industrial Production m/m,-0.3%,0.1%,0.2%
+,8:13am,CAD,Low,Housing Starts,204K,215K,219K
+,8:30am,CAD,High,Employment Change,40.6K,10.4K,-2.3K
+,,CAD,High,Unemployment Rate,7.1%,7.3%,7.3%
+,,USD,Medium,FOMC Member Dudley Speaks,,,
+,10:00am,GBP,Low,NIESR GDP Estimate,0.3%,,0.2%
+,,USD,Low,Final Wholesale Inventories m/m,-0.5%,-0.2%,-0.2%
+Sat Apr 9 2016,,,No specified,,,,

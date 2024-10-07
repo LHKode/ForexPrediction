@@ -1,0 +1,77 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 8 2017,5:30pm,AUD,Low,AIG Construction Index,47.0,,46.6
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,Building Approvals m/m,7.0%,4.6%,-11.8%
+,,AUD,Low,ANZ Job Advertisements m/m,-1.9%,,1.6%
+Mon Jan 9 2017,2:00am,EUR,Low,German Industrial Production m/m,0.4%,0.7%,0.5%
+,,EUR,Low,German Trade Balance,21.7B,20.8B,20.6B
+,3:15am,CHF,Low,Retail Sales y/y,0.9%,0.4%,-0.7%
+,3:30am,GBP,Medium,Halifax HPI m/m,1.7%,0.3%,0.6%
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,11.9%,11.6%,11.8%
+,4:30am,EUR,Low,Sentix Investor Confidence,18.2,12.6,10.0
+,5:00am,EUR,Low,Unemployment Rate,9.8%,9.8%,9.8%
+,10:00am,USD,Low,Labor Market Conditions Index m/m,-0.3,,2.1
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,3:00pm,USD,Low,Consumer Credit m/m,24.5B,18.3B,16.2B
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,1.0%,,0.6%
+,7:30pm,AUD,High,Retail Sales m/m,0.2%,0.4%,0.5%
+,8:30pm,CNY,High,CPI y/y,2.1%,2.2%,2.3%
+,,CNY,Medium,PPI y/y,5.5%,4.6%,3.3%
+Tue Jan 10 2017,12:00am,JPY,Low,Consumer Confidence,43.1,41.3,40.9
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.3%,3.3%
+,2:45am,EUR,Low,French Industrial Production m/m,2.2%,0.5%,-0.1%
+,6:00am,USD,Low,NFIB Small Business Index,105.8,99.6,98.4
+,8:13am,CAD,Low,Housing Starts,207K,187K,187K
+,8:30am,CAD,Medium,Building Permits m/m,-0.1%,2.4%,10.5%
+,10:00am,USD,Medium,JOLTS Job Openings,5.52M,5.59M,5.45M
+,,USD,Low,Final Wholesale Inventories m/m,1.0%,0.9%,0.9%
+,10:45pm,JPY,Low,30-y Bond Auction,0.75|3.3,,0.62|2.9
+Wed Jan 11 2017,12:00am,JPY,Low,Leading Indicators,102.7%,102.6%,100.8%
+,4:30am,GBP,High,Manufacturing Production m/m,1.3%,0.6%,-1.0%
+,,GBP,Medium,Goods Trade Balance,-12.2B,-11.2B,-9.9B
+,,GBP,Low,Construction Output m/m,-0.2%,0.3%,-0.6%
+,,GBP,Low,Industrial Production m/m,2.1%,0.8%,-1.1%
+,5:33am,EUR,Low,German 10-y Bond Auction,0.36|1.8,,0.21|2.0
+,9:15am,GBP,High,BOE Gov Carney Speaks,,,
+,9:38am,GBP,Low,NIESR GDP Estimate,0.5%,,0.5%
+,10:00am,USD,Low,IBD/TIPP Economic Optimism,55.6,53.9,54.8
+,10:30am,USD,High,Crude Oil Inventories,4.1M,0.9M,-7.1M
+,11:00am,USD,High,President Trump Speaks,,,
+,1:01pm,USD,Low,10-y Bond Auction,2.34|2.6,,2.49|2.4
+,1:20pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,6:50pm,JPY,Low,Bank Lending y/y,2.6%,2.4%,2.4%
+,,JPY,Low,Current Account,1.80T,1.48T,1.93T
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,0.7%,,3.2%
+Thu Jan 12 2017,12:00am,JPY,Low,Economy Watchers Sentiment,51.4,49.3,48.6
+,2:45am,EUR,Low,French Final CPI m/m,0.3%,0.3%,0.3%
+,4:00am,CNY,Low,M2 Money Supply y/y,11.3%,11.4%,11.4%
+,,CNY,Low,New Loans,1040B,676B,795B
+,,EUR,Low,Italian Industrial Production m/m,0.7%,0.2%,0.1%
+,5:00am,EUR,Low,Industrial Production m/m,1.5%,0.5%,0.1%
+,5:34am,GBP,Low,10-y Bond Auction,1.16|2.5,,1.39|2.0
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Medium,NHPI m/m,0.2%,0.3%,0.4%
+,,USD,High,Unemployment Claims,247K,266K,237K
+,,USD,Medium,FOMC Member Evans Speaks,,,
+,,USD,Medium,FOMC Member Harker Speaks,,,
+,,USD,Medium,Import Prices m/m,0.4%,0.8%,-0.2%
+,10:30am,USD,Low,Natural Gas Storage,-151B,-150B,-49B
+,1:01pm,USD,Low,30-y Bond Auction,2.91|2.3,,3.15|2.4
+,2:00pm,USD,Low,Federal Budget Balance,-27.5B,-21.0B,-136.7B
+,6:50pm,JPY,Low,M2 Money Stock y/y,4.0%,4.1%,3.9%
+,7:00pm,USD,High,Fed Chair Yellen Speaks,,,
+,9:47pm,CNY,Low,USD-Denominated Trade Balance,40.8B,47.6B,44.6B
+,9:50pm,CNY,High,Trade Balance,275B,345B,298B
+Fri Jan 13 2017,2:00am,EUR,Low,German WPI m/m,1.2%,0.3%,0.1%
+,4:30am,GBP,Medium,BOE Credit Conditions Survey,,,
+,,GBP,Medium,MPC Member Saunders Speaks,,,
+,6:12am,CNY,Low,Foreign Direct Investment ytd/y,4.1%,,3.9%
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.5%,0.3%
+,,USD,High,PPI m/m,0.3%,0.1%,0.4%
+,,USD,High,Retail Sales m/m,0.6%,0.5%,0.2%
+,,USD,Medium,Core PPI m/m,0.2%,0.3%,0.4%
+,9:30am,USD,Medium,FOMC Member Harker Speaks,,,
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,98.1,98.6,98.2
+,,USD,Low,Business Inventories m/m,0.7%,0.3%,-0.1%
+,,USD,Low,Prelim UoM Inflation Expectations,2.6%,,2.2%
+Sat Jan 14 2017,,,No specified,,,,

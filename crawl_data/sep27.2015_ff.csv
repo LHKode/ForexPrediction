@@ -1,0 +1,107 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 27 2015,,,No specified,,,,
+Mon Sep 28 2015,3:00am,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,5:15am,USD,Medium,FOMC Member Tarullo Speaks,,,
+,8:30am,USD,High,FOMC Member Dudley Speaks,,,
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%
+,,USD,Medium,Personal Spending m/m,0.4%,0.3%,0.4%
+,,USD,Low,Personal Income m/m,0.3%,0.4%,0.5%
+,10:00am,USD,Medium,Pending Home Sales m/m,-1.4%,0.4%,0.5%
+,1:30pm,USD,Medium,FOMC Member Evans Speaks,,,
+,5:00pm,USD,Medium,FOMC Member Williams Speaks,,,
+Tue Sep 29 2015,2:00am,EUR,Low,German Import Prices m/m,-1.5%,-1.4%,-0.7%
+,All Day,EUR,Medium,German Prelim CPI m/m,-0.2%,-0.1%,0.0%
+,3:00am,EUR,Medium,Spanish Flash CPI y/y,-0.9%,-0.6%,-0.4%
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,4.3B,4.1B,4.0B
+,,GBP,Low,M4 Money Supply m/m,-0.4%,0.7%,1.0%
+,,GBP,Low,Mortgage Approvals,71K,70K,69K
+,5:21am,EUR,Low,Italian 10-y Bond Auction,1.82|1.3,,1.95|1.4
+,6:00am,GBP,Low,CBI Realized Sales,49,29,24
+,8:30am,CAD,Medium,RMPI m/m,-6.6%,-7.3%,-6.0%
+,,CAD,Low,IPPI m/m,-0.3%,-0.8%,0.6%
+,,USD,Medium,Goods Trade Balance,-67.2B,-57.3B,-59.1B
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,5.0%,5.1%,4.9%
+,10:00am,USD,High,CB Consumer Confidence,103.0,96.2,101.3
+,3:15pm,GBP,High,BOE Gov Carney Speaks,,,
+,5:45pm,NZD,Low,Building Consents m/m,-4.9%,,20.3%
+,7:05pm,GBP,Low,GfK Consumer Confidence,3,5,7
+,7:50pm,JPY,Medium,Retail Sales y/y,0.8%,1.2%,1.8%
+,,JPY,Low,Prelim Industrial Production m/m,-0.5%,1.1%,-0.8%
+,8:00pm,NZD,High,ANZ Business Confidence,-18.9,,-29.1
+,9:30pm,AUD,High,Building Approvals m/m,-6.9%,-1.8%,7.9%
+,,AUD,Low,Private Sector Credit m/m,0.6%,0.5%,0.6%
+Wed Sep 30 2015,1:00am,JPY,Low,Housing Starts y/y,8.8%,7.8%,7.4%
+,1:58am,GBP,Low,Nationwide HPI m/m,0.5%,0.4%,0.4%
+,2:00am,CHF,Low,UBS Consumption Indicator,1.63,,1.59
+,,EUR,Medium,German Retail Sales m/m,-0.4%,0.2%,1.6%
+,Jul Data,EUR,Low,French Consumer Spending m/m,0.3%,0.2%,0.4%
+,2:45am,EUR,Low,French Consumer Spending m/m,0.0%,0.4%,0.3%
+,3:00am,CHF,Medium,KOF Economic Barometer,100.4,101.2,101.2
+,3:55am,EUR,Medium,German Unemployment Change,2K,-5K,-6K
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,11.9%,12.0%,12.0%
+,4:30am,GBP,High,Current Account,-16.8B,-22.2B,-24.0B
+,,GBP,Medium,Final GDP q/q,0.7%,0.7%,0.7%
+,,GBP,Low,Index of Services 3m/3m,0.8%,0.8%,0.6%
+,,GBP,Low,Revised Business Investment q/q,1.6%,2.9%,2.9%
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,-0.1%,0.0%,0.1%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,0.9%,0.9%
+,,EUR,Medium,Unemployment Rate,11.0%,10.9%,11.0%
+,,EUR,Low,Italian Prelim CPI m/m,-0.3%,-0.2%,0.2%
+,8:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,8:15am,USD,High,ADP Non-Farm Employment Change,200K,192K,186K
+,8:30am,CAD,High,GDP m/m,0.3%,0.2%,0.4%
+,9:45am,USD,Medium,Chicago PMI,48.7,53.2,54.4
+,10:30am,USD,Medium,Crude Oil Inventories,4.0M,-0.5M,-1.9M
+,3:00pm,USD,High,Fed Chair Yellen Speaks,,,
+,7:30pm,AUD,Low,AIG Manufacturing Index,52.1,,51.7
+,7:50pm,JPY,Medium,Tankan Manufacturing Index,12,13,15
+,,JPY,Medium,Tankan Non-Manufacturing Index,25,21,23
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:15pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,9:00pm,CNY,High,Manufacturing PMI,49.8,49.7,49.7
+,,CNY,Medium,Non-Manufacturing PMI,53.4,,53.4
+,9:35pm,JPY,Low,Final Manufacturing PMI,51.0,50.9,50.9
+,9:45pm,CNY,High,Caixin Manufacturing PMI,47.2,47.2,47.0
+,,CNY,Medium,Caixin Services PMI,50.5,51.2,51.5
+,11:45pm,JPY,Low,10-y Bond Auction,0.34|3.0,,0.42|3.5
+Thu Oct 1 2015,3:00am,AUD,Low,Commodity Prices y/y,-21.3%,,-21.4%
+,3:15am,CHF,Medium,Retail Sales y/y,-0.3%,0.3%,0.1%
+,,EUR,Medium,Spanish Manufacturing PMI,51.7,53.0,53.2
+,3:30am,CHF,Low,Manufacturing PMI,49.5,51.9,52.2
+,3:45am,EUR,Low,Italian Manufacturing PMI,52.7,53.4,53.8
+,3:50am,EUR,Low,French Final Manufacturing PMI,50.6,50.4,50.4
+,3:55am,EUR,Low,German Final Manufacturing PMI,52.3,52.6,52.5
+,4:00am,EUR,Low,Final Manufacturing PMI,52.0,52.0,52.0
+,4:30am,GBP,High,Final Manufacturing PMI,51.5,51.3,51.6
+,,GBP,Low,FPC Meeting Minutes,,,
+,4:45am,EUR,Low,Spanish 10-y Bond Auction,1.84|1.8,,2.15|2.5
+,4:56am,EUR,Low,French 10-y Bond Auction,0.98|2.2,,1.21|1.7
+,7:30am,USD,Low,Challenger Job Cuts y/y,93.2%,,2.9%
+,8:30am,USD,High,Unemployment Claims,277K,273K,267K
+,9:30am,CAD,Low,Manufacturing PMI,48.6,,49.4
+,9:45am,USD,Low,Final Manufacturing PMI,53.1,53.0,53.0
+,10:00am,USD,High,ISM Manufacturing PMI,50.2,50.8,51.1
+,,USD,Low,Construction Spending m/m,0.7%,0.6%,0.4%
+,,USD,Low,ISM Manufacturing Prices,38.0,40.0,39.0
+,10:30am,USD,Low,Natural Gas Storage,98B,101B,106B
+,All Day,USD,Low,Total Vehicle Sales,18.2M,17.5M,17.8M
+,12:00pm,CHF,High,Gov Board Member Zurbrugg Speaks,,,
+,2:30pm,USD,Medium,FOMC Member Williams Speaks,,,
+,7:30pm,JPY,Medium,Household Spending y/y,2.9%,0.4%,-0.2%
+,,JPY,Low,Unemployment Rate,3.4%,3.3%,3.3%
+,7:50pm,JPY,Low,Monetary Base y/y,35.1%,34.2%,33.3%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:00pm,NZD,Low,ANZ Commodity Prices m/m,5.5%,,-5.2%
+,9:00pm,AUD,Low,HIA New Home Sales m/m,2.3%,,-1.8%
+,9:30pm,AUD,High,Retail Sales m/m,0.4%,0.4%,-0.1%
+,,EUR,High,ECB President Draghi Speaks,,,
+Fri Oct 2 2015,3:00am,EUR,Medium,Spanish Unemployment Change,26.1K,17.9K,21.7K
+,4:30am,GBP,High,Construction PMI,59.9,57.5,57.3
+,5:00am,EUR,Low,PPI m/m,-0.8%,-0.5%,-0.2%
+,8:30am,USD,High,Average Hourly Earnings m/m,0.0%,0.2%,0.4%
+,,USD,High,Non-Farm Employment Change,142K,201K,136K
+,,USD,High,Unemployment Rate,5.1%,5.1%,5.1%
+,10:00am,USD,Medium,Factory Orders m/m,-1.7%,-0.9%,0.2%
+,1:30pm,USD,Medium,FOMC Member Fischer Speaks,,,
+Sat Oct 3 2015,11:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,12:00pm,AUD,Holiday,Daylight Saving Time Shift,,,

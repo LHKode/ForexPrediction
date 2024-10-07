@@ -1,0 +1,101 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 3 2017,7:50pm,JPY,Low,Monetary Base y/y,16.3%,15.6%,15.6%
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.1%,,0.1%
+,9:30pm,AUD,Medium,Company Operating Profits q/q,-4.5%,-3.9%,5.8%
+,,AUD,Low,ANZ Job Advertisements m/m,2.0%,,1.6%
+Mon Sep 4 2017,3:00am,EUR,Medium,Spanish Unemployment Change,46.4K,16.3K,-26.9K
+,4:30am,EUR,Low,Sentix Investor Confidence,28.2,27.4,27.7
+,,GBP,High,Construction PMI,51.1,52.1,51.9
+,5:00am,EUR,Low,PPI m/m,0.0%,0.1%,-0.2%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,1.3%,,0.9%
+,7:30pm,AUD,Low,AIG Services Index,53.0,,56.4
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,-0.8%,,-0.8%
+,9:30pm,AUD,Medium,Current Account,-9.6B,-7.9B,-4.8B
+,9:45pm,CNY,Low,Caixin Services PMI,52.7,51.8,51.5
+,11:45pm,JPY,Low,10-y Bond Auction,0.01|4.0,,0.07|4.2
+Tue Sep 5 2017,12:30am,AUD,High,Cash Rate,1.50%,1.50%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+,1:45am,CHF,Low,GDP q/q,0.3%,0.5%,0.1%
+,3:15am,CHF,Medium,CPI m/m,0.0%,0.0%,-0.3%
+,,EUR,Low,Spanish Services PMI,56.0,56.9,57.6
+,3:45am,EUR,Low,Italian Services PMI,55.1,55.5,56.3
+,3:50am,EUR,Low,French Final Services PMI,54.9,55.5,55.5
+,3:55am,EUR,Low,German Final Services PMI,53.5,53.4,53.4
+,4:00am,EUR,Low,Final Services PMI,54.7,54.9,54.9
+,4:30am,GBP,High,Final Services PMI,53.2,53.5,53.8
+,5:00am,EUR,Low,Retail Sales m/m,-0.3%,-0.2%,0.6%
+,5:10am,AUD,High,RBA Gov Lowe Speaks,,,
+,8:00am,USD,Medium,FOMC Member Brainard Speaks,,,
+,10:00am,USD,Medium,Factory Orders m/m,-3.3%,-3.3%,3.2%
+,10:28am,NZD,Medium,GDT Price Index,0.3%,,-0.4%
+,1:10pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+,6:05pm,USD,Medium,FOMC Member Kaplan Speaks,,,
+,8:00pm,JPY,Low,Average Cash Earnings y/y,-0.3%,0.5%,0.4%
+,9:30pm,AUD,High,GDP q/q,0.8%,0.8%,0.3%
+Wed Sep 6 2017,2:00am,EUR,Low,German Factory Orders m/m,-0.7%,0.2%,0.9%
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.2%,-0.2%,0.6%
+,4:10am,EUR,Low,Retail PMI,50.8,,51.0
+,8:30am,CAD,High,Trade Balance,-3.0B,-3.2B,-3.8B
+,,CAD,Medium,Labor Productivity q/q,-0.1%,0.9%,1.3%
+,,USD,Medium,Trade Balance,-43.7B,-44.6B,-43.5B
+,9:45am,USD,Low,Final Services PMI,56.0,56.8,56.9
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.00%,0.75%,0.75%
+,,USD,High,ISM Services PMI,55.3,55.8,53.9
+,2:00pm,USD,Low,Beige Book,,,
+,7:30pm,AUD,Low,AIG Construction Index,55.3,,60.5
+,9:30pm,AUD,High,Retail Sales m/m,0.0%,0.2%,0.2%
+,,AUD,High,Trade Balance,0.46B,0.93B,0.89B
+,11:45pm,JPY,Low,30-y Bond Auction,0.83|3.7,,0.88|3.9
+Thu Sep 7 2017,1:00am,JPY,Low,Leading Indicators,105.0%,105.1%,105.9%
+,2:00am,EUR,Low,German Industrial Production m/m,0.0%,0.5%,-1.1%
+,2:45am,EUR,Low,French Trade Balance,-6.0B,-4.5B,-4.9B
+,3:00am,CHF,Low,Foreign Currency Reserves,717B,,715B
+,3:30am,GBP,Medium,Halifax HPI m/m,1.1%,0.2%,0.7%
+,4:44am,EUR,Low,Spanish 10-y Bond Auction,1.54|2.0,,1.27|1.9
+,5:00am,EUR,Low,Revised GDP q/q,0.6%,0.6%,0.6%
+,5:02am,EUR,Low,French 10-y Bond Auction,0.67|2.0,,0.75|2.1
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Medium,Building Permits m/m,-3.5%,-1.5%,4.4%
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,298K,245K,236K
+,,USD,Low,Revised Nonfarm Productivity q/q,1.5%,1.3%,0.9%
+,,USD,Low,Revised Unit Labor Costs q/q,0.2%,0.3%,0.6%
+,9:58am,USD,Low,IBD/TIPP Economic Optimism,53.4,53.1,52.2
+,10:00am,CAD,Medium,Ivey PMI,56.3,61.3,60.0
+,10:30am,USD,Low,Natural Gas Storage,65B,63B,30B
+,11:00am,USD,High,Crude Oil Inventories,4.6M,4.1M,-5.4M
+,6:45pm,NZD,Low,Manufacturing Sales q/q,3.9%,,3.1%
+,7:00pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,7:50pm,JPY,Medium,Final GDP q/q,0.6%,0.7%,1.0%
+,,JPY,Low,Bank Lending y/y,3.2%,3.3%,3.3%
+,,JPY,Low,Current Account,2.03T,1.65T,1.52T
+,,JPY,Low,Final GDP Price Index y/y,-0.4%,-0.4%,-0.4%
+,9:30pm,AUD,Low,Home Loans m/m,2.9%,1.0%,1.2%
+,11:00pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,11:05pm,CNY,Medium,Trade Balance,287B,337B,321B
+,11:13pm,CNY,Low,USD-Denominated Trade Balance,42.0B,48.4B,46.7B
+Fri Sep 8 2017,1:00am,JPY,Low,Economy Watchers Sentiment,49.7,49.5,49.7
+,1:45am,CHF,Low,Unemployment Rate,3.2%,3.2%,3.2%
+,2:00am,EUR,Low,German Trade Balance,19.5B,20.3B,21.2B
+,2:45am,EUR,Low,French Gov Budget Balance,-83.8B,,-62.3B
+,,EUR,Low,French Industrial Production m/m,0.5%,0.5%,-1.1%
+,4:30am,AUD,High,RBA Gov Lowe Speaks,,,
+,,GBP,High,Manufacturing Production m/m,0.5%,0.3%,0.0%
+,,GBP,Medium,Goods Trade Balance,-11.6B,-11.9B,-11.5B
+,,GBP,Low,Construction Output m/m,-0.9%,-0.2%,-0.1%
+,,GBP,Low,Consumer Inflation Expectations,2.8%,,2.8%
+,,GBP,Low,Industrial Production m/m,0.2%,0.2%,0.5%
+,7:44am,GBP,Low,NIESR GDP Estimate,0.4%,,0.2%
+,8:30am,CAD,High,Employment Change,22.2K,17.8K,10.9K
+,,CAD,High,Unemployment Rate,6.2%,6.3%,6.3%
+,,CAD,Low,Capacity Utilization Rate,85.0%,84.9%,83.2%
+,8:45am,USD,Low,FOMC Member Harker Speaks,,,
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.6%,0.4%,0.4%
+,3:00pm,USD,Low,Consumer Credit m/m,18.5B,15.1B,11.8B
+,9:28pm,CNY,Medium,CPI y/y,1.8%,1.7%,1.4%
+,,CNY,Medium,PPI y/y,6.3%,5.7%,5.5%
+Sat Sep 9 2017,,,No specified,,,,

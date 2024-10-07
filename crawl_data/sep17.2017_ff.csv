@@ -1,0 +1,85 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 17 2017,7:01pm,GBP,Low,Rightmove HPI m/m,-1.2%,,-0.9%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,9:30pm,AUD,Low,New Motor Vehicle Sales m/m,0.0%,,-2.4%
+Mon Sep 18 2017,4:02am,EUR,Low,Italian Trade Balance,6.56B,3.89B,4.50B
+,5:00am,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%
+,,EUR,Low,Final Core CPI y/y,1.2%,1.2%,1.2%
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Medium,Foreign Securities Purchases,23.95B,4.46B,-0.86B
+,10:00am,USD,Low,NAHB Housing Market Index,64,67,67
+,10:30am,AUD,Low,CB Leading Index m/m,0.1%,,0.4%
+,11:00am,GBP,High,BOE Gov Carney Speaks,,,
+,2:00pm,CAD,Medium,Gov Council Member Lane Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,1.3B,42.3B,34.4B
+,5:29pm,NZD,Low,Westpac Consumer Sentiment,112.4,,113.4
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,1.9%,1.2%,2.2%
+Tue Sep 19 2017,4:00am,EUR,Low,Current Account,25.1B,22.3B,22.8B
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,17.0,12.3,10.0
+,,EUR,Low,ZEW Economic Sentiment,31.7,32.4,29.3
+,5:35am,GBP,Low,30-y Bond Auction,1.87|2.0,,1.83|2.2
+,8:30am,CAD,Medium,Manufacturing Sales m/m,-2.6%,-1.7%,-1.9%
+,,USD,High,Building Permits,1.30M,1.22M,1.23M
+,,USD,Medium,Current Account,-123B,-115B,-114B
+,,USD,Medium,Housing Starts,1.18M,1.17M,1.19M
+,,USD,Medium,Import Prices m/m,0.6%,0.4%,-0.1%
+,10:33am,NZD,Medium,GDT Price Index,0.9%,,0.3%
+,6:45pm,NZD,Medium,Current Account,-0.62B,-0.82B,0.22B
+,7:50pm,JPY,Low,Trade Balance,0.37T,0.41T,0.36T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,0.1%
+,11:05pm,AUD,Medium,RBA Assist Gov Ellis Speaks,,,
+Wed Sep 20 2017,2:00am,EUR,Low,German PPI m/m,0.2%,0.1%,0.2%
+,4:30am,GBP,High,Retail Sales m/m,1.0%,0.2%,0.6%
+,5:35am,EUR,Low,German 30-y Bond Auction,1.27|1.8,,1.29|1.8
+,9:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,10:00am,USD,Medium,Existing Home Sales,5.35M,5.46M,5.44M
+,10:30am,USD,High,Crude Oil Inventories,4.6M,2.8M,5.9M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.25%,<1.25%,<1.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:45pm,NZD,High,GDP q/q,0.8%,0.8%,0.6%
+,6:48pm,NZD,Low,Visitor Arrivals m/m,-0.3%,,-5.3%
+,9:30pm,AUD,Low,RBA Bulletin,,,
+,11:00pm,NZD,Low,Credit Card Spending y/y,6.4%,,7.1%
+,11:15pm,JPY,High,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Thu Sep 21 2017,12:30am,JPY,Low,All Industries Activity m/m,-0.1%,-0.1%,0.2%
+,1:10am,AUD,High,RBA Gov Lowe Speaks,,,
+,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,2:00am,CHF,Low,Trade Balance,2.17B,2.41B,3.49B
+,2:30am,JPY,High,BOJ Press Conference,,,
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,Medium,Public Sector Net Borrowing,5.1B,6.5B,-1.3B
+,4:56am,EUR,Low,Spanish 10-y Bond Auction,1.69|1.5,,1.54|2.0
+,8:30am,CAD,Medium,Wholesale Sales m/m,1.5%,-0.7%,-0.6%
+,,USD,High,Unemployment Claims,259K,302K,282K
+,,USD,Medium,Philly Fed Manufacturing Index,23.8,17.3,18.9
+,9:00am,USD,Low,HPI m/m,0.2%,0.4%,0.1%
+,9:30am,EUR,High,ECB President Draghi Speaks,,,
+,9:55am,EUR,Low,Consumer Confidence,-1,-2,-2
+,10:00am,USD,Low,CB Leading Index m/m,0.4%,0.3%,0.3%
+,10:30am,USD,Low,Natural Gas Storage,97B,93B,91B
+Fri Sep 22 2017,3:00am,EUR,Medium,French Flash Manufacturing PMI,56.0,55.6,55.8
+,,EUR,Medium,French Flash Services PMI,57.1,54.8,54.9
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,60.6,59.0,59.3
+,,EUR,Medium,German Flash Services PMI,55.6,53.8,53.5
+,4:00am,EUR,Medium,Flash Manufacturing PMI,58.2,57.2,57.4
+,,EUR,Medium,Flash Services PMI,55.6,54.7,54.7
+,4:30am,EUR,High,ECB President Draghi Speaks,,,
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,6:00am,GBP,Low,CBI Industrial Order Expectations,7,13,13
+,8:30am,CAD,High,CPI m/m,0.1%,0.2%,0.0%
+,,CAD,High,Core Retail Sales m/m,0.2%,0.4%,0.4%
+,,CAD,Medium,Common CPI y/y,1.5%,,1.4%
+,,CAD,Medium,Median CPI y/y,1.7%,,1.7%
+,,CAD,Medium,Retail Sales m/m,0.4%,0.2%,0.1%
+,,CAD,Medium,Trimmed CPI y/y,1.4%,,1.3%
+,8:34am,CAD,Low,Core CPI m/m,0.0%,,-0.1%
+,8:59am,EUR,Low,Belgian NBB Business Climate,-3.5,-2.0,-2.1
+,9:29am,GBP,High,Prime Minister May Speaks,,,
+,9:45am,USD,Low,Flash Manufacturing PMI,53.0,52.9,52.8
+,,USD,Low,Flash Services PMI,55.1,55.8,56.0
+,All Day,NZD,High,Parliamentary Elections,,,
+Sat Sep 23 2017,10:00am,NZD,Holiday,Daylight Saving Time Shift,,,

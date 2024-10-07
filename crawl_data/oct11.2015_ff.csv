@@ -1,0 +1,92 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 11 2015,Day 3,All,Low,IMF Meetings,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+Mon Oct 12 2015,5:26am,CNY,Low,Foreign Direct Investment ytd/y,9.0%,,9.2%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:10am,USD,Medium,FOMC Member Lockhart Speaks,,,
+,9:00am,GBP,Medium,MPC Member Weale Speaks,,,
+,9:30am,GBP,Low,CB Leading Index m/m,0.2%,,-0.2%
+,10:30am,USD,Medium,FOMC Member Evans Speaks,,,
+,1:20pm,CAD,High,BOC Gov Poloz Speaks,,,
+,4:30pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,5:40pm,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,5:45pm,NZD,Low,FPI m/m,-0.5%,,-0.5%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,2.6%,,-1.0%
+,7:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+,,JPY,Low,Bank Lending y/y,2.6%,,2.7%
+,8:30pm,AUD,High,NAB Business Confidence,5,,1
+,10:00pm,CNY,High,Trade Balance,376B,292B,368B
+,11:08pm,CNY,Low,USD-Denominated Trade Balance,60.3B,46.9B,60.2B
+Tue Oct 13 2015,1:00am,JPY,Low,Consumer Confidence,40.6,41.6,41.7
+,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,-19.1%,,-16.5%
+,2:00am,EUR,Low,German Final CPI m/m,-0.2%,-0.2%,-0.2%
+,,EUR,Low,German WPI m/m,-0.6%,-0.3%,-0.8%
+,3:15am,CHF,Medium,PPI m/m,-0.1%,-0.1%,-0.7%
+,4:30am,GBP,High,CPI y/y,-0.1%,0.0%,0.0%
+,,GBP,Medium,BOE Credit Conditions Survey,,,
+,,GBP,Medium,PPI Input m/m,0.6%,0.2%,-3.0%
+,,GBP,Medium,RPI y/y,0.8%,1.0%,1.1%
+,,GBP,Low,Core CPI y/y,1.0%,1.1%,1.0%
+,,GBP,Low,ONS HPI y/y,5.2%,5.5%,5.2%
+,,GBP,Low,PPI Output m/m,-0.1%,-0.2%,-0.5%
+,5:00am,EUR,High,German ZEW Economic Sentiment,1.9,6.8,12.1
+,,EUR,Medium,ZEW Economic Sentiment,30.1,30.1,33.3
+,,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,6:00am,GBP,Medium,MPC Member McCafferty Speaks,,,
+,,USD,Low,NFIB Small Business Index,96.1,95.6,95.9
+,1:00pm,GBP,Medium,MPC Member Haldane Speaks,,,
+,4:10pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,7:30pm,AUD,Medium,Westpac Consumer Sentiment,4.2%,,-5.6%
+,7:50pm,JPY,Low,M2 Money Stock y/y,3.8%,4.3%,4.2%
+,,JPY,Low,PPI y/y,-3.9%,-3.9%,-3.6%
+,9:30pm,CNY,High,CPI y/y,1.6%,1.8%,2.0%
+,,CNY,Medium,PPI y/y,-5.9%,-5.9%,-5.9%
+Wed Oct 14 2015,2:45am,EUR,Low,French Final CPI m/m,-0.4%,-0.4%,0.3%
+,4:30am,GBP,High,Average Earnings Index 3m/y,3.0%,3.1%,2.9%
+,,GBP,High,Claimant Count Change,4.6K,-2.3K,1.2K
+,,GBP,Medium,Unemployment Rate,5.4%,5.5%,5.5%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,18.3,,9.7
+,,EUR,Low,Industrial Production m/m,-0.5%,-0.4%,0.8%
+,8:30am,USD,High,Core Retail Sales m/m,-0.3%,-0.1%,-0.1%
+,,USD,High,PPI m/m,-0.5%,-0.2%,0.0%
+,,USD,High,Retail Sales m/m,0.1%,0.2%,0.0%
+,,USD,Medium,Core PPI m/m,-0.3%,0.1%,0.3%
+,10:00am,USD,Low,Business Inventories m/m,0.0%,0.1%,0.0%
+,2:00pm,USD,Low,Beige Book,,,
+,5:30pm,NZD,Low,BusinessNZ Manufacturing Index,55.4,,55.1
+,8:00pm,AUD,Medium,MI Inflation Expectations,3.5%,,3.2%
+,8:30pm,AUD,High,Employment Change,-5.1K,7.2K,18.1K
+,,AUD,High,Unemployment Rate,6.2%,6.2%,6.2%
+,,AUD,Low,New Motor Vehicle Sales m/m,5.5%,,-1.7%
+Thu Oct 15 2015,12:30am,JPY,Low,Revised Industrial Production m/m,-1.2%,-0.5%,-0.5%
+,,JPY,Low,Tertiary Industry Activity m/m,0.1%,0.0%,0.2%
+,4:00am,CNY,Low,M2 Money Supply y/y,13.1%,13.1%,13.3%
+,,CNY,Low,New Loans,1050B,900B,810B
+,4:48am,EUR,Low,Spanish 10-y Bond Auction,1.77|2.2,,1.84|1.8
+,8:30am,USD,High,CPI m/m,-0.2%,-0.2%,-0.1%
+,,USD,High,Core CPI m/m,0.2%,0.1%,0.1%
+,,USD,High,Unemployment Claims,255K,269K,262K
+,,USD,Medium,Empire State Manufacturing Index,-11.4,-7.3,-14.7
+,10:00am,USD,High,Philly Fed Manufacturing Index,-4.5,-1.8,-6.0
+,10:30am,USD,Medium,FOMC Member Dudley Speaks,,,
+,,USD,Low,Natural Gas Storage,100B,92B,95B
+,11:00am,USD,Medium,Crude Oil Inventories,7.6M,2.2M,3.1M
+,3:26pm,USD,Low,Federal Budget Balance,91.1B,93.8B,-64.4B
+,5:45pm,NZD,High,CPI q/q,0.3%,0.2%,0.4%
+,8:30pm,AUD,Medium,RBA Financial Stability Review,,,
+Fri Oct 16 2015,2:35am,JPY,High,BOJ Gov Kuroda Speaks,,,
+,4:00am,EUR,Low,Italian Trade Balance,1.85B,4.23B,8.07B
+,5:00am,EUR,Medium,Final CPI y/y,-0.1%,-0.1%,-0.1%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,,EUR,Low,Trade Balance,19.8B,22.2B,22.4B
+,6:30am,GBP,Medium,MPC Member Forbes Speaks,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,-0.2%,-0.8%,1.7%
+,,CAD,Medium,Foreign Securities Purchases,3.11B,2.21B,-10.09B
+,9:15am,USD,Medium,Capacity Utilization Rate,77.5%,77.4%,77.8%
+,,USD,Medium,Industrial Production m/m,-0.2%,-0.2%,-0.1%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,92.1,88.8,87.2
+,,USD,Medium,JOLTS Job Openings,5.37M,5.77M,5.67M
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.8%
+,4:00pm,USD,Low,TIC Long-Term Purchases,20.4B,24.3B,7.7B
+Sat Oct 17 2015,,,No specified,,,,

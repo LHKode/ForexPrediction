@@ -1,0 +1,69 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 18 2018,4:45pm,NZD,Low,PPI Input q/q,1.4%,0.8%,1.0%
+,,NZD,Low,PPI Output q/q,1.5%,0.9%,0.9%
+,6:50pm,JPY,Low,Trade Balance,-0.30T,-0.48T,-0.14T
+,7:01pm,GBP,Low,Rightmove HPI m/m,-1.7%,,1.0%
+Mon Nov 19 2018,4:00am,EUR,Low,Current Account,17.0B,24.2B,24.3B
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,10:00am,USD,Low,NAHB Housing Market Index,60,67,68
+,10:45am,USD,Low,FOMC Member Williams Speaks,,,
+,7:30pm,AUD,Medium,Monetary Policy Meeting Minutes,,,
+Tue Nov 20 2018,2:00am,EUR,Low,German PPI m/m,0.3%,0.3%,0.5%
+,2:08am,CHF,Low,Trade Balance,3.75B,2.89B,2.23B
+,3:20am,AUD,Medium,RBA Gov Lowe Speaks,,,
+,5:00am,GBP,High,Monetary Policy Report Hearings,,,
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,6:00am,GBP,Low,CBI Industrial Order Expectations,10,-6,-6
+,8:30am,USD,Medium,Building Permits,1.26M,1.26M,1.27M
+,,USD,Medium,Housing Starts,1.23M,1.23M,1.21M
+,9:34am,NZD,Low,GDT Price Index,-3.5%,,-2.0%
+,10:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,12:45pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,5:00pm,CAD,Medium,Gov Council Member Lane Speaks,,,
+,6:30pm,AUD,Low,MI Leading Index m/m,0.1%,,0.0%
+,9:00pm,NZD,Low,Credit Card Spending y/y,6.3%,,7.8%
+,11:30pm,JPY,Low,All Industries Activity m/m,-0.9%,-0.8%,0.4%
+Wed Nov 21 2018,4:30am,GBP,Medium,Public Sector Net Borrowing,8.0B,5.6B,2.0B
+,8:30am,CAD,Low,Wholesale Sales m/m,-0.5%,0.1%,-0.1%
+,,USD,High,Core Durable Goods Orders m/m,0.1%,0.4%,0.0%
+,,USD,Medium,Durable Goods Orders m/m,-4.4%,-2.2%,0.7%
+,,USD,Low,Unemployment Claims,224K,215K,221K
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,97.5,98.4,98.3
+,,USD,Low,CB Leading Index m/m,0.1%,0.2%,0.6%
+,,USD,Low,Existing Home Sales,5.22M,5.20M,5.15M
+,,USD,Low,Revised UoM Inflation Expectations,2.8%,,2.8%
+,10:30am,USD,Medium,Crude Oil Inventories,4.9M,2.5M,10.3M
+,12:00pm,USD,Low,Natural Gas Storage,-134B,-105B,39B
+,4:45pm,NZD,Low,Visitor Arrivals m/m,4.0%,,-1.7%
+,6:30pm,JPY,Low,National Core CPI y/y,1.0%,1.0%,1.0%
+Thu Nov 22 2018,4:49am,EUR,Low,Spanish 10-y Bond Auction,1.61|1.6,,1.64|2.1
+,7:30am,EUR,Low,ECB Monetary Policy Meeting Accounts,,,
+,7:39am,GBP,High,Prime Minister May Speaks,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:30am,CAD,Low,Corporate Profits q/q,3.9%,,1.0%
+,9:45am,CAD,Low,Gov Council Member Wilkins Speaks,,,
+,9:57am,EUR,Low,Consumer Confidence,-4,-3,-3
+,10:30am,CAD,Low,BOC Financial System Review,,,
+,3:55pm,GBP,Medium,MPC Member Saunders Speaks,,,
+,5:00pm,AUD,Low,Flash Manufacturing PMI,54.5,,54.5
+,,AUD,Low,Flash Services PMI,52.6,,51.7
+,All Day,JPY,Holiday,Bank Holiday,,,
+Fri Nov 23 2018,2:00am,EUR,Low,German Final GDP q/q,-0.2%,-0.2%,-0.2%
+,3:15am,EUR,Medium,French Flash Manufacturing PMI,50.7,51.3,51.2
+,,EUR,Medium,French Flash Services PMI,55.0,54.9,55.3
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,51.6,52.3,52.2
+,,EUR,Medium,German Flash Services PMI,53.3,54.6,54.7
+,4:00am,EUR,Medium,Flash Manufacturing PMI,51.5,52.0,52.0
+,,EUR,Medium,Flash Services PMI,53.1,53.6,53.7
+,8:30am,CAD,High,CPI m/m,0.3%,0.1%,-0.4%
+,,CAD,High,Core Retail Sales m/m,0.1%,0.3%,-0.4%
+,,CAD,Medium,Common CPI y/y,1.9%,1.9%,1.9%
+,,CAD,Medium,Median CPI y/y,2.0%,2.0%,1.9%
+,,CAD,Medium,Retail Sales m/m,0.2%,0.1%,-0.1%
+,,CAD,Medium,Trimmed CPI y/y,2.1%,2.1%,2.0%
+,,CAD,Low,Core CPI m/m,0.4%,,0.0%
+,8:59am,EUR,Low,Belgian NBB Business Climate,0.4,-1.8,-1.1
+,9:45am,USD,Low,Flash Manufacturing PMI,55.4,55.8,55.7
+,,USD,Low,Flash Services PMI,54.4,55.0,54.8
+Sat Nov 24 2018,,,No specified,,,,

@@ -1,0 +1,91 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 4 2020,8:00pm,NZD,Low,ANZ Commodity Prices m/m,-0.2%,,-1.0%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:02pm,AUD,Low,MI Inflation Gauge m/m,0.1%,,0.1%
+,8:20pm,AUD,Low,AIG Construction Index,45.2,,37.9
+,8:30pm,AUD,Medium,NAB Business Confidence,-4,,-8
+Mon Oct 5 2020,3:15am,EUR,Low,Spanish Services PMI,42.4,46.4,47.7
+,3:45am,EUR,Low,Italian Services PMI,48.8,46.7,47.1
+,3:50am,EUR,Low,French Final Services PMI,47.5,47.5,47.5
+,3:55am,EUR,Low,German Final Services PMI,50.6,49.1,49.1
+,4:00am,EUR,Low,Final Services PMI,48.0,47.6,47.6
+,4:30am,EUR,Low,Sentix Investor Confidence,-8.3,-9.2,-8.0
+,,GBP,Low,Final Services PMI,56.1,55.1,55.1
+,5:00am,EUR,Low,Retail Sales m/m,4.4%,2.4%,-1.8%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,9:45am,USD,Low,Final Services PMI,54.6,54.6,54.6
+,10:00am,USD,High,ISM Services PMI,57.8,56.3,56.9
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:30pm,AUD,Low,ANZ Job Advertisements m/m,7.8%,,2.6%
+,,AUD,Low,Trade Balance,2.64B,5.05B,4.65B
+,11:30pm,AUD,High,Cash Rate,0.25%,0.25%,0.25%
+,,AUD,High,RBA Rate Statement,,,
+,11:35pm,JPY,Low,30-y Bond Auction,0.64|3.5,,0.61|3.5
+Tue Oct 6 2020,2:00am,EUR,Low,German Factory Orders m/m,4.5%,3.0%,3.3%
+,4:30am,AUD,High,Annual Budget Release,,,
+,,GBP,Low,Construction PMI,56.8,54.0,54.6
+,4:35am,EUR,Medium,ECB President Lagarde Speaks,,,
+,4:45am,GBP,Low,Housing Equity Withdrawal q/q,-7.7B,-4.3B,-4.5B
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,CAD,Medium,Trade Balance,-2.4B,-2.1B,-2.5B
+,,USD,Low,Trade Balance,-67.1B,-66.2B,-63.4B
+,9:00am,EUR,Medium,ECB President Lagarde Speaks,,,
+,9:59am,USD,Low,IBD/TIPP Economic Optimism,55.2,55.0,45.0
+,10:00am,USD,Low,JOLTS Job Openings,6.49M,6.50M,6.70M
+,10:40am,USD,High,Fed Chair Powell Speaks,,,
+,10:57am,NZD,Low,GDT Price Index,2.2%,,3.6%
+,11:45am,USD,Low,FOMC Member Harker Speaks,,,
+,5:30pm,AUD,Low,AIG Services Index,36.2,,42.5
+,6:00pm,USD,Medium,FOMC Member Kaplan Speaks,,,
+,7:05pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+Wed Oct 7 2020,1:00am,JPY,Low,Leading Indicators,88.8%,89.2%,86.7%
+,1:55am,EUR,Low,German Industrial Production m/m,-0.2%,1.5%,1.4%
+,2:45am,EUR,Low,French Trade Balance,-7.7B,-6.5B,-7.0B
+,3:00am,CHF,Low,Foreign Currency Reserves,874B,,849B
+,3:32am,GBP,Low,Halifax HPI m/m,1.6%,1.5%,1.7%
+,4:00am,EUR,Low,Italian Retail Sales m/m,8.2%,3.8%,-6.0%
+,4:30am,GBP,Low,HPI y/y,2.3%,3.4%,2.9%
+,5:07am,GBP,Low,10-y Bond Auction,0.31|2.8,,0.26|3.0
+,5:34am,EUR,Low,German 10-y Bond Auction,-0.51|2.1,,-0.50|2.0
+,8:10am,EUR,Medium,ECB President Lagarde Speaks,,,
+,10:00am,CAD,Low,Ivey PMI,54.3,64.5,67.8
+,10:30am,USD,Low,Crude Oil Inventories,0.5M,-1.2M,-2.0M
+,1:01pm,USD,Low,10-y Bond Auction,0.77|2.5,,0.70|2.3
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,2:40pm,USD,Low,FOMC Member Kashkari Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,-7.2B,14.9B,14.7B
+,,USD,Low,FOMC Member Williams Speaks,,,
+,7:01pm,GBP,Low,RICS House Price Balance,61%,39%,44%
+,7:50pm,JPY,Low,Current Account,1.65T,1.50T,0.96T
+,8:00pm,NZD,Low,Prelim ANZ Business Confidence,-14.5,,-28.5
+Thu Oct 8 2020,1:02am,JPY,Low,Economy Watchers Sentiment,49.3,45.0,43.9
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.4%,3.4%
+,1:59am,EUR,Low,German Trade Balance,15.7B,17.1B,18.0B
+,3:25am,GBP,High,BOE Gov Bailey Speaks,,,
+,5:30am,CHF,Low,SNB Chairman Jordan Speaks,,,
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,7:30am,EUR,Low,ECB Monetary Policy Meeting Accounts,,,
+,8:13am,CAD,Low,Housing Starts,209K,240K,262K
+,8:30am,CAD,High,BOC Gov Macklem Speaks,,,
+,,USD,Medium,Unemployment Claims,840K,820K,849K
+,10:30am,USD,Low,Natural Gas Storage,75B,73B,76B
+,1:01pm,USD,Low,30-y Bond Auction,1.58|2.3,,1.47|2.3
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-1.3%,-1.2%,-1.5%
+,,JPY,Low,Household Spending y/y,-6.9%,-6.6%,-7.6%
+,8:30pm,AUD,High,RBA Financial Stability Review,,,
+,9:45pm,CNY,Low,Caixin Services PMI,54.8,54.5,54.0
+Fri Oct 9 2020,2:00am,GBP,Low,Construction Output m/m,3.0%,5.1%,17.2%
+,,GBP,Low,GDP m/m,2.1%,4.6%,6.4%
+,,GBP,Low,Goods Trade Balance,-9.0B,-9.1B,-7.9B
+,,GBP,Low,Index of Services 3m/3m,7.1%,7.0%,-7.1%
+,,GBP,Low,Industrial Production m/m,0.3%,2.6%,5.2%
+,,GBP,Low,Manufacturing Production m/m,0.7%,3.2%,6.9%
+,2:45am,EUR,Low,French Industrial Production m/m,1.3%,2.1%,3.8%
+,4:00am,EUR,Low,Italian Industrial Production m/m,7.7%,1.3%,7.0%
+,8:30am,CAD,High,Employment Change,378.2K,150.0K,245.8K
+,,CAD,High,Unemployment Rate,9.0%,9.8%,10.2%
+,8:48am,GBP,Low,NIESR GDP Estimate,15.2%,,8.0%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.4%,0.5%,0.5%
+Sat Oct 10 2020,,,No specified,,,,

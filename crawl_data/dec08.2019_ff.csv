@@ -1,0 +1,89 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 8 2019,4:45pm,NZD,Low,Manufacturing Sales q/q,0.9%,,-0.5%
+,6:50pm,JPY,Low,Bank Lending y/y,2.1%,2.1%,2.0%
+,,JPY,Low,Current Account,1.73T,1.74T,1.49T
+,,JPY,Low,Final GDP Price Index y/y,0.6%,0.6%,0.6%
+,,JPY,Low,Final GDP q/q,0.4%,0.2%,0.1%
+Mon Dec 9 2019,12:00am,JPY,Low,Economy Watchers Sentiment,39.4,39.8,36.7
+,1:45am,CHF,Low,Unemployment Rate,2.3%,2.3%,2.3%
+,2:00am,EUR,Low,German Trade Balance,20.6B,19.0B,19.2B
+,4:30am,EUR,Low,Sentix Investor Confidence,0.7,-5.4,-4.5
+,8:13am,CAD,Low,Housing Starts,201K,200K,201K
+,8:30am,CAD,Low,Building Permits m/m,-1.5%,3.5%,-5.9%
+,5:05pm,AUD,High,RBA Gov Lowe Speaks,,,
+,6:50pm,JPY,Low,M2 Money Stock y/y,2.8%,2.5%,2.4%
+,7:30pm,AUD,Medium,HPI q/q,2.4%,0.5%,-0.7%
+,,AUD,Medium,NAB Business Confidence,0,,2
+,8:30pm,CNY,Medium,CPI y/y,4.5%,4.5%,3.8%
+,,CNY,Low,PPI y/y,-1.4%,-1.5%,-1.6%
+,9:45pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+Tue Dec 10 2019,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,-37.9%,,-37.4%
+,1:30am,EUR,Low,French Final Private Payrolls q/q,0.2%,0.3%,0.3%
+,2:45am,EUR,Low,French Industrial Production m/m,0.4%,0.3%,0.4%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.3%,-0.2%,-0.4%
+,4:01am,CNY,High,New Loans,1390B,1200B,661B
+,,CNY,Low,M2 Money Supply y/y,8.2%,8.4%,8.4%
+,4:30am,GBP,Medium,GDP m/m,0.0%,0.1%,-0.1%
+,,GBP,Medium,Manufacturing Production m/m,0.2%,0.1%,-0.4%
+,,GBP,Low,Construction Output m/m,-2.3%,0.2%,-0.2%
+,,GBP,Low,Goods Trade Balance,-14.5B,-11.5B,-11.5B
+,,GBP,Low,Index of Services 3m/3m,0.2%,0.3%,0.4%
+,,GBP,Low,Industrial Production m/m,0.1%,0.2%,-0.3%
+,5:00am,EUR,High,German ZEW Economic Sentiment,10.7,1.1,-2.1
+,,EUR,Low,ZEW Economic Sentiment,11.2,2.2,-1.0
+,6:00am,USD,Low,NFIB Small Business Index,104.7,103.1,102.4
+,7:20am,GBP,Low,NIESR GDP Estimate,0.0%,,0.0%
+,8:30am,USD,Low,Revised Nonfarm Productivity q/q,-0.2%,-0.1%,-0.3%
+,,USD,Low,Revised Unit Labor Costs q/q,2.5%,3.4%,3.6%
+,1:01pm,USD,Medium,10-y Bond Auction,1.84|2.4,,1.81|2.5
+,6:30pm,AUD,Medium,Westpac Consumer Sentiment,-1.9%,,4.5%
+,6:50pm,JPY,Low,BSI Manufacturing Index,-7.8,0.2,-0.2
+,,JPY,Low,PPI y/y,0.1%,0.0%,-0.4%
+Wed Dec 11 2019,8:30am,CAD,Low,Capacity Utilization Rate,81.7%,82.0%,83.3%
+,,USD,High,CPI m/m,0.3%,0.2%,0.4%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,10:30am,USD,Medium,Crude Oil Inventories,0.8M,-2.9M,-4.9M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.75%,<1.75%,<1.75%
+,,USD,Low,Federal Budget Balance,-208.8B,-200.0B,-134.5B
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:45pm,NZD,Low,FPI m/m,-0.7%,,-0.3%
+,,NZD,Low,Visitor Arrivals m/m,0.0%,,-0.1%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,-6.0%,0.7%,-2.9%
+,7:00pm,AUD,Low,MI Inflation Expectations,4.0%,,4.0%
+,7:01pm,GBP,Low,RICS House Price Balance,-12%,-5%,-6%
+,7:30pm,AUD,Low,RBA Bulletin,,,
+Thu Dec 12 2019,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,2:00am,EUR,Low,German Final CPI m/m,-0.8%,-0.8%,-0.8%
+,2:30am,CHF,Low,PPI m/m,-0.4%,-0.1%,-0.2%
+,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,SNB Policy Rate,-0.75%,-0.75%,-0.75%
+,All Day,GBP,High,Parliamentary Elections,,,
+,4:00am,CHF,High,SNB Press Conference,,,
+,,EUR,Low,Italian Quarterly Unemployment Rate,9.8%,9.8%,9.9%
+,5:00am,EUR,Low,Industrial Production m/m,-0.5%,-0.5%,-0.1%
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,EUR,High,ECB Press Conference,,,
+,,USD,Medium,Core PPI m/m,-0.2%,0.2%,0.3%
+,,USD,Medium,PPI m/m,0.0%,0.2%,0.4%
+,,USD,Low,Unemployment Claims,252K,213K,203K
+,10:30am,USD,Low,Natural Gas Storage,-73B,-76B,-19B
+,12:40pm,CAD,High,BOC Gov Poloz Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,2.31|2.5,,2.43|2.2
+,4:30pm,NZD,Medium,BusinessNZ Manufacturing Index,51.4,,52.6
+,6:50pm,JPY,Low,Tankan Manufacturing Index,0,3,5
+,,JPY,Low,Tankan Non-Manufacturing Index,20,16,21
+,10:11pm,CNY,Low,Foreign Direct Investment ytd/y,6.0%,,6.6%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,-4.5%,-4.1%,-4.2%
+Fri Dec 13 2019,2:00am,EUR,Low,German WPI m/m,-0.1%,0.5%,-0.1%
+,4:30am,GBP,Low,Consumer Inflation Expectations,3.1%,,3.3%
+,8:30am,USD,High,Core Retail Sales m/m,0.1%,0.4%,0.3%
+,,USD,High,Retail Sales m/m,0.2%,0.5%,0.4%
+,,USD,Low,Import Prices m/m,0.2%,0.2%,-0.5%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.4%,,-0.3%
+,10:00am,USD,Low,Business Inventories m/m,0.2%,0.2%,-0.1%
+,11:00am,USD,Low,FOMC Member Williams Speaks,,,
+Sat Dec 14 2019,,,No specified,,,,

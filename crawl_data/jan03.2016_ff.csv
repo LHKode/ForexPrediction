@@ -1,0 +1,97 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 3 2016,1:15pm,USD,Medium,FOMC Member Fischer Speaks,,,
+,All Day,NZD,Holiday,Bank Holiday,,,
+,5:30pm,AUD,Low,AIG Manufacturing Index,51.9,,52.5
+,,USD,Medium,FOMC Member Mester Speaks,,,
+,8:35pm,JPY,Low,Final Manufacturing PMI,52.6,52.5,52.5
+,8:45pm,CNY,High,Caixin Manufacturing PMI,48.2,48.9,48.6
+Mon Jan 4 2016,12:30am,AUD,Low,Commodity Prices y/y,-23.3%,,-21.8%
+,All Day,EUR,Medium,German Prelim CPI m/m,-0.1%,0.2%,0.1%
+,3:15am,EUR,Medium,Spanish Manufacturing PMI,53.0,53.1,53.1
+,3:30am,CHF,Low,Manufacturing PMI,52.1,50.2,49.7
+,3:45am,EUR,Low,Italian Manufacturing PMI,55.6,54.9,54.9
+,3:50am,EUR,Low,French Final Manufacturing PMI,51.4,51.6,51.6
+,3:55am,EUR,Low,German Final Manufacturing PMI,53.2,53.0,53.0
+,4:00am,EUR,Low,Final Manufacturing PMI,53.2,53.1,53.1
+,4:30am,GBP,High,Final Manufacturing PMI,51.9,52.8,52.5
+,,GBP,Medium,Net Lending to Individuals m/m,5.3B,4.9B,4.8B
+,,GBP,Low,M4 Money Supply m/m,0.4%,0.5%,0.6%
+,,GBP,Low,Mortgage Approvals,70K,70K,70K
+,9:30am,CAD,Low,Manufacturing PMI,47.5,,48.6
+,9:45am,USD,Low,Final Manufacturing PMI,51.2,51.1,51.3
+,10:00am,USD,High,ISM Manufacturing PMI,48.2,49.1,48.6
+,,USD,Low,Construction Spending m/m,-0.4%,0.7%,0.3%
+,,USD,Low,ISM Manufacturing Prices,33.5,36.5,35.5
+,6:50pm,JPY,Low,Monetary Base y/y,29.5%,33.2%,32.5%
+,10:45pm,JPY,Low,10-y Bond Auction,0.25|3.3,,0.32|3.6
+Tue Jan 5 2016,3:00am,EUR,Medium,Spanish Unemployment Change,-55.8K,-52.6K,-27.1K
+,3:55am,EUR,Medium,German Unemployment Change,-14K,-7K,-14K
+,4:30am,GBP,High,Construction PMI,57.8,56.1,55.3
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,0.2%,0.4%,0.2%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.9%,1.0%,0.9%
+,,EUR,Low,Italian Prelim CPI m/m,0.0%,0.1%,-0.4%
+,5:33am,GBP,Low,10-y Bond Auction,1.88|1.6,,1.94|1.5
+,8:30am,CAD,Medium,RMPI m/m,-4.0%,-2.3%,0.0%
+,,CAD,Low,IPPI m/m,-0.2%,0.1%,-0.5%
+,9:07am,NZD,High,GDT Price Index,-1.6%,,1.9%
+,All Day,USD,Low,Wards Total Vehicle Sales,17.2M,18.0M,18.0M
+,All Day,USD,Low,Total Vehicle Sales,17.3M,18.1M,18.2M
+,5:30pm,AUD,Low,AIG Services Index,46.3,,48.2
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-2.0%,,-2.1%
+,8:45pm,CNY,Medium,Caixin Services PMI,50.2,52.3,51.2
+Wed Jan 6 2016,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,3:15am,EUR,Low,Spanish Services PMI,55.1,56.9,56.7
+,3:45am,EUR,Low,Italian Services PMI,55.3,53.8,53.4
+,3:50am,EUR,Low,French Final Services PMI,49.8,50.0,50.0
+,3:55am,EUR,Low,German Final Services PMI,56.0,55.4,55.4
+,4:00am,EUR,Low,Final Services PMI,54.2,53.9,53.9
+,4:30am,GBP,High,Final Services PMI,55.5,55.6,55.9
+,5:00am,EUR,Low,PPI m/m,-0.2%,-0.2%,-0.3%
+,8:15am,USD,High,ADP Non-Farm Employment Change,257K,193K,211K
+,8:30am,CAD,High,Trade Balance,-2.0B,-2.6B,-2.5B
+,,USD,High,Trade Balance,-42.4B,-44.0B,-44.6B
+,9:45am,USD,Low,Final Services PMI,54.3,55.1,53.7
+,10:00am,USD,High,ISM Services PMI,55.3,56.0,55.9
+,,USD,Medium,Factory Orders m/m,-0.2%,-0.2%,1.3%
+,10:30am,USD,Medium,Crude Oil Inventories,-5.1M,0.7M,2.6M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,7:30pm,AUD,High,Building Approvals m/m,-12.7%,-2.8%,3.3%
+,,AUD,High,Trade Balance,-2.91B,-2.98B,-3.25B
+,10:45pm,JPY,Low,30-y Bond Auction,1.22|3.7,,1.40|3.9
+Thu Jan 7 2016,2:00am,EUR,Medium,German Factory Orders m/m,1.5%,0.1%,1.7%
+,,EUR,Medium,German Retail Sales m/m,0.2%,0.5%,-0.1%
+,3:00am,CHF,Medium,Foreign Currency Reserves,560B,,563B
+,,GBP,Medium,Halifax HPI m/m,1.7%,0.5%,0.0%
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,11.3%,11.5%,11.5%
+,4:10am,EUR,Low,Retail PMI,49.0,,48.5
+,4:59am,EUR,Low,French 10-y Bond Auction,0.86|1.4,,0.50|2.3
+,5:00am,EUR,Medium,Unemployment Rate,10.5%,10.7%,10.6%
+,,EUR,Low,Retail Sales m/m,-0.3%,0.2%,-0.2%
+,7:30am,USD,Low,Challenger Job Cuts y/y,-27.6%,,-13.9%
+,8:25am,CAD,High,BOC Gov Poloz Speaks,,,
+,8:30am,USD,High,Unemployment Claims,277K,271K,287K
+,10:00am,CAD,Medium,Ivey PMI,49.9,56.7,63.6
+,10:30am,USD,Low,Natural Gas Storage,-113B,-95B,-58B
+,5:30pm,AUD,Low,AIG Construction Index,46.8,,50.7
+,7:00pm,JPY,Low,BOJ Summary of Opinions,,,
+,7:30pm,AUD,High,Retail Sales m/m,0.4%,0.4%,0.6%
+,8:30pm,JPY,Low,Average Cash Earnings y/y,0.0%,0.7%,0.7%
+Fri Jan 8 2016,12:00am,JPY,Low,Leading Indicators,103.9%,103.9%,104.2%
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.4%,3.4%
+,2:00am,EUR,Low,German Industrial Production m/m,-0.3%,0.4%,0.5%
+,,EUR,Low,German Trade Balance,19.7B,20.1B,20.5B
+,2:45am,EUR,Low,French Industrial Production m/m,-0.9%,-0.2%,0.7%
+,,EUR,Low,French Trade Balance,-4.6B,-4.0B,-4.9B
+,3:15am,CHF,Low,CPI m/m,-0.4%,-0.2%,-0.1%
+,4:30am,GBP,Medium,Goods Trade Balance,-10.6B,-10.5B,-11.2B
+,8:30am,CAD,High,Employment Change,22.8K,10.4K,-35.7K
+,,CAD,High,Unemployment Rate,7.1%,7.1%,7.1%
+,,CAD,Medium,Building Permits m/m,-19.6%,-3.2%,9.9%
+,,USD,High,Average Hourly Earnings m/m,0.0%,0.2%,0.2%
+,,USD,High,Non-Farm Employment Change,292K,203K,252K
+,,USD,High,Unemployment Rate,5.0%,5.0%,5.0%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,-0.3%,0.0%,-0.3%
+,3:00pm,USD,Low,Consumer Credit m/m,14.0B,18.7B,15.6B
+,8:30pm,CNY,High,CPI y/y,1.6%,1.7%,1.5%
+,,CNY,Medium,PPI y/y,-5.9%,-5.8%,-5.9%
+Sat Jan 9 2016,,,No specified,,,,

@@ -1,0 +1,67 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 20 2016,4:45pm,NZD,Medium,Core Retail Sales q/q,0.3%,1.1%,2.5%
+,6:50pm,JPY,Low,Trade Balance,0.47T,0.41T,0.36T
+,9:00pm,NZD,Low,Credit Card Spending y/y,10.2%,,8.5%
+,11:30pm,JPY,Low,All Industries Activity m/m,0.2%,0.1%,0.2%
+Mon Nov 21 2016,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Medium,Wholesale Sales m/m,-1.2%,0.3%,0.8%
+,9:00am,CNY,Low,CB Leading Index m/m,0.8%,,1.2%
+,10:30am,AUD,Low,CB Leading Index m/m,0.5%,,0.0%
+,11:20am,EUR,High,ECB President Draghi Speaks,,,
+,2:25pm,GBP,Medium,MPC Member Haldane Speaks,,,
+Tue Nov 22 2016,2:00am,CHF,Low,Trade Balance,2.68B,3.89B,4.33B
+,2:45am,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,4:30am,GBP,Medium,Public Sector Net Borrowing,4.3B,5.9B,9.2B
+,5:34am,GBP,Low,10-y Bond Auction,1.38|2.0,,1.08|2.0
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-3,-8,-17
+,8:30am,CAD,High,Core Retail Sales m/m,0.0%,0.6%,0.2%
+,,CAD,Medium,Retail Sales m/m,0.6%,0.7%,0.1%
+,9:59am,USD,Low,Richmond Manufacturing Index,4,1,-4
+,10:00am,EUR,Low,Consumer Confidence,-6,-8,-8
+,,USD,Medium,Existing Home Sales,5.60M,5.43M,5.49M
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,Construction Work Done q/q,-4.9%,-1.5%,-3.1%
+Wed Nov 23 2016,3:00am,EUR,Medium,French Flash Manufacturing PMI,51.5,51.5,51.8
+,,EUR,Medium,French Flash Services PMI,52.6,52.1,51.4
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,54.4,54.8,55.0
+,,EUR,Medium,German Flash Services PMI,55.0,54.1,54.2
+,4:00am,EUR,Medium,Flash Manufacturing PMI,53.7,53.2,53.5
+,,EUR,Medium,Flash Services PMI,54.1,53.1,52.8
+,,GBP,Medium,MPC Member Forbes Speaks,,,
+,5:35am,EUR,Low,German 10-y Bond Auction,0.21|2.0,,0.12|1.5
+,7:30am,GBP,High,Autumn Forecast Statement,,,
+,8:30am,USD,High,Core Durable Goods Orders m/m,1.0%,0.2%,0.1%
+,,USD,High,Unemployment Claims,251K,241K,233K
+,,USD,Medium,Durable Goods Orders m/m,4.8%,1.2%,-0.3%
+,9:00am,USD,Low,HPI m/m,0.6%,0.5%,0.7%
+,9:45am,USD,Low,Flash Manufacturing PMI,53.9,53.6,53.4
+,10:00am,USD,Medium,New Home Sales,563K,591K,574K
+,,USD,Medium,Revised UoM Consumer Sentiment,93.8,91.6,91.6
+,,USD,Low,Revised UoM Inflation Expectations,2.4%,,2.7%
+,10:30am,USD,High,Crude Oil Inventories,-1.3M,0.3M,5.3M
+,12:00pm,USD,Low,Natural Gas Storage,-2B,7B,30B
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,7:30pm,JPY,Low,Flash Manufacturing PMI,51.1,51.7,51.4
+Thu Nov 24 2016,2:00am,EUR,Low,German Final GDP q/q,0.2%,0.2%,0.2%
+,4:00am,EUR,High,German ifo Business Climate,110.4,110.6,110.4
+,4:08am,EUR,Low,ECB Financial Stability Review,,,
+,4:30am,GBP,Low,High Street Lending,40.9K,38.8K,38.7K
+,7:00am,EUR,Low,German GfK Consumer Climate,9.8,9.8,9.7
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:30am,CAD,Low,Corporate Profits q/q,14.0%,,-3.4%
+,8:59am,EUR,Low,Belgian NBB Business Climate,-1.8,-1.5,-1.8
+,12:15pm,CHF,Medium,Gov Board Member Zurbrugg Speaks,,,
+,4:45pm,NZD,Medium,Trade Balance,-846M,-950M,-1394M
+,6:30pm,JPY,Medium,Tokyo Core CPI y/y,-0.4%,-0.4%,-0.4%
+,,JPY,Low,National Core CPI y/y,-0.4%,-0.4%,-0.5%
+,6:50pm,JPY,Low,SPPI y/y,0.5%,0.3%,0.2%
+Fri Nov 25 2016,12:00am,JPY,Low,BOJ Core CPI y/y,0.3%,0.3%,0.2%
+,4:30am,GBP,High,Second Estimate GDP q/q,0.5%,0.5%,0.5%
+,,GBP,Medium,Prelim Business Investment q/q,0.9%,-0.2%,1.0%
+,,GBP,Low,Index of Services 3m/3m,0.8%,0.8%,0.8%
+,5:00am,EUR,Low,Italian Retail Sales m/m,-0.6%,0.0%,-0.2%
+,6:00am,GBP,Low,CBI Realized Sales,26,12,21
+,8:30am,USD,Low,Goods Trade Balance,-62.0B,-59.2B,-56.5B
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.4%,0.3%,0.2%
+,9:45am,USD,Low,Flash Services PMI,54.7,54.9,54.8
+Sat Nov 26 2016,,,No specified,,,,

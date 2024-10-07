@@ -1,0 +1,95 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 25 2018,All Day,EUR,High,EU Economic Summit,,,
+,4:45pm,NZD,High,Retail Sales q/q,0.0%,1.0%,1.1%
+,,NZD,Medium,Core Retail Sales q/q,0.4%,1.5%,1.3%
+,5:15pm,AUD,Medium,RBA Gov Lowe Speaks,,,
+,7:30pm,JPY,Low,Flash Manufacturing PMI,51.8,53.0,52.9
+,10:00pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+Mon Nov 26 2018,4:00am,EUR,Medium,German ifo Business Climate,102.0,102.3,102.9
+,4:30am,GBP,Low,High Street Lending,39.7K,38.9K,38.7K
+,9:00am,CNY,Low,CB Leading Index m/m,1.2%,,1.0%
+,,EUR,High,ECB President Draghi Speaks,,,
+,1:30pm,GBP,High,BOE Gov Carney Speaks,,,
+,4:45pm,NZD,Medium,Trade Balance,-1295M,-850M,-1596M
+,6:50pm,JPY,Low,SPPI y/y,1.3%,1.2%,1.1%
+Tue Nov 27 2018,12:00am,JPY,Low,BOJ Core CPI y/y,0.6%,0.5%,0.5%
+,6:00am,GBP,Low,CBI Realized Sales,19,10,5
+,8:30am,USD,Medium,FOMC Member Clarida Speaks,,,
+,9:00am,USD,Low,HPI m/m,0.2%,0.4%,0.4%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,5.1%,5.3%,5.5%
+,10:00am,USD,High,CB Consumer Confidence,135.7,136.2,137.9
+,2:30pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,3:00pm,NZD,High,RBNZ Financial Stability Report,,,
+,5:00pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,7:00pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,0.1%,,-0.2%
+,7:30pm,AUD,Medium,Construction Work Done q/q,-2.8%,0.9%,1.8%
+Wed Nov 28 2018,2:00am,EUR,Low,German GfK Consumer Climate,10.4,10.5,10.6
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,-42.3,,-39.1
+,,EUR,Low,M3 Money Supply y/y,3.9%,3.5%,3.6%
+,4:03am,EUR,Low,Private Loans y/y,3.2%,3.2%,3.2%
+,5:34am,EUR,Low,German 10-y Bond Auction,0.34|1.6,,0.42|1.4
+,8:30am,USD,High,Prelim GDP q/q,3.5%,3.6%,3.5%
+,,USD,Low,Goods Trade Balance,-77.2B,-76.7B,-76.3B
+,,USD,Low,Prelim GDP Price Index q/q,1.7%,1.7%,1.7%
+,,USD,Low,Prelim Wholesale Inventories m/m,0.7%,0.5%,0.4%
+,10:00am,USD,Low,New Home Sales,544K,583K,597K
+,,USD,Low,Richmond Manufacturing Index,14,16,15
+,10:30am,USD,Medium,Crude Oil Inventories,3.6M,0.6M,4.9M
+,11:40am,GBP,High,Bank Stress Test Results,,,
+,,GBP,Medium,BOE Financial Stability Report,,,
+,,GBP,Low,FPC Statement,,,
+,11:45am,GBP,High,BOE Gov Carney Speaks,,,
+,12:00pm,USD,High,Fed Chair Powell Speaks,,,
+,6:50pm,JPY,Low,Retail Sales y/y,3.5%,2.7%,2.2%
+,7:00pm,NZD,High,ANZ Business Confidence,-37.1,,-37.1
+,7:30pm,AUD,High,Private Capital Expenditure q/q,-0.5%,1.1%,-0.9%
+,11:00pm,AUD,Low,HIA New Home Sales m/m,-0.8%,,1.1%
+Thu Nov 29 2018,1:45am,CHF,Low,GDP q/q,-0.2%,0.4%,0.7%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.1%,0.2%,0.2%
+,2:45am,EUR,Low,French Consumer Spending m/m,0.8%,0.5%,-2.0%
+,,EUR,Low,French Prelim GDP q/q,0.4%,0.4%,0.4%
+,3:00am,EUR,Low,Spanish Flash CPI y/y,1.7%,2.0%,2.3%
+,3:55am,EUR,Low,German Unemployment Change,-16K,-10K,-12K
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,5.0B,4.5B,4.9B
+,,GBP,Low,M4 Money Supply m/m,0.7%,0.3%,-0.3%
+,,GBP,Low,Mortgage Approvals,67K,65K,66K
+,5:21am,EUR,Low,Italian 10-y Bond Auction,3.24|1.4,,3.36|1.5
+,6:30am,EUR,Low,ECB Financial Stability Review,,,
+,8:30am,CAD,Medium,Current Account,-10.3B,-11.9B,-16.7B
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.2%,0.2%
+,,USD,Medium,Personal Spending m/m,0.6%,0.4%,0.2%
+,,USD,Low,Personal Income m/m,0.5%,0.4%,0.2%
+,,USD,Low,Unemployment Claims,234K,221K,224K
+,8:37am,GBP,Low,GfK Consumer Confidence,-13,-11,-10
+,10:00am,USD,Low,Pending Home Sales m/m,-2.6%,0.8%,0.7%
+,10:30am,USD,Low,Natural Gas Storage,-59B,-76B,-134B
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,4:45pm,NZD,Low,Building Consents m/m,1.5%,,-1.3%
+,6:30pm,JPY,Low,Tokyo Core CPI y/y,1.0%,1.1%,1.0%
+,,JPY,Low,Unemployment Rate,2.4%,2.3%,2.3%
+,6:50pm,JPY,Low,Prelim Industrial Production m/m,2.9%,1.3%,-0.4%
+,7:30pm,AUD,Low,Private Sector Credit m/m,0.4%,0.4%,0.4%
+,7:59pm,CNY,Medium,Manufacturing PMI,50.0,50.2,50.2
+,8:00pm,CNY,Medium,Non-Manufacturing PMI,53.4,53.8,53.9
+,,NZD,High,RBNZ Gov Orr Speaks,,,
+Fri Nov 30 2018,12:00am,JPY,Low,Consumer Confidence,42.9,43.3,43.0
+,12:02am,JPY,Low,Housing Starts y/y,0.3%,0.4%,-1.5%
+,Day 1,All,High,G20 Meetings,,,
+,1:59am,GBP,Low,Nationwide HPI m/m,0.3%,0.1%,0.0%
+,2:00am,EUR,Low,German Import Prices m/m,1.0%,0.4%,0.4%
+,,EUR,Low,German Retail Sales m/m,-0.3%,0.4%,0.1%
+,2:45am,EUR,Low,French Prelim CPI m/m,-0.2%,-0.2%,0.1%
+,3:00am,CHF,Medium,KOF Economic Barometer,99.1,99.6,100.2
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,10.6%,10.1%,10.3%
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,2.0%,2.1%,2.2%
+,,EUR,Medium,Core CPI Flash Estimate y/y,1.0%,1.1%,1.1%
+,,EUR,Low,Italian Prelim CPI m/m,-0.1%,-0.3%,0.0%
+,,EUR,Low,Unemployment Rate,8.1%,8.0%,8.1%
+,8:30am,CAD,High,GDP m/m,-0.1%,0.1%,0.1%
+,,CAD,Medium,RMPI m/m,-2.4%,-5.2%,-1.0%
+,,CAD,Low,IPPI m/m,0.2%,-0.5%,0.2%
+,9:00am,USD,Medium,FOMC Member Williams Speaks,,,
+,9:45am,USD,Medium,Chicago PMI,66.4,58.6,58.4
+Sat Dec 1 2018,Day 2,All,High,G20 Meetings,,,
+,4:00am,CHF,Medium,SNB Chairman Jordan Speaks,,,

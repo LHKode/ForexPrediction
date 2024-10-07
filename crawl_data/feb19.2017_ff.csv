@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 19 2017,4:45pm,NZD,High,PPI Input q/q,1.0%,0.9%,1.5%
+,,NZD,Low,PPI Output q/q,1.5%,0.6%,1.0%
+,6:50pm,JPY,Low,Trade Balance,0.16T,0.28T,0.33T
+,7:01pm,GBP,Low,Rightmove HPI m/m,2.0%,,0.4%
+Mon Feb 20 2017,2:00am,EUR,Low,German PPI m/m,0.7%,0.3%,0.4%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,,GBP,Low,CBI Industrial Order Expectations,8,5,5
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:30am,CAD,Medium,Wholesale Sales m/m,0.7%,0.4%,0.1%
+,10:00am,EUR,Low,Consumer Confidence,-6,-5,-5
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,JPY,Low,Flash Manufacturing PMI,53.5,52.1,52.7
+,11:30pm,JPY,Low,All Industries Activity m/m,-0.3%,-0.2%,0.4%
+Tue Feb 21 2017,2:00am,CHF,Low,Trade Balance,4.73B,3.03B,2.69B
+,2:45am,EUR,Low,French Final CPI m/m,-0.2%,-0.2%,-0.2%
+,3:00am,EUR,Medium,French Flash Manufacturing PMI,52.3,53.5,53.6
+,,EUR,Medium,French Flash Services PMI,56.7,53.8,54.1
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,57.0,56.2,56.4
+,,EUR,Medium,German Flash Services PMI,54.4,53.6,53.4
+,4:00am,EUR,Medium,Flash Manufacturing PMI,55.5,55.0,55.2
+,,EUR,Medium,Flash Services PMI,55.6,53.7,53.7
+,4:30am,GBP,Medium,Public Sector Net Borrowing,-9.8B,-14.4B,4.2B
+,5:00am,GBP,High,Monetary Policy Report Hearings,,,
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:50am,USD,Medium,FOMC Member Kashkari Speaks,,,
+,8:52am,NZD,High,GDT Price Index,-3.2%,,1.3%
+,9:45am,USD,Low,Flash Manufacturing PMI,54.3,54.7,55.0
+,,USD,Low,Flash Services PMI,53.9,55.8,55.6
+,10:30am,AUD,Low,CB Leading Index m/m,-0.1%,,0.5%
+,12:00pm,USD,Medium,FOMC Member Harker Speaks,,,
+,4:30pm,AUD,High,RBA Gov Lowe Speaks,,,
+,6:30pm,AUD,Low,MI Leading Index m/m,0.0%,,0.4%
+,7:30pm,AUD,Medium,Construction Work Done q/q,-0.2%,0.5%,-4.4%
+,,AUD,Medium,Wage Price Index q/q,0.5%,0.5%,0.4%
+,9:00pm,NZD,Low,Credit Card Spending y/y,7.1%,,8.6%
+Wed Feb 22 2017,4:00am,CHF,Low,Credit Suisse Economic Expectations,19.4,,18.5
+,,EUR,Medium,German ifo Business Climate,111.0,109.6,109.9
+,4:30am,GBP,High,Second Estimate GDP q/q,0.7%,0.6%,0.6%
+,,GBP,Medium,Prelim Business Investment q/q,-1.0%,0.0%,0.4%
+,,GBP,Low,Index of Services 3m/3m,0.8%,0.8%,0.9%
+,5:00am,EUR,Low,Final CPI y/y,1.8%,1.8%,1.8%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,5:35am,EUR,Low,German 30-y Bond Auction,1.04|1.3,,1.20|1.4
+,6:00am,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,8:30am,CAD,High,Core Retail Sales m/m,-0.3%,0.8%,-0.1%
+,,CAD,Medium,Retail Sales m/m,-0.5%,0.1%,0.3%
+,8:59am,EUR,Low,Belgian NBB Business Climate,-1.1,1.1,0.5
+,9:00am,CNY,Low,CB Leading Index m/m,1.1%,,0.8%
+,10:00am,USD,Medium,Existing Home Sales,5.69M,5.55M,5.51M
+,1:00pm,USD,Medium,FOMC Member Powell Speaks,,,
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,3:00pm,GBP,Medium,MPC Member Shafik Speaks,,,
+,6:50pm,JPY,Low,SPPI y/y,0.5%,0.4%,0.5%
+,7:30pm,AUD,High,Private Capital Expenditure q/q,-2.1%,-0.4%,-3.3%
+Thu Feb 23 2017,2:00am,EUR,Low,German Final GDP q/q,0.4%,0.4%,0.4%
+,,EUR,Low,German GfK Consumer Climate,10.0,10.3,10.2
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.5%,0.2%,-0.7%
+,5:34am,GBP,Low,10-y Bond Auction,1.18|2.3,,1.45|2.3
+,6:00am,GBP,Low,CBI Realized Sales,9,5,-8
+,7:00am,USD,Medium,Treasury Sec Mnuchin Speaks,,,
+,8:30am,CAD,Low,Corporate Profits q/q,3.6%,,14.0%
+,,USD,High,Unemployment Claims,244K,242K,238K
+,9:00am,USD,Low,HPI m/m,0.4%,0.4%,0.7%
+,10:30am,USD,Low,Natural Gas Storage,-89B,-86B,-114B
+,11:00am,USD,High,Crude Oil Inventories,0.6M,3.4M,9.5M
+,1:00pm,USD,Medium,FOMC Member Kaplan Speaks,,,
+,5:30pm,AUD,High,RBA Gov Lowe Speaks,,,
+Fri Feb 24 2017,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,4:30am,GBP,Low,High Street Lending,44.7K,41.9K,43.6K
+,8:30am,CAD,High,CPI m/m,0.9%,0.3%,-0.2%
+,,CAD,Medium,Common CPI y/y,1.3%,,1.4%
+,,CAD,Medium,Median CPI y/y,1.9%,,1.9%
+,,CAD,Medium,Trimmed CPI y/y,1.7%,,1.6%
+,8:35am,CAD,Low,Core CPI m/m,0.5%,-0.1%,-0.3%
+,10:00am,USD,High,President Trump Speaks,,,
+,,USD,Medium,New Home Sales,555K,575K,535K
+,,USD,Medium,Revised UoM Consumer Sentiment,96.3,96.1,95.7
+,,USD,Low,Revised UoM Inflation Expectations,2.7%,,2.8%
+Sat Feb 25 2017,,,No specified,,,,

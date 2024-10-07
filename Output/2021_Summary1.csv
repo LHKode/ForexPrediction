@@ -1,0 +1,13 @@
+Timestamp,Date,Reverse_Range,Range,Status
+2021-01-13 08:02,Wed,9,76,Success
+2021-02-25 03:24,Thu,0,77,Fail
+2021-02-25 09:09,Thu,0,78,Fail
+2021-02-25 17:42,Thu,11,77,Success
+2021-03-05 01:16,Fri,10,76,Success
+2021-04-19 12:48,Mon,0,78,Fail
+2021-04-19 18:29,Mon,10,77,Success
+2021-05-17 21:16,Tue,0,77,Fail
+2021-05-17 21:52,Tue,0,77,Fail
+2021-06-16 23:07,Thu,0,78,Fail
+2021-07-29 13:00,Thu,7,74,Success
+2021-08-18 06:45,Wed,7,74,Success

@@ -1,0 +1,90 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 5 2017,4:45pm,NZD,Low,Building Consents m/m,0.8%,,-7.9%
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,-0.3%,,0.6%
+,7:30pm,AUD,High,Retail Sales m/m,0.4%,0.4%,-0.1%
+,,AUD,Low,ANZ Job Advertisements m/m,-0.7%,,3.9%
+Mon Mar 6 2017,4:10am,EUR,Low,Retail PMI,49.9,,50.1
+,4:30am,EUR,Low,Sentix Investor Confidence,20.7,18.8,17.4
+,6:30am,GBP,Medium,MPC Member Hogg Speaks,,,
+,10:00am,USD,Medium,Factory Orders m/m,1.2%,1.1%,1.3%
+,3:00pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+,5:30pm,AUD,Low,AIG Construction Index,53.1,,47.7
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.4%,,-0.6%
+,10:30pm,AUD,High,Cash Rate,1.50%,1.50%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+,10:45pm,JPY,Low,30-y Bond Auction,0.82|3.1,,0.91|3.2
+Tue Mar 7 2017,12:00am,JPY,Low,BOJ Core CPI y/y,0.2%,0.2%,0.1%
+,2:00am,EUR,Medium,German Factory Orders m/m,-7.4%,-2.5%,5.2%
+,2:45am,EUR,Low,French Gov Budget Balance,-5.4B,,-69.0B
+,3:00am,CHF,Low,Foreign Currency Reserves,668B,,644B
+,3:30am,GBP,Medium,Halifax HPI m/m,0.1%,0.4%,-1.1%
+,5:00am,EUR,Low,Revised GDP q/q,0.4%,0.4%,0.4%
+,8:30am,CAD,High,Trade Balance,0.8B,0.2B,0.4B
+,,USD,Medium,Trade Balance,-48.5B,-47.0B,-44.3B
+,8:43am,NZD,High,GDT Price Index,-6.3%,,-3.2%
+,10:00am,CAD,Medium,Ivey PMI,55.0,58.9,57.2
+,,USD,Low,IBD/TIPP Economic Optimism,55.3,57.1,56.4
+,3:00pm,USD,Low,Consumer Credit m/m,8.8B,19.1B,14.8B
+,4:45pm,NZD,Low,Manufacturing Sales q/q,0.8%,,1.1%
+,6:50pm,JPY,Medium,Final GDP q/q,0.3%,0.4%,0.2%
+,,JPY,Low,Bank Lending y/y,2.8%,2.7%,2.5%
+,,JPY,Low,Current Account,1.26T,1.46T,1.66T
+,,JPY,Low,Final GDP Price Index y/y,-0.1%,-0.1%,-0.1%
+,10:36pm,CNY,High,Trade Balance,-60B,173B,355B
+Wed Mar 8 2017,12:00am,JPY,Low,Leading Indicators,105.5%,105.4%,104.8%
+,1:00am,JPY,Low,Economy Watchers Sentiment,48.6,49.9,49.8
+,1:51am,CNY,Low,USD-Denominated Trade Balance,-9.1B,27.8B,51.4B
+,2:00am,EUR,Low,German Industrial Production m/m,2.8%,2.6%,-2.4%
+,2:45am,EUR,Low,French Trade Balance,-7.9B,-3.7B,-3.6B
+,3:15am,CHF,Low,CPI m/m,0.5%,0.2%,0.0%
+,7:30am,GBP,High,Annual Budget Release,,,
+,8:15am,CAD,Low,Housing Starts,210K,205K,209K
+,,USD,High,ADP Non-Farm Employment Change,298K,184K,261K
+,8:30am,CAD,Medium,Building Permits m/m,5.4%,3.1%,-4.4%
+,,CAD,Medium,Labor Productivity q/q,0.4%,0.4%,1.2%
+,,USD,Medium,Revised Nonfarm Productivity q/q,1.3%,1.5%,1.3%
+,,USD,Low,Revised Unit Labor Costs q/q,1.7%,1.6%,1.7%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,-0.2%,-0.1%,-0.1%
+,10:30am,USD,High,Crude Oil Inventories,8.2M,1.1M,1.5M
+,1:01pm,USD,Medium,10-y Bond Auction,2.56|2.7,,2.33|2.3
+,6:50pm,JPY,Low,M2 Money Stock y/y,4.2%,4.2%,4.0%
+,7:00pm,JPY,Low,Average Cash Earnings y/y,0.5%,0.3%,0.5%
+,7:01pm,GBP,Low,RICS House Price Balance,24%,23%,24%
+,8:30pm,CNY,High,CPI y/y,0.8%,1.9%,2.5%
+,,CNY,Medium,PPI y/y,7.8%,7.6%,6.9%
+Thu Mar 9 2017,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,9.1%,,3.5%
+,1:30am,EUR,Low,French Final Private Payrolls q/q,0.4%,0.4%,0.4%
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.3%,3.3%
+,4:00am,CNY,Low,M2 Money Supply y/y,11.1%,11.4%,11.3%
+,,CNY,Low,New Loans,1170B,925B,2030B
+,Day 1,EUR,Medium,ECOFIN Meetings,,,
+,7:30am,USD,Low,Challenger Job Cuts y/y,-40.0%,,-38.8%
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.1%,0.1%
+,,CAD,Low,Capacity Utilization Rate,82.2%,82.6%,81.6%
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,243K,239K,223K
+,,USD,Medium,Import Prices m/m,0.2%,0.1%,0.6%
+,10:30am,USD,Low,Natural Gas Storage,-68B,-59B,7B
+,1:01pm,USD,Medium,30-y Bond Auction,3.17|2.3,,3.01|2.2
+,6:50pm,JPY,Medium,BSI Manufacturing Index,1.1,8.4,7.5
+,7:30pm,AUD,Low,Home Loans m/m,0.5%,-0.9%,0.2%
+Fri Mar 10 2017,2:00am,EUR,Low,German Trade Balance,18.5B,19.2B,18.3B
+,,EUR,Low,German WPI m/m,0.5%,0.3%,0.8%
+,2:45am,EUR,Low,French Industrial Production m/m,-0.3%,0.6%,-1.1%
+,4:00am,EUR,Low,Italian Quarterly Unemployment Rate,11.9%,11.6%,11.6%
+,4:30am,GBP,High,Manufacturing Production m/m,-0.9%,-0.6%,2.2%
+,,GBP,Medium,Goods Trade Balance,-10.8B,-11.1B,-10.9B
+,,GBP,Low,Construction Output m/m,-0.4%,-0.3%,1.8%
+,,GBP,Low,Consumer Inflation Expectations,2.9%,,2.8%
+,,GBP,Low,Industrial Production m/m,-0.4%,-0.4%,0.9%
+,Day 2,EUR,Medium,ECOFIN Meetings,,,
+,8:05am,GBP,Low,NIESR GDP Estimate,0.6%,,0.8%
+,8:30am,CAD,High,Employment Change,15.3K,0.6K,48.3K
+,,CAD,High,Unemployment Rate,6.6%,6.8%,6.8%
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,0.2%
+,,USD,High,Non-Farm Employment Change,235K,196K,238K
+,,USD,High,Unemployment Rate,4.7%,4.7%,4.8%
+,2:00pm,USD,Low,Federal Budget Balance,-192.0B,-175.0B,51.3B
+Sat Mar 11 2017,,,No specified,,,,

@@ -1,0 +1,115 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 31 2021,4:30pm,AUD,Low,AIG Manufacturing Index,55.3,,52.1
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.2%,,0.5%
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,2.3%,,8.6%
+,,JPY,Low,Final Manufacturing PMI,49.8,49.8,49.7
+,8:45pm,CNY,Low,Caixin Manufacturing PMI,51.5,52.6,53.0
+Mon Feb 1 2021,12:30am,AUD,Low,Commodity Prices y/y,19.7%,,12.7%
+,2:00am,EUR,Low,German Retail Sales m/m,-9.6%,-2.0%,1.1%
+,2:30am,CHF,Low,Retail Sales y/y,4.7%,1.5%,1.8%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,49.3,50.2,51.0
+,3:30am,CHF,Low,Manufacturing PMI,59.4,56.5,58.0
+,3:45am,EUR,Low,Italian Manufacturing PMI,55.1,52.5,52.8
+,3:50am,EUR,Low,French Final Manufacturing PMI,51.6,51.5,51.5
+,3:55am,EUR,Low,German Final Manufacturing PMI,57.1,57.0,57.0
+,4:00am,EUR,Low,Final Manufacturing PMI,54.8,54.7,54.7
+,,EUR,Low,Italian Monthly Unemployment Rate,9.0%,9.0%,8.8%
+,4:30am,GBP,Medium,Final Manufacturing PMI,54.1,52.9,52.9
+,,GBP,Low,M4 Money Supply m/m,0.7%,0.9%,0.8%
+,,GBP,Low,Mortgage Approvals,103K,100K,105K
+,,GBP,Low,Net Lending to Individuals m/m,4.6B,4.3B,4.3B
+,5:00am,EUR,Low,Unemployment Rate,8.3%,8.3%,8.3%
+,9:30am,CAD,Medium,Manufacturing PMI,54.4,,57.9
+,9:45am,USD,Low,Final Manufacturing PMI,59.2,59.1,59.1
+,10:00am,USD,High,ISM Manufacturing PMI,58.7,60.0,60.7
+,,USD,Low,Construction Spending m/m,1.0%,0.8%,1.1%
+,,USD,Low,ISM Manufacturing Prices,82.1,72.0,77.6
+,2:00pm,USD,Low,FOMC Member Bostic Speaks,,,
+,,USD,Low,Loan Officer Survey,,,
+,6:50pm,JPY,Low,Monetary Base y/y,18.9%,19.2%,18.3%
+,10:30pm,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,0.10%,0.10%,0.10%
+,10:35pm,JPY,Low,10-y Bond Auction,0.05|3.4,,0.02|3.4
+Tue Feb 2 2021,1:59am,GBP,Low,Nationwide HPI m/m,-0.3%,0.3%,0.9%
+,2:45am,EUR,Low,French Prelim CPI m/m,0.2%,0.0%,0.2%
+,3:00am,EUR,Low,Spanish Unemployment Change,76.2K,35.3K,36.8K
+,4:00am,EUR,Low,Italian Prelim GDP q/q,-2.0%,-2.0%,15.9%
+,5:00am,EUR,Low,Prelim Flash GDP q/q,-0.7%,-0.9%,12.5%
+,9:31am,NZD,Low,GDT Price Index,1.8%,,4.8%
+,10:00am,USD,Low,IBD/TIPP Economic Optimism,51.9,51.0,50.1
+,All Day,USD,Low,Wards Total Vehicle Sales,16.6M,16.1M,16.3M
+,4:30pm,AUD,Low,AIG Construction Index,57.6,,55.3
+,4:45pm,NZD,High,Employment Change q/q,0.6%,0.1%,-0.7%
+,,NZD,High,Unemployment Rate,4.9%,5.6%,5.3%
+,,NZD,Low,Labor Cost Index q/q,0.5%,0.5%,0.4%
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,3.6%,,1.8%
+,7:30pm,AUD,Low,Building Approvals m/m,10.9%,3.2%,3.4%
+,8:30pm,AUD,Medium,RBA Gov Lowe Speaks,,,
+,8:45pm,CNY,Low,Caixin Services PMI,52.0,55.5,56.3
+Wed Feb 3 2021,2:45am,EUR,Low,French Gov Budget Balance,-178.1B,,-176.8B
+,3:15am,EUR,Low,Spanish Services PMI,41.7,45.1,48.0
+,3:45am,EUR,Low,Italian Services PMI,44.7,39.5,39.7
+,3:50am,EUR,Low,French Final Services PMI,47.3,46.5,46.5
+,3:55am,EUR,Low,German Final Services PMI,46.7,46.8,46.8
+,4:00am,EUR,Low,Final Services PMI,45.4,45.0,45.0
+,4:30am,GBP,Medium,Final Services PMI,39.5,38.8,38.8
+,5:00am,EUR,Low,CPI Flash Estimate y/y,0.9%,0.6%,-0.3%
+,,EUR,Low,Core CPI Flash Estimate y/y,1.4%,0.9%,0.2%
+,,EUR,Low,PPI m/m,0.8%,0.7%,0.4%
+,,EUR,Low,Italian Prelim CPI m/m,0.5%,0.2%,0.2%
+,5:06am,GBP,Low,10-y Bond Auction,0.44|2.9,,0.33|2.9
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,174K,48K,-78K
+,9:45am,USD,Low,Final Services PMI,58.3,57.4,57.5
+,10:00am,USD,Medium,ISM Services PMI,58.7,56.7,57.2
+,10:30am,USD,Medium,Crude Oil Inventories,-1.0M,-0.6M,-9.9M
+,4:45pm,NZD,Low,Building Consents m/m,4.9%,,1.2%
+,5:00pm,USD,Low,FOMC Member Evans Speaks,,,
+,7:00pm,NZD,Low,Prelim ANZ Business Confidence,11.8,,9.4
+,7:30pm,AUD,Low,NAB Quarterly Business Confidence,14,,-8
+,,AUD,Low,Trade Balance,6.79B,9.00B,5.01B
+,10:35pm,JPY,Low,30-y Bond Auction,0.66|3.5,,0.65|3.0
+Thu Feb 4 2021,3:00am,CHF,Low,SECO Consumer Climate,-15,-19,-13
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,Low,Construction PMI,49.2,53.0,54.6
+,4:50am,EUR,Low,Spanish 10-y Bond Auction,0.16|1.6,,-0.03|3.0
+,5:00am,EUR,Low,Retail Sales m/m,2.0%,2.4%,-5.7%
+,5:08am,EUR,Low,French 10-y Bond Auction,-0.25|2.2,,-0.33|1.9
+,7:00am,GBP,High,Asset Purchase Facility,875B,875B,875B
+,,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.10%,0.10%,0.10%
+,7:30am,USD,Low,Challenger Job Cuts y/y,17.4%,,134.5%
+,8:13am,GBP,High,BOE Gov Bailey Speaks,,,
+,8:30am,USD,Medium,Unemployment Claims,779K,828K,812K
+,,USD,Low,Prelim Nonfarm Productivity q/q,-4.8%,-2.9%,4.6%
+,,USD,Low,Prelim Unit Labor Costs q/q,6.8%,4.1%,-6.6%
+,10:00am,USD,Low,Factory Orders m/m,1.1%,0.7%,1.3%
+,10:30am,USD,Low,Natural Gas Storage,-192B,-194B,-128B
+,2:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,4:30pm,AUD,Low,AIG Services Index,54.3,,52.9
+,5:30pm,AUD,Medium,RBA Gov Lowe Speaks,,,
+,6:30pm,JPY,Low,Household Spending y/y,-0.6%,-1.9%,1.1%
+,7:30pm,AUD,Medium,RBA Monetary Policy Statement,,,
+,,AUD,Low,Retail Sales m/m,-4.1%,-4.2%,-4.2%
+Fri Feb 5 2021,12:00am,JPY,Low,Leading Indicators,94.9%,95.1%,96.4%
+,2:00am,EUR,Low,German Factory Orders m/m,-1.9%,-1.2%,2.7%
+,2:45am,EUR,Low,French Prelim Private Payrolls q/q,-0.2%,-0.7%,1.6%
+,,EUR,Low,French Trade Balance,-3.4B,-4.2B,-3.8B
+,3:00am,CHF,Low,Foreign Currency Reserves,896B,,892B
+,3:30am,GBP,Low,Halifax HPI m/m,-0.3%,0.7%,0.0%
+,4:00am,EUR,Low,Italian Retail Sales m/m,2.5%,1.5%,-6.9%
+,7:15am,GBP,High,BOE Gov Bailey Speaks,,,
+,8:30am,CAD,High,Employment Change,-212.8K,-43.5K,-62.6K
+,,CAD,High,Unemployment Rate,9.4%,8.9%,8.6%
+,,CAD,Low,Trade Balance,-1.7B,-3.0B,-3.6B
+,,GBP,Medium,BOE Gov Bailey Speaks,,,
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,1.0%
+,,USD,High,Non-Farm Employment Change,49K,85K,-227K
+,,USD,High,Unemployment Rate,6.3%,6.7%,6.7%
+,,USD,Low,Trade Balance,-66.6B,-66.0B,-69.0B
+,10:00am,CAD,Medium,Ivey PMI,48.4,49.5,46.7
+,3:00pm,USD,Low,Consumer Credit m/m,9.7B,12.1B,13.9B
+Sat Feb 6 2021,,,No specified,,,,

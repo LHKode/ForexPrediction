@@ -1,0 +1,84 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 8 2015,6:50pm,JPY,Medium,Current Account,0.98T,0.95T,0.91T
+,,JPY,Low,Bank Lending y/y,2.5%,,2.6%
+,7:15pm,AUD,High,RBA Gov Stevens Speaks,,,
+,7:30pm,AUD,Medium,ANZ Job Advertisements m/m,1.3%,,1.8%
+Mon Feb 9 2015,12:00am,JPY,Low,Consumer Confidence,39.1,39.4,38.8
+,1:00am,JPY,Low,Economy Watchers Sentiment,45.6,45.7,45.2
+,2:00am,EUR,Low,German Trade Balance,21.8B,18.2B,17.9B
+,Day 1,All,Medium,G20 Meetings,,,
+,4:30am,EUR,Low,Sentix Investor Confidence,12.4,3.4,0.9
+,8:13am,CAD,Low,Housing Starts,187K,184K,180K
+,10:00am,USD,Low,Labor Market Conditions Index m/m,4.9,,7.3
+,4:00pm,USD,Medium,FOMC Member Powell Speaks,,,
+,6:50pm,JPY,Medium,Tertiary Industry Activity m/m,-0.3%,0.1%,0.2%
+,,JPY,Low,M2 Money Stock y/y,3.4%,3.6%,3.6%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.2%,,-0.4%
+,7:30pm,AUD,High,NAB Business Confidence,3,,2
+,,AUD,Medium,HPI q/q,1.9%,2.0%,1.4%
+,8:30pm,CNY,High,CPI y/y,0.8%,1.1%,1.5%
+,,CNY,Medium,PPI y/y,-4.3%,-3.7%,-3.3%
+Tue Feb 10 2015,1:45am,CHF,Low,Unemployment Rate,3.1%,3.2%,3.1%
+,2:45am,EUR,Medium,French Industrial Production m/m,1.5%,0.3%,-0.2%
+,3:15am,CHF,Medium,CPI m/m,-0.4%,-0.4%,-0.5%
+,4:00am,EUR,Low,Italian Industrial Production m/m,0.4%,0.1%,0.3%
+,Day 2,All,Medium,G20 Meetings,,,
+,4:30am,GBP,High,Manufacturing Production m/m,0.1%,0.3%,0.8%
+,,GBP,Low,Industrial Production m/m,-0.2%,0.3%,-0.1%
+,8:20am,USD,Medium,FOMC Member Lacker Speaks,,,
+,9:00am,USD,Low,NFIB Small Business Index,97.9,101.3,100.4
+,9:35am,GBP,Medium,NIESR GDP Estimate,0.7%,,0.5%
+,10:00am,USD,Medium,JOLTS Job Openings,5.03M,5.03M,4.85M
+,,USD,Low,Final Wholesale Inventories m/m,0.1%,0.2%,0.8%
+,,USD,Low,IBD/TIPP Economic Optimism,47.5,51.4,51.5
+,12:45pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,6:20pm,AUD,Medium,Westpac Consumer Sentiment,8.0%,,2.4%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,Home Loans m/m,2.7%,2.3%,-0.4%
+,9:02pm,NZD,Low,REINZ HPI m/m,-1.0%,,-1.0%
+Wed Feb 11 2015,All Day,EUR,High,Eurogroup Meetings,,,
+,5:35am,GBP,Low,30-y Bond Auction,2.36|1.6,,2.70|1.8
+,10:30am,USD,Medium,Crude Oil Inventories,4.9M,3.7M,6.3M
+,1:01pm,USD,Medium,10-y Bond Auction,2.00|2.6,,1.93|2.6
+,2:00pm,USD,Low,Federal Budget Balance,-17.5B,-2.6B,1.9B
+,4:30pm,NZD,Medium,BusinessNZ Manufacturing Index,50.9,,57.1
+,5:00pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,6:50pm,JPY,Medium,Core Machinery Orders m/m,8.3%,2.4%,1.3%
+,,JPY,Low,PPI y/y,0.3%,1.2%,1.8%
+,7:00pm,AUD,Medium,MI Inflation Expectations,4.0%,,3.2%
+,7:01pm,GBP,Low,RICS House Price Balance,7%,10%,12%
+,7:30pm,AUD,High,Employment Change,-12.2K,-4.7K,42.3K
+,,AUD,High,Unemployment Rate,6.4%,6.2%,6.1%
+Thu Feb 12 2015,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,20.4%,,33.9%
+,2:00am,EUR,Low,German Final CPI m/m,-1.1%,-1.0%,-1.0%
+,3:28am,CHF,Medium,PPI m/m,-0.6%,-0.6%,-0.4%
+,5:00am,EUR,Low,Industrial Production m/m,0.0%,0.3%,0.1%
+,All Day,EUR,High,EU Economic Summit,,,
+,5:30am,GBP,High,BOE Gov Carney Speaks,,,
+,,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,Medium,BOE Inflation Letter,,,
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.2%,0.1%
+,,USD,High,Core Retail Sales m/m,-0.9%,-0.4%,-0.9%
+,,USD,High,Retail Sales m/m,-0.8%,-0.4%,-0.9%
+,,USD,High,Unemployment Claims,304K,282K,279K
+,10:00am,USD,Medium,Business Inventories m/m,0.1%,0.2%,0.2%
+,10:30am,USD,Low,Natural Gas Storage,-160B,-165B,-115B
+,1:01pm,USD,Low,30-y Bond Auction,2.56|2.3,,2.43|2.3
+,4:45pm,NZD,Low,FPI m/m,1.3%,,0.3%
+,5:30pm,AUD,High,RBA Gov Stevens Speaks,,,
+,9:00pm,CNY,Low,CB Leading Index m/m,0.9%,,1.1%
+Fri Feb 13 2015,1:30am,EUR,Medium,French Prelim GDP q/q,0.1%,0.1%,0.3%
+,2:00am,EUR,Medium,German Prelim GDP q/q,0.7%,0.3%,0.1%
+,,EUR,Low,German WPI m/m,-0.4%,0.4%,-1.0%
+,2:45am,EUR,Medium,French Prelim Private Payrolls q/q,0.0%,-0.1%,-0.3%
+,4:00am,EUR,Medium,Italian Prelim GDP q/q,0.0%,0.0%,-0.1%
+,4:02am,CNY,Medium,New Loans,1470B,1355B,697B
+,,CNY,Low,M2 Money Supply y/y,10.8%,12.1%,12.2%
+,4:30am,GBP,Low,Construction Output m/m,0.4%,2.6%,-1.8%
+,5:00am,EUR,Medium,Flash GDP q/q,0.3%,0.2%,0.2%
+,8:30am,CAD,High,Manufacturing Sales m/m,1.7%,0.8%,-1.3%
+,,USD,Medium,Import Prices m/m,-2.8%,-3.1%,-1.9%
+,9:30am,GBP,Low,CB Leading Index m/m,0.1%,,-0.3%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,93.6,98.2,98.1
+,,USD,Low,Prelim UoM Inflation Expectations,2.8%,,2.5%
+Sat Feb 14 2015,,,No specified,,,,

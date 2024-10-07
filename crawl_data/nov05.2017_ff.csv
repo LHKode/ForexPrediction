@@ -1,0 +1,90 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 5 2017,2:00am,CAD,Holiday,Daylight Saving Time Shift,,,
+,,USD,Holiday,Daylight Saving Time Shift,,,
+,6:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.3%,,0.3%
+,,NZD,Low,ANZ Commodity Prices m/m,-0.3%,,0.8%
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,1.4%,,-0.7%
+,8:00pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+,9:00pm,NZD,High,Inflation Expectations q/q,2.02%,,2.09%
+Mon Nov 6 2017,2:00am,EUR,Low,German Factory Orders m/m,1.0%,-1.0%,4.1%
+,3:15am,CHF,Low,CPI m/m,0.1%,0.1%,0.2%
+,,EUR,Low,Spanish Services PMI,54.6,55.7,56.7
+,3:45am,EUR,Low,Italian Services PMI,52.1,53.1,53.2
+,3:50am,EUR,Low,French Final Services PMI,57.3,57.4,57.4
+,3:55am,EUR,Low,German Final Services PMI,54.7,55.2,55.2
+,4:00am,EUR,Low,Final Services PMI,55.0,54.9,54.9
+,4:30am,EUR,Low,Sentix Investor Confidence,34.0,31.2,29.7
+,5:00am,EUR,Low,PPI m/m,0.6%,0.4%,0.3%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,10:00am,CAD,Medium,Ivey PMI,63.8,60.2,59.6
+,12:10pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,5:30pm,AUD,Low,AIG Construction Index,53.2,,54.7
+,7:00pm,JPY,Low,Average Cash Earnings y/y,0.9%,0.6%,0.7%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-1.0%,,1.9%
+,10:30pm,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,1.50%,1.50%,1.50%
+Tue Nov 7 2017,2:00am,EUR,Low,German Industrial Production m/m,-1.6%,-0.7%,2.6%
+,3:00am,CHF,Low,Foreign Currency Reserves,742B,,724B
+,3:30am,EUR,Low,French Gov Budget Balance,-76.3B,,-93.0B
+,,GBP,Medium,Halifax HPI m/m,0.3%,0.2%,0.8%
+,4:00am,EUR,High,ECB President Draghi Speaks,,,
+,,EUR,Low,Italian Retail Sales m/m,0.9%,0.2%,-0.2%
+,4:10am,EUR,Low,Retail PMI,51.1,,52.3
+,5:00am,EUR,Low,Retail Sales m/m,0.7%,0.6%,-0.1%
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,9:31am,NZD,Medium,GDT Price Index,-3.5%,,-1.0%
+,10:00am,USD,Low,IBD/TIPP Economic Optimism,53.6,51.2,50.3
+,,USD,Low,JOLTS Job Openings,6.09M,5.98M,6.09M
+,12:35pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,12:55pm,CAD,High,BOC Gov Poloz Speaks,,,
+,2:30pm,USD,High,Fed Chair Yellen Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,20.8B,18.4B,13.1B
+,10:40pm,CNY,Medium,Trade Balance,254B,275B,193B
+,10:50pm,CNY,Low,USD-Denominated Trade Balance,38.2B,39.4B,28.5B
+Wed Nov 8 2017,12:00am,JPY,Low,Leading Indicators,106.6%,106.7%,107.2%
+,2:45am,EUR,Low,French Trade Balance,-4.7B,-4.7B,-4.2B
+,8:13am,CAD,Low,Housing Starts,223K,211K,219K
+,8:30am,CAD,Medium,Building Permits m/m,3.8%,0.7%,-5.1%
+,10:30am,USD,High,Crude Oil Inventories,2.2M,-2.5M,-2.4M
+,1:01pm,USD,Low,10-y Bond Auction,2.31|2.5,,2.35|2.5
+,3:00pm,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,Official Cash Rate,1.75%,1.75%,1.75%
+,,NZD,Medium,RBNZ Monetary Policy Statement,,,
+,4:00pm,NZD,High,RBNZ Press Conference,,,
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Bank Lending y/y,2.8%,3.0%,2.9%
+,,JPY,Low,Core Machinery Orders m/m,-8.1%,-1.8%,3.4%
+,,JPY,Low,Current Account,1.84T,2.05T,2.27T
+,7:01pm,GBP,Low,RICS House Price Balance,1%,4%,6%
+,7:30pm,AUD,Low,Home Loans m/m,-2.3%,2.5%,1.5%
+,8:30pm,CNY,Medium,CPI y/y,1.9%,1.8%,1.6%
+,,CNY,Medium,PPI y/y,6.9%,6.6%,6.9%
+,10:45pm,JPY,Low,30-y Bond Auction,0.79|3.4,,0.88|4.0
+Thu Nov 9 2017,12:00am,JPY,Low,Economy Watchers Sentiment,52.2,50.7,51.3
+,1:45am,CHF,Low,Unemployment Rate,3.1%,3.1%,3.1%
+,2:00am,EUR,Low,German Trade Balance,21.8B,21.0B,21.3B
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,5:00am,EUR,Medium,EU Economic Forecasts,,,
+,8:30am,CAD,Medium,NHPI m/m,0.2%,0.2%,0.1%
+,,USD,High,Unemployment Claims,239K,232K,229K
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.3%,0.3%,0.3%
+,10:30am,USD,Low,Natural Gas Storage,15B,15B,65B
+,11:30am,CHF,High,SNB Chairman Jordan Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,2.80|2.2,,2.87|2.5
+,6:50pm,JPY,Low,M2 Money Stock y/y,4.1%,4.1%,4.0%
+,7:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,-0.2%,-0.1%,-0.1%
+Fri Nov 10 2017,2:45am,EUR,Low,French Industrial Production m/m,0.6%,0.6%,-0.2%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.3%,0.4%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-1.3%,-0.3%,1.2%
+,4:30am,GBP,High,Manufacturing Production m/m,0.7%,0.3%,0.4%
+,,GBP,Medium,Goods Trade Balance,-11.3B,-12.9B,-12.4B
+,,GBP,Low,Construction Output m/m,-1.6%,-0.6%,0.8%
+,,GBP,Low,Industrial Production m/m,0.7%,0.3%,0.3%
+,7:02am,GBP,Low,NIESR GDP Estimate,0.5%,,0.4%
+,All Day,USD,Holiday,Bank Holiday,,,
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,97.8,100.8,100.7
+,,USD,Low,Prelim UoM Inflation Expectations,2.6%,,2.4%
+Sat Nov 11 2017,5:00am,EUR,High,ECB President Draghi Speaks,,,

@@ -1,0 +1,84 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 18 2018,6:50pm,JPY,Low,Trade Balance,0.37T,0.14T,0.09T
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,Rightmove HPI m/m,0.8%,,0.7%
+Mon Feb 19 2018,4:00am,EUR,Low,Current Account,29.9B,30.5B,35.0B
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,2:45pm,GBP,High,BOE Gov Carney Speaks,,,
+,4:45pm,NZD,Medium,PPI Input q/q,0.9%,0.3%,1.1%
+,,NZD,Low,PPI Output q/q,1.0%,0.4%,1.0%
+,5:15pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+Tue Feb 20 2018,2:00am,CHF,Low,Trade Balance,2.09B,2.78B,2.60B
+,,EUR,Low,German PPI m/m,0.5%,0.3%,0.2%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,17.8,16.0,20.4
+,,EUR,Low,ZEW Economic Sentiment,29.3,28.4,31.8
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,6:00am,GBP,Low,CBI Industrial Order Expectations,10,12,14
+,8:30am,CAD,Low,Wholesale Sales m/m,-0.5%,0.4%,0.3%
+,9:44am,NZD,Medium,GDT Price Index,-0.5%,,5.9%
+,10:00am,EUR,Low,Consumer Confidence,0,1,1
+,6:30pm,AUD,Low,MI Leading Index m/m,-0.2%,,0.2%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Medium,Construction Work Done q/q,-19.4%,-9.8%,16.6%
+,,AUD,Medium,Wage Price Index q/q,0.6%,0.5%,0.5%
+,,JPY,Low,Flash Manufacturing PMI,54.0,55.2,54.8
+,11:30pm,JPY,Low,All Industries Activity m/m,0.5%,0.5%,1.0%
+Wed Feb 21 2018,3:00am,EUR,Medium,French Flash Manufacturing PMI,56.1,58.1,58.4
+,,EUR,Medium,French Flash Services PMI,57.9,59.1,59.2
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,60.3,60.6,61.1
+,,EUR,Medium,German Flash Services PMI,55.3,56.9,57.3
+,4:00am,EUR,Medium,Flash Manufacturing PMI,58.5,59.2,59.6
+,,EUR,Medium,Flash Services PMI,56.7,57.7,58.0
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.5%,2.5%,2.5%
+,,GBP,Medium,Claimant Count Change,-7.2K,2.3K,6.2K
+,,GBP,Medium,Public Sector Net Borrowing,-11.6B,-11.5B,0.3B
+,,GBP,Medium,Unemployment Rate,4.4%,4.3%,4.3%
+,9:15am,GBP,High,Monetary Policy Report Hearings,,,
+,9:45am,USD,Low,Flash Manufacturing PMI,55.9,55.4,55.5
+,,USD,Low,Flash Services PMI,55.9,53.8,53.3
+,10:00am,USD,Medium,Existing Home Sales,5.38M,5.61M,5.56M
+,10:30am,AUD,Low,CB Leading Index m/m,-0.3%,,0.4%
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,9:06pm,NZD,Low,Credit Card Spending y/y,4.6%,,6.2%
+Thu Feb 22 2018,12:15am,USD,Medium,FOMC Member Quarles Speaks,,,
+,2:45am,EUR,Low,French Final CPI m/m,-0.1%,-0.1%,-0.1%
+,4:00am,EUR,Medium,German ifo Business Climate,115.4,117.1,117.6
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,4:30am,GBP,High,Second Estimate GDP q/q,0.4%,0.5%,0.5%
+,,GBP,Medium,Prelim Business Investment q/q,0.0%,0.5%,0.5%
+,,GBP,Low,Index of Services 3m/3m,0.6%,0.4%,0.4%
+,6:00am,GBP,Low,CBI Realized Sales,8,13,12
+,7:30am,EUR,High,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,High,Core Retail Sales m/m,-1.8%,0.1%,1.7%
+,,CAD,Medium,Retail Sales m/m,-0.8%,0.0%,0.3%
+,,CAD,Low,Corporate Profits q/q,-1.9%,,8.5%
+,,USD,Medium,Unemployment Claims,222K,230K,229K
+,8:58am,EUR,Low,Belgian NBB Business Climate,1.9,1.5,1.8
+,10:00am,USD,Low,CB Leading Index m/m,1.0%,0.7%,0.6%
+,,USD,Low,FOMC Member Dudley Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,-124B,-121B,-194B
+,11:00am,USD,High,Crude Oil Inventories,-1.6M,2.2M,1.8M
+,12:10pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,4:45pm,NZD,High,Retail Sales q/q,1.7%,1.4%,0.3%
+,,NZD,Medium,Core Retail Sales q/q,1.8%,0.7%,0.6%
+,6:30pm,JPY,Low,National Core CPI y/y,0.9%,0.8%,0.9%
+,6:50pm,JPY,Low,SPPI y/y,0.7%,0.8%,0.8%
+Fri Feb 23 2018,2:00am,EUR,Low,German Final GDP q/q,0.6%,0.6%,0.6%
+,5:00am,EUR,Medium,Final CPI y/y,1.3%,1.3%,1.3%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,7:00am,GBP,Medium,MPC Member Ramsden Speaks,,,
+,8:30am,CAD,High,CPI m/m,0.7%,0.4%,-0.4%
+,,CAD,Medium,Common CPI y/y,1.8%,,1.6%
+,,CAD,Medium,Median CPI y/y,1.9%,,1.9%
+,,CAD,Medium,Trimmed CPI y/y,1.8%,,1.9%
+,,CAD,Low,Core CPI m/m,0.5%,,-0.5%
+,9:00am,CNY,Low,CB Leading Index m/m,1.6%,,1.4%
+,10:15am,USD,Medium,FOMC Member Dudley Speaks,,,
+,11:00am,USD,Low,Fed Monetary Policy Report,,,
+,1:30pm,USD,Medium,FOMC Member Mester Speaks,,,
+,3:40pm,USD,Medium,FOMC Member Williams Speaks,,,
+Sat Feb 24 2018,,,No specified,,,,

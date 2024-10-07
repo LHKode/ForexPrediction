@@ -1,0 +1,77 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 23 2017,8:30pm,JPY,Low,Flash Manufacturing PMI,52.2,52.3,52.4
+Mon Jul 24 2017,3:00am,EUR,Medium,French Flash Manufacturing PMI,55.4,54.6,54.8
+,,EUR,Medium,French Flash Services PMI,55.9,56.6,56.9
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,58.3,59.1,59.6
+,,EUR,Medium,German Flash Services PMI,53.5,54.4,54.0
+,4:00am,EUR,Medium,Flash Manufacturing PMI,56.8,57.3,57.4
+,,EUR,Medium,Flash Services PMI,55.4,55.5,55.4
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Medium,Wholesale Sales m/m,0.9%,0.5%,0.8%
+,9:00am,CNY,Low,CB Leading Index m/m,1.6%,,1.7%
+,9:45am,USD,Low,Flash Manufacturing PMI,53.2,52.3,52.0
+,,USD,Low,Flash Services PMI,54.2,54.3,54.2
+,10:00am,USD,Medium,Existing Home Sales,5.52M,5.59M,5.62M
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+Tue Jul 25 2017,2:00am,EUR,Low,German Import Prices m/m,-1.1%,-0.7%,-1.0%
+,4:00am,EUR,Medium,German ifo Business Climate,116.0,114.9,115.2
+,5:34am,GBP,Low,30-y Bond Auction,1.83|2.2,,1.67|2.1
+,6:00am,GBP,Low,CBI Industrial Order Expectations,10,12,16
+,8:59am,EUR,Low,Belgian NBB Business Climate,-1.5,-1.9,-2.0
+,9:00am,USD,Low,HPI m/m,0.4%,0.5%,0.6%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,5.7%,5.8%,5.8%
+,9:59am,USD,Low,Richmond Manufacturing Index,14,7,7
+,10:00am,USD,High,CB Consumer Confidence,121.1,116.5,117.3
+,1:00pm,GBP,Medium,MPC Member Haldane Speaks,,,
+,4:15pm,NZD,High,RBNZ Assist Gov McDermott Speaks,,,
+,6:45pm,NZD,Medium,Trade Balance,242M,147M,74M
+,7:50pm,JPY,Low,SPPI y/y,0.8%,0.8%,0.8%
+,9:30pm,AUD,High,CPI q/q,0.2%,0.4%,0.5%
+,,AUD,High,Trimmed Mean CPI q/q,0.5%,0.5%,0.5%
+,11:05pm,AUD,High,RBA Gov Lowe Speaks,,,
+Wed Jul 26 2017,2:00am,CHF,Low,UBS Consumption Indicator,1.38,,1.32
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,34.7,,20.7
+,4:30am,GBP,High,Prelim GDP q/q,0.3%,0.3%,0.2%
+,,GBP,Low,High Street Lending,40.2K,39.9K,40.3K
+,,GBP,Low,Index of Services 3m/3m,0.4%,0.4%,0.2%
+,10:00am,USD,Medium,New Home Sales,610K,615K,605K
+,10:30am,USD,High,Crude Oil Inventories,-7.2M,-3.3M,-4.7M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,Medium,Federal Funds Rate,<1.25%,<1.25%,<1.25%
+,9:30pm,AUD,Low,Import Prices q/q,-0.1%,0.7%,1.2%
+Thu Jul 27 2017,2:00am,EUR,Low,German GfK Consumer Climate,10.8,10.7,10.6
+,3:00am,EUR,Medium,Spanish Unemployment Rate,17.2%,17.8%,18.8%
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.0%,5.0%,4.9%
+,,EUR,Low,Private Loans y/y,2.6%,2.7%,2.6%
+,6:00am,GBP,Low,CBI Realized Sales,22,10,12
+,8:30am,USD,High,Core Durable Goods Orders m/m,0.2%,0.4%,0.3%
+,,USD,High,Unemployment Claims,244K,240K,234K
+,,USD,Medium,Durable Goods Orders m/m,6.5%,3.5%,-0.8%
+,,USD,Low,Goods Trade Balance,-63.9B,-65.0B,-66.3B
+,,USD,Low,Prelim Wholesale Inventories m/m,0.6%,0.3%,0.4%
+,10:30am,USD,Low,Natural Gas Storage,17B,28B,28B
+,6:46pm,GBP,Low,GfK Consumer Confidence,-12,-11,-10
+,7:30pm,JPY,Low,Household Spending y/y,2.3%,0.6%,-0.1%
+,,JPY,Low,National Core CPI y/y,0.4%,0.4%,0.4%
+,,JPY,Low,Tokyo Core CPI y/y,0.2%,0.1%,0.0%
+,,JPY,Low,Unemployment Rate,2.8%,3.0%,3.1%
+,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Retail Sales y/y,2.1%,2.3%,2.1%
+,9:30pm,AUD,Low,PPI q/q,0.5%,0.6%,0.5%
+Fri Jul 28 2017,1:30am,EUR,Low,French Flash GDP q/q,0.5%,0.5%,0.5%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.4%,0.2%,0.2%
+,2:45am,EUR,Low,French Consumer Spending m/m,-0.8%,-0.3%,0.9%
+,,EUR,Low,French Prelim CPI m/m,-0.3%,-0.4%,0.0%
+,3:00am,CHF,Medium,KOF Economic Barometer,106.8,105.9,105.8
+,,EUR,Medium,Spanish Flash CPI y/y,1.5%,1.5%,1.5%
+,,EUR,Medium,Spanish Flash GDP q/q,0.9%,0.9%,0.8%
+,5:14am,EUR,Low,Italian 10-y Bond Auction,2.16|1.7,,2.16|1.3
+,8:30am,CAD,High,GDP m/m,0.6%,0.2%,0.2%
+,,USD,High,Advance GDP q/q,2.6%,2.5%,1.4%
+,,USD,Medium,Advance GDP Price Index q/q,1.0%,1.3%,1.9%
+,,USD,Medium,Employment Cost Index q/q,0.5%,0.6%,0.8%
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,93.4,93.2,93.1
+,,USD,Low,Revised UoM Inflation Expectations,2.6%,,2.7%
+,1:20pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+Sat Jul 29 2017,,,No specified,,,,

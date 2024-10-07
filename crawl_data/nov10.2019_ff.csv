@@ -1,0 +1,113 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Nov 10 2019,All Day,EUR,Medium,Spanish Parliamentary Election,,,
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Bank Lending y/y,2.0%,2.0%,2.0%
+,,JPY,Low,Core Machinery Orders m/m,-2.9%,0.9%,-2.4%
+,,JPY,Low,Current Account,1.49T,1.66T,1.72T
+Mon Nov 11 2019,12:00am,JPY,Low,Economy Watchers Sentiment,36.7,40.7,46.7
+,2:00am,EUR,Low,German WPI m/m,-0.1%,0.2%,-0.4%
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.4%,-0.4%,0.4%
+,4:01am,CNY,High,New Loans,661B,800B,1690B
+,,CNY,Low,M2 Money Supply y/y,8.4%,8.4%,8.4%
+,4:30am,GBP,High,Prelim GDP q/q,0.3%,0.4%,-0.2%
+,,GBP,Medium,GDP m/m,-0.1%,-0.1%,-0.2%
+,,GBP,Medium,Manufacturing Production m/m,-0.4%,-0.2%,-0.7%
+,,GBP,Low,Construction Output m/m,-0.2%,-0.5%,0.1%
+,,GBP,Low,Goods Trade Balance,-12.5B,-10.1B,-10.8B
+,,GBP,Low,Index of Services 3m/3m,0.4%,0.4%,0.4%
+,,GBP,Low,Industrial Production m/m,-0.3%,-0.1%,-0.7%
+,,GBP,Low,Prelim Business Investment q/q,0.0%,-0.5%,-0.4%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:15am,USD,Low,FOMC Member Rosengren Speaks,,,
+,8:17am,GBP,Low,NIESR GDP Estimate,0.1%,,0.3%
+,4:45pm,NZD,Low,Visitor Arrivals m/m,-0.1%,,1.4%
+,6:50pm,JPY,Low,M2 Money Stock y/y,2.5%,2.5%,2.4%
+,7:30pm,AUD,Medium,NAB Business Confidence,2,,0
+,9:00pm,NZD,High,Inflation Expectations q/q,1.80%,,1.86%
+,10:35pm,JPY,Low,30-y Bond Auction,0.46|3.7,,0.38|3.9
+Tue Nov 12 2019,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,-37.4%,,-35.5%
+,4:30am,GBP,Medium,Average Earnings Index 3m/y,3.6%,3.8%,3.7%
+,,GBP,Low,Claimant Count Change,33.0K,24.2K,13.5K
+,,GBP,Low,Unemployment Rate,3.8%,3.9%,3.9%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-2.1,-13.2,-22.8
+,,EUR,Low,ZEW Economic Sentiment,-1.0,-11.5,-23.5
+,5:30am,USD,Medium,FOMC Member Clarida Speaks,,,
+,5:45am,USD,Low,NFIB Small Business Index,102.4,102.3,101.8
+,12:00pm,USD,High,President Trump Speaks,,,
+,4:45pm,NZD,Low,FPI m/m,-0.3%,,0.0%
+,6:30pm,AUD,Medium,Westpac Consumer Sentiment,4.5%,,-5.5%
+,6:50pm,JPY,Low,PPI y/y,-0.4%,-0.5%,-1.1%
+,7:30pm,AUD,High,Wage Price Index q/q,0.5%,0.5%,0.5%
+,8:00pm,NZD,High,Official Cash Rate,1.00%,0.75%,1.00%
+,,NZD,High,RBNZ Monetary Policy Statement,,,
+,,NZD,High,RBNZ Rate Statement,,,
+,9:00pm,NZD,High,RBNZ Press Conference,,,
+Wed Nov 13 2019,2:00am,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
+,4:30am,GBP,High,CPI y/y,1.5%,1.6%,1.7%
+,,GBP,Low,Core CPI y/y,1.7%,1.7%,1.7%
+,,GBP,Low,HPI y/y,1.3%,1.2%,1.3%
+,,GBP,Low,PPI Input m/m,-1.3%,-1.1%,-0.9%
+,,GBP,Low,PPI Output m/m,-0.1%,0.0%,-0.1%
+,,GBP,Low,RPI y/y,2.1%,2.2%,2.4%
+,5:00am,EUR,Low,Industrial Production m/m,0.1%,-0.2%,0.4%
+,5:32am,EUR,Low,German 10-y Bond Auction,-0.29|2.0,,-0.41|2.3
+,8:30am,USD,High,CPI m/m,0.4%,0.3%,0.0%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.1%
+,11:00am,USD,High,Fed Chair Powell Testifies,,,
+,2:02pm,USD,Low,Federal Budget Balance,-134.5B,-131.0B,82.8B
+,2:10pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,5:50pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+,6:50pm,JPY,Low,Prelim GDP q/q,0.1%,0.2%,0.3%
+,6:53pm,JPY,Low,Prelim GDP Price Index y/y,0.6%,0.5%,0.4%
+,7:01pm,GBP,Low,RICS House Price Balance,-5%,-3%,-3%
+,7:05pm,AUD,Low,MI Inflation Expectations,4.0%,,3.6%
+,7:30pm,AUD,High,Employment Change,-19.0K,16.2K,12.5K
+,,AUD,High,Unemployment Rate,5.3%,5.2%,5.2%
+,9:00pm,CNY,Medium,Fixed Asset Investment ytd/y,5.2%,5.4%,5.4%
+,,CNY,Medium,Industrial Production y/y,4.7%,5.5%,5.8%
+,,CNY,Low,Retail Sales y/y,7.2%,7.8%,7.8%
+,,CNY,Low,Unemployment Rate,5.1%,,5.2%
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,1.8%,0.2%,0.3%
+Thu Nov 14 2019,2:00am,EUR,High,German Prelim GDP q/q,0.1%,-0.1%,-0.1%
+,2:30am,CHF,Low,PPI m/m,-0.2%,0.0%,-0.3%
+,2:45am,EUR,Low,French Final CPI m/m,0.0%,-0.1%,-0.1%
+,4:30am,GBP,High,Retail Sales m/m,-0.1%,0.2%,0.0%
+,5:00am,EUR,Low,Flash Employment Change q/q,0.1%,0.2%,0.2%
+,,EUR,Low,Flash GDP q/q,0.2%,0.2%,0.2%
+,5:30am,USD,Low,FOMC Member Quarles Speaks,,,
+,5:34am,GBP,Low,30-y Bond Auction,1.25|1.7,,1.15|2.0
+,8:30am,CAD,Low,NHPI m/m,0.2%,0.2%,0.1%
+,,USD,High,PPI m/m,0.4%,0.3%,-0.3%
+,,USD,Medium,Core PPI m/m,0.3%,0.2%,-0.3%
+,,USD,Low,Unemployment Claims,225K,215K,211K
+,9:10am,USD,Low,FOMC Member Clarida Speaks,,,
+,,USD,Low,FOMC Member Evans Speaks,,,
+,9:30am,GBP,Low,CB Leading Index m/m,-0.4%,,-0.5%
+,10:00am,USD,High,Fed Chair Powell Testifies,,,
+,,USD,Low,Mortgage Delinquencies,3.97%,,4.53%
+,10:30am,USD,Low,Natural Gas Storage,3B,2B,34B
+,11:00am,USD,Medium,Crude Oil Inventories,2.2M,1.5M,7.9M
+,12:00pm,CHF,Medium,Gov Board Member Maechler Speaks,,,
+,,USD,Low,FOMC Member Williams Speaks,,,
+,12:20pm,USD,Low,FOMC Member Bullard Speaks,,,
+,4:30pm,NZD,Medium,BusinessNZ Manufacturing Index,52.6,,48.8
+,8:30pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,9:45pm,CAD,High,BOC Gov Poloz Speaks,,,
+,11:30pm,JPY,Low,Revised Industrial Production m/m,1.7%,1.4%,1.4%
+Fri Nov 15 2019,4:02am,EUR,Low,Italian Trade Balance,2.78B,3.54B,2.59B
+,5:00am,EUR,Low,Final CPI y/y,0.7%,0.7%,0.7%
+,,EUR,Low,Final Core CPI y/y,1.1%,1.1%,1.1%
+,,EUR,Low,Trade Balance,18.3B,18.7B,19.7B
+,8:30am,CAD,Low,Foreign Securities Purchases,4.76B,4.22B,4.62B
+,,CAD,Low,Gov Council Member Lane Speaks,,,
+,,USD,High,Core Retail Sales m/m,0.2%,0.3%,-0.1%
+,,USD,High,Retail Sales m/m,0.3%,0.1%,-0.3%
+,,USD,Low,Empire State Manufacturing Index,2.9,6.1,4.0
+,,USD,Low,Import Prices m/m,-0.5%,-0.2%,0.1%
+,9:15am,USD,Low,Capacity Utilization Rate,76.7%,77.2%,77.5%
+,,USD,Low,Industrial Production m/m,-0.8%,-0.4%,-0.3%
+,10:00am,USD,Low,Business Inventories m/m,0.0%,0.1%,-0.1%
+,12:00pm,EUR,Low,German Buba President Weidmann Speaks,,,
+Sat Nov 16 2019,,,No specified,,,,

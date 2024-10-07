@@ -1,0 +1,95 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 12 2016,4:33am,CNY,Low,Foreign Direct Investment ytd/y,3.8%,,4.8%
+,All Day,AUD,Holiday,Bank Holiday,,,
+,7:50pm,JPY,Low,BSI Manufacturing Index,-11.1,-2.1,-7.9
+,10:00pm,CNY,High,Industrial Production y/y,6.0%,6.1%,6.0%
+,,CNY,Medium,Fixed Asset Investment ytd/y,9.6%,10.5%,10.5%
+,,CNY,Low,Retail Sales y/y,10.0%,10.1%,10.1%
+Mon Jun 13 2016,3:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,9:30am,GBP,Low,CB Leading Index m/m,0.0%,,0.0%
+,6:45pm,NZD,Low,FPI m/m,-0.5%,,0.3%
+,9:30pm,AUD,Medium,NAB Business Confidence,3,,5
+Tue Jun 14 2016,12:30am,JPY,Low,Revised Industrial Production m/m,0.5%,0.4%,0.3%
+,3:15am,CHF,Medium,PPI m/m,0.4%,0.1%,0.3%
+,4:30am,GBP,High,CPI y/y,0.3%,0.4%,0.3%
+,,GBP,Medium,PPI Input m/m,2.6%,0.9%,0.9%
+,,GBP,Medium,RPI y/y,1.4%,1.5%,1.3%
+,,GBP,Low,Core CPI y/y,1.2%,1.3%,1.2%
+,,GBP,Low,HPI y/y,8.2%,,8.5%
+,,GBP,Low,PPI Output m/m,0.1%,0.3%,0.3%
+,5:00am,EUR,Low,Final Employment Change q/q,0.3%,0.2%,0.3%
+,,EUR,Low,Industrial Production m/m,1.1%,0.7%,-0.7%
+,5:55am,USD,Low,NFIB Small Business Index,93.8,93.8,93.6
+,8:30am,USD,High,Core Retail Sales m/m,0.4%,0.4%,0.8%
+,,USD,High,Retail Sales m/m,0.5%,0.4%,1.3%
+,,USD,Medium,Import Prices m/m,1.4%,0.8%,0.7%
+,10:00am,USD,Low,Business Inventories m/m,0.1%,0.2%,0.3%
+,6:45pm,NZD,Medium,Current Account,1.31B,0.97B,-2.89B
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-1.0%,,8.5%
+Wed Jun 15 2016,2:45am,EUR,Low,French Final CPI m/m,0.4%,0.4%,0.4%
+,4:02am,CNY,Low,M2 Money Supply y/y,11.8%,12.6%,12.8%
+,,CNY,Low,New Loans,986B,750B,556B
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.0%,1.7%,2.0%
+,,GBP,High,Claimant Count Change,-0.4K,-0.1K,6.4K
+,,GBP,Medium,Unemployment Rate,5.0%,5.1%,5.1%
+,5:00am,EUR,Low,Trade Balance,28.0B,21.6B,23.7B
+,5:33am,EUR,Low,German 10-y Bond Auction,0.01|1.1,,0.14|1.3
+,8:30am,CAD,High,Manufacturing Sales m/m,1.0%,0.7%,-0.9%
+,,USD,High,PPI m/m,0.4%,0.3%,0.2%
+,,USD,Medium,Core PPI m/m,0.3%,0.1%,0.1%
+,,USD,Medium,Empire State Manufacturing Index,6.0,-3.4,-9.0
+,9:15am,USD,Medium,Capacity Utilization Rate,74.9%,75.2%,75.3%
+,,USD,Medium,Industrial Production m/m,-0.4%,-0.2%,0.6%
+,10:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,10:12am,NZD,High,GDT Price Index,0.0%,,3.4%
+,10:30am,USD,High,Crude Oil Inventories,-0.9M,0.3M,-3.2M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.50%,<0.50%,<0.50%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,-79.6B,30.2B,78.1B
+,6:45pm,NZD,High,GDP q/q,0.7%,0.5%,0.9%
+,7:55pm,CAD,High,BOC Gov Poloz Speaks,,,
+,9:00pm,AUD,Low,MI Inflation Expectations,3.5%,,3.2%
+,9:30pm,AUD,High,Employment Change,17.9K,14.9K,0.8K
+,,AUD,High,Unemployment Rate,5.7%,5.7%,5.7%
+,,AUD,Low,New Motor Vehicle Sales m/m,-1.1%,,-2.8%
+,,AUD,Low,RBA Bulletin,,,
+,10:45pm,JPY,High,BOJ Policy Rate,-0.10%,,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Thu Jun 16 2016,12:30am,CHF,Medium,SNB Financial Stability Report,,,
+,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,2:30am,JPY,High,BOJ Press Conference,,,
+,3:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,4:00am,CHF,High,SNB Press Conference,,,
+,,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,High,Retail Sales m/m,0.9%,0.3%,1.9%
+,4:43am,EUR,Low,Spanish 10-y Bond Auction,1.59|1.6,,1.50|1.5
+,5:00am,EUR,Medium,Final CPI y/y,-0.1%,-0.1%,-0.1%
+,,EUR,Low,Final Core CPI y/y,0.8%,0.8%,0.8%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,7:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Medium,Foreign Securities Purchases,15.52B,14.70B,17.05B
+,,USD,High,CPI m/m,0.2%,0.3%,0.4%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,,USD,High,Philly Fed Manufacturing Index,4.7,1.1,-1.8
+,,USD,High,Unemployment Claims,277K,267K,264K
+,,USD,Medium,Current Account,-125B,-125B,-113B
+,10:00am,USD,Low,NAHB Housing Market Index,60,59,58
+,10:30am,USD,Low,Natural Gas Storage,69B,66B,65B
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,57.1,,56.6
+Fri Jun 17 2016,4:00am,EUR,Low,Current Account,36.2B,24.7B,26.3B
+,4:04am,EUR,Low,Italian Trade Balance,4.52B,5.95B,5.23B
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,8:30am,CAD,High,Core CPI m/m,0.3%,0.3%,0.2%
+,,CAD,Medium,CPI m/m,0.4%,0.5%,0.3%
+,,USD,High,Building Permits,1.14M,1.15M,1.13M
+,,USD,Medium,Housing Starts,1.16M,1.15M,1.17M
+,11:00am,EUR,Medium,ECB President Draghi Speaks,,,
+,1:10pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+Sat Jun 18 2016,,,No specified,,,,

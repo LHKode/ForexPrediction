@@ -1,0 +1,71 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 23 2021,6:45pm,NZD,Medium,Retail Sales q/q,2.5%,-1.8%,-2.6%
+,6:49pm,NZD,Low,Core Retail Sales q/q,3.2%,-1.0%,-2.9%
+Mon May 24 2021,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,7:06am,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:00am,CNY,Low,CB Leading Index m/m,1.2%,,0.9%
+,,USD,Low,FOMC Member Brainard Speaks,,,
+,10:30am,GBP,High,Monetary Policy Report Hearings,,,
+,12:00pm,USD,Low,FOMC Member Bostic Speaks,,,
+,9:30pm,AUD,Low,Goods Trade Balance,10.14B,,8.23B
+Tue May 25 2021,1:00am,JPY,Low,BOJ Core CPI y/y,-0.1%,-0.1%,0.0%
+,2:00am,EUR,Low,German Final GDP q/q,-1.8%,-1.7%,-1.7%
+,,GBP,Low,Public Sector Net Borrowing,31.0B,32.9B,25.5B
+,4:00am,EUR,Medium,German ifo Business Climate,99.2,98.2,96.6
+,6:00am,GBP,Low,CBI Realized Sales,18,24,20
+,8:30am,CAD,Low,Corporate Profits q/q,18.1%,,7.9%
+,9:00am,EUR,Low,Belgian NBB Business Climate,6.5,5.6,4.4
+,,USD,Low,HPI m/m,1.4%,1.1%,1.1%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,13.3%,12.6%,12.0%
+,9:40am,USD,Low,FOMC Member Evans Speaks,,,
+,9:59am,USD,Low,Richmond Manufacturing Index,18,19,17
+,10:00am,USD,Medium,CB Consumer Confidence,117.2,119.0,117.5
+,,USD,Low,FOMC Member Quarles Speaks,,,
+,,USD,Low,New Home Sales,863K,950K,917K
+,12:00pm,GBP,Low,MPC Member Tenreyro Speaks,,,
+,6:45pm,NZD,Low,Trade Balance,388M,90M,39M
+,7:50pm,JPY,Low,SPPI y/y,1.0%,0.9%,0.7%
+,8:30pm,AUD,Low,MI Leading Index m/m,0.2%,,0.5%
+,9:30pm,AUD,Low,Construction Work Done q/q,2.4%,1.9%,-1.5%
+,10:00pm,NZD,High,RBNZ Monetary Policy Statement,,,
+,,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,Official Cash Rate,0.25%,0.25%,0.25%
+,11:00pm,NZD,High,RBNZ Press Conference,,,
+Wed May 26 2021,4:00am,CHF,Low,Credit Suisse Economic Expectations,72.2,,68.3
+,10:00am,USD,Low,FOMC Member Quarles Speaks,,,
+,10:30am,USD,Medium,Crude Oil Inventories,-1.7M,-1.0M,1.3M
+,1:00pm,CAD,Low,Gov Council Member Lane Speaks,,,
+,3:00pm,USD,Low,FOMC Member Quarles Speaks,,,
+,9:30pm,AUD,Low,Private Capital Expenditure q/q,6.3%,2.0%,4.2%
+Thu May 27 2021,2:00am,CHF,Low,Trade Balance,3.84B,4.85B,5.73B
+,,EUR,Low,German GfK Consumer Climate,-7.0,-5.3,-8.6
+,7:00am,GBP,Low,MPC Member Vlieghe Speaks,,,
+,8:00am,EUR,Low,German Buba President Weidmann Speaks,,,
+,8:30am,USD,High,Prelim GDP q/q,6.4%,6.5%,6.4%
+,,USD,Medium,Unemployment Claims,406K,427K,444K
+,,USD,Low,Core Durable Goods Orders m/m,1.0%,0.8%,1.9%
+,,USD,Low,Durable Goods Orders m/m,-1.3%,0.8%,0.8%
+,,USD,Low,Prelim GDP Price Index q/q,4.3%,4.1%,4.1%
+,10:00am,USD,Medium,Pending Home Sales m/m,-4.4%,0.6%,1.7%
+,10:30am,USD,Low,Natural Gas Storage,115B,105B,71B
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,-0.2%,-0.2%,-0.2%
+,,JPY,Low,Unemployment Rate,2.8%,2.7%,2.6%
+Fri May 28 2021,2:00am,EUR,Low,German Import Prices m/m,1.4%,1.0%,1.8%
+,2:45am,EUR,Low,French Consumer Spending m/m,-8.3%,-4.1%,-0.3%
+,,EUR,Low,French Prelim CPI m/m,0.3%,0.3%,0.1%
+,,EUR,Low,French Prelim GDP q/q,-0.1%,0.4%,0.4%
+,3:00am,CHF,Low,KOF Economic Barometer,143.2,132.2,136.4
+,5:15am,EUR,Low,Italian 10-y Bond Auction,0.94|1.3,,0.88|1.4
+,All Day,All,Low,G7 Meetings,,,
+,8:30am,USD,Medium,Core PCE Price Index m/m,0.7%,0.6%,0.4%
+,,USD,Low,Goods Trade Balance,-85.2B,-92.0B,-92.0B
+,,USD,Low,Personal Income m/m,-13.1%,-14.2%,20.9%
+,,USD,Low,Personal Spending m/m,0.5%,0.5%,4.7%
+,,USD,Low,Prelim Wholesale Inventories m/m,0.8%,0.7%,1.3%
+,9:45am,USD,Medium,Chicago PMI,75.2,67.9,72.1
+,10:00am,USD,Low,Revised UoM Consumer Sentiment,82.9,83.1,82.8
+,,USD,Low,Revised UoM Inflation Expectations,4.6%,,4.6%
+Sat May 29 2021,,,No specified,,,,

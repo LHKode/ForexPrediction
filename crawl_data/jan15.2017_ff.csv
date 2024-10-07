@@ -1,0 +1,94 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 15 2017,4:45pm,NZD,Low,FPI m/m,-0.8%,,-0.1%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,-5.1%,-1.3%,4.1%
+,,JPY,Low,PPI y/y,-1.2%,-1.4%,-2.2%
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.5%,,0.1%
+,7:01pm,GBP,Low,Rightmove HPI m/m,0.4%,,-2.1%
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,0.2%,0.2%,0.0%
+Mon Jan 16 2017,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,4.4%,,-5.6%
+,5:00am,EUR,Low,Trade Balance,22.7B,23.2B,19.9B
+,All Day,USD,Holiday,Bank Holiday,,,
+,1:30pm,GBP,High,BOE Gov Carney Speaks,,,
+,4:00pm,NZD,Medium,NZIER Business Confidence,28,,26
+,7:30pm,AUD,Low,Home Loans m/m,0.9%,0.1%,-0.6%
+,,AUD,Low,New Motor Vehicle Sales m/m,0.3%,,-0.7%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,1.5%,1.5%,1.5%
+Tue Jan 17 2017,4:00am,EUR,Low,Italian Trade Balance,4.20B,3.84B,4.29B
+,Day 1,All,Medium,WEF Annual Meetings,,,
+,4:30am,GBP,High,CPI y/y,1.6%,1.4%,1.2%
+,,GBP,Medium,PPI Input m/m,1.8%,2.2%,-0.6%
+,,GBP,Medium,RPI y/y,2.5%,2.3%,2.2%
+,,GBP,Low,Core CPI y/y,1.6%,1.4%,1.4%
+,,GBP,Low,HPI y/y,6.7%,6.3%,6.4%
+,,GBP,Low,PPI Output m/m,0.1%,0.3%,0.1%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,16.6,18.9,13.8
+,,EUR,Low,ZEW Economic Sentiment,23.2,24.2,18.1
+,5:36am,EUR,Low,French Gov Budget Balance,-93.3B,,-85.5B
+,6:45am,GBP,High,Prime Minister May Speaks,,,
+,8:30am,USD,Medium,Empire State Manufacturing Index,6.5,8.1,9.0
+,8:45am,USD,Medium,FOMC Member Dudley Speaks,,,
+,8:47am,NZD,High,GDT Price Index,0.6%,,-3.9%
+,9:30am,GBP,Low,CB Leading Index m/m,0.0%,,0.1%
+,10:00am,USD,High,Treasury Sec Lew Speaks,,,
+,,USD,Medium,FOMC Member Brainard Speaks,,,
+,6:30pm,AUD,Low,Westpac Consumer Sentiment,0.1%,,-3.9%
+Wed Jan 18 2017,2:00am,EUR,Low,German Final CPI m/m,0.7%,0.7%,0.7%
+,Day 2,All,Medium,WEF Annual Meetings,,,
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.8%,2.6%,2.6%
+,,GBP,High,Claimant Count Change,-10.1K,4.6K,1.3K
+,,GBP,Medium,Unemployment Rate,4.8%,4.8%,4.8%
+,5:00am,EUR,Medium,Final CPI y/y,1.1%,1.1%,1.1%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,8:30am,USD,High,CPI m/m,0.3%,0.3%,0.2%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,9:15am,USD,Medium,Capacity Utilization Rate,75.5%,75.6%,74.9%
+,,USD,Medium,Industrial Production m/m,0.8%,0.8%,-0.7%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.50%,0.50%,0.50%
+,,USD,Low,NAHB Housing Market Index,67,69,69
+,11:00am,USD,Medium,FOMC Member Kashkari Speaks,,,
+,11:15am,CAD,High,BOC Press Conference,,,
+,2:00pm,USD,Low,Beige Book,,,
+,3:00pm,USD,High,Fed Chair Yellen Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,30.8B,21.3B,9.3B
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,54.5,,54.5
+,4:45pm,NZD,Low,Building Consents m/m,-9.2%,,2.0%
+,7:00pm,AUD,Low,MI Inflation Expectations,4.3%,,3.4%
+,7:01pm,GBP,Low,RICS House Price Balance,24%,32%,29%
+,7:30pm,AUD,High,Employment Change,13.5K,10.2K,37.1K
+,,AUD,High,Unemployment Rate,5.8%,5.7%,5.7%
+Thu Jan 19 2017,3:15am,CHF,Medium,PPI m/m,0.2%,0.2%,0.1%
+,4:00am,EUR,Low,Current Account,36.1B,29.3B,28.3B
+,Day 3,All,Medium,WEF Annual Meetings,,,
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,High,Manufacturing Sales m/m,1.5%,0.2%,-0.6%
+,,CAD,Medium,Foreign Securities Purchases,7.24B,10.23B,15.77B
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,Building Permits,1.21M,1.22M,1.21M
+,,USD,High,Philly Fed Manufacturing Index,23.6,16.3,21.5
+,,USD,High,Unemployment Claims,234K,252K,249K
+,,USD,Medium,Housing Starts,1.23M,1.19M,1.10M
+,10:30am,USD,Low,Natural Gas Storage,-243B,-235B,-151B
+,11:00am,USD,High,Crude Oil Inventories,2.3M,0.1M,4.1M
+,7:00pm,AUD,Low,HIA New Home Sales m/m,6.1%,,-8.5%
+,8:00pm,USD,High,Fed Chair Yellen Speaks,,,
+,9:00pm,CNY,High,GDP q/y,6.8%,6.7%,6.7%
+,,CNY,High,Industrial Production y/y,6.0%,6.1%,6.2%
+,,CNY,Medium,Fixed Asset Investment ytd/y,8.1%,8.3%,8.3%
+,,CNY,Medium,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,10.9%,10.7%,10.8%
+Fri Jan 20 2017,2:00am,EUR,Low,German PPI m/m,0.4%,0.4%,0.3%
+,Day 4,All,Medium,WEF Annual Meetings,,,
+,4:30am,GBP,High,Retail Sales m/m,-1.9%,-0.1%,-0.1%
+,8:30am,CAD,High,CPI m/m,-0.2%,0.0%,-0.4%
+,,CAD,High,Core Retail Sales m/m,0.1%,0.1%,1.4%
+,,CAD,Medium,Common CPI y/y,1.4%,,1.3%
+,,CAD,Medium,Median CPI y/y,2.0%,,2.0%
+,,CAD,Medium,Retail Sales m/m,0.2%,0.5%,1.2%
+,,CAD,Medium,Trimmed CPI y/y,1.6%,,1.6%
+,8:32am,CAD,Low,Core CPI m/m,-0.3%,0.2%,-0.5%
+,9:00am,USD,Medium,FOMC Member Harker Speaks,,,
+,12:00pm,USD,High,President Trump Speaks,,,
+Sat Jan 21 2017,,,No specified,,,,

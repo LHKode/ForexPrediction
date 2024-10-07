@@ -1,0 +1,103 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 5 2020,6:45pm,USD,High,President Trump Speaks,,,
+,7:01pm,GBP,Low,GfK Consumer Confidence,-34,,-9
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.2%,,-0.1%
+,,NZD,Low,ANZ Commodity Prices m/m,-2.1%,,-2.1%
+Mon Apr 6 2020,1:00am,JPY,Low,Consumer Confidence,30.9,34.2,38.4
+,2:00am,EUR,Low,German Factory Orders m/m,-1.4%,-2.7%,4.8%
+,4:30am,EUR,Low,Sentix Investor Confidence,-42.9,-30.5,-17.1
+,,GBP,Low,Construction PMI,39.3,44.0,52.6
+,4:34am,GBP,Low,Housing Equity Withdrawal q/q,-5.1B,-6.2B,-6.0B
+,10:30am,CAD,High,BOC Business Outlook Survey,,,
+,5:42pm,USD,High,President Trump Speaks,,,
+,6:02pm,NZD,Medium,NZIER Business Confidence,-70,,-21
+,6:30pm,AUD,Low,AIG Services Index,38.7,,47.0
+,7:30pm,JPY,Low,Average Cash Earnings y/y,1.0%,0.2%,1.2%
+,,JPY,Low,Household Spending y/y,-0.3%,-3.3%,-3.9%
+,9:30pm,AUD,Medium,Trade Balance,4.36B,3.75B,4.75B
+,,AUD,Low,ANZ Job Advertisements m/m,-10.3%,,1.2%
+,11:35pm,JPY,Low,30-y Bond Auction,0.43|3.5,,0.34|3.6
+Tue Apr 7 2020,12:30am,AUD,High,Cash Rate,0.25%,0.25%,0.25%
+,,AUD,High,RBA Rate Statement,,,
+,1:00am,JPY,Low,Leading Indicators,92.1%,92.0%,90.5%
+,1:45am,CHF,Low,Unemployment Rate,2.8%,2.7%,2.6%
+,2:00am,EUR,Low,German Industrial Production m/m,0.3%,-0.7%,3.2%
+,2:45am,EUR,Low,French Trade Balance,-5.2B,-5.1B,-6.0B
+,3:00am,CHF,Low,Foreign Currency Reserves,766B,,769B
+,3:30am,GBP,Low,Halifax HPI m/m,0.0%,0.2%,0.2%
+,4:00am,EUR,Low,Italian Retail Sales m/m,0.8%,-0.4%,0.1%
+,6:00am,USD,Low,NFIB Small Business Index,96.4,96.3,104.5
+,Day 1,EUR,Medium,Eurogroup Meetings,,,
+,10:00am,CAD,Low,Ivey PMI,26.0,50.1,54.1
+,,USD,Low,IBD/TIPP Economic Optimism,47.8,49.1,53.9
+,,USD,Low,JOLTS Job Openings,6.88M,6.55M,7.01M
+,10:54am,NZD,Low,GDT Price Index,1.2%,,-3.9%
+,1:01pm,USD,Low,10-y Bond Auction,0.78|2.4,,0.85|2.4
+,3:00pm,USD,Low,Consumer Credit m/m,22.3B,13.9B,12.1B
+,5:42pm,USD,High,President Trump Speaks,,,
+,7:50pm,JPY,Low,Core Machinery Orders m/m,2.3%,-2.9%,2.9%
+,,JPY,Low,Current Account,2.38T,2.02T,1.63T
+,9:00pm,NZD,High,Prelim ANZ Business Confidence,-73.1,,-63.5
+Wed Apr 8 2020,1:00am,JPY,Low,Economy Watchers Sentiment,14.2,22.2,27.4
+,5:05am,GBP,Low,10-y Bond Auction,0.38|3.9,,0.31|2.2
+,5:34am,EUR,Low,German 10-y Bond Auction,-0.34|1.8,,-0.77|1.0
+,Day 2,EUR,Medium,Eurogroup Meetings,,,
+,8:13am,CAD,Low,Housing Starts,195K,173K,211K
+,8:30am,CAD,Low,Building Permits m/m,-7.3%,-4.0%,3.3%
+,10:30am,USD,Low,Crude Oil Inventories,15.2M,9.8M,13.8M
+,1:01pm,USD,Low,30-y Bond Auction,1.33|2.4,,1.32|2.4
+,2:00pm,USD,Medium,FOMC Meeting Minutes,,,
+,5:46pm,USD,High,President Trump Speaks,,,
+,7:01pm,GBP,Low,RICS House Price Balance,11%,11%,29%
+,8:30pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,9:30pm,AUD,Medium,RBA Financial Stability Review,,,
+Thu Apr 9 2020,1:59am,JPY,Low,Prelim Machine Tool Orders y/y,-40.8%,,-29.6%
+,2:00am,EUR,Low,German Trade Balance,21.6B,20.3B,18.7B
+,,GBP,Medium,GDP m/m,-0.1%,0.1%,0.1%
+,,GBP,Low,Construction Output m/m,-1.7%,0.3%,-0.2%
+,,GBP,Low,Goods Trade Balance,-11.5B,-6.0B,-5.8B
+,,GBP,Low,Index of Services 3m/3m,0.2%,0.3%,0.0%
+,,GBP,Low,Industrial Production m/m,0.1%,0.1%,0.2%
+,,GBP,Low,Manufacturing Production m/m,0.5%,0.2%,0.4%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-1.2%,-1.6%,3.6%
+,All Day,All,High,OPEC Meetings,,,
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,Day 3,EUR,Medium,Eurogroup Meetings,,,
+,7:30am,EUR,High,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,High,Employment Change,-1010.7K,-427.0K,30.3K
+,,CAD,High,Unemployment Rate,7.8%,7.4%,5.6%
+,,USD,High,Fed Announcement,,,
+,,USD,High,Unemployment Claims,6606K,5000K,6867K
+,,USD,Medium,Core PPI m/m,0.2%,0.0%,-0.3%
+,,USD,Medium,PPI m/m,-0.2%,-0.3%,-0.6%
+,9:28am,GBP,Low,NIESR GDP Estimate,-4.8%,,0.1%
+,10:00am,USD,High,Fed Chair Powell Speaks,,,
+,,USD,Medium,Prelim UoM Consumer Sentiment,71.0,75.0,89.1
+,,USD,Low,Final Wholesale Inventories m/m,-0.7%,-0.5%,-0.5%
+,,USD,Low,Prelim UoM Inflation Expectations,2.1%,,2.2%
+,10:30am,USD,Low,Natural Gas Storage,38B,23B,-19B
+,1:00pm,GBP,Low,FPC Statement,,,
+,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,6:24pm,USD,High,President Trump Speaks,,,
+,7:50pm,JPY,Low,Bank Lending y/y,2.0%,2.1%,2.1%
+,,JPY,Low,PPI y/y,-0.4%,-0.1%,0.8%
+,9:30pm,CNY,Medium,CPI y/y,4.3%,4.9%,5.2%
+,,CNY,Low,PPI y/y,-1.5%,-1.1%,-0.4%
+Fri Apr 10 2020,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,2:45am,EUR,Low,French Industrial Production m/m,0.9%,0.0%,1.1%
+,All Day,GBP,Holiday,Bank Holiday,,,
+,3:30am,CNY,Medium,New Loans,2850B,1800B,906B
+,,CNY,Low,M2 Money Supply y/y,10.1%,8.9%,8.8%
+,8:30am,USD,High,CPI m/m,-0.4%,-0.3%,0.1%
+,,USD,High,Core CPI m/m,-0.1%,0.1%,0.2%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:30am,GBP,Low,CB Leading Index m/m,-0.1%,,0.0%
+,All Day,All,High,G20 Meetings,,,
+,12:30pm,USD,Low,FOMC Member Mester Speaks,,,
+,1:30pm,USD,Low,FOMC Member Quarles Speaks,,,
+,2:00pm,USD,High,President Trump Speaks,,,
+,,USD,Low,Federal Budget Balance,-119.1B,-135.0B,-235.3B
+Sat Apr 11 2020,,,No specified,,,,

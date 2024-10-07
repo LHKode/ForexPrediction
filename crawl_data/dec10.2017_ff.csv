@@ -1,0 +1,106 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 10 2017,6:50pm,JPY,Low,BSI Manufacturing Index,9.7,10.1,9.4
+,,JPY,Low,M2 Money Stock y/y,4.0%,4.1%,4.1%
+,7:01pm,GBP,Low,Rightmove HPI m/m,-2.6%,,-0.8%
+Mon Dec 11 2017,1:04am,JPY,Low,Prelim Machine Tool Orders y/y,46.9%,,49.8%
+,4:00am,CNY,Low,M2 Money Supply y/y,9.1%,8.9%,8.8%
+,,CNY,Low,New Loans,1120B,800B,663B
+,,EUR,Low,Italian Retail Sales m/m,-1.0%,-0.1%,0.8%
+,10:00am,USD,Low,JOLTS Job Openings,6.00M,6.03M,6.18M
+,1:01pm,USD,Low,10-y Bond Auction,2.38|2.4,,2.31|2.5
+,6:50pm,JPY,Low,PPI y/y,3.5%,3.3%,3.4%
+,7:30pm,AUD,Medium,HPI q/q,-0.2%,0.6%,1.9%
+,,AUD,Medium,NAB Business Confidence,6,,9
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,0.3%,0.2%,-0.2%
+Tue Dec 12 2017,1:30am,EUR,Low,French Final Private Payrolls q/q,0.3%,0.2%,0.2%
+,4:30am,GBP,High,CPI y/y,3.1%,3.0%,3.0%
+,,GBP,Medium,PPI Input m/m,1.8%,1.6%,1.0%
+,,GBP,Medium,RPI y/y,3.9%,4.1%,4.0%
+,,GBP,Low,Core CPI y/y,2.7%,2.7%,2.7%
+,,GBP,Low,HPI y/y,4.5%,5.2%,4.8%
+,,GBP,Low,PPI Output m/m,0.3%,0.2%,0.2%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,17.4,17.9,18.7
+,,EUR,Low,ZEW Economic Sentiment,29.0,30.2,30.9
+,6:00am,USD,Low,NFIB Small Business Index,107.5,104.6,103.8
+,8:30am,USD,High,PPI m/m,0.4%,0.4%,0.4%
+,,USD,Medium,Core PPI m/m,0.3%,0.2%,0.4%
+,1:01pm,USD,Low,30-y Bond Auction,2.80|2.5,,2.80|2.2
+,2:00pm,EUR,High,ECB President Draghi Speaks,,,
+,,USD,Low,Federal Budget Balance,-138.5B,-135.2B,-63.2B
+,4:45pm,NZD,Low,FPI m/m,-0.4%,,-1.1%
+,5:15pm,AUD,High,RBA Gov Lowe Speaks,,,
+,6:30pm,AUD,Low,Westpac Consumer Sentiment,3.6%,,-1.7%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,5.0%,3.1%,-8.1%
+,7:00pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+Wed Dec 13 2017,1:04am,AUD,Low,HIA New Home Sales m/m,1.6%,,-6.1%
+,2:00am,EUR,Low,German Final CPI m/m,0.3%,0.3%,0.3%
+,,EUR,Low,German WPI m/m,0.5%,0.2%,0.0%
+,4:00am,EUR,Low,Italian Industrial Production m/m,0.5%,0.7%,-1.3%
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.5%,2.5%,2.3%
+,,GBP,Medium,Claimant Count Change,5.9K,3.3K,6.5K
+,,GBP,Medium,Unemployment Rate,4.3%,4.2%,4.3%
+,5:00am,EUR,Low,Final Employment Change q/q,0.4%,0.4%,0.4%
+,,EUR,Low,Industrial Production m/m,0.2%,0.0%,-0.5%
+,8:30am,USD,High,CPI m/m,0.4%,0.4%,0.1%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.2%
+,10:30am,USD,High,Crude Oil Inventories,-5.1M,-3.6M,-5.6M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.50%,<1.50%,<1.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,3:00pm,USD,High,President Trump Speaks,,,
+,6:00pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,7:00pm,AUD,Low,MI Inflation Expectations,3.7%,,3.7%
+,7:01pm,GBP,Low,RICS House Price Balance,0%,0%,1%
+,7:30pm,AUD,High,Employment Change,61.6K,18.1K,7.8K
+,,AUD,High,Unemployment Rate,5.4%,5.4%,5.4%
+,,JPY,Low,Flash Manufacturing PMI,54.2,54.0,53.6
+,9:00pm,CNY,High,Industrial Production y/y,6.1%,6.1%,6.2%
+,,CNY,Medium,Fixed Asset Investment ytd/y,7.2%,7.2%,7.3%
+,,CNY,Low,Foreign Direct Investment ytd/y,9.8%,,1.9%
+,,CNY,Low,Retail Sales y/y,10.2%,10.3%,10.0%
+,11:32pm,JPY,Low,Revised Industrial Production m/m,0.5%,0.5%,0.5%
+Thu Dec 14 2017,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.1%,0.1%
+,3:00am,EUR,Medium,French Flash Manufacturing PMI,59.3,57.2,57.7
+,,EUR,Medium,French Flash Services PMI,59.4,59.8,60.4
+,3:15am,CHF,Medium,PPI m/m,0.6%,0.3%,0.5%
+,3:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,,EUR,Medium,German Flash Manufacturing PMI,63.3,62.1,62.5
+,,EUR,Medium,German Flash Services PMI,55.8,54.6,54.3
+,4:00am,EUR,Medium,Flash Manufacturing PMI,60.6,59.8,60.1
+,,EUR,Medium,Flash Services PMI,56.5,56.0,56.2
+,4:30am,CHF,High,SNB Press Conference,,,
+,,GBP,High,Retail Sales m/m,1.1%,0.4%,0.5%
+,4:47am,EUR,Low,Spanish 10-y Bond Auction,1.49|2.0,,1.41|1.5
+,7:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,7-0-2
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Low,Asset Purchase Facility,435B,435B,435B
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.2%,0.2%
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,Core Retail Sales m/m,1.0%,0.6%,0.4%
+,,USD,High,Retail Sales m/m,0.8%,0.3%,0.5%
+,,USD,Medium,Import Prices m/m,0.7%,0.7%,0.1%
+,,USD,Medium,Unemployment Claims,225K,237K,236K
+,9:30am,GBP,Low,CB Leading Index m/m,-0.2%,,-0.2%
+,9:45am,USD,Low,Flash Manufacturing PMI,55.0,54.0,53.9
+,,USD,Low,Flash Services PMI,52.4,54.8,54.5
+,10:00am,USD,Low,Business Inventories m/m,-0.1%,-0.1%,0.0%
+,10:30am,USD,Low,Natural Gas Storage,-69B,-55B,2B
+,12:25pm,CAD,High,BOC Gov Poloz Speaks,,,
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,57.7,,57.3
+,6:50pm,JPY,Medium,Tankan Manufacturing Index,25,24,22
+,,JPY,Medium,Tankan Non-Manufacturing Index,23,24,23
+Fri Dec 15 2017,5:00am,EUR,Low,Trade Balance,19.0B,24.4B,24.5B
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:15am,GBP,Medium,MPC Member Haldane Speaks,,,
+,8:30am,CAD,Medium,Manufacturing Sales m/m,-0.4%,0.9%,0.4%
+,,USD,Medium,Empire State Manufacturing Index,18.0,18.8,19.4
+,9:15am,USD,Medium,Capacity Utilization Rate,77.1%,77.2%,77.0%
+,,USD,Medium,Industrial Production m/m,0.2%,0.3%,1.2%
+,4:00pm,USD,Low,TIC Long-Term Purchases,23.2B,57.6B,80.9B
+Sat Dec 16 2017,,,No specified,,,,

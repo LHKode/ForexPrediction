@@ -1,0 +1,110 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 21 2021,4:00pm,NZD,Low,Westpac Consumer Sentiment,105.2,,106.0
+Mon Mar 22 2021,5:00am,EUR,Low,Current Account,30.5B,34.5B,36.7B
+,7:00am,EUR,Low,German Buba Monthly Report,,,
+,9:00am,EUR,Low,German Buba President Weidmann Speaks,,,
+,,USD,High,Fed Chair Powell Speaks,,,
+,10:00am,USD,Low,Existing Home Sales,6.22M,6.55M,6.66M
+,,USD,Low,FOMC Member Barkin Speaks,,,
+,1:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,1:30pm,USD,Low,FOMC Member Quarles Speaks,,,
+,7:15pm,USD,Low,FOMC Member Bowman Speaks,,,
+,10:00pm,NZD,Low,Credit Card Spending y/y,-12.4%,,-10.7%
+Tue Mar 23 2021,12:59am,JPY,Low,BOJ Core CPI y/y,-0.2%,-0.2%,-0.3%
+,3:00am,GBP,Low,Average Earnings Index 3m/y,4.8%,4.9%,4.7%
+,,GBP,Low,Claimant Count Change,86.6K,9.0K,-20.8K
+,,GBP,Low,Unemployment Rate,5.0%,5.2%,5.1%
+,4:40am,GBP,Low,MPC Member Haldane Speaks,,,
+,5:55am,GBP,Low,MPC Member Cunliffe Speaks,,,
+,6:05am,GBP,Low,30-y Bond Auction,1.30|2.2,,1.30|2.2
+,7:00am,GBP,Low,CBI Industrial Order Expectations,-5,-20,-24
+,7:50am,GBP,Medium,BOE Gov Bailey Speaks,,,
+,8:30am,USD,Low,Current Account,-188B,-189B,-181B
+,9:00am,CNY,Low,CB Leading Index m/m,1.1%,,1.1%
+,9:59am,USD,Low,Richmond Manufacturing Index,17,15,14
+,10:00am,USD,Low,New Home Sales,775K,872K,948K
+,10:10am,USD,Low,FOMC Member Bostic Speaks,,,
+,12:00pm,USD,High,Fed Chair Powell Testifies,,,
+,1:15pm,CAD,Low,Gov Council Member Gravelle Speaks,,,
+,1:25pm,USD,Low,FOMC Member Brainard Speaks,,,
+,2:45pm,USD,Low,FOMC Member Williams Speaks,,,
+,3:45pm,USD,Low,FOMC Member Brainard Speaks,,,
+,5:45pm,NZD,Low,Trade Balance,181M,180M,-647M
+,6:00pm,AUD,Low,Flash Manufacturing PMI,57.0,,56.9
+,,AUD,Low,Flash Services PMI,56.2,,53.4
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,,JPY,Low,SPPI y/y,-0.1%,-0.5%,-0.4%
+,8:30pm,AUD,Low,Goods Trade Balance,8.10B,,8.18B
+,,JPY,Low,Flash Manufacturing PMI,52.0,51.3,51.4
+Wed Mar 24 2021,3:00am,GBP,Medium,CPI y/y,0.4%,0.8%,0.7%
+,,GBP,Low,Core CPI y/y,0.9%,1.4%,1.4%
+,,GBP,Low,PPI Input m/m,0.6%,0.6%,1.0%
+,,GBP,Low,PPI Output m/m,0.6%,0.3%,0.8%
+,,GBP,Low,RPI y/y,1.4%,1.6%,1.4%
+,4:15am,EUR,High,French Flash Services PMI,47.8,45.5,45.6
+,,EUR,Medium,French Flash Manufacturing PMI,58.8,56.4,56.1
+,4:30am,EUR,High,German Flash Manufacturing PMI,66.6,60.4,60.7
+,,EUR,High,German Flash Services PMI,50.8,46.4,45.7
+,5:00am,EUR,Medium,Flash Manufacturing PMI,62.4,57.5,57.9
+,,EUR,Medium,Flash Services PMI,48.8,46.1,45.7
+,5:30am,GBP,Medium,Flash Manufacturing PMI,57.9,55.0,55.1
+,,GBP,Medium,Flash Services PMI,56.8,51.1,49.5
+,,GBP,Low,HPI y/y,7.5%,8.4%,8.0%
+,6:00am,AUD,Low,RBA Deputy Gov Debelle Speaks,,,
+,6:34am,EUR,Low,German 10-y Bond Auction,-0.36|1.5,,-0.32|1.5
+,8:30am,USD,Low,Core Durable Goods Orders m/m,-0.9%,0.6%,1.3%
+,,USD,Low,Durable Goods Orders m/m,-1.1%,0.7%,3.5%
+,9:45am,USD,Medium,Flash Manufacturing PMI,59.0,59.6,58.6
+,,USD,Low,Flash Services PMI,60.0,60.1,59.8
+,10:00am,USD,High,Fed Chair Powell Testifies,,,
+,10:28am,EUR,Low,Consumer Confidence,-11,-15,-15
+,10:30am,AUD,Low,CB Leading Index m/m,0.0%,,1.3%
+,,USD,Medium,Crude Oil Inventories,1.9M,1.4M,2.4M
+,11:45am,EUR,Medium,ECB President Lagarde Speaks,,,
+,1:35pm,USD,Low,FOMC Member Williams Speaks,,,
+,3:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,7:00pm,USD,Low,FOMC Member Evans Speaks,,,
+,10:15pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+Thu Mar 25 2021,3:00am,EUR,Low,German GfK Consumer Climate,-6.2,-12.1,-12.7
+,4:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,SNB Policy Rate,-0.75%,-0.75%,-0.75%
+,5:00am,EUR,Low,ECB Economic Bulletin,,,
+,,EUR,Low,M3 Money Supply y/y,12.3%,12.5%,12.5%
+,5:02am,EUR,Low,Private Loans y/y,3.0%,3.2%,3.0%
+,5:28am,CHF,High,SNB Press Conference,,,
+,5:30am,CAD,Medium,BOC Gov Macklem Speaks,,,
+,,EUR,Medium,ECB President Lagarde Speaks,,,
+,,EUR,Low,German Buba President Weidmann Speaks,,,
+,,GBP,Medium,BOE Gov Bailey Speaks,,,
+,,USD,Low,FOMC Member Williams Speaks,,,
+,Day 1,EUR,Medium,EU Economic Summit,,,
+,7:00am,GBP,Low,CBI Realized Sales,-45,-36,-45
+,8:30am,USD,Medium,Final GDP q/q,4.3%,4.1%,4.1%
+,,USD,Low,Final GDP Price Index q/q,2.0%,2.1%,2.1%
+,,USD,Low,Unemployment Claims,684K,727K,781k
+,9:55am,EUR,Low,Belgian NBB Business Climate,-1.0,-3.0,-4.4
+,10:10am,USD,Low,FOMC Member Clarida Speaks,,,
+,10:30am,USD,Low,FOMC Member Williams Speaks,,,
+,,USD,Low,Natural Gas Storage,-36B,-21B,-11B
+,12:00pm,USD,Low,FOMC Member Bostic Speaks,,,
+,1:00pm,USD,Low,FOMC Member Evans Speaks,,,
+,7:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,-0.1%,-0.2%,-0.3%
+Fri Mar 26 2021,3:00am,GBP,Medium,Retail Sales m/m,2.1%,2.2%,-8.2%
+,5:00am,EUR,Medium,German ifo Business Climate,96.6,93.1,92.7
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,All Day,EUR,High,Euro Summit,,,
+,Day 2,EUR,Medium,EU Economic Summit,,,
+,8:00am,GBP,Medium,MPC Member Saunders Speaks,,,
+,8:30am,USD,Low,Core PCE Price Index m/m,0.1%,0.1%,0.2%
+,,USD,Low,Goods Trade Balance,-86.7B,-85.5B,-84.6B
+,,USD,Low,Personal Income m/m,-7.1%,-7.3%,10.1%
+,,USD,Low,Personal Spending m/m,-1.0%,-0.8%,3.4%
+,,USD,Low,Prelim Wholesale Inventories m/m,0.5%,1.2%,1.3%
+,10:00am,USD,Low,Revised UoM Consumer Sentiment,84.9,83.6,83.0
+,,USD,Low,Revised UoM Inflation Expectations,3.1%,,3.1%
+,12:45pm,GBP,Low,MPC Member Tenreyro Speaks,,,
+Sat Mar 27 2021,9:00pm,CHF,Holiday,Daylight Saving Time Shift,,,
+,,EUR,Holiday,Daylight Saving Time Shift,,,
+,,GBP,Holiday,Daylight Saving Time Shift,,,

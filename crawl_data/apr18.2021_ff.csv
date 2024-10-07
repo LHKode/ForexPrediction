@@ -1,0 +1,72 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 18 2021,7:01pm,GBP,Low,Rightmove HPI m/m,2.1%,,0.8%
+,7:50pm,JPY,Low,Trade Balance,0.30T,0.20T,-0.01T
+Mon Apr 19 2021,12:30am,JPY,Low,Revised Industrial Production m/m,-1.3%,-2.1%,-2.1%
+,4:00am,EUR,Low,Current Account,25.9B,31.2B,34.7B
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:13am,CAD,Low,Housing Starts,335K,254K,276K
+,4:08pm,CAD,Low,Annual Budget Release,,,
+,9:30pm,AUD,Low,Monetary Policy Meeting Minutes,,,
+Tue Apr 20 2021,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.3%,0.6%,-1.0%
+,2:00am,EUR,Low,German PPI m/m,0.9%,0.6%,0.7%
+,,GBP,Low,Unemployment Rate,4.9%,5.0%,5.0%
+,2:02am,GBP,Medium,Claimant Count Change,10.1K,24.5K,67.3K
+,,GBP,Low,Average Earnings Index 3m/y,4.5%,4.7%,4.8%
+,10:15am,NZD,Low,GDT Price Index,-0.1%,,0.3%
+,10:30am,AUD,Low,CB Leading Index m/m,0.5%,,-0.1%
+,6:45pm,NZD,High,CPI q/q,0.8%,0.8%,0.5%
+,8:30pm,AUD,Low,MI Leading Index m/m,0.4%,,0.2%
+,9:30pm,AUD,High,Retail Sales m/m,1.4%,1.0%,-0.8%
+Wed Apr 21 2021,2:00am,GBP,Medium,CPI y/y,0.7%,0.8%,0.4%
+,,GBP,Low,PPI Input m/m,1.3%,0.5%,0.9%
+,,GBP,Low,PPI Output m/m,0.5%,0.3%,0.7%
+,2:02am,GBP,Low,Core CPI y/y,1.1%,1.1%,0.9%
+,,GBP,Low,RPI y/y,1.5%,1.6%,1.4%
+,4:05am,GBP,Low,MPC Member Ramsden Speaks,,,
+,4:30am,GBP,Low,HPI y/y,8.6%,8.0%,8.0%
+,5:33am,EUR,Low,German 10-y Bond Auction,-0.25|1.7,,-0.36|1.5
+,6:30am,GBP,Medium,BOE Gov Bailey Speaks,,,
+,8:30am,CAD,Medium,CPI m/m,0.5%,0.6%,0.5%
+,,CAD,Low,Common CPI y/y,1.5%,1.4%,1.3%
+,,CAD,Low,Median CPI y/y,2.1%,2.1%,2.0%
+,,CAD,Low,Trimmed CPI y/y,2.2%,2.0%,2.0%
+,8:32am,CAD,Low,Core CPI m/m,0.3%,,0.3%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,Medium,Overnight Rate,0.25%,0.25%,0.25%
+,10:30am,USD,Medium,Crude Oil Inventories,0.6M,-3.7M,-5.9M
+,11:00am,CAD,High,BOC Press Conference,,,
+,9:30pm,AUD,Low,NAB Quarterly Business Confidence,17,,15
+Thu Apr 22 2021,2:00am,CHF,Low,Trade Balance,5.82B,4.12B,3.67B
+,4:42am,EUR,Low,Spanish 10-y Bond Auction,0.37|1.9,,-0.04|1.8
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-8,2,-5
+,7:45am,EUR,High,Monetary Policy Statement,,,
+,,EUR,Medium,Main Refinancing Rate,0.00%,0.00%,0.00%
+,8:30am,CAD,Low,NHPI m/m,1.1%,2.1%,1.9%
+,,EUR,High,ECB Press Conference,,,
+,,USD,Medium,Unemployment Claims,547K,607K,586K
+,9:30am,EUR,Low,Consumer Confidence,-8,-11,-11
+,10:00am,USD,Low,CB Leading Index m/m,1.3%,1.0%,-0.1%
+,,USD,Low,Existing Home Sales,6.01M,6.18M,6.24M
+,10:30am,USD,Low,Natural Gas Storage,38B,47B,61B
+,7:00pm,AUD,Low,Flash Manufacturing PMI,59.6,,56.8
+,,AUD,Low,Flash Services PMI,58.6,,55.5
+,7:01pm,GBP,Low,GfK Consumer Confidence,-15,-12,-16
+,7:30pm,JPY,Low,National Core CPI y/y,-0.1%,-0.2%,-0.4%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,53.3,53.1,52.7
+,11:00pm,NZD,Low,Credit Card Spending y/y,2.2%,,-12.6%
+Fri Apr 23 2021,2:00am,GBP,Medium,Retail Sales m/m,5.4%,1.5%,2.2%
+,,GBP,Low,Public Sector Net Borrowing,27.3B,21.2B,15.3B
+,3:15am,EUR,High,French Flash Services PMI,50.4,46.6,48.2
+,,EUR,Medium,French Flash Manufacturing PMI,59.2,59.0,59.3
+,3:30am,EUR,High,German Flash Manufacturing PMI,66.4,65.8,66.6
+,,EUR,High,German Flash Services PMI,50.1,51.1,51.5
+,4:00am,EUR,Medium,Flash Manufacturing PMI,63.3,62.0,62.5
+,,EUR,Medium,Flash Services PMI,50.3,49.1,49.6
+,4:30am,GBP,Medium,Flash Manufacturing PMI,60.7,59.0,58.9
+,,GBP,Medium,Flash Services PMI,60.1,58.9,56.3
+,9:45am,USD,Medium,Flash Manufacturing PMI,60.6,60.9,59.1
+,,USD,Low,Flash Services PMI,63.1,61.6,60.4
+,10:00am,USD,Low,New Home Sales,1021K,885K,846K
+,10:35am,EUR,Medium,ECB President Lagarde Speaks,,,
+Sat Apr 24 2021,,,No specified,,,,

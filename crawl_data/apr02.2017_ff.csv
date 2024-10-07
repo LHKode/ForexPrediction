@@ -1,0 +1,112 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 2 2017,7:30pm,AUD,Low,AIG Manufacturing Index,57.5,,59.3
+,7:50pm,JPY,Medium,Tankan Manufacturing Index,12,14,10
+,,JPY,Medium,Tankan Non-Manufacturing Index,20,19,18
+,All Day,CNY,Holiday,Bank Holiday,,,
+,8:30pm,JPY,Low,Final Manufacturing PMI,52.4,52.6,52.6
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.1%,,-0.3%
+,9:30pm,AUD,High,Retail Sales m/m,-0.1%,0.3%,0.4%
+,,AUD,Medium,Building Approvals m/m,8.3%,-1.4%,2.2%
+,,AUD,Low,ANZ Job Advertisements m/m,0.3%,,-0.8%
+Mon Apr 3 2017,2:30am,AUD,Low,Commodity Prices y/y,50.1%,,59.1%
+,3:15am,CHF,Low,Retail Sales y/y,0.6%,-0.8%,-1.2%
+,,EUR,Medium,Spanish Manufacturing PMI,53.9,54.6,54.8
+,3:30am,CHF,Low,Manufacturing PMI,58.6,58.2,57.8
+,3:45am,EUR,Low,Italian Manufacturing PMI,55.7,55.2,55.0
+,3:50am,EUR,Low,French Final Manufacturing PMI,53.3,53.4,53.4
+,3:55am,EUR,Low,German Final Manufacturing PMI,58.3,58.3,58.3
+,4:00am,EUR,Low,Final Manufacturing PMI,56.2,56.3,56.2
+,,EUR,Low,Italian Monthly Unemployment Rate,11.5%,11.9%,11.8%
+,4:30am,GBP,High,Final Manufacturing PMI,54.2,55.1,54.5
+,5:00am,EUR,Low,PPI m/m,0.0%,0.2%,1.1%
+,,EUR,Low,Unemployment Rate,9.5%,9.5%,9.6%
+,9:30am,CAD,Low,Manufacturing PMI,55.5,,54.7
+,9:45am,USD,Low,Final Manufacturing PMI,53.3,53.5,53.4
+,10:00am,USD,High,ISM Manufacturing PMI,57.2,57.2,57.7
+,,USD,Low,Construction Spending m/m,0.8%,1.0%,-0.4%
+,,USD,Low,ISM Manufacturing Prices,70.5,68.5,68.0
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,,USD,Medium,FOMC Member Dudley Speaks,,,
+,All Day,USD,Low,Total Vehicle Sales,16.6M,17.4M,17.6M
+,All Day,USD,Low,Wards Total Vehicle Sales,16.5M,17.3M,17.3M
+,3:00pm,USD,Medium,FOMC Member Harker Speaks,,,
+,6:00pm,NZD,Medium,NZIER Business Confidence,17,,28
+,7:50pm,JPY,Low,Monetary Base y/y,20.3%,23.2%,21.4%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:30pm,AUD,High,Trade Balance,3.57B,1.75B,1.50B
+,11:45pm,JPY,Low,10-y Bond Auction,0.06|4.0,,0.08|3.7
+Tue Apr 4 2017,12:30am,AUD,High,Cash Rate,1.50%,1.50%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+,1:00am,JPY,Low,BOJ Core CPI y/y,0.1%,0.2%,0.2%
+,3:00am,EUR,Medium,Spanish Unemployment Change,-48.6K,-41.2K,-9.4K
+,4:30am,GBP,High,Construction PMI,52.2,52.5,52.5
+,,GBP,Low,FPC Meeting Minutes,,,
+,5:00am,EUR,Low,Retail Sales m/m,0.7%,0.5%,0.1%
+,5:15am,AUD,High,RBA Gov Lowe Speaks,,,
+,5:38am,GBP,Low,10-y Bond Auction,1.13|2.0,,1.31|2.2
+,8:30am,CAD,High,Trade Balance,-1.0B,0.7B,0.4B
+,,USD,Medium,Trade Balance,-43.6B,-46.0B,-48.2B
+,9:30am,EUR,High,ECB President Draghi Speaks,,,
+,10:00am,USD,Medium,Factory Orders m/m,1.0%,1.0%,1.5%
+,,USD,Low,IBD/TIPP Economic Optimism,51.7,53.2,55.3
+,10:04am,NZD,High,GDT Price Index,1.6%,,1.7%
+,4:30pm,USD,Low,FOMC Member Tarullo Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.8%,,-1.0%
+,7:30pm,AUD,Low,AIG Services Index,51.7,,49.0
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,0.4%,,2.0%
+Wed Apr 5 2017,3:15am,EUR,Low,Spanish Services PMI,57.4,57.2,57.7
+,3:45am,EUR,Low,Italian Services PMI,52.9,54.3,54.1
+,3:50am,EUR,Low,French Final Services PMI,57.5,58.5,58.5
+,3:55am,EUR,Low,German Final Services PMI,55.6,55.6,55.6
+,4:00am,EUR,Low,Final Services PMI,56.0,56.5,56.5
+,4:30am,GBP,High,Final Services PMI,55.0,53.5,53.3
+,8:15am,USD,High,ADP Non-Farm Employment Change,263K,184K,245K
+,8:30am,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,9:45am,USD,Low,Final Services PMI,52.8,53.1,52.9
+,10:00am,USD,High,ISM Services PMI,55.2,57.0,57.6
+,10:30am,USD,High,Crude Oil Inventories,1.6M,-0.1M,0.9M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,6:40pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,9:45pm,CNY,Low,Caixin Services PMI,52.2,53.2,52.6
+Thu Apr 6 2017,1:02am,JPY,Low,Consumer Confidence,43.9,43.5,43.1
+,2:00am,EUR,Medium,German Factory Orders m/m,3.4%,3.5%,-6.8%
+,3:00am,EUR,High,ECB President Draghi Speaks,,,
+,3:15am,CHF,Medium,CPI m/m,0.2%,0.2%,0.5%
+,4:10am,EUR,Low,Retail PMI,49.5,,49.9
+,4:30am,GBP,Low,Housing Equity Withdrawal q/q,-10.2B,-9.5B,-11.2B
+,4:48am,EUR,Low,Spanish 10-y Bond Auction,1.61|1.6,,1.94|1.3
+,4:58am,EUR,Low,French 10-y Bond Auction,0.97|2.0,,0.91|2.8
+,5:40am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,,USD,Low,Challenger Job Cuts y/y,-2.0%,,-40.0%
+,8:30am,CAD,Medium,Building Permits m/m,-2.5%,1.4%,5.8%
+,,USD,High,Unemployment Claims,234K,251K,259K
+,10:30am,USD,Low,Natural Gas Storage,2B,10B,-43B
+,7:30pm,AUD,Low,AIG Construction Index,51.2,,53.1
+,8:00pm,JPY,Low,Average Cash Earnings y/y,0.4%,0.5%,0.3%
+Fri Apr 7 2017,1:00am,JPY,Low,Leading Indicators,104.4%,104.7%,104.9%
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.3%,3.3%
+,2:00am,EUR,Low,German Industrial Production m/m,2.2%,-0.1%,2.2%
+,,EUR,Low,German Trade Balance,21.0B,19.4B,18.9B
+,2:45am,EUR,Low,French Gov Budget Balance,-21.5B,,-5.4B
+,,EUR,Low,French Industrial Production m/m,-1.6%,0.5%,-0.2%
+,,EUR,Low,French Trade Balance,-6.6B,-4.9B,-8.1B
+,3:00am,CHF,Low,Foreign Currency Reserves,683B,,668B
+,3:30am,GBP,Medium,Halifax HPI m/m,0.0%,0.2%,0.0%
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.3%,-0.1%,1.4%
+,4:30am,GBP,High,Manufacturing Production m/m,-0.1%,0.3%,-1.0%
+,,GBP,Medium,Goods Trade Balance,-12.5B,-10.9B,-12.0B
+,,GBP,Low,Construction Output m/m,-1.7%,0.1%,0.0%
+,,GBP,Low,Industrial Production m/m,-0.7%,0.2%,-0.3%
+,5:00am,GBP,High,BOE Gov Carney Speaks,,,
+,8:00am,GBP,Low,NIESR GDP Estimate,0.5%,,0.5%
+,8:30am,CAD,High,Employment Change,19.4K,5.7K,15.3K
+,,CAD,High,Unemployment Rate,6.7%,6.7%,6.6%
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.3%
+,,USD,High,Non-Farm Employment Change,98K,174K,219K
+,,USD,High,Unemployment Rate,4.5%,4.7%,4.7%
+,10:00am,CAD,Medium,Ivey PMI,61.1,56.3,55.0
+,,USD,Low,Final Wholesale Inventories m/m,0.4%,0.1%,-0.1%
+,12:15pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,15.2B,14.2B,10.9B
+Sat Apr 8 2017,,,No specified,,,,

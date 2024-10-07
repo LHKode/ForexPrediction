@@ -1,0 +1,86 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 13 2016,3:00am,CAD,Holiday,Daylight Saving Time Shift,,,
+,,USD,Holiday,Daylight Saving Time Shift,,,
+,7:50pm,JPY,Low,Core Machinery Orders m/m,15.0%,2.0%,4.2%
+Mon Mar 14 2016,6:00am,EUR,Low,Industrial Production m/m,2.1%,1.7%,-0.5%
+,3:00pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,8:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,-0.1%,,0.4%
+,11:35pm,JPY,High,BOJ Policy Rate,-0.10%,,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Tue Mar 15 2016,12:30am,JPY,Low,Revised Industrial Production m/m,3.7%,3.7%,3.7%
+,,JPY,Low,Tertiary Industry Activity m/m,1.5%,0.4%,-0.6%
+,2:32am,JPY,High,BOJ Press Conference,,,
+,3:45am,EUR,Low,French Final CPI m/m,0.3%,0.2%,0.2%
+,6:00am,EUR,Low,Final Employment Change q/q,0.3%,0.2%,0.3%
+,8:30am,USD,High,Core Retail Sales m/m,-0.1%,-0.2%,-0.4%
+,,USD,High,PPI m/m,-0.2%,-0.2%,0.1%
+,,USD,High,Retail Sales m/m,-0.1%,-0.1%,-0.4%
+,,USD,Medium,Core PPI m/m,0.0%,0.1%,0.4%
+,,USD,Medium,Empire State Manufacturing Index,0.6,-10.3,-16.6
+,10:00am,USD,Low,Business Inventories m/m,0.1%,0.0%,0.1%
+,,USD,Low,NAHB Housing Market Index,58,59,58
+,10:09am,NZD,High,GDT Price Index,-2.9%,,1.4%
+,4:00pm,USD,Low,TIC Long-Term Purchases,-12.0B,3.2B,-29.4B
+,5:45pm,NZD,Medium,Current Account,-2.61B,-2.97B,-4.74B
+,7:30pm,AUD,Low,MI Leading Index m/m,-0.2%,,0.1%
+Wed Mar 16 2016,5:30am,GBP,High,Average Earnings Index 3m/y,2.1%,2.0%,1.9%
+,,GBP,High,Claimant Count Change,-18.0K,-8.8K,-28.4K
+,,GBP,Medium,Unemployment Rate,5.1%,5.1%,5.1%
+,6:32am,EUR,Low,German 10-y Bond Auction,0.30|1.4,,0.26|1.2
+,8:30am,CAD,High,Manufacturing Sales m/m,2.3%,0.4%,1.4%
+,,CAD,Medium,Foreign Securities Purchases,13.51B,10.20B,-1.40B
+,,GBP,High,Annual Budget Release,,,
+,,USD,High,Building Permits,1.17M,1.20M,1.20M
+,,USD,High,CPI m/m,-0.2%,-0.2%,0.0%
+,,USD,High,Core CPI m/m,0.3%,0.2%,0.3%
+,,USD,Medium,Housing Starts,1.18M,1.15M,1.12M
+,9:15am,USD,Medium,Capacity Utilization Rate,76.7%,76.9%,77.1%
+,,USD,Medium,Industrial Production m/m,-0.5%,-0.2%,0.8%
+,9:30am,GBP,Low,CB Leading Index m/m,0.2%,,0.3%
+,10:30am,USD,High,Crude Oil Inventories,1.3M,2.9M,3.9M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.50%,<0.50%,<0.50%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,5:45pm,NZD,High,GDP q/q,0.9%,0.7%,0.9%
+,6:05pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,7:50pm,JPY,Low,Trade Balance,0.17T,0.24T,0.07T
+,8:30pm,AUD,High,Employment Change,0.3K,11.6K,-7.4K
+,,AUD,High,Unemployment Rate,5.8%,6.0%,6.0%
+,,AUD,Low,RBA Bulletin,,,
+Thu Mar 17 2016,2:30am,JPY,High,BOJ Gov Kuroda Speaks,,,
+,2:45am,CHF,Low,SECO Economic Forecasts,,,
+,4:15am,CHF,Medium,PPI m/m,-0.6%,0.2%,-0.4%
+,4:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,5:02am,EUR,Low,Italian Trade Balance,0.04B,4.33B,6.02B
+,5:43am,EUR,Low,Spanish 10-y Bond Auction,1.48|2.0,,1.69|1.9
+,6:00am,EUR,Medium,Final CPI y/y,-0.2%,-0.2%,-0.2%
+,,EUR,Low,Final Core CPI y/y,0.8%,0.7%,0.7%
+,,EUR,Low,Trade Balance,21.2B,20.2B,22.5B
+,8:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Medium,Wholesale Sales m/m,0.0%,0.3%,1.8%
+,,USD,High,Philly Fed Manufacturing Index,12.4,-1.4,-2.8
+,,USD,High,Unemployment Claims,265K,267K,258K
+,,USD,Medium,Current Account,-125B,-117B,-130B
+,10:00am,USD,Medium,JOLTS Job Openings,5.54M,5.57M,5.28M
+,,USD,Low,CB Leading Index m/m,0.1%,0.2%,-0.2%
+,10:30am,USD,Low,Natural Gas Storage,-1B,-9B,-57B
+,7:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+Fri Mar 18 2016,3:00am,EUR,Low,German PPI m/m,-0.5%,-0.2%,-0.7%
+,8:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,Core CPI m/m,0.5%,0.5%,0.3%
+,,CAD,High,Core Retail Sales m/m,1.2%,0.6%,-1.7%
+,,CAD,Medium,CPI m/m,0.2%,0.3%,0.2%
+,,CAD,Medium,Retail Sales m/m,2.1%,0.7%,-2.1%
+,9:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,90.0,92.1,91.7
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.5%
+,11:00am,USD,Medium,FOMC Member Rosengren Speaks,,,
+,2:00pm,USD,Medium,FOMC Member Bullard Speaks,,,
+Sat Mar 19 2016,,,No specified,,,,

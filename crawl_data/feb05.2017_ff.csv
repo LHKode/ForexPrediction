@@ -1,0 +1,89 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 5 2017,All Day,NZD,Holiday,Bank Holiday,,,
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.6%,,0.5%
+,,JPY,Low,Average Cash Earnings y/y,0.1%,0.4%,0.5%
+,7:30pm,AUD,High,Retail Sales m/m,-0.1%,0.3%,0.1%
+,,AUD,Low,ANZ Job Advertisements m/m,4.0%,,-2.2%
+,8:45pm,CNY,Medium,Caixin Services PMI,53.1,53.6,53.4
+Mon Feb 6 2017,2:00am,EUR,Medium,German Factory Orders m/m,5.2%,0.6%,-3.6%
+,4:10am,EUR,Low,Retail PMI,50.1,,50.4
+,4:30am,EUR,Low,Sentix Investor Confidence,17.4,16.7,18.2
+,9:00am,EUR,High,ECB President Draghi Speaks,,,
+,10:00am,USD,Low,Labor Market Conditions Index m/m,1.3,,0.6
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,4:30pm,USD,Medium,FOMC Member Harker Speaks,,,
+,5:30pm,AUD,Low,AIG Construction Index,47.7,,47.0
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.6%,,1.0%
+,9:00pm,NZD,High,Inflation Expectations q/q,1.92%,,1.68%
+,10:30pm,AUD,High,Cash Rate,1.50%,1.50%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+Tue Feb 7 2017,12:00am,JPY,Low,Leading Indicators,105.2%,105.6%,102.8%
+,1:45am,CHF,Low,SECO Consumer Climate,-3,-11,-13
+,2:00am,EUR,Low,German Industrial Production m/m,-3.0%,0.2%,0.5%
+,2:45am,EUR,Low,French Gov Budget Balance,-69.0B,,-93.3B
+,,EUR,Low,French Trade Balance,-3.4B,-4.2B,-4.4B
+,3:00am,CHF,Low,Foreign Currency Reserves,644B,,645B
+,3:30am,GBP,Medium,Halifax HPI m/m,-0.9%,0.2%,1.6%
+,8:30am,CAD,High,Trade Balance,0.9B,1.2B,1.0B
+,,CAD,Medium,Building Permits m/m,-6.6%,-3.5%,-1.2%
+,,USD,Medium,Trade Balance,-44.3B,-45.0B,-45.7B
+,9:00am,NZD,High,GDT Price Index,1.3%,,0.6%
+,10:00am,CAD,Medium,Ivey PMI,57.2,58.3,60.8
+,,USD,Medium,JOLTS Job Openings,5.50M,5.56M,5.51M
+,,USD,Low,IBD/TIPP Economic Optimism,56.4,56.2,55.6
+,3:00pm,USD,Low,Consumer Credit m/m,14.2B,20.3B,25.2B
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Bank Lending y/y,2.5%,2.7%,2.6%
+,,JPY,Low,Current Account,1.67T,1.71T,1.80T
+Wed Feb 8 2017,12:00am,JPY,Low,Economy Watchers Sentiment,49.8,51.9,51.4
+,5:33am,EUR,Low,German 10-y Bond Auction,0.33|2.2,,0.36|1.8
+,8:00am,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,8:13am,CAD,Low,Housing Starts,207K,202K,206K
+,10:30am,USD,High,Crude Oil Inventories,13.8M,2.7M,6.5M
+,1:01pm,USD,Low,10-y Bond Auction,2.33|2.3,,2.34|2.6
+,3:00pm,NZD,High,Official Cash Rate,1.75%,1.75%,1.75%
+,,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,RBNZ Monetary Policy Statement,,,
+,4:00pm,NZD,High,RBNZ Press Conference,,,
+,4:45pm,NZD,Low,Building Consents m/m,-7.2%,,-9.6%
+,6:50pm,JPY,Low,Core Machinery Orders m/m,6.7%,3.2%,-5.1%
+,,JPY,Low,M2 Money Stock y/y,4.1%,4.0%,4.0%
+,7:00pm,AUD,Low,HIA New Home Sales m/m,0.2%,,6.1%
+,7:01pm,GBP,Low,RICS House Price Balance,25%,23%,23%
+,7:10pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,7:30pm,AUD,Medium,NAB Quarterly Business Confidence,5,,6
+,10:45pm,JPY,Low,30-y Bond Auction,0.91|3.2,,0.75|3.3
+Thu Feb 9 2017,1:00am,JPY,Low,Prelim Machine Tool Orders y/y,3.5%,,4.4%
+,1:45am,CHF,Low,Unemployment Rate,3.3%,3.3%,3.3%
+,2:00am,EUR,Low,German Trade Balance,18.4B,23.2B,21.8B
+,4:00am,AUD,High,RBA Gov Lowe Speaks,,,
+,5:34am,GBP,Low,30-y Bond Auction,1.86|1.6,,1.96|1.7
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.3%,0.2%
+,,USD,High,Unemployment Claims,234K,249K,246K
+,10:00am,USD,Low,Final Wholesale Inventories m/m,1.0%,1.0%,1.0%
+,10:30am,USD,Low,Natural Gas Storage,-152B,-155B,-87B
+,11:35am,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,3.01|2.2,,2.91|2.3
+,1:10pm,USD,Medium,FOMC Member Evans Speaks,,,
+,1:30pm,GBP,High,BOE Gov Carney Speaks,,,
+,6:50pm,JPY,Low,PPI y/y,0.5%,0.0%,-1.2%
+,7:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,,AUD,Low,Home Loans m/m,0.4%,1.0%,1.3%
+,9:57pm,CNY,High,Trade Balance,355B,295B,275B
+,10:24pm,CNY,Low,USD-Denominated Trade Balance,51.4B,49.8B,40.8B
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,-0.4%,-0.1%,0.3%
+Fri Feb 10 2017,2:45am,EUR,Low,French Industrial Production m/m,-0.9%,-0.6%,2.4%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.4%,0.3%,0.3%
+,4:00am,EUR,Low,Italian Industrial Production m/m,1.4%,0.1%,0.8%
+,4:30am,GBP,High,Manufacturing Production m/m,2.1%,0.3%,1.4%
+,,GBP,Medium,Goods Trade Balance,-10.9B,-11.5B,-11.6B
+,,GBP,Low,Construction Output m/m,1.8%,1.1%,0.4%
+,,GBP,Low,Industrial Production m/m,1.1%,-0.2%,2.0%
+,8:30am,CAD,High,Employment Change,48.3K,-10.1K,53.7K
+,,CAD,High,Unemployment Rate,6.8%,6.9%,6.9%
+,,USD,Medium,Import Prices m/m,0.4%,0.4%,0.5%
+,9:03am,GBP,Low,NIESR GDP Estimate,0.7%,,0.6%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,95.7,97.9,98.5
+,,USD,Low,Prelim UoM Inflation Expectations,2.8%,,2.6%
+,2:00pm,USD,Low,Federal Budget Balance,51.3B,29.7B,-27.5B
+Sat Feb 11 2017,7:30am,USD,Medium,FOMC Member Fischer Speaks,,,

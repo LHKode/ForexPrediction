@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 18 2015,6:01pm,GBP,Low,Rightmove HPI m/m,1.4%,,-3.3%
+,6:30pm,AUD,Low,MI Inflation Gauge m/m,0.0%,,0.1%
+,7:30pm,AUD,Medium,New Motor Vehicle Sales m/m,3.0%,,-0.5%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,-0.5%,-0.5%,-0.6%
+Mon Jan 19 2015,12:00am,JPY,Low,Consumer Confidence,38.8,38.6,37.7
+,3:15am,CHF,Medium,PPI m/m,-0.4%,-0.6%,-0.7%
+,4:00am,EUR,Low,Current Account,18.1B,22.7B,19.5B
+,6:00am,EUR,Medium,German Buba Monthly Report,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:30am,CAD,Medium,Foreign Securities Purchases,4.29B,7.23B,9.53B
+,4:00pm,NZD,High,NZIER Business Confidence,23,,19
+,9:00pm,CNY,High,GDP q/y,7.3%,7.2%,7.3%
+,,CNY,Medium,Fixed Asset Investment ytd/y,15.7%,15.7%,15.8%
+,,CNY,Medium,Industrial Production y/y,7.9%,7.4%,7.2%
+,,CNY,Medium,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,11.9%,11.7%,11.7%
+Tue Jan 20 2015,2:00am,EUR,Low,German PPI m/m,-0.7%,-0.3%,0.0%
+,4:03am,EUR,Low,Italian Trade Balance,3.54B,4.32B,5.40B
+,5:00am,EUR,High,German ZEW Economic Sentiment,48.4,40.1,34.9
+,,EUR,Medium,ZEW Economic Sentiment,45.2,37.6,31.8
+,8:30am,CAD,High,Manufacturing Sales m/m,-1.4%,-0.5%,-1.1%
+,9:34am,NZD,High,GDT Price Index,1.0%,,3.6%
+,10:00am,USD,Medium,FOMC Member Powell Speaks,,,
+,,USD,Medium,NAHB Housing Market Index,57,58,58
+,4:45pm,NZD,High,CPI q/q,-0.2%,0.0%,0.3%
+,6:30pm,AUD,Medium,Westpac Consumer Sentiment,2.4%,,-5.7%
+,9:00pm,USD,Low,President Obama Speaks,,,
+,10:29pm,JPY,High,Monetary Policy Statement,,,
+,11:30pm,JPY,Low,All Industries Activity m/m,0.1%,0.1%,0.1%
+Wed Jan 21 2015,1:30am,JPY,High,BOJ Press Conference,,,
+,Day 1,All,Medium,WEF Annual Meetings,,,
+,4:30am,GBP,High,Average Earnings Index 3m/y,1.7%,1.7%,1.4%
+,,GBP,High,Claimant Count Change,-29.7K,-24.2K,-29.6K
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,2-0-7,2-0-7
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,Unemployment Rate,5.8%,5.9%,6.0%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,-10.8,,-4.9
+,8:30am,CAD,High,Wholesale Sales m/m,-0.3%,0.2%,-1.1%
+,,USD,High,Building Permits,1.03M,1.06M,1.05M
+,,USD,Medium,Housing Starts,1.09M,1.04M,1.04M
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.75%,1.00%,1.00%
+,11:15am,CAD,High,BOC Press Conference,,,
+,4:30pm,NZD,Medium,BusinessNZ Manufacturing Index,57.7,,55.6
+,7:00pm,AUD,Medium,MI Inflation Expectations,3.2%,,3.4%
+,,AUD,Low,HIA New Home Sales m/m,2.2%,,3.0%
+Thu Jan 22 2015,12:00am,JPY,Low,BOJ Monthly Report,,,
+,3:00am,EUR,Medium,Spanish Unemployment Rate,23.7%,23.6%,23.7%
+,4:00am,GBP,Medium,MPC Member Miles Speaks,,,
+,Day 2,All,Medium,WEF Annual Meetings,,,
+,4:30am,GBP,Medium,Public Sector Net Borrowing,12.5B,9.2B,11.7B
+,5:00am,EUR,Low,Italian Retail Sales m/m,0.1%,0.1%,0.0%
+,6:00am,GBP,Medium,CBI Industrial Order Expectations,4,6,5
+,7:45am,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%
+,8:30am,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,307K,301K,317K
+,9:00am,USD,Low,HPI m/m,0.8%,0.4%,0.4%
+,10:00am,EUR,Low,Consumer Confidence,-9,-11,-11
+,10:30am,USD,Low,Natural Gas Storage,-216B,-231B,-236B
+,11:00am,USD,Medium,Crude Oil Inventories,10.1M,2.5M,5.4M
+,8:35pm,JPY,Low,Flash Manufacturing PMI,52.1,52.0,52.0
+,8:45pm,CNY,High,Caixin Flash Manufacturing PMI,49.8,49.5,49.6
+Fri Jan 23 2015,3:00am,EUR,High,French Flash Manufacturing PMI,49.5,48.1,47.5
+,,EUR,Medium,French Flash Services PMI,49.5,50.9,50.6
+,3:30am,EUR,High,German Flash Manufacturing PMI,51.0,51.8,51.2
+,,EUR,Medium,German Flash Services PMI,52.7,52.6,52.1
+,4:00am,EUR,Medium,Flash Manufacturing PMI,51.0,51.0,50.6
+,,EUR,Medium,Flash Services PMI,52.3,52.1,51.6
+,Day 3,All,Medium,WEF Annual Meetings,,,
+,4:30am,GBP,High,Retail Sales m/m,0.4%,-0.6%,1.6%
+,8:30am,CAD,High,Core CPI m/m,-0.3%,-0.3%,-0.2%
+,,CAD,High,Core Retail Sales m/m,0.7%,0.5%,0.1%
+,,CAD,Medium,CPI m/m,-0.7%,-0.5%,-0.4%
+,,CAD,Medium,Retail Sales m/m,0.4%,0.1%,0.0%
+,9:00am,EUR,Low,Belgian NBB Business Climate,-8.8,-6.1,-6.9
+,9:45am,USD,Medium,Flash Manufacturing PMI,53.7,54.1,53.9
+,10:00am,USD,Medium,Existing Home Sales,5.04M,5.08M,4.92M
+,,USD,Low,CB Leading Index m/m,0.5%,0.5%,0.4%
+Sat Jan 24 2015,Day 4,All,Medium,WEF Annual Meetings,,,

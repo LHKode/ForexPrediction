@@ -1,0 +1,106 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 13 2019,All Day,JPY,Holiday,Bank Holiday,,,
+,10:55pm,CNY,Low,USD-Denominated Trade Balance,39.7B,35.1B,34.8B
+,10:58pm,CNY,Medium,Trade Balance,275B,254B,240B
+Mon Oct 14 2019,2:00am,EUR,Low,German WPI m/m,-0.4%,-0.2%,-0.8%
+,5:00am,EUR,Low,Industrial Production m/m,0.4%,0.3%,-0.4%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,8:10am,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,4:00pm,USD,Low,Empire State Manufacturing Index,4.0,1.1,2.0
+,5:45pm,NZD,Low,Visitor Arrivals m/m,1.4%,,1.4%
+,8:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,9:30pm,CNY,Medium,CPI y/y,3.0%,2.9%,2.8%
+,,CNY,Low,PPI y/y,-1.2%,-1.2%,-0.8%
+Tue Oct 15 2019,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.4%,0.6%,0.1%
+,12:32am,JPY,Low,Revised Industrial Production m/m,-1.2%,-1.2%,-1.2%
+,2:30am,CHF,Low,PPI m/m,-0.3%,-0.1%,-0.2%
+,2:45am,EUR,Low,French Final CPI m/m,-0.3%,-0.3%,-0.3%
+,4:25am,USD,Medium,FOMC Member Bullard Speaks,,,
+,4:30am,GBP,High,BOE Gov Carney Speaks,,,
+,,GBP,Medium,Average Earnings Index 3m/y,3.8%,4.0%,3.9%
+,,GBP,Low,Claimant Count Change,21.1K,21.3K,16.3K
+,,GBP,Low,Unemployment Rate,3.9%,3.8%,3.8%
+,4:31am,CNY,High,New Loans,1690B,1350B,1210B
+,,CNY,Low,M2 Money Supply y/y,8.4%,8.3%,8.2%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-22.8,-27.0,-22.5
+,,EUR,Low,ZEW Economic Sentiment,-23.5,-26.7,-22.4
+,5:35am,GBP,Low,10-y Bond Auction,0.63|1.9,,0.55|1.9
+,8:30am,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,10:37am,NZD,Low,GDT Price Index,0.5%,,0.2%
+,12:45pm,USD,Medium,FOMC Member George Speaks,,,
+,5:45pm,NZD,High,CPI q/q,0.7%,0.6%,0.6%
+,7:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,-0.2%
+Wed Oct 16 2019,4:30am,GBP,High,CPI y/y,1.7%,1.8%,1.7%
+,,GBP,Medium,PPI Input m/m,-0.8%,0.2%,-0.3%
+,,GBP,Low,Core CPI y/y,1.7%,1.7%,1.5%
+,,GBP,Low,HPI y/y,1.3%,0.9%,0.8%
+,,GBP,Low,PPI Output m/m,-0.1%,0.0%,-0.1%
+,,GBP,Low,RPI y/y,2.4%,2.7%,2.6%
+,5:00am,EUR,Low,Final CPI y/y,0.8%,0.9%,0.9%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,,EUR,Low,Trade Balance,20.3B,18.6B,17.5B
+,5:33am,EUR,Low,German 30-y Bond Auction,0.07|1.3,,0.05|1.2
+,8:30am,CAD,High,CPI m/m,-0.4%,-0.3%,-0.1%
+,,CAD,Medium,Common CPI y/y,1.9%,1.8%,1.8%
+,,CAD,Medium,Median CPI y/y,2.2%,2.1%,2.1%
+,,CAD,Medium,Trimmed CPI y/y,2.1%,2.1%,2.0%
+,,CAD,Low,Foreign Securities Purchases,4.99B,-1.80B,-1.87B
+,,USD,High,Core Retail Sales m/m,-0.1%,0.2%,0.2%
+,,USD,High,Retail Sales m/m,-0.3%,0.3%,0.6%
+,8:32am,CAD,Low,Core CPI m/m,0.0%,,-0.1%
+,9:00am,GBP,High,BOE Gov Carney Speaks,,,
+,10:00am,USD,Low,Business Inventories m/m,0.0%,0.3%,0.3%
+,,USD,Low,NAHB Housing Market Index,71,68,68
+,10:45am,USD,Medium,FOMC Member Evans Speaks,,,
+,1:00pm,EUR,Medium,German Buba President Weidmann Speaks,,,
+,2:00pm,USD,Low,Beige Book,,,
+,3:00pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,-41.1B,74.3B,83.8B
+,6:15pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,6:30pm,GBP,Medium,BOE Gov Carney Speaks,,,
+,8:30pm,AUD,High,Employment Change,14.7K,15.3K,37.9K
+,,AUD,High,Unemployment Rate,5.2%,5.3%,5.3%
+,,AUD,Low,NAB Quarterly Business Confidence,-2,,5
+Thu Oct 17 2019,12:30am,AUD,Low,RBA Annual Report,,,
+,2:00am,CHF,Low,Trade Balance,4.02B,2.47B,1.72B
+,3:11am,CNY,Low,Foreign Direct Investment ytd/y,6.5%,,6.9%
+,4:00am,EUR,Low,Italian Trade Balance,2.59B,6.21B,7.62B
+,4:30am,GBP,High,Retail Sales m/m,0.0%,-0.1%,-0.3%
+,,GBP,Medium,BOE Credit Conditions Survey,,,
+,4:56am,EUR,Low,Spanish 10-y Bond Auction,0.25|2.5,,0.12|1.4
+,Day 1,EUR,High,EU Economic Summit,,,
+,8:30am,CAD,Medium,Manufacturing Sales m/m,0.8%,0.7%,-1.3%
+,,CAD,Low,ADP Non-Farm Employment Change,28.2K,,109.9K
+,,USD,High,Philly Fed Manufacturing Index,5.6,7.3,12.0
+,,USD,Medium,Building Permits,1.39M,1.34M,1.43M
+,,USD,Low,Housing Starts,1.26M,1.32M,1.39M
+,,USD,Low,Unemployment Claims,214K,212K,210K
+,9:15am,USD,Medium,Industrial Production m/m,-0.4%,-0.1%,0.8%
+,,USD,Low,Capacity Utilization Rate,77.5%,77.7%,77.9%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.5%,,-0.2%
+,10:30am,USD,Low,Natural Gas Storage,104B,100B,98B
+,11:00am,USD,High,Crude Oil Inventories,9.3M,2.7M,2.9M
+,2:00pm,USD,Medium,FOMC Member Bowman Speaks,,,
+,,USD,Medium,FOMC Member Evans Speaks,,,
+,4:00pm,AUD,High,RBA Gov Lowe Speaks,,,
+,4:20pm,USD,Medium,FOMC Member Williams Speaks,,,
+,7:30pm,JPY,Low,National Core CPI y/y,0.3%,0.3%,0.5%
+,10:00pm,CNY,High,GDP q/y,6.0%,6.1%,6.2%
+,,CNY,Medium,Fixed Asset Investment ytd/y,5.4%,5.5%,5.5%
+,,CNY,Medium,Industrial Production y/y,5.8%,5.0%,4.4%
+,,CNY,Low,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,7.8%,7.8%,7.5%
+,,CNY,Low,Unemployment Rate,5.2%,,5.2%
+Fri Oct 18 2019,4:00am,EUR,Low,Current Account,26.6B,21.3B,21.6B
+,Day 2,EUR,High,EU Economic Summit,,,
+,10:00am,USD,Medium,FOMC Member George Speaks,,,
+,,USD,Low,CB Leading Index m/m,-0.1%,0.1%,-0.2%
+,Day 1,All,Low,IMF Meetings,,,
+,11:30am,USD,Medium,FOMC Member Clarida Speaks,,,
+,1:45pm,GBP,High,BOE Gov Carney Speaks,,,
+,2:25pm,CAD,Medium,Gov Council Member Lane Speaks,,,
+,5:15pm,GBP,Medium,MPC Member Cunliffe Speaks,,,
+Sat Oct 19 2019,9:50am,GBP,High,Parliament Brexit Vote,Pass,,
+,Day 2,All,Low,IMF Meetings,,,

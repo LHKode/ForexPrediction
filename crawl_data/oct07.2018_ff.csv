@@ -1,0 +1,80 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 7 2018,All Day,JPY,Holiday,Bank Holiday,,,
+,8:30pm,AUD,Low,ANZ Job Advertisements m/m,-0.8%,,-0.7%
+,9:45pm,CNY,Low,Caixin Services PMI,53.1,51.4,51.5
+Mon Oct 8 2018,1:45am,CHF,Low,Unemployment Rate,2.5%,2.5%,2.6%
+,2:00am,EUR,Low,German Industrial Production m/m,-0.3%,0.4%,-1.3%
+,4:30am,EUR,Low,Sentix Investor Confidence,11.4,11.4,12.0
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.2%,0.3%,0.2%
+,7:50pm,JPY,Low,Current Account,1.43T,1.52T,1.48T
+,8:30pm,AUD,Medium,NAB Business Confidence,6,,5
+Tue Oct 9 2018,1:00am,JPY,Low,Economy Watchers Sentiment,48.6,47.3,48.7
+,2:00am,EUR,Low,German Trade Balance,18.3B,15.9B,15.9B
+,4:30am,GBP,Low,FPC Statement,,,
+,5:40am,USD,Low,NFIB Small Business Index,107.9,108.9,108.8
+,8:13am,CAD,Low,Housing Starts,189K,203K,199K
+,10:05am,USD,Low,IBD/TIPP Economic Optimism,57.8,54.6,55.7
+,10:35am,GBP,Medium,MPC Member Broadbent Speaks,,,
+,2:00pm,CAD,Low,Gov Council Member Wilkins Speaks,,,
+,7:30pm,AUD,Medium,Westpac Consumer Sentiment,1.0%,,-3.0%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,6.8%,-3.9%,11.0%
+,9:10pm,USD,Medium,FOMC Member Williams Speaks,,,
+Wed Oct 10 2018,1:59am,JPY,Low,Prelim Machine Tool Orders y/y,2.8%,,5.1%
+,2:45am,EUR,Low,French Industrial Production m/m,0.3%,0.1%,0.8%
+,4:00am,EUR,Low,Italian Industrial Production m/m,1.7%,0.7%,-1.6%
+,4:30am,GBP,High,GDP m/m,0.0%,0.1%,0.4%
+,,GBP,High,Manufacturing Production m/m,-0.2%,0.1%,0.0%
+,,GBP,Low,Construction Output m/m,-0.7%,-0.4%,0.5%
+,,GBP,Low,Goods Trade Balance,-11.2B,-10.9B,-10.4B
+,,GBP,Low,Index of Services 3m/3m,0.5%,0.6%,0.7%
+,,GBP,Low,Industrial Production m/m,0.2%,0.1%,0.4%
+,5:00am,GBP,Medium,MPC Member Haldane Speaks,,,
+,5:33am,EUR,Low,German 10-y Bond Auction,0.55|1.1,,0.49|2.5
+,8:30am,CAD,Low,Building Permits m/m,0.4%,0.5%,-1.5%
+,,USD,High,PPI m/m,0.2%,0.2%,-0.1%
+,,USD,Medium,Core PPI m/m,0.2%,0.2%,-0.1%
+,9:10am,GBP,Low,NIESR GDP Estimate,0.7%,,0.7%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,1.0%,0.8%,0.8%
+,1:01pm,USD,Low,10-y Bond Auction,3.23|2.4,,2.96|2.6
+,5:45pm,NZD,Low,FPI m/m,-0.1%,,-0.5%
+,6:00pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,6:30pm,AUD,Medium,RBA Assist Gov Ellis Speaks,,,
+,7:01pm,GBP,Low,RICS House Price Balance,-2%,2%,1%
+,7:50pm,JPY,Low,Bank Lending y/y,2.3%,2.1%,2.2%
+,,JPY,Low,PPI y/y,3.0%,2.9%,3.0%
+,8:00pm,AUD,Low,MI Inflation Expectations,4.0%,,4.0%
+,Day 1,All,Medium,G20 Meetings,,,
+,11:35pm,JPY,Low,30-y Bond Auction,0.90|3.9,,0.84|4.2
+Thu Oct 11 2018,1:00am,GBP,High,BOE Gov Carney Speaks,,,
+,2:45am,EUR,Low,French Final CPI m/m,-0.2%,-0.2%,-0.2%
+,4:30am,GBP,Medium,BOE Credit Conditions Survey,,,
+,5:00am,GBP,High,BOE Gov Carney Speaks,,,
+,6:45am,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Low,NHPI m/m,0.0%,0.1%,0.1%
+,,USD,High,CPI m/m,0.1%,0.2%,0.2%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.1%
+,,USD,Low,Unemployment Claims,214K,207K,207K
+,10:30am,USD,Low,Natural Gas Storage,90B,87B,98B
+,11:00am,USD,Medium,Crude Oil Inventories,6.0M,2.3M,8.0M
+,1:01pm,USD,Low,30-y Bond Auction,3.34|2.4,,3.09|2.3
+,5:30pm,NZD,Medium,BusinessNZ Manufacturing Index,51.7,,52.0
+,7:50pm,JPY,Low,M2 Money Stock y/y,2.8%,2.9%,2.9%
+,8:30pm,AUD,Medium,RBA Financial Stability Review,,,
+,,AUD,Low,Home Loans m/m,-2.1%,-0.9%,0.0%
+,Day 2,All,Medium,G20 Meetings,,,
+,10:54pm,CNY,Medium,Trade Balance,213B,85B,180B
+,10:55pm,CNY,Low,USD-Denominated Trade Balance,31.7B,19.3B,27.9B
+Fri Oct 12 2018,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.5%,0.3%,-0.1%
+,2:00am,EUR,Low,German Final CPI m/m,0.4%,0.4%,0.4%
+,5:00am,EUR,Low,Industrial Production m/m,1.0%,0.4%,-0.7%
+,8:30am,USD,Low,Import Prices m/m,0.5%,0.3%,-0.4%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,99.0,100.4,100.1
+,,USD,Low,Prelim UoM Inflation Expectations,2.8%,,2.7%
+,Day 1,All,Medium,IMF Meetings,,,
+,12:30pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,10:30pm,USD,Medium,FOMC Member Quarles Speaks,,,
+Sat Oct 13 2018,1:45am,EUR,High,ECB President Draghi Speaks,,,
+,Day 2,All,Low,IMF Meetings,,,

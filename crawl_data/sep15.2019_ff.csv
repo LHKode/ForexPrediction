@@ -1,0 +1,83 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 15 2019,7:01pm,GBP,Low,Rightmove HPI m/m,-0.2%,,-1.0%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,10:00pm,CNY,Medium,Fixed Asset Investment ytd/y,5.5%,5.7%,5.7%
+,,CNY,Medium,Industrial Production y/y,4.4%,5.2%,4.8%
+,,CNY,Low,Retail Sales y/y,7.5%,7.9%,7.6%
+,,CNY,Low,Unemployment Rate,5.2%,,5.3%
+Mon Sep 16 2019,8:30am,CAD,Low,Foreign Securities Purchases,-1.17B,2.53B,-4.06B
+,,USD,Low,Empire State Manufacturing Index,2.0,4.1,4.8
+,5:00pm,NZD,Low,Westpac Consumer Sentiment,103.1,,103.5
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,-0.7%,-1.0%,-3.0%
+Tue Sep 17 2019,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-22.5,-38.0,-44.1
+,,EUR,Low,ZEW Economic Sentiment,-22.4,-37.4,-43.6
+,8:30am,CAD,Medium,Manufacturing Sales m/m,-1.3%,-0.3%,-1.4%
+,9:15am,USD,Low,Capacity Utilization Rate,77.9%,77.6%,77.5%
+,,USD,Low,Industrial Production m/m,0.6%,0.2%,-0.1%
+,10:00am,USD,Low,NAHB Housing Market Index,68,66,67
+,10:22am,NZD,Low,GDT Price Index,2.0%,,-0.4%
+,10:30am,AUD,Low,CB Leading Index m/m,-0.2%,,0.1%
+,4:00pm,USD,Low,TIC Long-Term Purchases,84.3B,81.3B,100.6B
+,6:45pm,NZD,Low,Current Account,-1.11B,-1.10B,0.72B
+,7:50pm,JPY,Low,Trade Balance,-0.13T,-0.15T,-0.10T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.3%,,0.2%
+Wed Sep 18 2019,4:30am,GBP,High,CPI y/y,1.7%,1.8%,2.1%
+,,GBP,Medium,PPI Input m/m,-0.1%,-0.4%,0.6%
+,,GBP,Low,Core CPI y/y,1.5%,1.8%,1.9%
+,,GBP,Low,HPI y/y,0.7%,0.8%,1.4%
+,,GBP,Low,PPI Output m/m,-0.1%,0.1%,0.3%
+,,GBP,Low,RPI y/y,2.6%,2.5%,2.8%
+,5:00am,EUR,Low,Final CPI y/y,1.0%,1.0%,1.0%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,,EUR,Low,Italian Trade Balance,7.63B,4.80B,5.73B
+,5:32am,EUR,Low,German 30-y Bond Auction,0.05|1.2,,-0.11|1.1
+,8:30am,CAD,High,CPI m/m,-0.1%,-0.2%,0.5%
+,,CAD,Medium,Common CPI y/y,1.8%,1.9%,1.9%
+,,CAD,Medium,Median CPI y/y,2.1%,2.1%,2.1%
+,,CAD,Medium,Trimmed CPI y/y,2.1%,2.1%,2.1%
+,,CAD,Low,Core CPI m/m,-0.1%,,0.3%
+,,USD,Medium,Building Permits,1.42M,1.31M,1.32M
+,,USD,Low,Housing Starts,1.36M,1.25M,1.22M
+,10:30am,USD,High,Crude Oil Inventories,1.1M,-2.1M,-6.9M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<2.00%,<2.00%,<2.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:45pm,NZD,High,GDP q/q,0.5%,0.4%,0.6%
+,9:30pm,AUD,High,Employment Change,34.7K,15.2K,36.4K
+,,AUD,High,Unemployment Rate,5.3%,5.2%,5.2%
+,,AUD,Low,RBA Bulletin,,,
+,10:50pm,JPY,High,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Thu Sep 19 2019,12:30am,JPY,Low,All Industries Activity m/m,0.2%,0.4%,-0.7%
+,2:00am,CHF,Low,Trade Balance,1.59B,3.22B,3.69B
+,2:30am,JPY,High,BOJ Press Conference,,,
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,SNB Policy Rate,-0.75%,-0.75%,-0.75%
+,4:00am,EUR,Low,Current Account,20.5B,20.3B,18.4B
+,4:30am,GBP,High,Retail Sales m/m,-0.2%,-0.2%,0.4%
+,4:48am,EUR,Low,Spanish 10-y Bond Auction,0.21|2.3,,0.18|1.7
+,7:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.75%,0.75%,0.75%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,49.3K,,30.2K
+,,USD,High,Philly Fed Manufacturing Index,12.0,10.9,16.8
+,,USD,Low,Current Account,-128B,-127B,-136B
+,,USD,Low,Unemployment Claims,208K,210K,206K
+,10:00am,USD,Low,CB Leading Index m/m,0.0%,0.1%,0.4%
+,,USD,Low,Existing Home Sales,5.49M,5.39M,5.42M
+,10:30am,USD,Low,Natural Gas Storage,84B,75B,78B
+,7:30pm,JPY,Low,National Core CPI y/y,0.5%,0.5%,0.6%
+,11:00pm,NZD,Low,Credit Card Spending y/y,6.0%,,5.1%
+Fri Sep 20 2019,2:00am,EUR,Low,German PPI m/m,-0.5%,0.0%,0.1%
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:15am,USD,Medium,FOMC Member Williams Speaks,,,
+,8:30am,CAD,High,Core Retail Sales m/m,-0.1%,0.2%,0.9%
+,,CAD,Medium,Retail Sales m/m,0.4%,0.4%,-0.1%
+,9:53am,EUR,Low,Consumer Confidence,-7,-7,-7
+,11:20am,USD,Medium,FOMC Member Rosengren Speaks,,,
+Sat Sep 21 2019,,,No specified,,,,

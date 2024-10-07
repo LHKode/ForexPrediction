@@ -1,0 +1,42 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 22 2019,7:30pm,AUD,Low,Private Sector Credit m/m,0.1%,0.2%,0.1%
+,11:30pm,JPY,Low,All Industries Activity m/m,-4.3%,-4.3%,1.9%
+Mon Dec 23 2019,1:48am,EUR,Low,German Import Prices m/m,0.5%,0.1%,-0.1%
+,8:30am,CAD,High,GDP m/m,-0.1%,0.1%,0.1%
+,,USD,Medium,Core Durable Goods Orders m/m,0.0%,1.5%,0.5%
+,,USD,Medium,Durable Goods Orders m/m,-2.0%,0.2%,0.5%
+,10:00am,USD,Low,New Home Sales,719K,730K,710K
+,6:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+Tue Dec 24 2019,12:00am,JPY,Low,BOJ Core CPI y/y,0.2%,0.3%,0.3%
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,9:59am,USD,Low,Richmond Manufacturing Index,-5,1,-1
+,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,6:50pm,JPY,Low,SPPI y/y,2.1%,2.1%,2.1%
+Wed Dec 25 2019,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,11:37pm,JPY,Low,BOJ Gov Kuroda Speaks,,,
+Thu Dec 26 2019,12:00am,JPY,Low,Housing Starts y/y,-12.7%,-7.9%,-7.4%
+,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,8:30am,USD,Low,Unemployment Claims,222K,222K,235K
+,6:30pm,JPY,Low,Tokyo Core CPI y/y,0.8%,0.6%,0.6%
+,,JPY,Low,Unemployment Rate,2.2%,2.4%,2.4%
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Prelim Industrial Production m/m,-0.9%,-1.1%,-4.5%
+,,JPY,Low,Retail Sales y/y,-2.1%,-1.7%,-7.0%
+Fri Dec 27 2019,4:00am,CHF,Low,Credit Suisse Economic Expectations,12.5,,-3.9
+,,EUR,Low,ECB Economic Bulletin,,,
+,10:30am,USD,Low,Natural Gas Storage,-161B,-145B,-107B
+,11:00am,USD,Medium,Crude Oil Inventories,-5.5M,-1.7M,-1.1M
+Sat Dec 28 2019,,,No specified,,,,

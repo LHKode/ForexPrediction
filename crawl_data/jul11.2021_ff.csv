@@ -1,0 +1,103 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 11 2021,8:10am,EUR,Low,ECB President Lagarde Speaks,,,
+,9:20am,USD,Low,FOMC Member Quarles Speaks,,,
+,7:50pm,JPY,Low,Core Machinery Orders m/m,7.8%,2.5%,0.6%
+,,JPY,Low,PPI y/y,5.0%,4.8%,5.1%
+Mon Jul 12 2021,2:00am,EUR,Low,German WPI m/m,1.5%,0.9%,1.7%
+,,JPY,Low,Prelim Machine Tool Orders y/y,96.6%,,141.9%
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,9:30am,USD,Low,FOMC Member Williams Speaks,,,
+,1:01pm,USD,Medium,10-y Bond Auction,1.37|2.4,,1.50|2.6
+,6:45pm,NZD,Low,FPI m/m,1.4%,,0.4%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,6.7%,11.5%,18.5%
+,9:30pm,AUD,Low,NAB Business Confidence,11,,20
+,11:00pm,CNY,Low,Trade Balance,333B,271B,296B
+,11:01pm,CNY,Low,USD-Denominated Trade Balance,51.5B,44.4B,45.5B
+Tue Jul 13 2021,2:00am,EUR,Low,German Final CPI m/m,0.4%,0.4%,0.4%
+,,GBP,Low,BOE Financial Stability Report,,,
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,2:30am,CHF,Low,PPI m/m,0.3%,0.4%,0.8%
+,2:45am,EUR,Low,French Final CPI m/m,0.1%,0.2%,0.2%
+,3:30am,GBP,High,BOE Gov Bailey Speaks,,,
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,5:57am,USD,Low,NFIB Small Business Index,102.5,99.5,99.6
+,8:30am,USD,High,CPI m/m,0.9%,0.5%,0.6%
+,,USD,High,Core CPI m/m,0.9%,0.4%,0.7%
+,12:00pm,USD,Low,FOMC Member Bostic Speaks,,,
+,1:01pm,USD,Medium,30-y Bond Auction,2.00|2.2,,2.17|2.3
+,2:00pm,USD,Low,Federal Budget Balance,-174.2B,-205.0B,-132.0B
+,2:30pm,USD,Low,FOMC Member Bostic Speaks,,,
+,6:45pm,NZD,Low,Visitor Arrivals m/m,80.4%,,588.3%
+,8:29pm,AUD,Low,Westpac Consumer Sentiment,1.5%,,-5.2%
+,10:00pm,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,Official Cash Rate,0.25%,0.25%,0.25%
+,10:03pm,CNY,Low,Foreign Direct Investment ytd/y,28.7%,,35.4%
+Wed Jul 14 2021,12:30am,JPY,Low,Revised Industrial Production m/m,-6.5%,-5.9%,-5.9%
+,2:00am,GBP,Medium,CPI y/y,2.5%,2.2%,2.1%
+,,GBP,Low,Core CPI y/y,2.3%,2.0%,2.0%
+,,GBP,Low,PPI Input m/m,-0.1%,1.1%,1.2%
+,,GBP,Low,PPI Output m/m,0.4%,0.6%,0.8%
+,,GBP,Low,RPI y/y,3.9%,3.4%,3.3%
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,4:30am,GBP,Low,HPI y/y,10.0%,9.5%,9.6%
+,5:00am,EUR,Low,Industrial Production m/m,-1.0%,-0.3%,0.6%
+,5:33am,EUR,Low,German 10-y Bond Auction,-0.30|1.4,,-0.19|1.3
+,8:30am,CAD,Low,Manufacturing Sales m/m,-0.6%,1.1%,-2.1%
+,,USD,High,PPI m/m,1.0%,0.6%,0.8%
+,,USD,Medium,Core PPI m/m,1.0%,0.5%,0.7%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,Medium,Overnight Rate,0.25%,0.25%,0.25%
+,11:00am,CAD,High,BOC Press Conference,,,
+,11:30am,USD,Medium,Crude Oil Inventories,-7.9M,-4.3M,-6.9M
+,12:00pm,USD,High,Fed Chair Powell Testifies,,,
+,1:00pm,GBP,Low,MPC Member Ramsden Speaks,,,
+,2:00pm,USD,Low,Beige Book,,,
+,9:00pm,AUD,Low,MI Inflation Expectations,3.7%,,4.4%
+,9:30pm,AUD,High,Employment Change,29.1K,19.7K,115.2K
+,,AUD,High,Unemployment Rate,4.9%,5.1%,5.1%
+,10:00pm,CNY,High,GDP q/y,7.9%,8.0%,18.3%
+,,CNY,Low,Fixed Asset Investment ytd/y,12.6%,12.1%,15.4%
+,,CNY,Low,Industrial Production y/y,8.3%,7.8%,8.8%
+,,CNY,Low,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,12.1%,10.9%,12.4%
+,,CNY,Low,Unemployment Rate,5.0%,5.0%,5.0%
+Thu Jul 15 2021,12:30am,JPY,Low,Tertiary Industry Activity m/m,-2.7%,-0.9%,-0.8%
+,2:00am,GBP,Low,Average Earnings Index 3m/y,7.3%,7.1%,5.7%
+,,GBP,Low,Claimant Count Change,-114.8K,-32.5K,-151.4K
+,,GBP,Low,Unemployment Rate,4.8%,4.7%,4.7%
+,4:30am,GBP,Low,BOE Credit Conditions Survey,,,
+,5:00am,EUR,Low,Spanish 10-y Bond Auction,0.35|1.8,,0.60|1.8
+,6:00am,GBP,Medium,MPC Member Saunders Speaks,,,
+,8:30am,USD,Medium,Philly Fed Manufacturing Index,21.9,28.1,30.7
+,,USD,Medium,Unemployment Claims,360K,350K,386K
+,,USD,Low,Empire State Manufacturing Index,43.0,17.9,17.4
+,,USD,Low,Import Prices m/m,1.0%,1.1%,1.4%
+,8:35am,CAD,Low,ADP Non-Farm Employment Change,-294.2K,,-318.7K
+,9:15am,USD,Medium,Industrial Production m/m,0.4%,0.6%,0.7%
+,,USD,Low,Capacity Utilization Rate,75.4%,75.7%,75.1%
+,9:30am,GBP,Low,CB Leading Index m/m,0.6%,,0.6%
+,,USD,High,Fed Chair Powell Testifies,,,
+,10:30am,USD,Low,Natural Gas Storage,55B,45B,16B
+,11:00am,USD,Low,FOMC Member Evans Speaks,,,
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,60.7,,58.6
+,6:45pm,NZD,High,CPI q/q,1.3%,0.7%,0.8%
+,10:56pm,JPY,High,BOJ Outlook Report,,,
+,,JPY,Medium,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Fri Jul 16 2021,2:33am,JPY,Medium,BOJ Press Conference,,,
+,4:03am,EUR,Low,Italian Trade Balance,5.64B,5.27B,5.87B
+,5:00am,EUR,Low,Final CPI y/y,1.9%,1.9%,1.9%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,,EUR,Low,Trade Balance,9.4B,7.9B,13.4B
+,8:13am,CAD,Low,Housing Starts,282K,269K,286K
+,8:30am,CAD,Low,Foreign Securities Purchases,20.79B,7.80B,9.95B
+,,CAD,Low,Wholesale Sales m/m,0.5%,1.2%,0.4%
+,,USD,High,Core Retail Sales m/m,1.3%,0.4%,-0.9%
+,,USD,High,Retail Sales m/m,0.6%,-0.4%,-1.7%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,80.8,86.5,85.5
+,,USD,Low,Business Inventories m/m,0.5%,0.6%,0.1%
+,,USD,Low,Prelim UoM Inflation Expectations,4.8%,,4.2%
+,4:00pm,USD,Low,TIC Long-Term Purchases,-30.2B,95.5B,100.7B
+Sat Jul 17 2021,,,No specified,,,,

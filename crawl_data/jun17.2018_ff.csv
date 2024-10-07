@@ -1,0 +1,86 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 17 2018,7:01pm,GBP,Low,Rightmove HPI m/m,0.4%,,0.8%
+,7:50pm,JPY,Low,Trade Balance,-0.30T,0.14T,0.45T
+,All Day,CNY,Holiday,Bank Holiday,,,
+Mon Jun 18 2018,4:00am,EUR,Low,Italian Trade Balance,2.94B,3.21B,4.53B
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,10:00am,USD,Low,NAHB Housing Market Index,68,70,70
+,10:30am,AUD,Low,CB Leading Index m/m,0.1%,,0.3%
+,12:45pm,CAD,Low,Gov Council Member Patterson Speaks,,,
+,1:00pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,3:00pm,EUR,High,ECB President Draghi Speaks,,,
+,4:00pm,USD,Medium,FOMC Member Williams Speaks,,,
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,-0.7%,-0.9%,1.0%
+,11:35pm,JPY,Low,30-y Bond Auction,0.71|4.2,,0.75|4.4
+Tue Jun 19 2018,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,4:00am,EUR,High,ECB President Draghi Speaks,,,
+,,EUR,Low,Current Account,28.4B,30.3B,32.8B
+,8:30am,USD,High,Building Permits,1.30M,1.35M,1.36M
+,,USD,Medium,Housing Starts,1.35M,1.31M,1.29M
+,10:20am,NZD,Medium,GDT Price Index,-1.2%,,-1.3%
+,5:48pm,NZD,Low,Westpac Consumer Sentiment,108.6,,111.2
+,6:45pm,NZD,Medium,Current Account,0.18B,0.05B,-2.75B
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.2%,,0.2%
+Wed Jun 20 2018,2:00am,EUR,Low,German PPI m/m,0.5%,0.4%,0.5%
+,5:35am,EUR,Low,German 30-y Bond Auction,1.06|1.2,,1.26|1.1
+,6:00am,GBP,Low,CBI Industrial Order Expectations,13,1,-3
+,8:30am,USD,Medium,Current Account,-124B,-129B,-116B
+,9:30am,AUD,High,RBA Gov Lowe Speaks,,,
+,,EUR,High,ECB President Draghi Speaks,,,
+,,JPY,High,BOJ Gov Kuroda Speaks,,,
+,,USD,High,Fed Chair Powell Speaks,,,
+,10:00am,USD,Medium,Existing Home Sales,5.43M,5.52M,5.45M
+,10:30am,USD,High,Crude Oil Inventories,-5.9M,-2.1M,-4.1M
+,6:45pm,NZD,High,GDP q/q,0.5%,0.5%,0.6%
+,9:30pm,AUD,Low,RBA Bulletin,,,
+Thu Jun 21 2018,12:30am,CHF,Medium,SNB Financial Stability Report,,,
+,2:00am,CHF,Low,Trade Balance,2.76B,1.89B,2.24B
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,Libor Rate,-0.75%,-0.75%,-0.75%
+,4:00am,CHF,High,SNB Press Conference,,,
+,4:30am,GBP,Medium,Public Sector Net Borrowing,3.4B,5.1B,5.3B
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,5:45am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,7:00am,GBP,High,MPC Official Bank Rate Votes,3-0-6,2-0-7,2-0-7
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Low,Asset Purchase Facility,435B,435B,435B
+,,GBP,Low,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,2.9K,,15.1K
+,,CAD,Low,Wholesale Sales m/m,0.1%,0.4%,1.4%
+,,USD,Medium,Philly Fed Manufacturing Index,19.9,28.9,34.4
+,,USD,Medium,Unemployment Claims,218K,220K,221K
+,9:00am,USD,Low,HPI m/m,0.1%,0.3%,0.1%
+,10:00am,EUR,Low,Consumer Confidence,-1,0,0
+,,USD,Low,CB Leading Index m/m,0.2%,0.4%,0.4%
+,10:30am,USD,Low,Natural Gas Storage,91B,85B,96B
+,4:15pm,GBP,High,BOE Gov Carney Speaks,,,
+,4:30pm,USD,Low,Bank Stress Test Results,,,
+,6:45pm,NZD,Low,Visitor Arrivals m/m,2.7%,,-1.0%
+,7:30pm,JPY,Low,National Core CPI y/y,0.7%,0.7%,0.7%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,53.1,52.6,52.8
+,11:00pm,NZD,Low,Credit Card Spending y/y,3.7%,,6.9%
+Fri Jun 22 2018,12:30am,JPY,Low,All Industries Activity m/m,1.0%,0.9%,0.0%
+,3:00am,EUR,Medium,French Flash Manufacturing PMI,53.1,54.0,54.4
+,,EUR,Medium,French Flash Services PMI,56.4,54.3,54.3
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,55.9,56.3,56.9
+,,EUR,Medium,German Flash Services PMI,53.9,52.2,52.1
+,4:00am,EUR,Medium,Flash Manufacturing PMI,55.0,55.0,55.5
+,,EUR,Medium,Flash Services PMI,55.0,53.7,53.8
+,All Day,All,High,OPEC Meetings,,,
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,7:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:30am,CAD,High,CPI m/m,0.1%,0.4%,0.3%
+,,CAD,High,Core Retail Sales m/m,-0.1%,0.5%,-0.2%
+,,CAD,Medium,Common CPI y/y,1.9%,,1.9%
+,,CAD,Medium,Median CPI y/y,1.9%,,1.9%
+,,CAD,Medium,Retail Sales m/m,-1.2%,0.0%,0.8
+,,CAD,Medium,Trimmed CPI y/y,1.9%,,2.1%
+,8:43am,CAD,Low,Core CPI m/m,-0.1%,,0.1%
+,8:59am,EUR,Low,Belgian NBB Business Climate,0.6,0.0,0.2
+,9:45am,USD,Low,Flash Manufacturing PMI,54.6,56.3,56.4
+,,USD,Low,Flash Services PMI,56.5,56.4,56.8
+Sat Jun 23 2018,,,No specified,,,,

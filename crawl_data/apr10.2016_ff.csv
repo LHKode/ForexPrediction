@@ -1,0 +1,92 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 10 2016,7:50pm,JPY,Low,Core Machinery Orders m/m,-9.2%,-11.8%,15.0%
+,9:30pm,AUD,Low,Home Loans m/m,1.5%,2.1%,-4.4%
+,,CNY,Medium,CPI y/y,2.3%,2.4%,2.3%
+,,CNY,Medium,PPI y/y,-4.3%,-4.6%,-4.9%
+Mon Apr 11 2016,2:15am,JPY,High,BOJ Gov Kuroda Speaks,,,
+,4:00am,EUR,Low,Italian Industrial Production m/m,-0.6%,-0.8%,1.7%
+,8:30am,USD,Medium,Treasury Sec Lew Speaks,,,
+,9:25am,USD,Medium,FOMC Member Dudley Speaks,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.7%,,0.1%
+,7:50pm,JPY,Low,Bank Lending y/y,2.0%,,2.2%
+,9:30pm,AUD,Medium,NAB Business Confidence,6,,3
+Tue Apr 12 2016,2:00am,EUR,Low,German Final CPI m/m,0.8%,0.8%,0.8%
+,,EUR,Low,German WPI m/m,0.3%,0.3%,-0.5%
+,,JPY,Low,Prelim Machine Tool Orders y/y,-21.2%,,-22.5%
+,4:30am,GBP,High,CPI y/y,0.5%,0.3%,0.3%
+,,GBP,Medium,PPI Input m/m,2.0%,2.4%,0.1%
+,,GBP,Medium,RPI y/y,1.6%,1.4%,1.3%
+,,GBP,Low,Core CPI y/y,1.5%,1.3%,1.2%
+,,GBP,Low,ONS HPI y/y,7.6%,8.1%,7.9%
+,,GBP,Low,PPI Output m/m,0.3%,0.3%,0.1%
+,6:00am,USD,Low,NFIB Small Business Index,92.6,93.9,92.9
+,7:20am,CNY,Low,Foreign Direct Investment ytd/y,4.5%,,2.7%
+,8:30am,USD,Medium,Import Prices m/m,0.2%,1.0%,-0.4%
+,2:00pm,USD,Low,Federal Budget Balance,-108.0B,-106.5B,-192.6B
+,6:45pm,NZD,Low,FPI m/m,0.5%,,-0.6%
+,7:50pm,JPY,Low,M2 Money Stock y/y,3.2%,3.1%,3.2%
+,,JPY,Low,PPI y/y,-3.8%,-3.5%,-3.4%
+,8:11pm,AUD,Low,Westpac Consumer Sentiment,-4.0%,,-2.2%
+,10:00pm,CNY,High,Trade Balance,195B,203B,210B
+,10:22pm,CNY,Low,USD-Denominated Trade Balance,29.9B,30.2B,32.6B
+Wed Apr 13 2016,2:45am,EUR,Low,French Final CPI m/m,0.7%,0.7%,0.7%
+,4:30am,GBP,Medium,BOE Credit Conditions Survey,,,
+,5:00am,EUR,Low,Industrial Production m/m,-0.8%,-0.6%,1.9%
+,5:35am,GBP,Low,30-y Bond Auction,2.35|2.1,,2.21|2.1
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.4%,0.0%
+,,USD,High,PPI m/m,-0.1%,0.3%,-0.2%
+,,USD,High,Retail Sales m/m,-0.3%,0.1%,0.0%
+,,USD,Medium,Core PPI m/m,-0.1%,0.1%,0.0%
+,9:33am,GBP,Low,CB Leading Index m/m,0.2%,,0.2%
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.50%,0.50%,0.50%
+,,USD,Low,Business Inventories m/m,-0.1%,0.1%,-0.1%
+,10:30am,USD,High,Crude Oil Inventories,6.6M,0.9M,-4.9M
+,11:15am,CAD,High,BOC Press Conference,,,
+,1:01pm,USD,Low,10-y Bond Auction,1.77|2.7,,1.90|2.5
+,2:00pm,USD,Low,Beige Book,,,
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,54.7,,55.9
+,7:01pm,GBP,Low,RICS House Price Balance,42%,50%,50%
+,9:00pm,AUD,Low,MI Inflation Expectations,3.6%,,3.4%
+,9:30pm,AUD,High,Employment Change,26.1K,18.6K,-0.7K
+,,AUD,High,Unemployment Rate,5.7%,5.9%,5.8%
+,11:45pm,JPY,Low,30-y Bond Auction,0.39|3.4,,0.77|4.2
+Thu Apr 14 2016,3:15am,CHF,Medium,PPI m/m,0.0%,-0.2%,-0.6%
+,5:00am,EUR,Medium,Final CPI y/y,0.0%,-0.1%,-0.1%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,7:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,CAD,Medium,NHPI m/m,0.2%,0.2%,0.1%
+,,USD,High,CPI m/m,0.1%,0.2%,-0.2%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.3%
+,,USD,High,Unemployment Claims,253K,270K,266K
+,10:00am,USD,Medium,FOMC Member Powell Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,-3B,1B,12B
+,1:01pm,USD,Low,30-y Bond Auction,2.60|2.4,,2.72|2.3
+,4:00pm,GBP,Medium,MPC Member Shafik Speaks,,,
+,9:30pm,AUD,Medium,RBA Financial Stability Review,,,
+,10:00pm,CNY,High,GDP q/y,6.7%,6.7%,6.8%
+,,CNY,High,Industrial Production y/y,6.8%,5.9%,5.4%
+,,CNY,Medium,Fixed Asset Investment ytd/y,10.7%,10.4%,10.2%
+,,CNY,Medium,NBS Press Conference,,,
+,,CNY,Low,M2 Money Supply y/y,13.4%,13.4%,13.3%
+,,CNY,Low,New Loans,1370B,1050B,727B
+,,CNY,Low,Retail Sales y/y,10.5%,10.4%,10.2%
+Fri Apr 15 2016,12:34am,JPY,Low,Revised Industrial Production m/m,-5.2%,-6.2%,-6.2%
+,4:00am,EUR,Low,Italian Trade Balance,3.86B,2.33B,0.03B
+,4:30am,GBP,Low,Construction Output m/m,-0.3%,0.0%,-0.4%
+,5:00am,EUR,Low,Trade Balance,20.2B,21.9B,22.8B
+,8:25am,USD,Medium,Empire State Manufacturing Index,9.6,2.1,0.6
+,8:30am,CAD,High,Manufacturing Sales m/m,-3.3%,-1.4%,2.3%
+,9:15am,USD,Medium,Capacity Utilization Rate,74.8%,75.4%,76.7%
+,,USD,Medium,Industrial Production m/m,-0.6%,-0.1%,-0.5%
+,10:00am,USD,High,Prelim UoM Consumer Sentiment,89.7,91.9,91.0
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.7%
+,All Day,All,Medium,G20 Meetings,,,
+,Day 1,All,Low,IMF Meetings,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,72.0B,32.2B,-11.9B
+Sat Apr 16 2016,Day 2,All,Low,IMF Meetings,,,

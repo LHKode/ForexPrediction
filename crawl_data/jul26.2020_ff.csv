@@ -1,0 +1,84 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 26 2020,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,8:00pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+Mon Jul 27 2020,12:30am,JPY,Low,All Industries Activity m/m,-3.5%,-3.5%,-7.6%
+,1:00am,JPY,Low,BOJ Core CPI y/y,0.1%,0.1%,0.0%
+,4:00am,EUR,Low,M3 Money Supply y/y,9.2%,9.5%,8.9%
+,,EUR,Low,Private Loans y/y,3.0%,3.2%,3.0%
+,,EUR,Low,German ifo Business Climate,90.5,89.2,86.3
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,USD,Medium,Core Durable Goods Orders m/m,3.3%,3.5%,3.7%
+,,USD,Medium,Durable Goods Orders m/m,7.3%,7.0%,15.7%
+,7:50pm,JPY,Low,SPPI y/y,0.8%,0.8%,0.5%
+Tue Jul 28 2020,3:00am,EUR,Medium,Spanish Unemployment Rate,15.3%,16.6%,14.4%
+,6:00am,GBP,Low,CBI Realized Sales,4,-27,-37
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,3.7%,4.1%,3.9%
+,9:30am,USD,High,Fed Announcement,,,
+,9:59am,USD,Low,Richmond Manufacturing Index,10,5,0
+,10:00am,USD,Medium,CB Consumer Confidence,92.6,94.0,98.3
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.3%,,-1.6%
+,9:30pm,AUD,High,CPI q/q,-1.9%,-2.0%,0.3%
+,,AUD,High,Trimmed Mean CPI q/q,-0.1%,0.1%,0.5%
+Wed Jul 29 2020,2:00am,EUR,Low,German Import Prices m/m,0.6%,0.5%,0.3%
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,42.4,,48.7
+,4:30am,GBP,Low,M4 Money Supply m/m,1.0%,2.2%,2.1%
+,,GBP,Low,Mortgage Approvals,40K,35K,9K
+,,GBP,Low,Net Lending to Individuals m/m,1.8B,-0.4B,-3.3B
+,8:30am,USD,Low,Goods Trade Balance,-70.6B,-75.5B,-75.3B
+,,USD,Low,Prelim Wholesale Inventories m/m,-2.0%,-0.4%,-1.2%
+,10:00am,USD,High,Pending Home Sales m/m,16.6%,15.6%,44.3%
+,10:30am,USD,Medium,Crude Oil Inventories,-10.6M,1.0M,4.9M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:45pm,NZD,Low,Building Consents m/m,0.5%,,41.7%
+,7:50pm,JPY,Low,Retail Sales y/y,-1.2%,-6.0%,-12.5%
+,9:00pm,NZD,Low,ANZ Business Confidence,-31.8,,-29.8
+,9:30pm,AUD,Low,Building Approvals m/m,-4.9%,-2.0%,-15.8%
+,,AUD,Low,Import Prices q/q,-1.9%,-2.5%,-1.0%
+Thu Jul 30 2020,All Day,EUR,Low,German Prelim CPI m/m,-0.5%,-0.2%,0.6%
+,3:00am,CHF,Medium,KOF Economic Barometer,85.7,72.5,60.6
+,,EUR,Low,Spanish Flash CPI y/y,-0.6%,-0.3%,-0.3%
+,3:55am,EUR,Low,German Unemployment Change,-18K,42K,68K
+,4:00am,EUR,High,German Prelim GDP q/q,-10.1%,-9.0%,-2.0%
+,,EUR,Low,ECB Economic Bulletin,,,
+,,EUR,Low,Italian Monthly Unemployment Rate,8.8%,8.5%,8.3%
+,5:00am,EUR,Low,Unemployment Rate,7.8%,7.7%,7.7%
+,5:17am,EUR,Low,Italian 10-y Bond Auction,1.04|1.4,,1.20|2.1
+,8:30am,USD,High,Advance GDP q/q,-32.9%,-34.5%,-5.0%
+,,USD,Medium,Advance GDP Price Index q/q,-1.8%,0.0%,1.4%
+,,USD,Medium,Unemployment Claims,1434K,1440K,1422K
+,10:30am,USD,Low,Natural Gas Storage,26B,25B,37B
+,7:30pm,JPY,Low,Unemployment Rate,2.8%,3.0%,2.9%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,2.7%,0.9%,-8.9%
+,9:00pm,CNY,High,Manufacturing PMI,51.1,50.8,50.9
+,,CNY,Medium,Non-Manufacturing PMI,54.2,54.5,54.4
+,9:30pm,AUD,Low,PPI q/q,-1.2%,-0.8%,0.2%
+,,AUD,Low,Private Sector Credit m/m,-0.2%,-0.1%,-0.1%
+Fri Jul 31 2020,1:00am,JPY,Low,Consumer Confidence,29.5,29.5,28.4
+,1:02am,JPY,Low,Housing Starts y/y,-12.8%,-12.6%,-12.3%
+,1:30am,EUR,Low,French Flash GDP q/q,-13.8%,-15.2%,-5.3%
+,1:58am,GBP,Low,Nationwide HPI m/m,1.7%,-0.2%,-1.6%
+,2:00am,EUR,Low,German Retail Sales m/m,-1.6%,-3.0%,12.7%
+,2:30am,CHF,Low,Retail Sales y/y,1.1%,0.9%,6.2%
+,2:45am,EUR,Low,French Consumer Spending m/m,9.0%,6.9%,37.4%
+,,EUR,Low,French Prelim CPI m/m,0.4%,-0.1%,0.1%
+,3:00am,EUR,Low,Spanish Flash GDP q/q,-18.5%,-16.0%,-5.2%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,-12.4%,-15.0%,-5.3%
+,5:00am,EUR,Low,CPI Flash Estimate y/y,0.4%,0.3%,0.3%
+,,EUR,Low,Core CPI Flash Estimate y/y,1.2%,0.8%,0.8%
+,,EUR,Low,Italian Prelim CPI m/m,-0.1%,0.1%,0.1%
+,,EUR,Low,Prelim Flash GDP q/q,-12.1%,-12.0%,-3.6%
+,6:00am,EUR,Low,Italian Retail Sales m/m,12.1%,9.8%,24.3%
+,8:30am,CAD,High,GDP m/m,4.5%,3.5%,-11.7%
+,,CAD,Low,Building Permits m/m,6.2%,8.2%,21.6%
+,,CAD,Low,IPPI m/m,0.4%,0.8%,1.2%
+,,CAD,Low,RMPI m/m,7.5%,7.0%,16.4%
+,,USD,Medium,Core PCE Price Index m/m,0.2%,0.2%,0.2%
+,,USD,Medium,Personal Spending m/m,5.6%,5.3%,8.5%
+,,USD,Low,Employment Cost Index q/q,0.5%,0.6%,0.8%
+,,USD,Low,Personal Income m/m,-1.1%,-0.8%,-4.4%
+,9:45am,USD,Medium,Chicago PMI,51.9,44.0,36.6
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,72.5,72.9,73.2
+,,USD,Low,Revised UoM Inflation Expectations,3.0%,,3.1%
+Sat Aug 1 2020,,,No specified,,,,

@@ -1,0 +1,89 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Oct 15 2017,9:00am,JPY,High,BOJ Gov Kuroda Speaks,,,
+,,USD,High,Fed Chair Yellen Speaks,,,
+,Day 3,All,Low,IMF Meetings,,,
+,11:20am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,7:01pm,GBP,Low,Rightmove HPI m/m,1.1%,,-1.2%
+,9:30pm,CNY,Medium,CPI y/y,1.6%,1.6%,1.8%
+,,CNY,Medium,PPI y/y,6.9%,6.3%,6.3%
+Mon Oct 16 2017,12:30am,JPY,Low,Revised Industrial Production m/m,2.0%,2.1%,2.1%
+,2:00am,EUR,Low,German WPI m/m,0.6%,0.4%,0.3%
+,5:00am,EUR,Low,Trade Balance,21.6B,20.3B,17.9B
+,8:30am,CAD,Medium,Foreign Securities Purchases,9.85B,20.05B,23.97B
+,,USD,Medium,Empire State Manufacturing Index,30.2,20.3,24.4
+,10:30am,CAD,Medium,BOC Business Outlook Survey,,,
+,5:45pm,NZD,High,CPI q/q,0.5%,0.4%,0.0%
+,8:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,RBA Assist Gov Ellis Speaks,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,-0.5%,,-0.1%
+Tue Oct 17 2017,4:05am,EUR,Low,Italian Trade Balance,2.77B,4.23B,6.56B
+,4:15am,GBP,Medium,MPC Member Ramsden Speaks,,,
+,4:30am,GBP,High,CPI y/y,3.0%,3.0%,2.9%
+,,GBP,Medium,PPI Input m/m,0.4%,1.2%,2.3%
+,,GBP,Medium,RPI y/y,3.9%,4.0%,3.9%
+,,GBP,Low,Core CPI y/y,2.7%,2.7%,2.7%
+,,GBP,Low,HPI y/y,5.0%,5.4%,4.5%
+,,GBP,Low,PPI Output m/m,0.2%,0.2%,0.4%
+,5:00am,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%
+,,EUR,Medium,German ZEW Economic Sentiment,17.6,20.1,17.0
+,,EUR,Low,Final Core CPI y/y,1.1%,1.1%,1.1%
+,,EUR,Low,ZEW Economic Sentiment,26.7,34.2,31.7
+,5:15am,GBP,Medium,MPC Member Tenreyro Speaks,,,
+,6:15am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,USD,Medium,Import Prices m/m,0.7%,0.6%,0.6%
+,9:15am,USD,Medium,Capacity Utilization Rate,76.0%,76.2%,75.8%
+,,USD,Medium,Industrial Production m/m,0.3%,0.3%,-0.7%
+,10:00am,USD,Low,NAHB Housing Market Index,68,64,64
+,10:33am,NZD,Medium,GDT Price Index,-1.0%,,-2.4%
+,1:00pm,USD,Medium,FOMC Member Harker Speaks,,,
+,3:30pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,67.2B,14.3B,1.2B
+,5:00pm,USD,Medium,Treasury Currency Report,,,
+,7:30pm,AUD,Low,MI Leading Index m/m,0.1%,,-0.1%
+Wed Oct 18 2017,4:10am,EUR,High,ECB President Draghi Speaks,,,
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.2%,2.1%,2.2%
+,,GBP,Medium,Claimant Count Change,1.7K,1.3K,-0.2K
+,,GBP,Medium,Unemployment Rate,4.3%,4.3%,4.3%
+,5:34am,EUR,Low,German 30-y Bond Auction,1.22|1.7,,1.27|1.8
+,8:00am,USD,Medium,FOMC Member Dudley Speaks,,,
+,,USD,Medium,FOMC Member Kaplan Speaks,,,
+,8:30am,CAD,Medium,Manufacturing Sales m/m,1.6%,-0.1%,-2.6%
+,,USD,High,Building Permits,1.22M,1.25M,1.27M
+,,USD,Medium,Housing Starts,1.13M,1.18M,1.18M
+,10:30am,USD,High,Crude Oil Inventories,-5.7M,-4.7M,-2.7M
+,2:00pm,USD,Low,Beige Book,,,
+,7:50pm,JPY,Low,Trade Balance,0.24T,0.31T,0.31T
+,8:30pm,AUD,High,Employment Change,19.8K,14.1K,53.0K
+,,AUD,High,Unemployment Rate,5.5%,5.6%,5.6%
+,,AUD,Low,NAB Quarterly Business Confidence,7,,8
+,9:10pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+,10:00pm,CNY,High,GDP q/y,6.8%,6.8%,6.9%
+,,CNY,High,Industrial Production y/y,6.6%,6.4%,6.0%
+,,CNY,Medium,Fixed Asset Investment ytd/y,7.5%,7.7%,7.8%
+,,CNY,Medium,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,10.3%,10.2%,10.1%
+Thu Oct 19 2017,12:30am,JPY,Low,All Industries Activity m/m,0.1%,0.2%,-0.1%
+,2:00am,CHF,Low,Trade Balance,2.92B,2.47B,2.20B
+,4:30am,GBP,High,Retail Sales m/m,-0.8%,-0.1%,0.9%
+,4:43am,EUR,Low,Spanish 10-y Bond Auction,1.63|1.8,,1.87|2.5
+,5:37am,GBP,Low,10-y Bond Auction,1.32|2.1,,1.16|2.2
+,8:30am,USD,High,Unemployment Claims,222K,240K,244K
+,,USD,Medium,Philly Fed Manufacturing Index,27.9,21.9,23.8
+,10:00am,USD,Low,CB Leading Index m/m,-0.2%,0.1%,0.4%
+,10:30am,USD,Low,Natural Gas Storage,51B,59B,87B
+,5:45pm,NZD,Low,Visitor Arrivals m/m,0.3%,,-0.4%
+,10:00pm,NZD,Low,Credit Card Spending y/y,4.9%,,6.4%
+Fri Oct 20 2017,2:00am,EUR,Low,German PPI m/m,0.3%,0.1%,0.2%
+,4:00am,EUR,Low,Current Account,33.3B,26.2B,31.5B
+,4:30am,GBP,Medium,Public Sector Net Borrowing,5.3B,5.7B,4.1B
+,8:30am,CAD,High,CPI m/m,0.2%,0.3%,0.1%
+,,CAD,High,Core Retail Sales m/m,-0.7%,0.3%,0.2%
+,,CAD,Medium,Common CPI y/y,1.5%,,1.5%
+,,CAD,Medium,Median CPI y/y,1.8%,,1.8%
+,,CAD,Medium,Retail Sales m/m,-0.3%,0.5%,0.4%
+,,CAD,Medium,Trimmed CPI y/y,1.5%,,1.4%
+,8:33am,CAD,Low,Core CPI m/m,0.2%,,0.0%
+,10:00am,USD,Medium,Existing Home Sales,5.39M,5.30M,5.35M
+,2:00pm,USD,Low,Federal Budget Balance,8.0B,-0.9B,-107.7B
+,7:30pm,USD,High,Fed Chair Yellen Speaks,,,
+Sat Oct 21 2017,All Day,All,Medium,OPEC-JMMC Meetings,,,

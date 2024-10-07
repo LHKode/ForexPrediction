@@ -1,0 +1,108 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 4 2018,All Day,EUR,High,Italian Parliamentary Election,,,
+,4:30pm,AUD,Low,AIG Services Index,54.0,,54.9
+,7:00pm,AUD,Medium,MI Inflation Gauge m/m,-0.1%,,0.3%
+,,NZD,Low,ANZ Commodity Prices m/m,2.8%,,0.7%
+,7:30pm,AUD,Medium,Building Approvals m/m,17.1%,5.1%,-20.6%
+,,AUD,Medium,Company Operating Profits q/q,2.2%,1.6%,-0.1%
+,,AUD,Low,ANZ Job Advertisements m/m,-0.3%,,6.2%
+,8:45pm,CNY,Medium,Caixin Services PMI,54.2,54.3,54.7
+Mon Mar 5 2018,3:15am,EUR,Low,Spanish Services PMI,57.3,56.5,56.9
+,3:45am,EUR,Low,Italian Services PMI,55.0,57.3,57.7
+,3:50am,EUR,Low,French Final Services PMI,57.4,57.9,57.9
+,3:55am,EUR,Low,German Final Services PMI,55.3,55.3,55.3
+,4:00am,EUR,Low,Final Services PMI,56.2,56.7,56.7
+,4:30am,EUR,Low,Sentix Investor Confidence,24.0,31.1,31.9
+,,GBP,High,Final Services PMI,54.5,53.3,53.0
+,5:00am,EUR,Low,Retail Sales m/m,-0.1%,0.3%,-1.0%
+,9:45am,USD,Low,Final Services PMI,55.9,55.9,55.9
+,10:00am,USD,High,ISM Services PMI,59.5,58.9,59.9
+,1:15pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.6%,,0.6%
+,7:30pm,AUD,High,Current Account,-14.0B,-12.3B,-11.0B
+,,AUD,High,Retail Sales m/m,0.1%,0.4%,-0.5%
+,10:30pm,AUD,High,Cash Rate,1.50%,1.50%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+,10:45pm,JPY,Low,30-y Bond Auction,0.75|4.2,,0.82|4.3
+Tue Mar 6 2018,3:15am,CHF,Low,CPI m/m,0.4%,0.3%,-0.1%
+,4:10am,EUR,Low,Retail PMI,52.3,,50.8
+,5:34am,GBP,Low,30-y Bond Auction,1.94|2.1,,1.81|1.7
+,7:30am,USD,Medium,FOMC Member Dudley Speaks,,,
+,10:00am,CAD,Medium,Ivey PMI,59.6,56.3,55.2
+,,USD,Low,Factory Orders m/m,-1.4%,-0.4%,1.8%
+,10:01am,USD,Low,IBD/TIPP Economic Optimism,55.6,58.2,56.7
+,10:51am,NZD,Medium,GDT Price Index,-0.6%,,-0.5%
+,1:15pm,GBP,Medium,MPC Member Haldane Speaks,,,
+,4:30pm,AUD,Low,AIG Construction Index,56.0,,54.3
+,4:35pm,AUD,High,RBA Gov Lowe Speaks,,,
+,5:30pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,7:30pm,AUD,High,GDP q/q,0.4%,0.5%,0.7%
+Wed Mar 7 2018,12:00am,JPY,Medium,Leading Indicators,104.8%,106.5%,107.4%
+,2:45am,EUR,Low,French Trade Balance,-5.6B,-4.4B,-3.4B
+,3:00am,CHF,Low,Foreign Currency Reserves,733B,,732B
+,3:30am,GBP,Medium,Halifax HPI m/m,0.4%,0.4%,-0.5%
+,5:00am,EUR,Low,Revised GDP q/q,0.6%,0.6%,0.6%
+,8:00am,USD,Medium,FOMC Member Bostic Speaks,,,
+,8:15am,USD,High,ADP Non-Farm Employment Change,235K,199K,244K
+,8:20am,USD,Low,FOMC Member Dudley Speaks,,,
+,8:30am,CAD,High,Trade Balance,-1.9B,-2.5B,-3.1B
+,,CAD,Medium,Labor Productivity q/q,0.2%,0.1%,-0.5%
+,,USD,Low,Revised Nonfarm Productivity q/q,0.0%,-0.1%,-0.1%
+,,USD,Low,Revised Unit Labor Costs q/q,2.5%,2.1%,2.0%
+,,USD,Low,Trade Balance,-56.6B,-55.1B,-53.9B
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.25%,1.25%,1.25%
+,10:30am,USD,High,Crude Oil Inventories,2.4M,2.6M,3.0M
+,2:00pm,USD,Low,Beige Book,,,
+,3:00pm,USD,Low,Consumer Credit m/m,13.9B,17.5B,19.2B
+,4:45pm,NZD,Low,Manufacturing Sales q/q,2.8%,,0.5%
+,6:50pm,JPY,Low,Bank Lending y/y,2.1%,2.4%,2.3%
+,,JPY,Low,Current Account,2.02T,1.76T,1.68T
+,,JPY,Low,Final GDP Price Index y/y,0.1%,0.0%,0.0%
+,,JPY,Low,Final GDP q/q,0.4%,0.2%,0.1%
+,7:01pm,GBP,Low,RICS House Price Balance,0%,7%,7%
+,7:30pm,AUD,High,Trade Balance,1.06B,0.21B,-1.15B
+,10:09pm,CNY,Medium,Trade Balance,225B,-70B,136B
+,10:15pm,CNY,Low,USD-Denominated Trade Balance,33.7B,-2.3B,20.3B
+Thu Mar 8 2018,12:03am,JPY,Low,Economy Watchers Sentiment,48.6,50.6,49.9
+,1:45am,CHF,Low,Unemployment Rate,2.9%,2.9%,3.0%
+,2:00am,EUR,Low,German Factory Orders m/m,-3.9%,-1.9%,3.0%
+,7:30am,USD,Low,Challenger Job Cuts y/y,-4.3%,,-2.8%
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:13am,CAD,Low,Housing Starts,230K,217K,215K
+,8:30am,CAD,Medium,Building Permits m/m,5.6%,-0.3%,2.5%
+,,CAD,Medium,NHPI m/m,0.0%,0.1%,0.0%
+,,EUR,High,ECB Press Conference,,,
+,,USD,Medium,Unemployment Claims,231K,220K,210K
+,10:30am,USD,Low,Natural Gas Storage,-57B,-58B,-78B
+,11:30am,CAD,High,BOC Gov Poloz Speaks,,,
+,3:35pm,CAD,High,Gov Council Member Lane Speaks,,,
+,6:30pm,JPY,Low,Household Spending y/y,1.9%,-1.1%,-0.1%
+,6:50pm,JPY,Low,M2 Money Stock y/y,3.3%,3.3%,3.4%
+,7:00pm,JPY,Low,Average Cash Earnings y/y,0.7%,0.6%,0.7%
+,8:02pm,CNY,Low,M2 Money Supply y/y,8.8%,8.8%,8.6%
+,,CNY,Low,New Loans,839B,900B,2900B
+,8:30pm,CNY,Medium,CPI y/y,2.9%,2.5%,1.5%
+,,CNY,Medium,PPI y/y,3.7%,3.8%,4.3%
+,9:46pm,JPY,High,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Fri Mar 9 2018,1:30am,JPY,High,BOJ Press Conference,,,
+,2:00am,EUR,Low,German Industrial Production m/m,-0.1%,0.6%,-0.5%
+,,EUR,Low,German Trade Balance,21.3B,21.2B,21.3B
+,2:45am,EUR,Low,French Gov Budget Balance,-10.8B,,-67.8B
+,,EUR,Low,French Industrial Production m/m,-2.0%,-0.2%,0.2%
+,4:30am,GBP,High,Manufacturing Production m/m,0.1%,0.2%,0.3%
+,,GBP,Medium,Goods Trade Balance,-12.3B,-12.0B,-11.8B
+,,GBP,Low,Construction Output m/m,-3.4%,-0.4%,1.6%
+,,GBP,Low,Consumer Inflation Expectations,2.9%,,2.9%
+,,GBP,Low,Industrial Production m/m,1.3%,1.5%,-1.3%
+,7:09am,GBP,Low,NIESR GDP Estimate,0.3%,,0.4%
+,8:30am,CAD,High,Employment Change,15.4K,21.3K,-88.0K
+,,CAD,High,Unemployment Rate,5.8%,5.9%,5.9%
+,,CAD,Low,Capacity Utilization Rate,86.0%,85.2%,85.1%
+,,USD,High,Average Hourly Earnings m/m,0.1%,0.2%,0.3%
+,,USD,High,Non-Farm Employment Change,313K,205K,239K
+,,USD,High,Unemployment Rate,4.1%,4.0%,4.1%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.8%,0.7%,0.7%
+Sat Mar 10 2018,,,No specified,,,,

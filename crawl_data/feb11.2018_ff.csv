@@ -1,0 +1,78 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 11 2018,All Day,JPY,Holiday,Bank Holiday,,,
+Mon Feb 12 2018,3:15am,CHF,Low,CPI m/m,-0.1%,-0.1%,0.0%
+,4:01am,CNY,Low,M2 Money Supply y/y,8.6%,8.2%,8.2%
+,,CNY,Low,New Loans,2900B,2050B,584B
+,4:50am,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,11:30am,GBP,Medium,MPC Member McCafferty Speaks,,,
+,2:00pm,USD,Low,Federal Budget Balance,49.2B,50.2B,-23.2B
+,4:50pm,AUD,Medium,RBA Assist Gov Ellis Speaks,,,
+,6:50pm,JPY,Low,PPI y/y,2.7%,2.7%,3.0%
+,7:30pm,AUD,Medium,NAB Business Confidence,12,,10
+Tue Feb 13 2018,12:58am,JPY,Low,Prelim Machine Tool Orders y/y,48.8%,,48.3%
+,2:45am,EUR,Low,French Prelim Private Payrolls q/q,0.3%,0.2%,0.3%
+,3:15am,CHF,Medium,PPI m/m,0.3%,0.2%,0.2%
+,4:30am,GBP,High,CPI y/y,3.0%,2.9%,3.0%
+,,GBP,Medium,PPI Input m/m,0.7%,0.7%,0.6%
+,,GBP,Medium,RPI y/y,4.0%,4.1%,4.1%
+,,GBP,Low,Core CPI y/y,2.7%,2.6%,2.5%
+,,GBP,Low,HPI y/y,5.2%,4.9%,5.0%
+,,GBP,Low,PPI Output m/m,0.1%,0.2%,0.4%
+,6:00am,USD,Low,NFIB Small Business Index,106.9,106.2,104.9
+,8:00am,USD,Medium,FOMC Member Mester Speaks,,,
+,4:45pm,NZD,Low,FPI m/m,1.2%,,-0.8%
+,6:30pm,AUD,Low,Westpac Consumer Sentiment,-2.3%,,1.8%
+,6:50pm,JPY,Low,Prelim GDP Price Index y/y,0.0%,0.0%,0.2%
+,,JPY,Low,Prelim GDP q/q,0.1%,0.2%,0.6%
+,9:00pm,NZD,High,Inflation Expectations q/q,2.11%,,2.02%
+,10:28pm,CNY,Low,Foreign Direct Investment ytd/y,0.3%,,7.9%
+Wed Feb 14 2018,2:00am,EUR,Medium,German Prelim GDP q/q,0.6%,0.6%,0.8%
+,,EUR,Low,German Final CPI m/m,-0.7%,-0.7%,-0.7%
+,3:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,3:50am,CHF,Medium,Gov Board Member Zurbrugg Speaks,,,
+,4:00am,EUR,Low,Italian Prelim GDP q/q,0.3%,0.4%,0.4%
+,5:00am,EUR,Medium,Flash GDP q/q,0.6%,0.6%,0.6%
+,,EUR,Low,Industrial Production m/m,0.4%,0.1%,1.3%
+,5:33am,EUR,Low,German 30-y Bond Auction,1.33|1.5,,1.28|1.4
+,6:20am,CHF,Medium,Gov Board Member Zurbrugg Speaks,,,
+,8:30am,USD,High,CPI m/m,0.5%,0.3%,0.1%
+,,USD,High,Core CPI m/m,0.3%,0.2%,0.3%
+,,USD,High,Core Retail Sales m/m,0.0%,0.5%,0.1%
+,,USD,High,Retail Sales m/m,-0.3%,0.2%,0.0%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.2%,,-0.2%
+,10:00am,USD,Low,Business Inventories m/m,0.4%,0.3%,0.4%
+,10:30am,USD,High,Crude Oil Inventories,1.8M,2.8M,1.9M
+,6:50pm,JPY,Low,Core Machinery Orders m/m,-11.9%,-1.9%,5.7%
+,7:00pm,AUD,Low,MI Inflation Expectations,3.6%,,3.7%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,High,Employment Change,16.0K,15.3K,33.5K
+,,AUD,High,Unemployment Rate,5.5%,5.5%,5.6%
+,11:30pm,JPY,Low,Revised Industrial Production m/m,2.9%,2.7%,2.7%
+Thu Feb 15 2018,4:00am,EUR,Low,Italian Trade Balance,5.25B,4.44B,4.84B
+,4:55am,EUR,Low,Spanish 10-y Bond Auction,1.58|2.5,,1.53|1.8
+,5:00am,EUR,Low,Trade Balance,23.8B,22.4B,22.0B
+,8:30am,CAD,Medium,ADP Non-Farm Employment Change,10.7K,,-13.5K
+,,USD,High,PPI m/m,0.4%,0.4%,-0.1%
+,,USD,Medium,Core PPI m/m,0.4%,0.2%,-0.1%
+,,USD,Medium,Empire State Manufacturing Index,13.1,17.7,17.7
+,,USD,Medium,Philly Fed Manufacturing Index,25.8,21.5,22.2
+,,USD,Medium,Unemployment Claims,230K,229K,223K
+,9:15am,USD,Medium,Capacity Utilization Rate,77.5%,78.0%,77.7%
+,,USD,Medium,Industrial Production m/m,-0.1%,0.2%,0.4%
+,10:00am,USD,Low,NAHB Housing Market Index,72,72,72
+,10:30am,USD,Low,Natural Gas Storage,-194B,-193B,-119B
+,1:30pm,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,27.3B,50.3B,57.5B
+,4:30pm,NZD,High,BusinessNZ Manufacturing Index,55.6,,51.1
+,5:30pm,AUD,High,RBA Gov Lowe Speaks,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+Fri Feb 16 2018,2:00am,EUR,Low,German WPI m/m,0.9%,0.2%,-0.3%
+,4:30am,GBP,High,Retail Sales m/m,0.1%,0.5%,-1.4%
+,8:30am,CAD,Medium,Foreign Securities Purchases,-1.97B,19.18B,19.20B
+,,CAD,Medium,Manufacturing Sales m/m,-0.3%,0.2%,3.8%
+,,USD,High,Building Permits,1.40M,1.29M,1.30M
+,,USD,Medium,Housing Starts,1.33M,1.23M,1.21M
+,,USD,Medium,Import Prices m/m,1.0%,0.6%,0.2%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,99.9,95.4,95.7
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.7%
+Sat Feb 17 2018,,,No specified,,,,

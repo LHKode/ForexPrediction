@@ -1,0 +1,81 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 22 2020,,,No specified,,,,
+Mon Mar 23 2020,7:00am,EUR,Low,German Buba Monthly Report,,,
+,8:00am,USD,High,Fed Announcement,,,
+,8:30am,CAD,Low,Wholesale Sales m/m,1.8%,-0.2%,1.0%
+,9:00am,CNY,Low,CB Leading Index m/m,-1.0%,,1.0%
+,11:00am,EUR,Low,Consumer Confidence,-12,-14,-7
+,All Day,All,Medium,G20 Meetings,,,
+,6:00pm,AUD,Low,Flash Manufacturing PMI,50.1,,50.2
+,,AUD,Low,Flash Services PMI,39.8,,49.0
+,6:12pm,USD,High,President Trump Speaks,,,
+,8:30pm,JPY,Low,Flash Manufacturing PMI,44.8,42.1,47.8
+Tue Mar 24 2020,1:00am,JPY,Low,BOJ Core CPI y/y,0.2%,0.2%,0.3%
+,4:15am,EUR,High,French Flash Services PMI,29.0,39.6,52.5
+,,EUR,Medium,French Flash Manufacturing PMI,42.9,39.4,49.8
+,4:30am,EUR,High,German Flash Manufacturing PMI,45.7,40.1,48.0
+,,EUR,High,German Flash Services PMI,34.5,43.0,52.5
+,5:00am,EUR,Medium,Flash Manufacturing PMI,44.8,40.1,49.2
+,,EUR,Medium,Flash Services PMI,28.4,40.0,52.6
+,5:30am,GBP,High,Flash Manufacturing PMI,48.0,45.1,51.7
+,,GBP,High,Flash Services PMI,35.7,45.0,53.2
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,All Day,All,High,G7 Meetings,,,
+,7:00am,GBP,Low,CBI Industrial Order Expectations,-29,-38,-18
+,9:45am,USD,High,Flash Manufacturing PMI,49.2,45.1,50.7
+,,USD,Medium,Flash Services PMI,39.1,44.1,49.4
+,9:59am,USD,Medium,Richmond Manufacturing Index,2,-10,-2
+,10:00am,USD,Low,New Home Sales,765K,750K,800K
+,12:05pm,USD,High,President Trump Speaks,,,
+,5:45pm,NZD,Low,Trade Balance,594M,550M,-414M
+,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+Wed Mar 25 2020,3:00am,GBP,High,CPI y/y,1.7%,1.7%,1.8%
+,,GBP,Low,Core CPI y/y,1.7%,1.5%,1.6%
+,,GBP,Low,RPI y/y,2.5%,2.5%,2.7%
+,3:02am,GBP,Medium,PPI Input m/m,-1.2%,-2.0%,0.3%
+,,GBP,Low,PPI Output m/m,-0.3%,0.0%,0.2%
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,-45.8,,7.7
+,,EUR,Medium,German ifo Business Climate,86.1,87.9,87.7
+,5:30am,GBP,Low,HPI y/y,1.3%,2.7%,1.7%
+,7:00am,GBP,Low,CBI Realized Sales,-3,-15,1
+,8:30am,USD,Medium,Core Durable Goods Orders m/m,-0.6%,-0.4%,0.8%
+,,USD,Medium,Durable Goods Orders m/m,1.2%,-1.0%,0.1%
+,9:00am,USD,Low,HPI m/m,0.3%,0.4%,0.7%
+,9:59am,EUR,Low,Belgian NBB Business Climate,-10.9,-11.2,-2.7
+,10:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,10:30am,AUD,Low,CB Leading Index m/m,0.4%,,-0.3%
+,,USD,Low,Crude Oil Inventories,1.6M,2.9M,2.0M
+,7:50pm,JPY,Low,SPPI y/y,2.1%,2.2%,2.3%
+Thu Mar 26 2020,3:00am,EUR,Low,German GfK Consumer Climate,2.7,7.4,8.3
+,,GBP,Medium,Retail Sales m/m,-0.3%,0.2%,1.1%
+,5:00am,EUR,Low,ECB Economic Bulletin,,,
+,,EUR,Low,M3 Money Supply y/y,5.5%,5.2%,5.2%
+,5:02am,EUR,Low,Private Loans y/y,3.8%,3.8%,3.7%
+,7:06am,USD,High,Fed Chair Powell Speaks,,,
+,8:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-9-0
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.10%,0.10%,0.10%
+,,GBP,Low,Asset Purchase Facility,645B,645B,645B
+,,GBP,Low,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,9-0-0
+,8:30am,USD,High,Unemployment Claims,3283K,1648K,282K
+,,USD,Medium,Final GDP q/q,2.1%,2.1%,2.1%
+,,USD,Low,Final GDP Price Index q/q,1.3%,1.3%,1.3%
+,,USD,Low,Goods Trade Balance,-59.9B,-64.5B,-65.9B
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.5%,-0.2%,-0.4%
+,10:30am,USD,Low,Natural Gas Storage,-29B,-30B,-9B
+,All Day,All,Medium,G20 Meetings,,,
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,0.4%,0.4%,0.5%
+Fri Mar 27 2020,8:30am,USD,Low,Core PCE Price Index m/m,0.2%,0.2%,0.1%
+,,USD,Low,Personal Income m/m,0.6%,0.4%,0.6%
+,,USD,Low,Personal Spending m/m,0.2%,0.2%,0.2%
+,9:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.25%,,0.75%
+,9:30am,CAD,High,BOC Press Conference,,,
+,10:00am,USD,Low,Revised UoM Consumer Sentiment,89.1,90.0,95.9
+,,USD,Low,Revised UoM Inflation Expectations,2.2%,,2.3%
+,1:00pm,CAD,High,BOC Gov Poloz Speaks,,,
+,5:30pm,USD,High,President Trump Speaks,,,
+Sat Mar 28 2020,9:00pm,CHF,Holiday,Daylight Saving Time Shift,,,
+,,EUR,Holiday,Daylight Saving Time Shift,,,
+,,GBP,Holiday,Daylight Saving Time Shift,,,

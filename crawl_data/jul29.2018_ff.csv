@@ -1,0 +1,120 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 29 2018,7:50pm,JPY,Low,Retail Sales y/y,1.8%,1.7%,0.6%
+,9:28pm,AUD,Low,HIA New Home Sales m/m,2.2%,,-4.4%
+Mon Jul 30 2018,All Day,EUR,Medium,German Prelim CPI m/m,0.3%,0.4%,0.1%
+,3:00am,CHF,Medium,KOF Economic Barometer,101.1,101.6,101.3
+,,EUR,Medium,Spanish Flash CPI y/y,2.2%,2.3%,2.3%
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,5.4B,5.3B,5.3B
+,,GBP,Low,M4 Money Supply m/m,-0.3%,0.6%,0.4%
+,,GBP,Low,Mortgage Approvals,66K,66K,65K
+,5:15am,EUR,Low,Italian 10-y Bond Auction,2.87|1.4,,2.77|1.3
+,10:00am,USD,Low,Pending Home Sales m/m,0.9%,0.4%,-0.5%
+,6:45pm,NZD,Low,Building Consents m/m,-7.6%,,6.9%
+,7:01pm,GBP,Low,GfK Consumer Confidence,-10,-9,-9
+,7:30pm,JPY,Low,Unemployment Rate,2.4%,2.3%,2.2%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,-2.1%,-0.3%,-0.2%
+,8:20pm,CNY,Medium,Non-Manufacturing PMI,54.0,55.0,55.0
+,8:59pm,CNY,Medium,Manufacturing PMI,51.2,51.4,51.5
+,9:00pm,NZD,High,ANZ Business Confidence,-44.9,,-39.0
+,9:30pm,AUD,Medium,Building Approvals m/m,6.4%,1.1%,-2.5%
+,,AUD,Low,Private Sector Credit m/m,0.3%,0.3%,0.2%
+Tue Jul 31 2018,12:03am,JPY,High,BOJ Outlook Report,,,
+,,JPY,High,Monetary Policy Statement,,,
+,,JPY,Medium,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+,1:00am,JPY,Low,Housing Starts y/y,-7.1%,-2.5%,1.3%
+,1:04am,JPY,Low,Consumer Confidence,43.5,43.9,43.7
+,2:00am,EUR,Medium,German Retail Sales m/m,1.2%,1.1%,-2.1%
+,2:29am,JPY,High,BOJ Press Conference,,,
+,2:45am,EUR,Low,French Prelim CPI m/m,-0.1%,-0.3%,0.0%
+,3:00am,EUR,Medium,Spanish Flash GDP q/q,0.6%,0.7%,0.7%
+,3:55am,EUR,Low,German Unemployment Change,-6K,-10K,-14K
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,10.9%,10.8%,10.7%
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,2.1%,2.0%,2.0%
+,,EUR,Medium,Core CPI Flash Estimate y/y,1.1%,1.0%,0.9%
+,,EUR,Medium,Prelim Flash GDP q/q,0.3%,0.4%,0.4%
+,,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,0.2%
+,,EUR,Low,Unemployment Rate,8.3%,8.3%,8.3%
+,6:00am,EUR,Low,Italian Prelim GDP q/q,0.2%,0.2%,0.3%
+,8:30am,CAD,High,GDP m/m,0.5%,0.3%,0.1%
+,,CAD,Medium,RMPI m/m,0.5%,2.7%,3.8%
+,,CAD,Low,IPPI m/m,0.5%,0.3%,1.2%
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.2%
+,,USD,Medium,Employment Cost Index q/q,0.6%,0.7%,0.8%
+,,USD,Medium,Personal Spending m/m,0.4%,0.4%,0.5%
+,,USD,Low,Personal Income m/m,0.4%,0.4%,0.4%
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,6.5%,6.4%,6.7%
+,9:45am,USD,Medium,Chicago PMI,65.5,61.9,64.1
+,10:00am,USD,High,CB Consumer Confidence,127.4,126.5,127.1
+,6:30pm,AUD,Low,AIG Manufacturing Index,52.0,,57.4
+,6:45pm,NZD,High,Employment Change q/q,0.5%,0.4%,0.6%
+,,NZD,High,Unemployment Rate,4.5%,4.4%,4.4%
+,,NZD,Low,Labor Cost Index q/q,0.6%,0.6%,0.3%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.3%,,-0.5%
+,8:30pm,JPY,Low,Final Manufacturing PMI,52.3,51.6,51.6
+,9:45pm,CNY,Low,Caixin Manufacturing PMI,50.8,50.9,51.0
+Wed Aug 1 2018,All Day,CHF,Holiday,Bank Holiday,,,
+,2:00am,GBP,Low,Nationwide HPI m/m,0.6%,0.1%,0.7%
+,2:30am,AUD,Low,Commodity Prices y/y,7.6%,,9.8%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,52.9,53.1,53.4
+,3:45am,EUR,Low,Italian Manufacturing PMI,51.5,53.0,53.3
+,3:50am,EUR,Low,French Final Manufacturing PMI,53.3,53.1,53.1
+,3:55am,EUR,Low,German Final Manufacturing PMI,56.9,57.3,57.3
+,4:00am,EUR,Low,Final Manufacturing PMI,55.1,55.1,55.1
+,4:30am,GBP,High,Final Manufacturing PMI,54.0,54.2,54.3
+,5:33am,EUR,Low,German 10-y Bond Auction,0.47|1.8,,0.36|1.6
+,8:15am,USD,High,ADP Non-Farm Employment Change,219K,186K,181K
+,9:30am,CAD,Low,Manufacturing PMI,56.9,,57.1
+,9:45am,USD,Low,Final Manufacturing PMI,55.3,55.5,55.5
+,10:00am,USD,High,ISM Manufacturing PMI,58.1,59.4,60.2
+,,USD,Low,Construction Spending m/m,-1.1%,0.3%,1.3%
+,,USD,Low,ISM Manufacturing Prices,73.2,75.5,76.8
+,All Day,USD,Low,Wards Total Vehicle Sales,16.7M,17.0M,17.4M
+,10:30am,USD,High,Crude Oil Inventories,3.8M,-2.6M,-6.1M
+,All Day,USD,Low,Total Vehicle Sales,16.8M,17.1M,17.5M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<2.00%,<2.00%,<2.00%
+,7:50pm,JPY,Low,Monetary Base y/y,7.0%,7.3%,7.4%
+,9:30pm,AUD,High,Trade Balance,1.87B,0.91B,0.73B
+,11:35pm,JPY,Low,10-y Bond Auction,0.13|4.2,,0.04|4.4
+Thu Aug 2 2018,1:45am,CHF,Low,SECO Consumer Climate,-7,2,2
+,3:00am,EUR,Low,Spanish Unemployment Change,-27.1K,-87.6K,-90.0K
+,3:15am,CHF,Low,Retail Sales y/y,0.3%,0.0%,0.4%
+,3:30am,CHF,Low,Manufacturing PMI,61.9,60.8,61.6
+,4:30am,GBP,High,Construction PMI,55.8,52.8,53.1
+,4:48am,EUR,Low,Spanish 10-y Bond Auction,1.42|1.5,,1.31|1.5
+,4:59am,EUR,Low,French 10-y Bond Auction,0.74|2.0,,0.67|1.9
+,5:00am,EUR,Low,PPI m/m,0.4%,0.3%,0.8%
+,7:00am,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Official Bank Rate Votes,9-0-0,7-0-2,3-0-6
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.75%,0.75%,0.50%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:30am,GBP,High,BOE Gov Carney Speaks,,,
+,,USD,Low,Challenger Job Cuts y/y,-4.2%,,19.6%
+,8:30am,USD,Medium,Unemployment Claims,218K,220K,217K
+,10:00am,USD,Low,Factory Orders m/m,0.7%,0.7%,0.4%
+,10:30am,USD,Low,Natural Gas Storage,35B,39B,24B
+,6:30pm,AUD,Low,AIG Services Index,53.6,,63.0
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,9:30pm,AUD,High,Retail Sales m/m,0.4%,0.3%,0.4%
+,9:45pm,CNY,Low,Caixin Services PMI,52.8,53.7,53.9
+Fri Aug 3 2018,2:45am,EUR,Low,French Gov Budget Balance,-58.9B,,-55.1B
+,3:15am,CHF,Low,CPI m/m,-0.2%,-0.3%,0.0%
+,,EUR,Low,Spanish Services PMI,52.6,54.4,55.4
+,3:45am,EUR,Low,Italian Services PMI,54.0,53.6,54.3
+,3:50am,EUR,Low,French Final Services PMI,54.9,55.3,55.3
+,3:55am,EUR,Low,German Final Services PMI,54.1,54.4,54.4
+,4:00am,EUR,Low,Final Services PMI,54.2,54.4,54.4
+,,EUR,Low,Italian Industrial Production m/m,0.5%,0.4%,0.8%
+,4:30am,GBP,High,Final Services PMI,53.5,54.7,55.1
+,5:00am,EUR,Low,Retail Sales m/m,0.3%,0.4%,0.3%
+,5:03am,EUR,Low,Italian Retail Sales m/m,-0.2%,0.1%,1.1%
+,8:30am,CAD,High,Trade Balance,-0.6B,-2.3B,-2.7B
+,,USD,High,Average Hourly Earnings m/m,0.3%,0.3%,0.1%
+,,USD,High,Non-Farm Employment Change,157K,191K,248K
+,,USD,High,Unemployment Rate,3.9%,3.9%,4.0%
+,,USD,Low,Trade Balance,-46.3B,-46.5B,-43.2B
+,9:45am,USD,Low,Final Services PMI,56.0,56.2,56.2
+,10:00am,USD,High,ISM Services PMI,55.7,58.6,59.1
+Sat Aug 4 2018,,,No specified,,,,

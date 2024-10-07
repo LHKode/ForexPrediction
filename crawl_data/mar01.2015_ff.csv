@@ -1,0 +1,115 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 1 2015,4:45pm,NZD,Medium,Overseas Trade Index q/q,-1.9%,-2.9%,-4.5%
+,5:26pm,AUD,Low,AIG Manufacturing Index,45.4,,49.0
+,6:30pm,AUD,Low,MI Inflation Gauge m/m,0.0%,,0.1%
+,6:50pm,JPY,Low,Capital Spending q/y,2.8%,4.1%,5.5%
+,7:00pm,AUD,Low,HIA New Home Sales m/m,1.8%,,-1.9%
+,7:30pm,AUD,Medium,Company Operating Profits q/q,-0.2%,0.7%,-0.4%
+,8:35pm,JPY,Low,Final Manufacturing PMI,51.6,51.5,51.5
+,8:45pm,CNY,High,Caixin Manufacturing PMI,50.7,50.1,50.1
+Mon Mar 2 2015,12:30am,AUD,Low,Commodity Prices y/y,-20.6%,,-19.2%
+,1:49am,GBP,Medium,Nationwide HPI m/m,-0.1%,0.4%,0.3%
+,3:15am,EUR,Medium,Spanish Manufacturing PMI,54.2,55.2,54.7
+,3:30am,CHF,Low,Manufacturing PMI,47.3,47.4,48.2
+,3:45am,EUR,Medium,Italian Manufacturing PMI,51.9,50.2,49.9
+,3:50am,EUR,Low,French Final Manufacturing PMI,47.6,47.7,47.7
+,3:55am,EUR,Medium,German Final Manufacturing PMI,51.1,50.9,50.9
+,4:00am,EUR,Low,Final Manufacturing PMI,51.0,51.1,51.1
+,,EUR,Low,Italian Monthly Unemployment Rate,12.6%,12.9%,12.7%
+,,EUR,Low,Italian Quarterly Unemployment Rate,13.0%,12.8%,12.8%
+,4:30am,GBP,High,Final Manufacturing PMI,54.1,53.5,53.1
+,,GBP,Medium,Net Lending to Individuals m/m,2.4B,2.7B,2.1B
+,,GBP,Low,M4 Money Supply m/m,-0.8%,0.3%,0.1%
+,,GBP,Low,Mortgage Approvals,61K,61K,60K
+,5:00am,EUR,High,CPI Flash Estimate y/y,-0.3%,-0.5%,-0.6%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.6%,0.6%,0.6%
+,,EUR,Medium,Unemployment Rate,11.2%,11.4%,11.3%
+,8:30am,CAD,Medium,Current Account,-13.9B,-7.4B,-9.6B
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.0%
+,,USD,Medium,Personal Spending m/m,-0.2%,0.0%,-0.3%
+,,USD,Low,Personal Income m/m,0.3%,0.4%,0.3%
+,9:30am,CAD,Low,Manufacturing PMI,48.7,,51.0
+,9:45am,USD,Low,Final Manufacturing PMI,55.1,54.3,54.3
+,10:00am,USD,High,ISM Manufacturing PMI,52.9,53.4,53.5
+,,USD,Low,Construction Spending m/m,-1.1%,0.4%,0.8%
+,,USD,Low,ISM Manufacturing Prices,35.0,36.2,35.0
+,6:50pm,JPY,Low,Monetary Base y/y,36.7%,34.3%,37.4%
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,1.8%,,1.0%
+,7:30pm,AUD,High,Building Approvals m/m,7.9%,-1.8%,-2.8%
+,,AUD,Medium,Current Account,-9.6B,-10.9B,-12.1B
+,8:30pm,JPY,Medium,Average Cash Earnings y/y,1.3%,0.6%,1.3%
+,10:30pm,AUD,High,Cash Rate,2.25%,2.00%,2.25%
+,,AUD,High,RBA Rate Statement,,,
+,10:45pm,JPY,Low,10-y Bond Auction,0.40|2.8,,0.31|2.7
+Tue Mar 3 2015,1:45am,CHF,Low,GDP q/q,0.6%,0.3%,0.7%
+,2:00am,EUR,Medium,German Retail Sales m/m,2.9%,0.5%,0.6%
+,3:00am,EUR,High,Spanish Unemployment Change,-13.5K,10.5K,78.0K
+,4:30am,GBP,High,Construction PMI,60.1,59.0,59.1
+,5:00am,EUR,Low,PPI m/m,-0.9%,-0.5%,-1.0%
+,,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,CAD,High,GDP m/m,0.3%,0.2%,-0.2%
+,,CAD,Medium,RMPI m/m,-7.7%,-6.2%,-7.5%
+,,CAD,Low,IPPI m/m,-0.4%,-0.9%,-1.5%
+,9:31am,NZD,High,GDT Price Index,1.1%,,10.1%
+,10:00am,USD,Low,IBD/TIPP Economic Optimism,49.1,48.3,47.5
+,All Day,USD,Low,Total Vehicle Sales,16.2M,16.8M,16.7M
+,5:30pm,AUD,Low,AIG Services Index,51.7,,49.9
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.7%,,-1.3%
+,7:30pm,AUD,High,GDP q/q,0.5%,0.7%,0.4%
+,8:15pm,USD,High,Fed Chair Yellen Speaks,,,
+,8:45pm,CNY,Medium,Caixin Services PMI,52.0,,51.8
+Wed Mar 4 2015,3:15am,EUR,Medium,Spanish Services PMI,56.2,56.9,56.7
+,3:45am,EUR,Medium,Italian Services PMI,50.0,51.8,51.2
+,3:50am,EUR,Low,French Final Services PMI,53.4,53.4,53.4
+,3:55am,EUR,Medium,German Final Services PMI,54.7,55.5,55.5
+,4:00am,EUR,Low,Final Services PMI,53.7,53.9,53.9
+,4:30am,GBP,High,Final Services PMI,56.7,57.6,57.2
+,5:00am,EUR,Medium,Retail Sales m/m,1.1%,0.2%,0.4%
+,8:15am,USD,High,ADP Non-Farm Employment Change,212K,219K,250K
+,9:00am,USD,Medium,FOMC Member Evans Speaks,,,
+,9:45am,USD,Low,Final Services PMI,57.1,54.8,57.0
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.75%,0.75%,0.75%
+,,USD,High,ISM Services PMI,56.9,56.5,56.7
+,10:30am,USD,Medium,Crude Oil Inventories,10.3M,4.0M,8.4M
+,2:00pm,USD,Low,Beige Book,,,
+,7:30pm,AUD,High,Retail Sales m/m,0.4%,0.4%,0.2%
+,,AUD,High,Trade Balance,-0.98B,-0.94B,-0.50B
+,8:30pm,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,10:45pm,JPY,Low,30-y Bond Auction,1.51|3.8,,1.46|2.7
+Thu Mar 5 2015,2:00am,EUR,Medium,German Factory Orders m/m,-3.9%,-1.0%,4.4%
+,2:58am,GBP,Medium,Halifax HPI m/m,-0.3%,-0.2%,1.9%
+,4:10am,EUR,Low,Retail PMI,46.4,,46.6
+,4:59am,EUR,Low,French 10-y Bond Auction,0.67|1.5,,0.61|1.9
+,7:00am,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,7:30am,USD,Low,Challenger Job Cuts y/y,20.9%,,17.6%
+,7:45am,EUR,High,Main Refinancing Rate,0.05%,0.05%,0.05%
+,8:30am,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,320K,293K,313K
+,,USD,Medium,Revised Nonfarm Productivity q/q,-2.2%,-2.3%,-1.8%
+,,USD,Low,Revised Unit Labor Costs q/q,4.1%,3.3%,2.7%
+,10:00am,CAD,High,Ivey PMI,49.7,49.4,45.4
+,,USD,Medium,FOMC Member Williams Speaks,,,
+,,USD,Medium,Factory Orders m/m,-0.2%,0.2%,-3.5%
+,10:30am,USD,Low,Natural Gas Storage,-228B,-224B,-219B
+,4:30pm,USD,Medium,Bank Stress Test Results,,,
+,5:20pm,AUD,Low,AIG Construction Index,43.9,,45.9
+Fri Mar 6 2015,12:00am,JPY,Low,Leading Indicators,105.1%,105.9%,105.6%
+,2:00am,EUR,Low,German Industrial Production m/m,0.6%,0.6%,1.0%
+,2:45am,EUR,Low,French Gov Budget Balance,-9.4B,,-85.6B
+,,EUR,Low,French Trade Balance,-3.7B,-3.0B,-3.3B
+,3:00am,CHF,High,Foreign Currency Reserves,509B,,499B
+,3:15am,CHF,Medium,CPI m/m,-0.3%,0.0%,-0.4%
+,4:30am,GBP,Low,Consumer Inflation Expectations,1.9%,,2.5%
+,5:00am,EUR,Low,Revised GDP q/q,0.3%,0.3%,0.3%
+,8:30am,CAD,High,Building Permits m/m,-12.9%,-4.2%,6.1%
+,,CAD,High,Trade Balance,-2.5B,-0.9B,-1.2B
+,,CAD,Low,Labor Productivity q/q,-0.1%,0.0%,0.2%
+,,USD,High,Non-Farm Employment Change,295K,240K,239K
+,,USD,High,Unemployment Rate,5.5%,5.6%,5.7%
+,,USD,Medium,Average Hourly Earnings m/m,0.1%,0.2%,0.5%
+,,USD,Medium,Trade Balance,-41.8B,-41.3B,-45.6B
+,3:00pm,USD,Low,Consumer Credit m/m,11.6B,14.7B,17.9B
+Sat Mar 7 2015,9:29pm,CNY,High,Trade Balance,371B,20B,367B
+,9:51pm,CNY,High,USD-Denominated Trade Balance,60.6B,7.8B,60.0B

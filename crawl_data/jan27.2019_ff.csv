@@ -1,0 +1,100 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 27 2019,All Day,AUD,Holiday,Bank Holiday,,,
+,6:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,,JPY,Low,SPPI y/y,1.1%,1.2%,1.2%
+Mon Jan 28 2019,4:00am,EUR,Low,M3 Money Supply y/y,4.1%,3.8%,3.7%
+,,EUR,Low,Private Loans y/y,3.3%,3.4%,3.3%
+,9:00am,CNY,Low,CB Leading Index m/m,1.3%,,0.8%
+,,EUR,High,ECB President Draghi Speaks,,,
+,9:30am,GBP,High,BOE Gov Carney Speaks,,,
+,4:45pm,NZD,Medium,Trade Balance,264M,225M,-955M
+,7:30pm,AUD,Low,NAB Business Confidence,3,,3
+Tue Jan 29 2019,2:00am,CHF,Low,Trade Balance,1.90B,4.55B,4.75B
+,3:00am,EUR,Medium,Spanish Unemployment Rate,14.5%,14.5%,14.6%
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,4.7%,5.0%,5.0%
+,10:00am,USD,High,CB Consumer Confidence,120.2,125.0,126.6
+,6:50pm,JPY,Low,Retail Sales y/y,1.3%,0.9%,1.4%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,0.4%,,0.3%
+,7:30pm,AUD,High,CPI q/q,0.5%,0.4%,0.4%
+,,AUD,High,Trimmed Mean CPI q/q,0.4%,0.4%,0.4%
+Wed Jan 30 2019,12:00am,JPY,Low,Consumer Confidence,41.9,42.5,42.7
+,1:30am,EUR,Low,French Flash GDP q/q,0.3%,0.2%,0.3%
+,2:00am,EUR,Low,German GfK Consumer Climate,10.8,10.3,10.5
+,,EUR,Low,German Import Prices m/m,-1.3%,-0.8%,-1.0%
+,All Day,EUR,Medium,German Prelim CPI m/m,-0.8%,-0.9%,0.1%
+,2:45am,EUR,Low,French Consumer Spending m/m,-1.5%,-0.3%,-0.1%
+,3:00am,CHF,Low,KOF Economic Barometer,95.0,96.8,96.4
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,-44.0,,-22.2
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,4.8B,4.3B,4.6B
+,,GBP,Low,M4 Money Supply m/m,0.4%,0.2%,0.1%
+,,GBP,Low,Mortgage Approvals,64K,63K,64K
+,5:14am,EUR,Low,Italian 10-y Bond Auction,2.60|1.4,,2.70|1.5
+,5:34am,EUR,Low,German 10-y Bond Auction,0.20|1.5,,0.29|1.6
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,213K,180K,263K
+,10:00am,USD,Low,Pending Home Sales m/m,-2.2%,0.8%,-0.9%
+,10:30am,USD,Low,Crude Oil Inventories,0.9M,3.0M,8.0M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<2.50%,<2.50%,<2.50%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Prelim Industrial Production m/m,-0.1%,-0.5%,-1.0%
+,7:01pm,GBP,Low,GfK Consumer Confidence,-14,-14,-14
+,7:30pm,AUD,Low,Import Prices q/q,0.5%,0.3%,1.9%
+,,AUD,Low,Private Sector Credit m/m,0.2%,0.3%,0.3%
+,8:00pm,CNY,Medium,Manufacturing PMI,49.5,49.3,49.4
+,,CNY,Low,Non-Manufacturing PMI,54.7,53.9,53.8
+Thu Jan 31 2019,12:00am,JPY,Low,Housing Starts y/y,2.1%,2.1%,-0.6%
+,1:57am,GBP,Low,Nationwide HPI m/m,0.3%,0.2%,-0.7%
+,2:00am,EUR,Low,German Retail Sales m/m,-4.3%,-0.5%,1.4%
+,2:45am,EUR,Low,French Prelim CPI m/m,-0.5%,-0.5%,0.0%
+,3:00am,EUR,Medium,Spanish Flash GDP q/q,0.7%,0.6%,0.6%
+,,EUR,Low,Spanish Flash CPI y/y,1.0%,1.1%,1.2%
+,3:55am,EUR,Low,German Unemployment Change,-2K,-11K,-12K
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,10.3%,10.6%,10.5%
+,5:00am,EUR,Medium,Prelim Flash GDP q/q,0.2%,0.2%,0.2%
+,,EUR,Low,Italian Prelim GDP q/q,-0.2%,-0.1%,-0.1%
+,,EUR,Low,Unemployment Rate,7.9%,7.9%,7.9%
+,7:30am,USD,Low,Challenger Job Cuts y/y,18.7%,,35.3%
+,8:30am,CAD,High,GDP m/m,-0.1%,-0.1%,0.3%
+,,CAD,Medium,RMPI m/m,3.8%,3.9%,-11.8%
+,,CAD,Low,IPPI m/m,-0.7%,0.1%,-0.8%
+,,USD,Medium,Employment Cost Index q/q,0.7%,0.8%,0.8%
+,,USD,Low,Unemployment Claims,253K,215K,200K
+,9:45am,USD,Medium,Chicago PMI,56.7,61.5,65.4
+,10:00am,USD,Low,New Home Sales,657K,569K,562K
+,10:30am,USD,Low,Natural Gas Storage,-173B,-191B,-163B
+,11:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,12:30pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,37.6B,30.3B,31.9B
+,4:30pm,AUD,Low,AIG Manufacturing Index,52.5,,50.0
+,6:30pm,JPY,Low,Unemployment Rate,2.4%,2.5%,2.5%
+,7:30pm,AUD,Low,PPI q/q,0.5%,0.6%,0.8%
+,,JPY,Low,Final Manufacturing PMI,50.3,50.0,50.0
+,8:45pm,CNY,Medium,Caixin Manufacturing PMI,48.3,49.5,49.7
+Fri Feb 1 2019,12:30am,AUD,Low,Commodity Prices y/y,6.9%,,10.8%
+,1:45am,CHF,Low,SECO Consumer Climate,-4,-5,-6
+,2:30am,CHF,Low,Retail Sales y/y,-0.3%,0.1%,-0.6%
+,2:45am,EUR,Low,French Gov Budget Balance,-76.1B,,-95.6B
+,3:15am,EUR,Low,Spanish Manufacturing PMI,52.4,50.5,51.1
+,3:30am,CHF,Low,Manufacturing PMI,54.3,56.2,57.8
+,3:45am,EUR,Low,Italian Manufacturing PMI,47.8,49.0,49.2
+,3:50am,EUR,Low,French Final Manufacturing PMI,51.2,51.2,51.2
+,3:55am,EUR,Low,German Final Manufacturing PMI,49.7,49.9,49.9
+,4:00am,EUR,Low,Final Manufacturing PMI,50.5,50.5,50.5
+,4:30am,GBP,Medium,Final Manufacturing PMI,52.8,53.5,54.2
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.4%,1.4%,1.6%
+,,EUR,Medium,Core CPI Flash Estimate y/y,1.1%,1.0%,1.0%
+,8:30am,USD,High,Average Hourly Earnings m/m,0.1%,0.3%,0.4%
+,,USD,High,Non-Farm Employment Change,304K,165K,222K
+,,USD,High,Unemployment Rate,4.0%,3.9%,3.9%
+,9:30am,CAD,Low,Manufacturing PMI,53.0,,53.6
+,9:45am,USD,Low,Final Manufacturing PMI,54.9,54.9,54.9
+,10:00am,USD,High,ISM Manufacturing PMI,56.6,54.1,54.1
+,,USD,Medium,Revised UoM Consumer Sentiment,91.2,90.8,90.7
+,,USD,Low,Construction Spending m/m,0.8%,0.2%,0.1%
+,,USD,Low,Final Wholesale Inventories m/m,0.3%,0.5%,0.8%
+,,USD,Low,ISM Manufacturing Prices,49.6,54.4,54.9
+,,USD,Low,Revised UoM Inflation Expectations,2.7%,,2.7%
+,All Day,USD,Low,Total Vehicle Sales,16.7M,17.2M,17.6M
+,All Day,USD,Low,Wards Total Vehicle Sales,16.6M,17.2M,17.5M
+Sat Feb 2 2019,8:45pm,CNY,Low,Caixin Services PMI,53.6,53.3,53.9

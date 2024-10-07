@@ -1,0 +1,93 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 6 2016,5:30pm,AUD,Low,AIG Construction Index,46.1,,46.3
+,7:30pm,AUD,Low,ANZ Job Advertisements m/m,-1.2%,,0.9%
+,10:40pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Mon Mar 7 2016,12:00am,JPY,Low,Leading Indicators,101.4%,101.6%,102.1%
+,2:00am,EUR,Medium,German Factory Orders m/m,-0.1%,-0.4%,-0.2%
+,3:00am,CHF,Medium,Foreign Currency Reserves,571B,,575B
+,4:10am,GBP,Medium,MPC Member Haldane Speaks,,,
+,4:30am,EUR,Low,Sentix Investor Confidence,5.5,8.8,6.0
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,10:00am,USD,Low,Labor Market Conditions Index m/m,-2.4,,-0.8
+,1:00pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,,USD,Medium,FOMC Member Fischer Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,10.5B,16.8B,21.4B
+,4:45pm,NZD,Low,Manufacturing Sales q/q,-1.9%,,3.6%
+,6:20pm,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,6:50pm,JPY,Medium,Current Account,1.49T,1.66T,1.69T
+,,JPY,Medium,Final GDP q/q,-0.3%,-0.4%,-0.4%
+,,JPY,Low,Bank Lending y/y,2.2%,,2.3%
+,,JPY,Low,Final GDP Price Index y/y,1.5%,1.5%,1.5%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.1%,,2.6%
+,7:30pm,AUD,Medium,NAB Business Confidence,3,,3
+,9:36pm,CNY,High,Trade Balance,210B,339B,406B
+,9:41pm,CNY,Low,USD-Denominated Trade Balance,32.6B,51.2B,63.3B
+,10:45pm,JPY,Low,30-y Bond Auction,0.77|4.2,,1.07|3.0
+Tue Mar 8 2016,12:00am,JPY,Low,Consumer Confidence,40.1,42.3,42.5
+,1:00am,JPY,Low,Economy Watchers Sentiment,44.6,47.5,46.6
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.5%,3.4%
+,2:00am,EUR,Low,German Industrial Production m/m,3.3%,0.6%,-0.3%
+,2:45am,EUR,Low,French Gov Budget Balance,-9.2B,,-70.5B
+,,EUR,Low,French Trade Balance,-3.7B,-3.7B,-3.7B
+,3:15am,CHF,Low,CPI m/m,0.2%,-0.1%,-0.4%
+,4:15am,GBP,High,BOE Gov Carney Speaks,,,
+,5:00am,EUR,Low,Revised GDP q/q,0.3%,0.3%,0.3%
+,All Day,EUR,Medium,ECOFIN Meetings,,,
+,6:00am,USD,Low,NFIB Small Business Index,92.9,94.5,93.9
+,8:13am,CAD,Low,Housing Starts,213K,181K,165K
+,8:30am,CAD,Medium,Building Permits m/m,-9.8%,-2.2%,7.7%
+,12:00pm,GBP,Medium,MPC Member Weale Speaks,,,
+,6:30pm,AUD,Medium,Westpac Consumer Sentiment,-2.2%,,4.2%
+,6:50pm,JPY,Low,M2 Money Stock y/y,3.1%,3.2%,3.2%
+,7:30pm,AUD,Medium,Home Loans m/m,-3.9%,-2.7%,2.7%
+Wed Mar 9 2016,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,-22.6%,,-17.2%
+,4:30am,GBP,High,Manufacturing Production m/m,0.7%,0.2%,-0.3%
+,,GBP,Low,Industrial Production m/m,0.3%,0.6%,-1.1%
+,9:37am,GBP,Low,NIESR GDP Estimate,0.3%,,0.4%
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.50%,0.50%,0.50%
+,,USD,Low,Final Wholesale Inventories m/m,0.3%,-0.2%,0.0%
+,10:30am,USD,High,Crude Oil Inventories,3.9M,3.0M,10.4M
+,1:01pm,USD,Low,10-y Bond Auction,1.90|2.5,,1.73|2.6
+,3:00pm,NZD,High,Official Cash Rate,2.25%,2.50%,2.50%
+,,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,RBNZ Monetary Policy Statement,,,
+,3:05pm,NZD,High,RBNZ Press Conference,,,
+,6:10pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,6:50pm,JPY,Low,PPI y/y,-3.4%,-3.4%,-3.2%
+,7:00pm,AUD,Low,MI Inflation Expectations,3.4%,,3.6%
+,7:01pm,GBP,Low,RICS House Price Balance,50%,52%,48%
+,8:30pm,CNY,High,CPI y/y,2.3%,1.8%,1.8%
+,,CNY,Medium,PPI y/y,-4.9%,-4.9%,-5.3%
+Thu Mar 10 2016,1:30am,EUR,Low,French Final Private Payrolls q/q,0.2%,0.2%,0.2%
+,2:00am,EUR,Low,German Trade Balance,18.9B,19.2B,20.3B
+,2:45am,EUR,Low,French Industrial Production m/m,1.3%,0.8%,-0.6%
+,4:00am,EUR,Low,Italian Quarterly Unemployment Rate,11.5%,11.5%,11.5%
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.05%,0.05%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.2%,0.1%
+,,CAD,Low,Capacity Utilization Rate,81.1%,81.9%,81.6%
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,259K,272K,277K
+,10:30am,USD,Low,Natural Gas Storage,-57B,-51B,-48B
+,1:01pm,USD,Low,30-y Bond Auction,2.72|2.3,,2.50|2.1
+,2:00pm,USD,Low,Federal Budget Balance,-192.6B,-198.3B,55.2B
+,4:15pm,CAD,Medium,BOC Gov Poloz Speaks,,,
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,56.0,,58.0
+,4:45pm,NZD,Low,FPI m/m,-0.6%,,2.0%
+,6:50pm,JPY,Medium,BSI Manufacturing Index,-7.9,4.2,3.8
+Fri Mar 11 2016,2:00am,EUR,Low,German Final CPI m/m,0.4%,0.4%,0.4%
+,,EUR,Low,German WPI m/m,-0.5%,0.2%,-0.4%
+,2:18am,CNY,Low,Foreign Direct Investment ytd/y,2.7%,,3.2%
+,4:00am,EUR,Low,Italian Industrial Production m/m,1.9%,0.9%,-0.6%
+,4:30am,GBP,Medium,Goods Trade Balance,-10.3B,-10.3B,-9.9B
+,,GBP,Low,Construction Output m/m,-0.2%,-1.3%,2.1%
+,,GBP,Low,Consumer Inflation Expectations,1.8%,,2.0%
+,6:30am,CNY,Low,M2 Money Supply y/y,13.3%,13.8%,14.0%
+,,CNY,Low,New Loans,727B,1200B,2510B
+,8:30am,CAD,High,Employment Change,-2.3K,10.2K,-5.7K
+,,CAD,High,Unemployment Rate,7.3%,7.2%,7.2%
+,,USD,Medium,Import Prices m/m,-0.3%,-0.7%,-1.0%
+Sat Mar 12 2016,12:30am,CNY,High,Industrial Production y/y,5.4%,5.6%,5.9%
+,,CNY,Medium,Fixed Asset Investment ytd/y,10.2%,9.5%,10.0%
+,,CNY,Low,Retail Sales y/y,10.2%,10.9%,11.1%

@@ -1,0 +1,84 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 9 2020,6:50pm,JPY,Low,Bank Lending y/y,1.9%,1.7%,1.8%
+,,JPY,Low,Current Account,1.71T,1.68T,1.79T
+,8:30pm,CNY,Medium,CPI y/y,5.4%,4.9%,4.5%
+,,CNY,Low,PPI y/y,0.1%,0.1%,-0.5%
+Mon Feb 10 2020,12:02am,JPY,Low,Economy Watchers Sentiment,41.9,39.2,39.8
+,1:45am,CHF,Low,Unemployment Rate,2.3%,2.3%,2.3%
+,2:30am,CHF,Low,CPI m/m,-0.2%,-0.2%,0.0%
+,4:00am,EUR,Low,Italian Industrial Production m/m,-2.7%,1.5%,0.0%
+,4:30am,EUR,Low,Sentix Investor Confidence,5.2,6.1,7.6
+,8:12am,CAD,Low,Housing Starts,213K,200K,196K
+,8:15am,USD,Medium,FOMC Member Bowman Speaks,,,
+,8:30am,CAD,Low,Building Permits m/m,7.4%,3.5%,-3.5%
+,3:15pm,USD,Low,FOMC Member Harker Speaks,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.0%,0.6%,1.7%
+,7:30pm,AUD,Low,NAB Business Confidence,-1,,-2
+Tue Feb 11 2020,4:30am,GBP,High,Prelim GDP q/q,0.0%,0.0%,0.4%
+,,GBP,Medium,GDP m/m,0.3%,0.2%,-0.3%
+,,GBP,Medium,Manufacturing Production m/m,0.3%,0.5%,-1.6%
+,,GBP,Low,Construction Output m/m,0.4%,-0.4%,2.4%
+,,GBP,Low,Goods Trade Balance,0.8B,-10.0B,-4.9B
+,,GBP,Low,Index of Services 3m/3m,0.1%,0.0%,0.1%
+,,GBP,Low,Industrial Production m/m,0.1%,0.3%,-1.1%
+,,GBP,Low,Prelim Business Investment q/q,-1.0%,-0.5%,0.0%
+,5:56am,USD,Low,NFIB Small Business Index,104.3,103.6,102.7
+,9:00am,EUR,High,ECB President Lagarde Speaks,,,
+,10:00am,USD,High,Fed Chair Powell Testifies,,,
+,,USD,Low,JOLTS Job Openings,6.42M,6.93M,6.79M
+,,USD,Low,Mortgage Delinquencies,3.77%,,3.97%
+,10:35am,GBP,High,BOE Gov Carney Speaks,,,
+,12:00pm,GBP,Medium,MPC Member Haskel Speaks,,,
+,12:15pm,USD,Low,FOMC Member Quarles Speaks,,,
+,12:37pm,GBP,Low,NIESR GDP Estimate,0.0%,,0.0%
+,2:15pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+,6:30pm,AUD,Low,Westpac Consumer Sentiment,2.3%,,-1.8%
+,6:50pm,JPY,Low,M2 Money Stock y/y,2.8%,2.8%,2.7%
+,8:00pm,NZD,High,Official Cash Rate,1.00%,1.00%,1.00%
+,,NZD,High,RBNZ Monetary Policy Statement,,,
+,,NZD,High,RBNZ Rate Statement,,,
+,9:00pm,NZD,High,RBNZ Press Conference,,,
+Wed Feb 12 2020,12:59am,JPY,Low,Prelim Machine Tool Orders y/y,-35.6%,,-33.5%
+,5:00am,EUR,Low,Industrial Production m/m,-2.1%,-1.8%,0.0%
+,5:33am,EUR,Low,German 10-y Bond Auction,-0.38|1.2,,-0.25|1.2
+,8:30am,USD,Low,FOMC Member Harker Speaks,,,
+,9:30am,GBP,Low,CB Leading Index m/m,0.0%,,-0.2%
+,,USD,High,Fed Chair Powell Testifies,,,
+,10:30am,USD,Medium,Crude Oil Inventories,7.5M,3.1M,3.4M
+,1:01pm,USD,Low,10-y Bond Auction,1.62|2.6,,1.87|2.4
+,2:00pm,USD,Low,Federal Budget Balance,-32.6B,-10.7B,-13.3B
+,2:10pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,6:50pm,JPY,Low,PPI y/y,1.7%,1.5%,0.9%
+,7:00pm,AUD,High,RBA Gov Lowe Speaks,,,
+,,AUD,Low,MI Inflation Expectations,4.0%,,4.7%
+,,CAD,High,BOC Gov Poloz Speaks,,,
+,7:01pm,GBP,Low,RICS House Price Balance,17%,3%,0%
+Thu Feb 13 2020,2:00am,EUR,Low,German Final CPI m/m,-0.6%,-0.6%,-0.6%
+,5:00am,EUR,Medium,EU Economic Forecasts,,,
+,8:30am,USD,High,CPI m/m,0.1%,0.2%,0.2%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.1%
+,,USD,Low,Unemployment Claims,205K,210K,203K
+,10:30am,USD,Low,Natural Gas Storage,-115B,-106B,-137B
+,1:01pm,USD,Low,30-y Bond Auction,2.06|2.4,,2.34|2.5
+,4:30pm,NZD,Low,BusinessNZ Manufacturing Index,49.6,,49.2
+,4:45pm,NZD,Low,FPI m/m,2.1%,,-0.2%
+,5:30pm,USD,Low,FOMC Member Williams Speaks,,,
+,11:30pm,JPY,Low,Tertiary Industry Activity m/m,-0.2%,0.1%,1.4%
+Fri Feb 14 2020,2:00am,EUR,High,German Prelim GDP q/q,0.0%,0.1%,0.1%
+,,EUR,Low,German WPI m/m,1.0%,0.1%,0.0%
+,2:30am,CHF,Low,PPI m/m,0.0%,0.2%,0.1%
+,4:00am,EUR,Low,Italian Trade Balance,5.01B,5.23B,4.89B
+,5:00am,EUR,Low,Flash Employment Change q/q,0.3%,0.1%,0.1%
+,,EUR,Low,Flash GDP q/q,0.1%,0.1%,0.1%
+,,EUR,Low,Trade Balance,22.2B,19.1B,19.1B
+,8:30am,USD,High,Core Retail Sales m/m,0.3%,0.3%,0.6%
+,,USD,High,Retail Sales m/m,0.3%,0.3%,0.2%
+,,USD,Low,Import Prices m/m,0.0%,-0.2%,0.2%
+,9:15am,USD,Low,Capacity Utilization Rate,76.8%,76.9%,77.1%
+,,USD,Low,Industrial Production m/m,-0.3%,-0.2%,-0.4%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,100.9,99.5,99.8
+,,USD,Low,Business Inventories m/m,0.1%,0.1%,-0.2%
+,,USD,Low,Prelim UoM Inflation Expectations,2.5%,,2.5%
+,11:45am,USD,Low,FOMC Member Mester Speaks,,,
+Sat Feb 15 2020,,,No specified,,,,

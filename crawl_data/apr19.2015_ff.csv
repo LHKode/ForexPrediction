@@ -1,0 +1,60 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 19 2015,Day 3,All,Medium,IMF Meetings,,,
+,6:45pm,NZD,High,CPI q/q,-0.3%,-0.2%,-0.2%
+,7:01pm,GBP,Low,Rightmove HPI m/m,1.6%,,1.0%
+,7:50pm,JPY,Low,Tertiary Industry Activity m/m,0.3%,-0.6%,0.7%
+Mon Apr 20 2015,2:00am,EUR,Low,German PPI m/m,0.1%,0.2%,0.1%
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,10:05am,CAD,High,BOC Gov Poloz Speaks,,,
+,12:30pm,AUD,High,RBA Gov Stevens Speaks,,,
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+Tue Apr 21 2015,5:00am,EUR,High,German ZEW Economic Sentiment,53.3,55.6,54.8
+,,EUR,Medium,ZEW Economic Sentiment,64.8,63.7,62.4
+,5:35am,GBP,Low,30-y Bond Auction,2.34|1.4,,2.36|1.6
+,8:30am,CAD,High,Wholesale Sales m/m,-0.4%,0.2%,-2.9%
+,4:00pm,CAD,Medium,Annual Budget Release,,,
+,7:50pm,JPY,Medium,Trade Balance,0.00T,-0.41T,-0.57T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.3%,,0.1%
+,9:30pm,AUD,High,CPI q/q,0.2%,0.1%,0.2%
+,,AUD,Medium,Trimmed Mean CPI q/q,0.6%,0.6%,0.6%
+,10:00pm,CNY,Low,CB Leading Index m/m,0.2%,,1.4%
+Wed Apr 22 2015,4:30am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,5:00am,CHF,Low,Credit Suisse Economic Expectations,-23.2,,-37.9
+,,EUR,Low,Italian Retail Sales m/m,-0.2%,0.1%,0.2%
+,9:00am,USD,Low,HPI m/m,0.7%,0.7%,0.3%
+,9:54am,EUR,Low,Consumer Confidence,-5,-3,-4
+,10:00am,USD,Medium,Existing Home Sales,5.19M,5.04M,4.89M
+,10:30am,USD,Medium,Crude Oil Inventories,5.3M,2.7M,1.3M
+,6:45pm,NZD,Low,Visitor Arrivals m/m,-3.6%,,6.8%
+,8:30pm,NZD,Medium,RBNZ Assist Gov McDermott Speaks,,,
+,9:30pm,AUD,Medium,NAB Quarterly Business Confidence,0,,2
+,9:35pm,JPY,Low,Flash Manufacturing PMI,49.7,50.8,50.3
+,9:45pm,CNY,High,Caixin Flash Manufacturing PMI,49.2,49.5,49.6
+,11:00pm,NZD,Low,Credit Card Spending y/y,5.2%,,5.8%
+Thu Apr 23 2015,2:00am,CHF,Medium,Trade Balance,2.52B,2.16B,2.32B
+,,EUR,Medium,German GfK Consumer Climate,10.1,10.0,10.0
+,3:00am,EUR,High,French Flash Manufacturing PMI,48.4,49.4,48.8
+,,EUR,Medium,French Flash Services PMI,50.8,52.5,52.4
+,,EUR,Medium,Spanish Unemployment Rate,23.8%,23.5%,23.7%
+,3:30am,EUR,High,German Flash Manufacturing PMI,51.9,53.1,52.8
+,,EUR,Medium,German Flash Services PMI,54.4,55.6,55.4
+,4:00am,EUR,Medium,Flash Manufacturing PMI,51.9,52.6,52.2
+,,EUR,Medium,Flash Services PMI,53.7,54.5,54.2
+,4:30am,GBP,High,Retail Sales m/m,-0.5%,0.4%,0.6%
+,,GBP,Medium,Public Sector Net Borrowing,6.7B,6.6B,4.8B
+,6:00am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,8:30am,USD,High,Unemployment Claims,295K,288K,294K
+,9:45am,USD,Medium,Flash Manufacturing PMI,54.2,55.6,55.7
+,10:00am,USD,Medium,New Home Sales,481K,514K,543K
+,10:30am,USD,Low,Natural Gas Storage,90B,83B,63B
+,7:50pm,JPY,Low,SPPI y/y,3.2%,3.3%,3.3%
+Fri Apr 24 2015,12:34am,JPY,Low,All Industries Activity m/m,0.1%,-0.9%,0.5%
+,4:00am,CHF,High,SNB Chairman Jordan Speaks,,,
+,,EUR,High,German ifo Business Climate,108.6,108.5,107.9
+,All Day,EUR,High,Eurogroup Meetings,,,
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.2%,0.2%,-0.6%
+,,USD,Medium,Durable Goods Orders m/m,4.0%,0.7%,-1.1%
+,9:00am,EUR,Low,Belgian NBB Business Climate,-6.2,-5.8,-6.3
+,10:30am,CAD,High,BOC Gov Poloz Speaks,,,
+Sat Apr 25 2015,,,No specified,,,,

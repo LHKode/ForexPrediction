@@ -1,0 +1,97 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 18 2018,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Trade Balance,-0.20T,-0.10T,0.35T
+,8:01pm,GBP,Low,Rightmove HPI m/m,1.5%,,0.8%
+Mon Mar 19 2018,5:00am,EUR,Low,Italian Industrial Production m/m,-1.9%,-0.5%,2.1%
+,6:00am,EUR,Low,Italian Trade Balance,-0.09B,4.87B,5.25B
+,,EUR,Low,Trade Balance,19.9B,22.6B,23.2B
+,Day 1,All,High,G20 Meetings,,,
+,7:00am,EUR,Low,German Buba Monthly Report,,,
+,9:40am,USD,Low,FOMC Member Bostic Speaks,,,
+,10:30am,AUD,Low,CB Leading Index m/m,-0.1%,,-0.3%
+,5:00pm,NZD,Low,Westpac Consumer Sentiment,111.2,,107.4
+,8:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Medium,HPI q/q,1.0%,0.1%,-0.2%
+Tue Mar 20 2018,12:15am,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+,2:45am,CHF,Low,SECO Economic Forecasts,,,
+,3:00am,CHF,Low,Trade Balance,3.14B,1.87B,2.07B
+,,EUR,Low,German PPI m/m,-0.1%,0.1%,0.5%
+,5:30am,GBP,High,CPI y/y,2.7%,2.8%,3.0%
+,,GBP,Medium,PPI Input m/m,-1.1%,-0.9%,0.4%
+,,GBP,Low,Core CPI y/y,2.4%,2.5%,2.7%
+,,GBP,Low,HPI y/y,4.9%,5.1%,5.0%
+,,GBP,Low,PPI Output m/m,0.0%,0.1%,0.1%
+,,GBP,Low,RPI y/y,3.6%,3.7%,4.0%
+,6:00am,EUR,Medium,German ZEW Economic Sentiment,5.1,13.1,17.8
+,,EUR,Low,ZEW Economic Sentiment,13.4,28.1,29.3
+,Day 2,All,High,G20 Meetings,,,
+,8:30am,CAD,Low,Wholesale Sales m/m,0.1%,0.1%,-0.2%
+,10:14am,NZD,Medium,GDT Price Index,-1.2%,,-0.6%
+,11:00am,EUR,Low,Consumer Confidence,0,0,0
+,5:49pm,NZD,Low,Visitor Arrivals m/m,2.0%,,0.1%
+,7:30pm,AUD,Low,MI Leading Index m/m,0.3%,,-0.3%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,10:00pm,NZD,Low,Credit Card Spending y/y,7.0%,,4.6%
+Wed Mar 21 2018,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,5:30am,GBP,High,Average Earnings Index 3m/y,2.8%,2.6%,2.7%
+,,GBP,Medium,Claimant Count Change,9.2K,-3.1K,-1.6K
+,,GBP,Medium,Public Sector Net Borrowing,-0.3B,-0.4B,-11.7B
+,,GBP,Medium,Unemployment Rate,4.3%,4.4%,4.4%
+,6:34am,EUR,Low,German 10-y Bond Auction,0.60|1.3,,0.67|1.2
+,7:00am,GBP,Low,CBI Industrial Order Expectations,4,9,10
+,8:30am,USD,Medium,Current Account,-128B,-125B,-101B
+,10:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,,USD,Medium,Existing Home Sales,5.54M,5.41M,5.38M
+,10:30am,USD,High,Crude Oil Inventories,-2.6M,2.6M,5.0M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.75%,<1.75%,<1.50%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:00pm,NZD,High,RBNZ Rate Statement,,,
+,,NZD,Medium,Official Cash Rate,1.75%,1.75%,1.75%
+,8:30pm,AUD,High,Employment Change,17.5K,19.8K,12.5K
+,,AUD,High,Unemployment Rate,5.6%,5.5%,5.5%
+,,JPY,Low,Flash Manufacturing PMI,53.2,54.3,54.1
+Thu Mar 22 2018,12:30am,JPY,Low,All Industries Activity m/m,-1.8%,-1.7%,0.6%
+,4:00am,EUR,Medium,French Flash Manufacturing PMI,53.6,55.6,55.9
+,,EUR,Medium,French Flash Services PMI,56.8,57.0,57.4
+,4:30am,EUR,Medium,German Flash Manufacturing PMI,58.4,59.8,60.6
+,,EUR,Medium,German Flash Services PMI,54.2,55.0,55.3
+,5:00am,EUR,Medium,Flash Manufacturing PMI,56.6,58.1,58.6
+,,EUR,Medium,Flash Services PMI,55.0,56.0,56.2
+,,EUR,Medium,German ifo Business Climate,114.7,114.7,115.4
+,,EUR,Low,Current Account,37.6B,30.2B,31.0B
+,,EUR,Low,ECB Economic Bulletin,,,
+,5:30am,GBP,High,Retail Sales m/m,0.8%,0.4%,-0.2%
+,8:00am,GBP,High,MPC Official Bank Rate Votes,2-0-7,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,435B,435B,435B
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,8:30am,USD,Medium,Unemployment Claims,229K,225K,226K
+,9:00am,USD,Low,HPI m/m,0.8%,0.4%,0.4%
+,9:45am,USD,Low,Flash Manufacturing PMI,55.7,55.4,55.3
+,,USD,Low,Flash Services PMI,54.1,55.9,55.9
+,9:58am,EUR,Low,Belgian NBB Business Climate,0.1,1.2,1.9
+,10:00am,USD,Low,CB Leading Index m/m,0.6%,0.5%,0.8%
+,10:30am,USD,Low,Natural Gas Storage,-86B,-88B,-93B
+,1:00pm,GBP,Medium,MPC Member Ramsden Speaks,,,
+,2:45pm,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,7:30pm,JPY,Low,National Core CPI y/y,1.0%,1.0%,0.9%
+Fri Mar 23 2018,8:00am,GBP,Low,BOE Quarterly Bulletin,,,
+,8:10am,USD,Medium,FOMC Member Bostic Speaks,,,
+,8:30am,CAD,High,CPI m/m,0.6%,0.4%,0.7%
+,,CAD,High,Core Retail Sales m/m,0.9%,0.9%,-1.7%
+,,CAD,Medium,Common CPI y/y,1.9%,,1.8%
+,,CAD,Medium,Median CPI y/y,2.1%,,1.9%
+,,CAD,Medium,Retail Sales m/m,0.3%,1.1%,-0.7%
+,,CAD,Medium,Trimmed CPI y/y,2.1%,,1.8%
+,,CAD,Low,Core CPI m/m,0.7%,,0.5%
+,,GBP,Medium,MPC Member Vlieghe Speaks,,,
+,,USD,High,Core Durable Goods Orders m/m,1.2%,0.5%,-0.2%
+,,USD,Medium,Durable Goods Orders m/m,3.1%,1.6%,-3.6%
+,9:00am,CNY,Low,CB Leading Index m/m,1.1%,,1.9%
+,10:00am,USD,Low,New Home Sales,618K,621K,622K
+Sat Mar 24 2018,9:00pm,CHF,Holiday,Daylight Saving Time Shift,,,
+,,EUR,Holiday,Daylight Saving Time Shift,,,
+,,GBP,Holiday,Daylight Saving Time Shift,,,

@@ -1,0 +1,104 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 2 2020,6:30pm,AUD,Low,AIG Manufacturing Index,53.5,,51.5
+,8:30pm,JPY,Low,Final Manufacturing PMI,45.2,42.6,42.6
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.9%,,0.6%
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,16.7%,,41.4%
+,9:45pm,CNY,Low,Caixin Manufacturing PMI,52.8,51.1,51.2
+Mon Aug 3 2020,2:30am,CHF,Low,CPI m/m,-0.2%,-0.4%,0.0%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,53.5,52.6,49.0
+,3:30am,CHF,Low,Manufacturing PMI,49.2,50.0,41.9
+,3:45am,EUR,Low,Italian Manufacturing PMI,51.9,51.3,47.5
+,3:50am,EUR,Low,French Final Manufacturing PMI,52.4,52.0,52.0
+,3:55am,EUR,Low,German Final Manufacturing PMI,51.0,50.0,50.0
+,4:00am,EUR,Low,Final Manufacturing PMI,51.8,51.1,51.1
+,4:30am,GBP,Low,Final Manufacturing PMI,53.3,53.6,53.6
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:45am,USD,Low,Final Manufacturing PMI,50.9,51.3,51.3
+,10:00am,USD,High,ISM Manufacturing PMI,54.2,53.6,52.6
+,,USD,Low,Construction Spending m/m,-0.7%,1.0%,-1.7%
+,,USD,Low,ISM Manufacturing Prices,53.2,52.2,51.3
+,All Day,USD,Low,Wards Total Vehicle Sales,14.5M,14.0M,13.1M
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,0.4%,0.2%,0.2%
+,7:50pm,JPY,Low,Monetary Base y/y,9.8%,7.1%,6.0%
+,9:30pm,AUD,Medium,Trade Balance,8.20B,8.80B,7.34B
+,,AUD,Low,Retail Sales m/m,2.7%,2.4%,2.4%
+,11:35pm,JPY,Low,10-y Bond Auction,0.02|3.6,,0.06|3.7
+Tue Aug 4 2020,12:30am,AUD,High,Cash Rate,0.25%,0.25%,0.25%
+,,AUD,High,RBA Rate Statement,,,
+,1:45am,CHF,Low,SECO Consumer Climate,-12,-23,-39
+,2:30am,AUD,Low,Commodity Prices y/y,-12.0%,,-10.6%
+,2:45am,EUR,Low,French Gov Budget Balance,-124.9B,,-117.9B
+,3:00am,EUR,Low,Spanish Unemployment Change,-89.8K,19.5K,5.1K
+,5:00am,EUR,Low,PPI m/m,0.7%,0.6%,-0.6%
+,9:30am,CAD,Low,Manufacturing PMI,52.9,,47.8
+,9:59am,USD,Low,IBD/TIPP Economic Optimism,46.8,45.3,44.0
+,10:00am,USD,Low,Factory Orders m/m,6.2%,5.1%,7.7%
+,10:54am,NZD,Low,GDT Price Index,-5.1%,,-0.7%
+,6:30pm,AUD,Low,AIG Construction Index,42.7,,35.5
+,6:45pm,NZD,High,Employment Change q/q,-0.4%,-2.0%,1.0%
+,,NZD,High,Unemployment Rate,4.0%,5.6%,4.2%
+,,NZD,Low,Labor Cost Index q/q,0.2%,0.4%,0.3%
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,2.3%,,-0.8%
+,9:45pm,CNY,Low,Caixin Services PMI,54.1,58.0,58.4
+Wed Aug 5 2020,3:15am,EUR,Low,Spanish Services PMI,51.9,52.3,50.2
+,3:45am,EUR,Low,Italian Services PMI,51.6,51.2,46.4
+,3:50am,EUR,Low,French Final Services PMI,57.3,57.8,57.8
+,3:55am,EUR,Low,German Final Services PMI,55.6,56.7,56.7
+,4:00am,EUR,Low,Final Services PMI,54.7,55.1,55.1
+,4:30am,GBP,Low,Final Services PMI,56.5,56.6,56.6
+,5:00am,EUR,Low,Retail Sales m/m,5.7%,6.5%,20.3%
+,5:06am,GBP,Low,10-y Bond Auction,0.14|2.4,,0.20|2.5
+,8:00am,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,167K,1200K,4314K
+,8:30am,CAD,Low,Trade Balance,-3.2B,-0.6B,-1.3B
+,,USD,Low,Trade Balance,-50.7B,-50.3B,-54.8B
+,9:45am,USD,Low,Final Services PMI,50.0,49.6,49.6
+,10:00am,USD,High,ISM Services PMI,58.1,55.0,57.1
+,10:30am,USD,Medium,Crude Oil Inventories,-7.4M,-3.4M,-10.6M
+,5:00pm,USD,Low,FOMC Member Mester Speaks,,,
+,11:00pm,NZD,High,Inflation Expectations q/q,1.43%,,1.24%
+Thu Aug 6 2020,2:00am,EUR,Low,German Factory Orders m/m,27.9%,10.3%,10.4%
+,,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.10%,0.10%,0.10%
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,8-0-1
+,,GBP,Low,Asset Purchase Facility,745B,745B,745B
+,,GBP,Low,BOE Financial Stability Report,,,
+,,GBP,Low,FPC Meeting Minutes,,,
+,,GBP,Low,FPC Statement,,,
+,4:00am,EUR,Low,Italian Industrial Production m/m,8.2%,5.6%,41.6%
+,4:30am,GBP,Low,Construction PMI,58.1,57.0,55.3
+,4:56am,EUR,Low,Spanish 10-y Bond Auction,0.26|3.0,,0.27|2.7
+,5:00am,GBP,High,BOE Gov Bailey Speaks,,,
+,5:01am,EUR,Low,French 10-y Bond Auction,-0.27|2.1,,-0.09|2.7
+,7:30am,USD,Low,Challenger Job Cuts y/y,576.1%,,305.5%
+,8:30am,USD,Medium,Unemployment Claims,1186K,1410K,1435K
+,10:00am,USD,Low,FOMC Member Kaplan Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,33B,31B,26B
+,6:30pm,AUD,Low,AIG Services Index,44.0,,31.5
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-1.7%,-3.0%,-2.3%
+,,JPY,Low,Household Spending y/y,-1.2%,-7.8%,-16.2%
+,9:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,9:45pm,AUD,Medium,RBA Assist Gov Ellis Speaks,,,
+,11:03pm,CNY,Medium,Trade Balance,442B,291B,329B
+,11:14pm,CNY,Medium,USD-Denominated Trade Balance,62.3B,42.5B,46.4B
+Fri Aug 7 2020,1:00am,JPY,Low,Leading Indicators,85.0%,84.8%,78.4%
+,2:00am,EUR,Low,German Industrial Production m/m,8.9%,8.3%,7.4%
+,,EUR,Low,German Trade Balance,14.5B,10.3B,7.5B
+,2:45am,EUR,Low,French Industrial Production m/m,12.7%,8.6%,19.9%
+,,EUR,Low,French Prelim Private Payrolls q/q,-0.6%,-1.0%,-2.5%
+,,EUR,Low,French Trade Balance,-8.0B,-7.1B,-7.5B
+,3:00am,CHF,Low,Foreign Currency Reserves,846B,,851B
+,3:30am,GBP,Low,Halifax HPI m/m,1.6%,0.2%,0.0%
+,4:00am,EUR,Low,Italian Trade Balance,6.23B,6.50B,5.58B
+,8:30am,CAD,High,Employment Change,418.5K,395.0K,952.9K
+,,CAD,High,Unemployment Rate,10.9%,11.1%,12.3%
+,,USD,High,Average Hourly Earnings m/m,0.2%,-0.5%,-1.3%
+,,USD,High,Non-Farm Employment Change,1763K,1530K,4791K
+,,USD,High,Unemployment Rate,10.2%,10.5%,11.1%
+,10:00am,CAD,Low,Ivey PMI,68.5,57.5,58.2
+,,USD,Low,Final Wholesale Inventories m/m,-1.4%,-2.0%,-2.0%
+,3:00pm,USD,Low,Consumer Credit m/m,8.9B,10.0B,-14.4B
+Sat Aug 8 2020,,,No specified,,,,

@@ -1,0 +1,89 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 22 2015,6:50pm,JPY,Medium,Monetary Policy Meeting Minutes,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,NZD,Low,Credit Card Spending y/y,6.2%,,4.5%
+Mon Feb 23 2015,4:00am,EUR,High,German ifo Business Climate,106.8,107.4,106.7
+,6:00am,GBP,Medium,CBI Realized Sales,1,42,39
+,10:00am,USD,Medium,Existing Home Sales,4.82M,5.03M,5.07M
+,6:50pm,JPY,Low,SPPI y/y,3.4%,3.6%,3.5%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,NZD,Medium,Inflation Expectations q/q,1.80%,,2.06%
+Tue Feb 24 2015,2:00am,EUR,Low,German Final GDP q/q,0.7%,0.7%,0.7%
+,3:15am,CHF,Medium,Employment Level,4.23M,4.22M,4.23M
+,4:10am,GBP,Medium,MPC Member Forbes Speaks,,,
+,5:00am,EUR,Medium,Final CPI y/y,-0.6%,-0.6%,-0.6%
+,,EUR,Low,Final Core CPI y/y,0.6%,0.6%,0.6%
+,,GBP,High,Monetary Policy Report Hearings,,,
+,All Day,EUR,High,Eurogroup Meetings,,,
+,8:30am,CAD,Low,Corporate Profits q/q,-2.8%,,3.7%
+,9:00am,EUR,High,ECB President Draghi Speaks,,,
+,,EUR,Low,Belgian NBB Business Climate,-8.3,-8.4,-8.8
+,,USD,Low,S&P/CS Composite-20 HPI y/y,4.5%,4.5%,4.3%
+,9:45am,USD,Low,Flash Services PMI,57.0,54.5,54.2
+,9:59am,USD,Low,Richmond Manufacturing Index,0,7,6
+,10:00am,USD,High,CB Consumer Confidence,96.4,99.6,103.8
+,,USD,High,Fed Chair Yellen Testifies,,,
+,,USD,Low,Fed Monetary Policy Report,,,
+,2:00pm,CAD,High,BOC Gov Poloz Speaks,,,
+,6:40pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,7:30pm,AUD,Medium,Construction Work Done q/q,-0.2%,-1.2%,-2.8%
+,,AUD,Medium,Wage Price Index q/q,0.6%,0.6%,0.6%
+,8:45pm,CNY,High,Caixin Flash Manufacturing PMI,50.1,49.6,49.7
+Wed Feb 25 2015,2:00am,CHF,Low,UBS Consumption Indicator,1.24,,1.42
+,4:30am,GBP,Medium,High Street Lending,36.4K,36.2K,35.8K
+,5:00am,GBP,High,BOE Gov Carney Speaks,,,
+,10:00am,USD,High,Fed Chair Yellen Testifies,,,
+,,USD,High,New Home Sales,481K,471K,482K
+,,USD,Medium,Mortgage Delinquencies,5.68%,,5.85%
+,10:30am,USD,Medium,Crude Oil Inventories,8.4M,3.6M,7.7M
+,11:30am,EUR,High,ECB President Draghi Speaks,,,
+,4:45pm,NZD,High,Trade Balance,56M,-162M,-195M
+,4:47pm,NZD,Low,Visitor Arrivals m/m,0.8%,,-1.3%
+,7:30pm,AUD,High,Private Capital Expenditure q/q,-2.2%,-1.7%,0.6%
+Thu Feb 26 2015,2:00am,EUR,Medium,German GfK Consumer Climate,9.7,9.6,9.3
+,3:55am,EUR,Medium,German Unemployment Change,-20K,-10K,-10K
+,4:00am,EUR,Medium,M3 Money Supply y/y,4.1%,3.7%,3.6%
+,,EUR,Medium,Private Loans y/y,-0.1%,-0.3%,-0.5%
+,,EUR,Low,Italian Retail Sales m/m,-0.2%,0.0%,0.1%
+,4:30am,GBP,High,Second Estimate GDP q/q,0.5%,0.5%,0.5%
+,,GBP,Medium,Prelim Business Investment q/q,-1.4%,2.0%,-1.4%
+,,GBP,Low,Index of Services 3m/3m,0.8%,0.7%,0.7%
+,5:23am,EUR,Low,Italian 10-y Bond Auction,1.36|1.5,,1.62|1.4
+,8:30am,CAD,High,Core CPI m/m,0.2%,0.1%,-0.3%
+,,CAD,Medium,CPI m/m,-0.2%,-0.4%,-0.7%
+,,USD,High,CPI m/m,-0.7%,-0.6%,-0.4%
+,,USD,High,Core CPI m/m,0.2%,0.1%,0.0%
+,,USD,High,Unemployment Claims,313K,288K,282K
+,,USD,Medium,Core Durable Goods Orders m/m,0.3%,0.6%,-0.9%
+,,USD,Low,Durable Goods Orders m/m,2.8%,1.7%,-3.3%
+,9:00am,USD,Low,HPI m/m,0.8%,0.5%,0.7%
+,10:30am,USD,Low,Natural Gas Storage,-219B,-241B,-111B
+,12:30pm,GBP,Medium,MPC Member Shafik Speaks,,,
+,1:00pm,USD,Medium,FOMC Member Lockhart Speaks,,,
+,4:45pm,NZD,Medium,Building Consents m/m,-3.8%,,-2.3%
+,6:05pm,GBP,Low,GfK Consumer Confidence,1,2,1
+,6:30pm,JPY,Medium,Household Spending y/y,-5.1%,-4.0%,-3.4%
+,,JPY,Medium,Tokyo Core CPI y/y,2.2%,2.2%,2.2%
+,,JPY,Low,National Core CPI y/y,2.2%,2.4%,2.5%
+,,JPY,Low,Unemployment Rate,3.6%,3.4%,3.4%
+,6:50pm,JPY,Medium,Prelim Industrial Production m/m,4.0%,2.9%,0.8%
+,,JPY,Medium,Retail Sales y/y,-2.0%,-1.2%,0.1%
+,7:00pm,NZD,High,ANZ Business Confidence,34.4,,30.4
+,7:30pm,AUD,Low,Private Sector Credit m/m,0.6%,0.5%,0.5%
+Fri Feb 27 2015,12:00am,JPY,Low,Housing Starts y/y,-13.0%,-11.1%,-14.7%
+,2:00am,EUR,Low,German Import Prices m/m,-0.8%,-0.8%,-1.7%
+,All Day,EUR,High,German Prelim CPI m/m,0.9%,0.6%,-1.1%
+,2:45am,EUR,Medium,French Consumer Spending m/m,0.6%,-0.3%,1.6%
+,3:00am,CHF,Medium,KOF Economic Barometer,90.1,89.1,96.1
+,,EUR,Medium,Spanish Flash CPI y/y,-1.1%,-1.5%,-1.3%
+,5:00am,EUR,Low,Italian Prelim CPI m/m,0.3%,0.2%,-0.4%
+,8:30am,USD,High,Prelim GDP q/q,2.2%,2.1%,2.6%
+,,USD,Low,Prelim GDP Price Index q/q,0.1%,0.0%,0.0%
+,9:45am,USD,Medium,Chicago PMI,45.8,58.4,59.4
+,10:00am,USD,Medium,Pending Home Sales m/m,1.7%,2.5%,-1.5%
+,,USD,Medium,Revised UoM Consumer Sentiment,95.4,94.2,93.6
+,,USD,Low,Revised UoM Inflation Expectations,2.8%,,2.8%
+,10:15am,USD,Medium,FOMC Member Dudley Speaks,,,
+,1:30pm,USD,Medium,FOMC Member Fischer Speaks,,,
+Sat Feb 28 2015,8:00pm,CNY,High,Manufacturing PMI,49.9,49.7,49.8
+,,CNY,Medium,Non-Manufacturing PMI,53.9,,53.7

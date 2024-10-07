@@ -1,0 +1,105 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jun 27 2021,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+Mon Jun 28 2021,2:00am,EUR,Low,German Import Prices m/m,1.7%,1.3%,1.4%
+,8:00am,EUR,Low,German Buba President Weidmann Speaks,,,
+,,GBP,Low,MPC Member Haldane Speaks,,,
+,9:00am,USD,Low,FOMC Member Williams Speaks,,,
+,12:00pm,USD,Low,FOMC Member Barkin Speaks,,,
+,1:10pm,USD,Low,FOMC Member Quarles Speaks,,,
+,7:30pm,JPY,Low,Unemployment Rate,3.0%,2.9%,2.8%
+,7:50pm,JPY,Low,Retail Sales y/y,8.2%,8.2%,11.9%
+,10:00pm,NZD,Medium,RBNZ Statement of Intent,,,
+Tue Jun 29 2021,12:10am,NZD,High,RBNZ Gov Orr Speaks,,,
+,2:00am,GBP,Low,Nationwide HPI m/m,0.7%,0.7%,1.7%
+,All Day,EUR,Low,German Prelim CPI m/m,0.4%,0.4%,0.5%
+,3:00am,EUR,Low,Spanish Flash CPI y/y,2.6%,2.7%,2.7%
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,4:30am,GBP,Low,M4 Money Supply m/m,0.4%,0.2%,0.1%
+,,GBP,Low,Mortgage Approvals,88K,86K,87K
+,,GBP,Low,Net Lending to Individuals m/m,6.9B,4.6B,2.8B
+,9:00am,USD,Low,FOMC Member Barkin Speaks,,,
+,,USD,Low,HPI m/m,1.8%,1.5%,1.6%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,14.9%,14.8%,13.4%
+,9:40am,EUR,Medium,ECB President Lagarde Speaks,,,
+,10:00am,USD,Medium,CB Consumer Confidence,127.3,118.9,120.0
+,12:00pm,EUR,Low,German Buba President Weidmann Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.7%,,-0.6%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,-5.9%,-2.1%,2.9%
+,9:00pm,CNY,Medium,Manufacturing PMI,50.9,50.9,51.0
+,,CNY,Low,Non-Manufacturing PMI,53.5,55.3,55.2
+,,NZD,Low,ANZ Business Confidence,-0.6,,-0.4
+,9:30pm,AUD,Low,Private Sector Credit m/m,0.4%,0.3%,0.3%
+Wed Jun 30 2021,12:59am,JPY,Low,Consumer Confidence,37.4,34.8,34.1
+,1:00am,JPY,Low,Housing Starts y/y,9.9%,8.4%,7.1%
+,2:00am,GBP,Low,Current Account,-12.8B,-13.9B,-26.3B
+,,GBP,Low,Final GDP q/q,-1.6%,-1.5%,-1.5%
+,,GBP,Low,Revised Business Investment q/q,-10.7%,-11.9%,-11.9%
+,2:45am,EUR,Low,French Consumer Spending m/m,10.4%,7.4%,-8.7%
+,,EUR,Low,French Prelim CPI m/m,0.2%,0.2%,0.3%
+,3:00am,CHF,Low,KOF Economic Barometer,133.4,144.9,143.7
+,3:55am,EUR,Low,German Unemployment Change,-38K,-20K,-19K
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,51.3,,72.2
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.9%,1.9%,2.0%
+,,EUR,Low,Core CPI Flash Estimate y/y,0.9%,0.9%,1.0%
+,,EUR,Low,Italian Prelim CPI m/m,0.1%,0.2%,0.0%
+,5:15am,EUR,Low,Italian 10-y Bond Auction,0.74|1.6,,0.94|1.3
+,7:00am,GBP,Low,MPC Member Haldane Speaks,,,
+,8:00am,USD,Low,FOMC Member Bostic Speaks,,,
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,692K,555K,886K
+,8:30am,CAD,Medium,GDP m/m,-0.3%,-0.8%,1.3%
+,,CAD,Low,IPPI m/m,2.7%,3.0%,1.8%
+,,CAD,Low,RMPI m/m,3.2%,2.1%,1.0%
+,9:45am,USD,Medium,Chicago PMI,66.1,70.2,75.2
+,10:00am,USD,Medium,Pending Home Sales m/m,8.0%,-1.1%,-4.4%
+,10:30am,USD,Medium,Crude Oil Inventories,-6.7M,-4.2M,-7.6M
+,1:00pm,USD,Low,FOMC Member Barkin Speaks,,,
+,6:30pm,AUD,Low,AIG Manufacturing Index,63.2,,61.8
+,6:45pm,NZD,Low,Building Consents m/m,-2.8%,,5.1%
+,7:50pm,JPY,Low,Tankan Manufacturing Index,14,16,5
+,,JPY,Low,Tankan Non-Manufacturing Index,1,3,-1
+,8:30pm,JPY,Low,Final Manufacturing PMI,52.4,51.5,51.5
+,9:30pm,AUD,Low,Trade Balance,9.68B,10.50B,8.16B
+,9:45pm,CNY,Low,Caixin Manufacturing PMI,51.3,51.8,52.0
+,11:35pm,JPY,Low,10-y Bond Auction,0.06|3.5,,0.08|2.9
+Thu Jul 1 2021,2:00am,EUR,Low,German Retail Sales m/m,4.2%,4.5%,-6.8%
+,2:30am,AUD,Low,Commodity Prices y/y,49.1%,,40.7%
+,,CHF,Low,CPI m/m,0.1%,0.2%,0.3%
+,,CHF,Low,Retail Sales y/y,2.8%,17.5%,37.7%
+,3:00am,EUR,Medium,ECB President Lagarde Speaks,,,
+,3:15am,EUR,Low,Spanish Manufacturing PMI,60.4,59.6,59.4
+,3:30am,CHF,Low,Manufacturing PMI,66.7,69.4,69.9
+,3:45am,EUR,Low,Italian Manufacturing PMI,62.2,62.3,62.3
+,3:50am,EUR,Low,French Final Manufacturing PMI,59.0,58.6,58.6
+,3:55am,EUR,Medium,German Final Manufacturing PMI,65.1,64.9,64.9
+,4:00am,EUR,Low,Final Manufacturing PMI,63.4,63.1,63.1
+,,EUR,Low,Italian Monthly Unemployment Rate,10.5%,10.7%,10.7%
+,,GBP,High,BOE Gov Bailey Speaks,,,
+,4:30am,GBP,Medium,Final Manufacturing PMI,63.9,64.2,64.2
+,5:00am,EUR,Low,Unemployment Rate,7.9%,8.0%,8.1%
+,,GBP,Medium,BOE Gov Bailey Speaks,,,
+,5:02am,EUR,Low,French 10-y Bond Auction,0.13|2.1,,0.16|2.0
+,Day 1,All,High,OPEC-JMMC Meetings,,,
+,7:30am,USD,Low,Challenger Job Cuts y/y,-88.0%,,-93.8%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,8:30am,USD,Medium,Unemployment Claims,364K,388K,415K
+,9:45am,USD,Low,Final Manufacturing PMI,62.1,62.6,62.6
+,10:00am,USD,High,ISM Manufacturing PMI,60.6,61.0,61.2
+,,USD,Low,Construction Spending m/m,-0.3%,0.4%,0.1%
+,,USD,Low,ISM Manufacturing Prices,92.1,86.0,88.0
+,All Day,USD,Low,Wards Total Vehicle Sales,15.4M,16.9M,17.0M
+,10:30am,USD,Low,Natural Gas Storage,76B,68B,55B
+,7:50pm,JPY,Low,Monetary Base y/y,19.1%,24.3%,22.4%
+Fri Jul 2 2021,2:45am,EUR,Low,French Gov Budget Balance,-118.8B,,-91.4B
+,3:00am,EUR,Medium,Spanish Unemployment Change,-166.9K,-110.5K,-129.4K
+,5:00am,EUR,Low,PPI m/m,1.3%,1.2%,0.9%
+,Day 2,All,High,OPEC-JMMC Meetings,,,
+,8:30am,CAD,Low,Building Permits m/m,-14.8%,0.3%,0.2%
+,,CAD,Low,Trade Balance,-1.4B,0.4B,0.5B
+,,EUR,Medium,ECB President Lagarde Speaks,,,
+,,USD,High,Average Hourly Earnings m/m,0.3%,0.3%,0.4%
+,,USD,High,Non-Farm Employment Change,850K,725K,583K
+,,USD,High,Unemployment Rate,5.9%,5.6%,5.8%
+,,USD,Low,Trade Balance,-71.2B,-71.4B,-69.1B
+,9:30am,CAD,Low,Manufacturing PMI,56.5,,57.0
+,10:00am,USD,Low,Factory Orders m/m,1.7%,1.7%,-0.1%
+Sat Jul 3 2021,,,No specified,,,,

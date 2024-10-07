@@ -1,0 +1,101 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 1 2019,4:30pm,AUD,Low,AIG Manufacturing Index,48.1,,51.6
+,4:45pm,NZD,Low,Overseas Trade Index q/q,1.9%,1.1%,1.4%
+,6:50pm,JPY,Low,Capital Spending q/y,7.1%,5.1%,1.9%
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.0%,,0.1%
+,7:30pm,AUD,High,Building Approvals m/m,-8.1%,-1.0%,7.2%
+,,AUD,Medium,Company Operating Profits q/q,-0.8%,1.0%,4.8%
+,,AUD,Low,ANZ Job Advertisements m/m,-1.7%,,-1.0%
+,,JPY,Low,Final Manufacturing PMI,48.9,48.6,48.6
+,8:45pm,CNY,High,Caixin Manufacturing PMI,51.8,51.5,51.7
+Mon Dec 2 2019,12:30am,AUD,Low,Commodity Prices y/y,-5.0%,,-1.0%
+,2:30am,CHF,Low,Retail Sales y/y,0.7%,0.8%,1.6%
+,3:15am,EUR,Medium,Spanish Manufacturing PMI,47.5,46.5,46.8
+,3:30am,CHF,Low,Manufacturing PMI,48.8,48.8,49.4
+,3:45am,EUR,Low,Italian Manufacturing PMI,47.6,47.5,47.7
+,3:50am,EUR,Low,French Final Manufacturing PMI,51.7,51.6,51.6
+,3:55am,EUR,Low,German Final Manufacturing PMI,44.1,43.8,43.8
+,4:00am,EUR,Low,Final Manufacturing PMI,46.9,46.6,46.6
+,4:30am,GBP,Medium,Final Manufacturing PMI,48.9,48.3,48.3
+,9:00am,EUR,High,ECB President Lagarde Speaks,,,
+,9:30am,CAD,Low,Manufacturing PMI,51.4,,51.2
+,9:45am,USD,Low,Final Manufacturing PMI,52.6,52.2,52.2
+,10:00am,USD,High,ISM Manufacturing PMI,48.1,49.2,48.3
+,,USD,Low,Construction Spending m/m,-0.8%,0.3%,-0.3%
+,,USD,Low,ISM Manufacturing Prices,46.7,47.0,45.5
+,6:50pm,JPY,Low,Monetary Base y/y,3.3%,3.4%,3.1%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-4.9%,-0.4%,0.1%
+,7:30pm,AUD,Medium,Current Account,7.9B,6.1B,4.7B
+,10:30pm,AUD,High,Cash Rate,0.75%,0.75%,0.75%
+,,AUD,High,RBA Rate Statement,,,
+,10:35pm,JPY,Low,10-y Bond Auction,-0.04|3.3,,-0.10|3.6
+Tue Dec 3 2019,2:30am,CHF,Low,CPI m/m,-0.1%,-0.1%,-0.2%
+,2:45am,EUR,Low,French Gov Budget Balance,-107.7B,,-109.0B
+,3:00am,EUR,Low,Spanish Unemployment Change,20.5K,75.2K,97.9K
+,4:30am,GBP,Low,Construction PMI,45.3,44.5,44.2
+,5:00am,EUR,Low,PPI m/m,0.1%,0.0%,0.1%
+,5:36am,GBP,Low,10-y Bond Auction,0.74|2.2,,0.74|2.6
+,All Day,USD,Low,Wards Total Vehicle Sales,17.1M,16.8M,16.6M
+,9:34am,NZD,Low,GDT Price Index,-0.5%,,1.7%
+,4:30pm,AUD,Low,AIG Services Index,53.7,,54.2
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,4.3%,,1.2%
+,7:30pm,AUD,High,GDP q/q,0.4%,0.5%,0.6%
+,8:45pm,CNY,Medium,Caixin Services PMI,53.5,51.2,51.1
+Wed Dec 4 2019,3:15am,EUR,Low,Spanish Services PMI,53.2,51.9,52.7
+,3:45am,EUR,Low,Italian Services PMI,50.4,51.2,52.2
+,3:50am,EUR,Low,French Final Services PMI,52.2,52.9,52.9
+,3:55am,EUR,Low,German Final Services PMI,51.7,51.3,51.3
+,4:00am,EUR,Low,Final Services PMI,51.9,51.5,51.5
+,4:30am,GBP,Medium,Final Services PMI,49.3,48.6,48.6
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,5:34am,EUR,Low,German 10-y Bond Auction,-0.33|1.9,,-0.29|2.0
+,8:15am,USD,High,ADP Non-Farm Employment Change,67K,137K,121K
+,8:30am,CAD,Low,Labor Productivity q/q,0.2%,0.2%,0.1%
+,9:45am,USD,Low,Final Services PMI,51.6,51.6,51.6
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.75%,1.75%,1.75%
+,,USD,High,ISM Services PMI,53.9,54.5,54.7
+,,USD,Low,FOMC Member Quarles Speaks,,,
+,10:30am,USD,Medium,Crude Oil Inventories,-4.9M,-1.6M,1.6M
+,7:00pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,7:30pm,AUD,High,Retail Sales m/m,0.0%,0.3%,0.2%
+,,AUD,High,Trade Balance,4.50B,6.50B,6.49B
+,10:35pm,JPY,Low,30-y Bond Auction,0.43|3.7,,0.46|3.7
+Thu Dec 5 2019,2:00am,EUR,Low,German Factory Orders m/m,-0.4%,0.3%,1.5%
+,All Day,All,High,OPEC Meetings,,,
+,4:46am,EUR,Low,Spanish 10-y Bond Auction,0.44|1.5,,0.41|1.6
+,5:00am,EUR,Low,Final Employment Change q/q,0.1%,0.1%,0.1%
+,,EUR,Low,Retail Sales m/m,-0.6%,-0.4%,-0.2%
+,,EUR,Low,Revised GDP q/q,0.2%,0.2%,0.2%
+,5:07am,EUR,Low,French 10-y Bond Auction,-0.08|2.0,,-0.03|2.1
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,7:30am,USD,Low,Challenger Job Cuts y/y,-16.0%,,-33.5%
+,8:00am,CAD,Low,Gov Council Member Lane Speaks,,,
+,8:30am,CAD,Medium,Trade Balance,-1.1B,-1.4B,-1.2B
+,,USD,Low,Trade Balance,-47.2B,-48.7B,-51.1B
+,,USD,Low,Unemployment Claims,203K,215K,213K
+,10:00am,CAD,Low,Ivey PMI,60.0,49.3,48.2
+,,USD,Low,FOMC Member Quarles Speaks,,,
+,,USD,Low,Factory Orders m/m,0.3%,0.3%,-0.8%
+,10:30am,USD,Low,Natural Gas Storage,-19B,-22B,-28B
+,4:30pm,AUD,Low,AIG Construction Index,40.0,,43.9
+,6:30pm,JPY,Low,Average Cash Earnings y/y,0.5%,0.2%,0.5%
+,,JPY,Low,Household Spending y/y,-5.1%,-3.1%,9.5%
+Fri Dec 6 2019,12:00am,JPY,Low,Leading Indicators,91.8%,93.1%,92.2%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.7%,0.1%,-0.6%
+,2:45am,EUR,Low,French Trade Balance,-4.7B,-4.8B,-5.4B
+,3:00am,CHF,Low,Foreign Currency Reserves,783B,,779B
+,3:30am,GBP,Low,Halifax HPI m/m,1.0%,0.2%,-0.1%
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.2%,0.5%,0.6%
+,All Day,All,High,OPEC-JMMC Meetings,,,
+,8:30am,CAD,High,Employment Change,-71.2K,10.0K,-1.8K
+,,CAD,High,Unemployment Rate,5.9%,5.5%,5.5%
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,0.4%
+,,USD,High,Non-Farm Employment Change,266K,181K,156K
+,,USD,High,Unemployment Rate,3.5%,3.6%,3.6%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,99.2,97.0,96.8
+,,USD,Low,Final Wholesale Inventories m/m,0.1%,0.2%,0.2%
+,,USD,Low,Prelim UoM Inflation Expectations,2.4%,,2.5%
+,3:00pm,USD,Low,Consumer Credit m/m,18.9B,16.0B,9.6B
+Sat Dec 7 2019,10:03pm,CNY,Medium,USD-Denominated Trade Balance,38.7B,44.5B,42.8B
+,10:04pm,CNY,Medium,Trade Balance,274B,300B,301B

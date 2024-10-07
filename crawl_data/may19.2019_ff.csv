@@ -1,0 +1,76 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 19 2019,7:01pm,GBP,Low,Rightmove HPI m/m,0.9%,,1.1%
+,7:50pm,JPY,Low,Prelim GDP Price Index y/y,0.2%,0.2%,-0.3%
+,,JPY,Low,Prelim GDP q/q,0.5%,-0.1%,0.5%
+Mon May 20 2019,12:30am,JPY,Low,Revised Industrial Production m/m,-0.6%,-0.9%,-0.9%
+,2:00am,EUR,Low,German PPI m/m,0.5%,0.4%,-0.1%
+,4:00am,EUR,Low,Current Account,24.7B,24.2B,27.9B
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:30am,GBP,Low,CB Leading Index m/m,-0.5%,,-0.4%
+,12:30pm,GBP,Medium,MPC Member Broadbent Speaks,,,
+,1:05pm,USD,Medium,FOMC Member Clarida Speaks,,,
+,7:00pm,USD,High,Fed Chair Powell Speaks,,,
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,11:00pm,NZD,Low,Credit Card Spending y/y,4.5%,,4.5%
+,11:10pm,AUD,High,RBA Gov Lowe Speaks,,,
+Tue May 21 2019,6:00am,GBP,Low,CBI Industrial Order Expectations,-10,-6,-5
+,9:45am,EUR,Low,Consumer Confidence,-7,-8,-8
+,10:00am,USD,Low,Existing Home Sales,5.19M,5.35M,5.21M
+,10:30am,AUD,Low,CB Leading Index m/m,0.3%,,0.4%
+,10:45am,USD,Medium,FOMC Member Evans Speaks,,,
+,11:00am,GBP,High,Prime Minister May Speaks,,,
+,11:06am,NZD,Low,GDT Price Index,-1.2%,,0.4%
+,12:00pm,USD,Medium,FOMC Member Rosengren Speaks,,,
+,6:45pm,NZD,High,Retail Sales q/q,0.7%,0.6%,1.7%
+,,NZD,Medium,Core Retail Sales q/q,0.7%,0.9%,2.0%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,3.8%,0.0%,1.8%
+,,JPY,Low,Trade Balance,-0.11T,-0.12T,-0.15T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,0.3%
+,9:30pm,AUD,Medium,Construction Work Done q/q,-1.9%,0.1%,-2.1%
+Wed May 22 2019,1:00am,USD,Medium,FOMC Member Bullard Speaks,,,
+,3:38am,EUR,High,ECB President Draghi Speaks,,,
+,4:30am,GBP,High,CPI y/y,2.1%,2.2%,1.9%
+,,GBP,Medium,PPI Input m/m,1.1%,1.1%,-0.8%
+,,GBP,Medium,Public Sector Net Borrowing,5.0B,5.2B,-1.0B
+,,GBP,Low,Core CPI y/y,1.8%,1.9%,1.8%
+,,GBP,Low,HPI y/y,1.4%,0.9%,1.0%
+,,GBP,Low,PPI Output m/m,0.3%,0.3%,0.1%
+,,GBP,Low,RPI y/y,3.0%,2.8%,2.4%
+,5:34am,EUR,Low,German 10-y Bond Auction,-0.07|1.8,,0.02|2.0
+,8:30am,CAD,High,Core Retail Sales m/m,1.7%,0.8%,0.7%
+,,CAD,Medium,Retail Sales m/m,1.1%,0.8%,1.0%
+,10:00am,USD,Medium,FOMC Member Williams Speaks,,,
+,10:30am,USD,Low,Crude Oil Inventories,4.7M,-1.2M,5.4M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,7:00pm,AUD,Low,Flash Manufacturing PMI,51.1,,50.9
+,,AUD,Low,Flash Services PMI,52.3,,50.1
+,8:30pm,JPY,Low,Flash Manufacturing PMI,49.6,50.5,50.2
+Thu May 23 2019,2:00am,EUR,Low,German Final GDP q/q,0.4%,0.4%,0.4%
+,3:15am,EUR,High,French Flash Services PMI,51.7,50.7,50.5
+,,EUR,Medium,French Flash Manufacturing PMI,50.6,50.1,50.0
+,3:30am,EUR,High,German Flash Manufacturing PMI,44.3,44.9,44.4
+,,EUR,High,German Flash Services PMI,55.0,55.2,55.7
+,4:00am,EUR,Medium,Flash Manufacturing PMI,47.7,48.2,47.9
+,,EUR,Medium,Flash Services PMI,52.5,53.0,52.8
+,,EUR,Medium,German ifo Business Climate,97.9,99.2,99.2
+,Day 1,EUR,Low,European Parliamentary Elections,,,
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,8:30am,CAD,Low,Wholesale Sales m/m,1.4%,0.4%,0.2%
+,,USD,Low,Unemployment Claims,211K,215K,212K
+,9:00am,CNY,Low,CB Leading Index m/m,0.8%,,1.1%
+,9:45am,USD,Low,Flash Manufacturing PMI,50.6,53.0,52.6
+,,USD,Low,Flash Services PMI,50.9,53.6,53.0
+,10:00am,USD,Low,New Home Sales,673K,678K,723K
+,10:30am,USD,Low,Natural Gas Storage,100B,104B,106B
+,6:45pm,NZD,Medium,Trade Balance,433M,450M,824M
+,7:30pm,JPY,Low,National Core CPI y/y,0.9%,0.9%,0.8%
+Fri May 24 2019,12:30am,JPY,Low,All Industries Activity m/m,-0.4%,-0.1%,-0.2%
+,4:30am,GBP,High,Retail Sales m/m,0.0%,-0.3%,1.2%
+,6:00am,GBP,Low,CBI Realized Sales,-27,6,13
+,Day 2,EUR,Low,European Parliamentary Elections,,,
+,8:30am,CAD,Low,Corporate Profits q/q,-0.3%,,-3.9%
+,,USD,High,Core Durable Goods Orders m/m,0.0%,0.1%,0.3%
+,,USD,Medium,Durable Goods Orders m/m,-2.1%,-2.0%,2.6%
+,8:59am,EUR,Low,Belgian NBB Business Climate,-3.6,-2.3,-3.2
+Sat May 25 2019,Day 3,EUR,Low,European Parliamentary Elections,,,

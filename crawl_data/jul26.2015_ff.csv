@@ -1,0 +1,71 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jul 26 2015,7:50pm,JPY,Low,SPPI y/y,0.4%,0.6%,0.6%
+Mon Jul 27 2015,2:00am,EUR,Low,German Import Prices m/m,-0.5%,0.2%,-0.2%
+,4:00am,EUR,High,German ifo Business Climate,108.0,107.6,107.5
+,,EUR,Medium,M3 Money Supply y/y,5.0%,5.1%,5.0%
+,,EUR,Low,Private Loans y/y,0.6%,0.7%,0.5%
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-10,-4,-7
+,8:30am,USD,High,Core Durable Goods Orders m/m,0.8%,0.4%,0.0%
+,,USD,Medium,Durable Goods Orders m/m,3.4%,3.2%,-2.2%
+Tue Jul 28 2015,4:30am,GBP,High,Prelim GDP q/q,0.7%,0.7%,0.4%
+,,GBP,Low,Index of Services 3m/3m,0.4%,0.5%,0.5%
+,8:30am,CAD,Medium,RMPI m/m,0.0%,1.1%,4.5%
+,,CAD,Low,IPPI m/m,0.5%,0.3%,0.5%
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,4.9%,5.2%,5.0%
+,9:45am,USD,Low,Flash Services PMI,55.2,55.1,54.8
+,9:59am,USD,Low,Richmond Manufacturing Index,13,6,6
+,10:00am,USD,High,CB Consumer Confidence,90.9,100.1,99.8
+,2:00pm,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,5:00pm,NZD,High,RBNZ Gov Wheeler Speaks,,,
+,7:50pm,JPY,Medium,Retail Sales y/y,0.9%,0.8%,3.0%
+Wed Jul 29 2015,2:00am,CHF,Low,UBS Consumption Indicator,1.68,,1.62
+,,EUR,Medium,German GfK Consumer Climate,10.1,10.1,10.1
+,4:30am,GBP,Medium,Net Lending to Individuals m/m,3.8B,3.0B,3.5B
+,,GBP,Low,M4 Money Supply m/m,-0.5%,0.4%,0.5%
+,,GBP,Low,Mortgage Approvals,67K,66K,65K
+,6:00am,GBP,Low,CBI Realized Sales,21,30,29
+,10:00am,USD,Medium,Pending Home Sales m/m,-1.8%,1.0%,0.6%
+,10:30am,USD,Medium,Crude Oil Inventories,-4.2M,-0.1M,2.5M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,6:45pm,NZD,Low,Building Consents m/m,-4.1%,,0.0%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,0.8%,0.4%,-2.1%
+,9:00pm,AUD,High,RBA Gov Stevens Speaks,,,
+,9:30pm,AUD,High,Building Approvals m/m,-8.2%,-0.8%,2.3%
+,,AUD,Medium,Import Prices q/q,1.4%,1.4%,-0.2%
+Thu Jul 30 2015,All Day,EUR,Medium,German Prelim CPI m/m,0.2%,0.2%,-0.1%
+,3:00am,CHF,Medium,KOF Economic Barometer,99.8,90.3,89.8
+,,EUR,Medium,Spanish Flash CPI y/y,0.0%,0.1%,0.1%
+,,EUR,Medium,Spanish Flash GDP q/q,1.0%,1.1%,0.9%
+,3:55am,EUR,Medium,German Unemployment Change,9K,-5K,1K
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,5:22am,EUR,Low,Italian 10-y Bond Auction,1.83|1.4,,2.35|1.4
+,8:30am,USD,High,Advance GDP q/q,2.3%,2.6%,-0.2%
+,,USD,High,Unemployment Claims,267K,268K,255K
+,,USD,Medium,Advance GDP Price Index q/q,2.0%,1.5%,0.0%
+,8:37am,USD,High,Goods Trade Balance,-62.3B,,
+,10:30am,USD,Low,Natural Gas Storage,52B,53B,61B
+,6:28pm,GBP,Low,GfK Consumer Confidence,4,5,7
+,7:30pm,JPY,Medium,Household Spending y/y,-2.0%,2.0%,4.8%
+,,JPY,Medium,Tokyo Core CPI y/y,-0.1%,0.0%,0.1%
+,,JPY,Low,National Core CPI y/y,0.1%,0.0%,0.1%
+,,JPY,Low,Unemployment Rate,3.4%,3.3%,3.3%
+,9:00pm,NZD,High,ANZ Business Confidence,-15.3,,-2.3
+,9:30pm,AUD,High,PPI q/q,0.3%,0.2%,0.5%
+,,AUD,Low,Private Sector Credit m/m,0.4%,0.5%,0.5%
+Fri Jul 31 2015,1:00am,JPY,Low,Housing Starts y/y,16.3%,3.2%,5.8%
+,2:00am,EUR,Medium,German Retail Sales m/m,-2.3%,0.3%,0.4%
+,2:45am,EUR,Low,French Consumer Spending m/m,0.4%,0.7%,0.1%
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,12.7%,12.3%,12.5%
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,0.2%,0.2%,0.2%
+,,EUR,Medium,Core CPI Flash Estimate y/y,1.0%,0.8%,0.8%
+,,EUR,Medium,Unemployment Rate,11.1%,11.0%,11.1%
+,,EUR,Low,Italian Prelim CPI m/m,-0.1%,0.0%,0.2%
+,8:30am,CAD,High,GDP m/m,-0.2%,0.0%,-0.1%
+,,USD,Medium,Employment Cost Index q/q,0.2%,0.6%,0.7%
+,9:45am,USD,Medium,Chicago PMI,54.7,50.7,49.4
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,93.1,94.2,93.3
+,,USD,Low,Revised UoM Inflation Expectations,2.8%,,2.8%
+,9:00pm,CNY,High,Manufacturing PMI,50.0,50.2,50.2
+,,CNY,Medium,Non-Manufacturing PMI,53.9,,53.8
+Sat Aug 1 2015,,,No specified,,,,

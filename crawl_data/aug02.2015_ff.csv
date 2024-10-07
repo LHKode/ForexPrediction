@@ -1,0 +1,113 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 2 2015,All Day,AUD,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Low,AIG Manufacturing Index,50.4,,44.2
+,8:30pm,AUD,Low,MI Inflation Gauge m/m,0.2%,,0.1%
+,9:00pm,AUD,Low,HIA New Home Sales m/m,0.5%,,-2.3%
+,9:30pm,AUD,Medium,ANZ Job Advertisements m/m,-0.4%,,1.2%
+,9:35pm,JPY,Low,Final Manufacturing PMI,51.2,51.4,51.4
+,9:45pm,CNY,High,Caixin Manufacturing PMI,47.8,48.3,48.2
+Mon Aug 3 2015,3:15am,EUR,Medium,Spanish Manufacturing PMI,53.6,54.2,54.5
+,3:30am,CHF,Low,Manufacturing PMI,48.7,50.6,50.0
+,3:45am,EUR,Low,Italian Manufacturing PMI,55.3,54.6,54.1
+,3:50am,EUR,Low,French Final Manufacturing PMI,49.6,49.6,49.6
+,3:55am,EUR,Low,German Final Manufacturing PMI,51.8,51.5,51.5
+,4:00am,EUR,Low,Final Manufacturing PMI,52.4,52.2,52.2
+,4:30am,GBP,High,Final Manufacturing PMI,51.9,51.6,51.4
+,All Day,CAD,Holiday,Bank Holiday,,,
+,8:30am,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.1%
+,,USD,Medium,Personal Spending m/m,0.2%,0.2%,0.7%
+,,USD,Low,Personal Income m/m,0.4%,0.4%,0.4%
+,9:45am,USD,High,ISM Manufacturing PMI,52.7,53.6,53.5
+,,USD,Low,Final Manufacturing PMI,53.8,53.8,53.8
+,,USD,Low,ISM Manufacturing Prices,44.0,49.5,49.5
+,10:00am,USD,Low,Construction Spending m/m,0.1%,0.8%,1.8%
+,10:50am,USD,Medium,FOMC Member Powell Speaks,,,
+,All Day,USD,Low,Total Vehicle Sales,17.6M,17.2M,17.2M
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,7:50pm,JPY,Low,Monetary Base y/y,32.8%,32.2%,34.2%
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,-11.2%,,-3.1%
+,9:30pm,AUD,High,Retail Sales m/m,0.7%,0.5%,0.4%
+,,AUD,High,Trade Balance,-2.93B,-3.06B,-2.68B
+,,JPY,Low,Average Cash Earnings y/y,-2.4%,0.9%,0.7%
+,11:45pm,JPY,Low,10-y Bond Auction,0.40|2.8,,0.51|2.6
+Tue Aug 4 2015,12:30am,AUD,High,Cash Rate,2.00%,2.00%,2.00%
+,,AUD,High,RBA Rate Statement,,,
+,2:00am,GBP,Low,Nationwide HPI m/m,0.4%,0.4%,-0.2%
+,2:30am,AUD,Low,Commodity Prices y/y,-20.2%,,-17.1%
+,3:00am,EUR,Medium,Spanish Unemployment Change,-74.0K,-45.6K,-94.7K
+,4:30am,GBP,High,Construction PMI,57.1,58.6,58.1
+,5:00am,EUR,Low,PPI m/m,-0.1%,-0.1%,0.0%
+,5:35am,GBP,Low,10-y Bond Auction,1.98|1.4,,2.02|1.2
+,9:30am,CAD,Low,Manufacturing PMI,50.8,,51.3
+,10:00am,USD,Medium,Factory Orders m/m,1.8%,1.8%,-1.1%
+,,USD,Low,IBD/TIPP Economic Optimism,46.9,48.0,48.1
+,10:14am,NZD,High,GDT Price Index,-9.3%,,-10.7%
+,6:45pm,NZD,High,Employment Change q/q,0.3%,0.5%,0.6%
+,,NZD,High,Unemployment Rate,5.9%,5.9%,5.8%
+,,NZD,Low,Labor Cost Index q/q,0.5%,0.5%,0.3%
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-1.4%,,-1.3%
+,7:30pm,AUD,Low,AIG Services Index,54.1,,51.2
+,9:45pm,CNY,Medium,Caixin Services PMI,53.8,52.2,51.8
+Wed Aug 5 2015,3:15am,CHF,Medium,CPI m/m,-0.6%,-0.4%,0.1%
+,,EUR,Medium,Spanish Services PMI,59.7,55.8,56.1
+,3:45am,EUR,Low,Italian Services PMI,52.0,53.2,53.4
+,3:50am,EUR,Low,French Final Services PMI,52.0,52.1,52.0
+,3:55am,EUR,Low,German Final Services PMI,53.8,53.7,53.7
+,4:00am,EUR,Low,Final Services PMI,54.0,53.8,53.8
+,,EUR,Low,Italian Industrial Production m/m,-1.1%,-0.2%,0.9%
+,4:30am,GBP,High,Final Services PMI,57.4,58.1,58.5
+,5:00am,EUR,Low,Retail Sales m/m,-0.6%,-0.1%,0.1%
+,8:15am,USD,High,ADP Non-Farm Employment Change,185K,216K,229K
+,8:30am,CAD,High,Trade Balance,-0.5B,-2.8B,-3.4B
+,,USD,High,Trade Balance,-43.8B,-42.8B,-40.9B
+,9:45am,USD,Low,Final Services PMI,55.7,55.2,55.2
+,10:00am,USD,High,ISM Services PMI,60.3,56.3,56.0
+,10:30am,USD,Medium,Crude Oil Inventories,-4.4M,-1.3M,-4.2M
+,9:30pm,AUD,High,Employment Change,38.5K,10.2K,7.0K
+,,AUD,High,Unemployment Rate,6.3%,6.1%,6.1%
+Thu Aug 6 2015,1:00am,JPY,Low,Leading Indicators,107.2%,106.9%,106.2%
+,1:45am,CHF,Low,SECO Consumer Climate,-19,-7,-6
+,2:00am,EUR,Medium,German Factory Orders m/m,2.0%,0.4%,-0.3%
+,3:00am,GBP,Medium,Halifax HPI m/m,-0.6%,0.5%,1.6%
+,4:10am,EUR,Low,Retail PMI,54.2,,50.4
+,4:30am,GBP,High,Manufacturing Production m/m,0.2%,0.2%,-0.6%
+,,GBP,Low,Industrial Production m/m,-0.4%,0.1%,0.3%
+,4:45am,EUR,Low,Spanish 10-y Bond Auction,1.98|1.7,,2.10|1.5
+,5:00am,EUR,Low,French 10-y Bond Auction,1.02|2.0,,1.30|2.1
+,7:00am,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Official Bank Rate Votes,1-0-8,2-0-7,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.50%,0.50%,0.50%
+,,GBP,Medium,Asset Purchase Facility,375B,375B,375B
+,,GBP,Medium,BOE Inflation Letter,,,
+,,GBP,Medium,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:30am,USD,Low,Challenger Job Cuts y/y,125.4%,,42.7%
+,7:45am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,USD,High,Unemployment Claims,270K,273K,267K
+,10:00am,GBP,Medium,NIESR GDP Estimate,0.7%,,0.7%
+,10:30am,USD,Low,Natural Gas Storage,32B,46B,52B
+,7:30pm,AUD,Low,AIG Construction Index,47.1,,46.4
+,9:30pm,AUD,High,RBA Monetary Policy Statement,,,
+,,AUD,Medium,Home Loans m/m,4.4%,5.2%,-7.3%
+,11:18pm,JPY,High,Monetary Policy Statement,,,
+Fri Aug 7 2015,1:45am,CHF,Low,Unemployment Rate,3.3%,3.3%,3.3%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.4%,0.3%,0.2%
+,,EUR,Low,German Trade Balance,22.0B,23.2B,22.6B
+,2:30am,JPY,High,BOJ Press Conference,,,
+,2:45am,EUR,Low,French Gov Budget Balance,-58.5B,,-63.9B
+,,EUR,Low,French Industrial Production m/m,-0.1%,0.3%,0.4%
+,,EUR,Low,French Trade Balance,-2.7B,-3.7B,-4.0B
+,3:00am,CHF,Medium,Foreign Currency Reserves,532B,,516B
+,4:30am,GBP,Medium,Goods Trade Balance,-9.2B,-9.1B,-8.4B
+,8:30am,CAD,High,Building Permits m/m,14.8%,5.1%,-13.9%
+,,CAD,High,Employment Change,6.6K,5.3K,-6.4K
+,,CAD,High,Unemployment Rate,6.8%,6.8%,6.8%
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.2%,0.0%
+,,USD,High,Non-Farm Employment Change,215K,222K,231K
+,,USD,High,Unemployment Rate,5.3%,5.3%,5.3%
+,10:00am,CAD,High,Ivey PMI,52.9,51.8,55.9
+,3:00pm,USD,Low,Consumer Credit m/m,20.7B,17.2B,16.5B
+,9:52pm,CNY,High,Trade Balance,263B,353B,284B
+,10:04pm,CNY,Low,USD-Denominated Trade Balance,43.0B,53.4B,46.5B
+Sat Aug 8 2015,9:30pm,CNY,High,CPI y/y,1.6%,1.5%,1.4%
+,,CNY,Medium,PPI y/y,-5.4%,-5.0%,-4.8%

@@ -1,0 +1,100 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Jan 26 2020,All Day,AUD,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+Mon Jan 27 2020,4:00am,EUR,High,German ifo Business Climate,95.9,97.1,96.3
+,4:30am,GBP,Low,High Street Lending,46.8K,44.0K,44.1K
+,9:00am,CNY,Low,CB Leading Index m/m,1.4%,,1.5%
+,9:30am,USD,Low,FOMC Member Williams Speaks,,,
+,10:00am,USD,Low,New Home Sales,694K,730K,697K
+,6:50pm,JPY,Low,SPPI y/y,2.1%,2.1%,2.1%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Low,NAB Business Confidence,-2,,0
+Tue Jan 28 2020,12:00am,JPY,Low,BOJ Core CPI y/y,0.3%,0.2%,0.2%
+,2:00am,CHF,Low,Trade Balance,1.96B,3.14B,3.95B
+,3:00am,EUR,Medium,Spanish Unemployment Rate,13.8%,14.0%,13.9%
+,5:34am,GBP,Low,10-y Bond Auction,0.50|2.3,,0.79|2.5
+,6:00am,GBP,Low,CBI Realized Sales,0,5,0
+,8:30am,USD,Medium,Core Durable Goods Orders m/m,-0.1%,0.4%,-0.1%
+,,USD,Medium,Durable Goods Orders m/m,2.4%,1.2%,-2.1%
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,2.6%,2.5%,2.2%
+,9:30am,USD,Low,FOMC Member Williams Speaks,,,
+,9:59am,USD,Medium,Richmond Manufacturing Index,20,-3,-5
+,10:00am,USD,High,CB Consumer Confidence,131.6,128.2,128.2
+,6:38pm,AUD,Low,MI Leading Index m/m,0.1%,,0.0%
+,6:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.3%,,-0.4%
+,7:30pm,AUD,High,CPI q/q,0.7%,0.6%,0.5%
+,,AUD,High,Trimmed Mean CPI q/q,0.4%,0.4%,0.4%
+Wed Jan 29 2020,12:00am,JPY,Low,Consumer Confidence,39.1,39.6,39.1
+,1:59am,GBP,Low,Nationwide HPI m/m,0.5%,0.3%,0.1%
+,2:00am,EUR,Low,German GfK Consumer Climate,9.9,9.6,9.7
+,,EUR,Low,German Import Prices m/m,0.2%,0.2%,0.5%
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,8.3,,12.5
+,,EUR,Low,M3 Money Supply y/y,5.0%,5.5%,5.6%
+,,EUR,Low,Private Loans y/y,3.7%,3.5%,3.5%
+,8:30am,USD,Low,Goods Trade Balance,-68.3B,-64.5B,-63.0B
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.1%,0.1%,-0.1%
+,10:00am,USD,Low,Pending Home Sales m/m,-4.9%,0.5%,1.2%
+,10:30am,USD,Medium,Crude Oil Inventories,3.5M,0.7M,-0.4M
+,2:00pm,USD,High,FOMC Statement,,,
+,,USD,High,Federal Funds Rate,<1.75%,<1.75%,<1.75%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:45pm,NZD,Low,Trade Balance,547M,100M,-791M
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Low,Import Prices q/q,0.7%,0.4%,0.4%
+Thu Jan 30 2020,All Day,EUR,Medium,German Prelim CPI m/m,-0.6%,-0.6%,0.5%
+,3:00am,CHF,Low,KOF Economic Barometer,100.1,97.0,96.2
+,3:55am,EUR,Low,German Unemployment Change,-2K,5K,8K
+,4:00am,EUR,Low,Italian Monthly Unemployment Rate,9.8%,9.7%,9.8%
+,5:00am,EUR,Low,Unemployment Rate,7.4%,7.5%,7.5%
+,5:17am,EUR,Low,Italian 10-y Bond Auction,0.94|1.2,,1.35|1.3
+,7:00am,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Official Bank Rate Votes,0-2-7,0-3-6,0-2-7
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,High,Official Bank Rate,0.75%,0.75%,0.75%
+,,GBP,Low,Asset Purchase Facility,435B,435B,435B
+,,GBP,Low,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:30am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,USD,High,Advance GDP q/q,2.1%,2.1%,2.1%
+,,USD,Medium,Advance GDP Price Index q/q,1.4%,1.8%,1.8%
+,,USD,Low,Unemployment Claims,216K,215K,223K
+,10:30am,USD,Low,Natural Gas Storage,-201B,-197B,-92B
+,1:00pm,EUR,Low,German Buba President Weidmann Speaks,,,
+,3:15pm,CAD,Low,Gov Council Member Beaudry Speaks,,,
+,6:30pm,JPY,Low,Tokyo Core CPI y/y,0.7%,0.8%,0.8%
+,,JPY,Low,Unemployment Rate,2.2%,2.3%,2.2%
+,6:50pm,JPY,Low,Prelim Industrial Production m/m,1.3%,0.7%,-1.0%
+,,JPY,Low,Retail Sales y/y,-2.6%,-1.7%,-2.1%
+,All Day,CNY,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,GfK Consumer Confidence,-9,-9,-11
+,7:30pm,AUD,Low,PPI q/q,0.3%,0.3%,0.4%
+,,AUD,Low,Private Sector Credit m/m,0.2%,0.2%,0.2%
+,8:00pm,CNY,High,Manufacturing PMI,50.0,50.1,50.2
+,,CNY,Medium,Non-Manufacturing PMI,54.1,53.1,53.5
+Fri Jan 31 2020,12:02am,JPY,Low,Housing Starts y/y,-7.9%,-11.7%,-12.7%
+,1:30am,EUR,Low,French Flash GDP q/q,-0.1%,0.2%,0.3%
+,2:00am,EUR,Low,German Retail Sales m/m,-3.3%,-0.5%,1.6%
+,2:30am,CHF,Low,Retail Sales y/y,0.1%,0.4%,0.5%
+,2:45am,EUR,Low,French Consumer Spending m/m,-0.3%,-0.1%,0.7%
+,,EUR,Low,French Prelim CPI m/m,-0.4%,-0.5%,0.4%
+,3:00am,EUR,Medium,Spanish Flash GDP q/q,0.5%,0.4%,0.4%
+,,EUR,Low,Spanish Flash CPI y/y,1.1%,1.0%,0.8%
+,4:00am,EUR,Low,Italian Prelim GDP q/q,-0.3%,0.1%,0.1%
+,4:30am,GBP,Low,M4 Money Supply m/m,0.1%,0.6%,0.8%
+,,GBP,Low,Mortgage Approvals,67K,66K,66K
+,,GBP,Low,Net Lending to Individuals m/m,5.8B,4.2B,4.9B
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.4%,1.4%,1.3%
+,,EUR,Low,Core CPI Flash Estimate y/y,1.1%,1.2%,1.3%
+,,EUR,Low,Prelim Flash GDP q/q,0.1%,0.2%,0.2%
+,8:30am,CAD,High,GDP m/m,0.1%,0.0%,-0.1%
+,,CAD,Medium,RMPI m/m,2.8%,0.7%,1.4%
+,,CAD,Low,IPPI m/m,0.1%,0.0%,-0.1%
+,,USD,Medium,Core PCE Price Index m/m,0.2%,0.1%,0.1%
+,,USD,Medium,Employment Cost Index q/q,0.7%,0.7%,0.7%
+,,USD,Medium,Personal Spending m/m,0.3%,0.3%,0.4%
+,,USD,Low,Personal Income m/m,0.2%,0.3%,0.4%
+,9:45am,USD,Medium,Chicago PMI,42.9,48.9,48.9
+,10:00am,USD,Low,Revised UoM Consumer Sentiment,99.8,99.1,99.1
+,,USD,Low,Revised UoM Inflation Expectations,2.5%,,2.5%
+Sat Feb 1 2020,,,No specified,,,,

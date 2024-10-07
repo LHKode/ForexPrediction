@@ -1,0 +1,79 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 21 2017,7:01pm,GBP,Low,Rightmove HPI m/m,1.2%,,1.1%
+,7:50pm,JPY,Low,Trade Balance,0.10T,0.25T,0.11T
+Mon May 22 2017,6:00am,EUR,Low,German Buba Monthly Report,,,
+,All Day,EUR,High,Eurogroup Meetings,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,9:00am,CNY,Low,CB Leading Index m/m,1.2%,,0.7%
+,10:00am,USD,Medium,FOMC Member Harker Speaks,,,
+,10:30am,AUD,Low,CB Leading Index m/m,0.5%,,0.4%
+,,USD,Medium,FOMC Member Kashkari Speaks,,,
+,1:30pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,2:00pm,GBP,High,Prime Minister May Speaks,,,
+,7:30pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,8:30pm,JPY,Low,Flash Manufacturing PMI,52.0,52.9,52.7
+,9:10pm,USD,Medium,FOMC Member Evans Speaks,,,
+Tue May 23 2017,12:30am,JPY,Low,All Industries Activity m/m,-0.6%,-0.4%,0.7%
+,2:00am,CHF,Low,Trade Balance,1.97B,2.87B,3.04B
+,,EUR,Low,German Final GDP q/q,0.6%,0.6%,0.6%
+,3:00am,EUR,Medium,French Flash Manufacturing PMI,54.0,55.2,55.1
+,,EUR,Medium,French Flash Services PMI,58.0,56.8,56.7
+,3:30am,EUR,Medium,German Flash Manufacturing PMI,59.4,58.0,58.2
+,,EUR,Medium,German Flash Services PMI,55.2,55.5,55.4
+,4:00am,EUR,High,German ifo Business Climate,114.6,113.1,113.0
+,,EUR,Medium,Flash Manufacturing PMI,57.0,56.5,56.7
+,,EUR,Medium,Flash Services PMI,56.2,56.5,56.4
+,4:30am,GBP,Medium,Public Sector Net Borrowing,9.6B,8.0B,2.3B
+,6:00am,GBP,Low,CBI Realized Sales,2,12,38
+,8:30am,CAD,Medium,Wholesale Sales m/m,0.9%,1.1%,0.3%
+,9:00am,USD,Medium,FOMC Member Kashkari Speaks,,,
+,9:45am,USD,Low,Flash Manufacturing PMI,52.5,53.2,52.8
+,,USD,Low,Flash Services PMI,54.0,53.3,53.1
+,9:59am,USD,Low,Richmond Manufacturing Index,1,15,20
+,10:00am,USD,Medium,New Home Sales,569K,611K,642K
+,3:00pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+,5:00pm,USD,Medium,FOMC Member Harker Speaks,,,
+,6:45pm,NZD,Low,Trade Balance,578M,268M,277M
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.1%,,0.1%
+,9:30pm,AUD,Medium,Construction Work Done q/q,-0.7%,-0.5%,0.6%
+Wed May 24 2017,2:00am,EUR,Low,German GfK Consumer Climate,10.4,10.2,10.2
+,4:00am,EUR,Low,ECB Financial Stability Review,,,
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,5:35am,EUR,Low,German 10-y Bond Auction,0.39|1.5,,0.33|1.5
+,8:45am,EUR,High,ECB President Draghi Speaks,,,
+,8:58am,USD,Low,HPI m/m,0.6%,0.5%,0.8%
+,9:03am,EUR,Low,Belgian NBB Business Climate,-1.1,-0.5,-0.8
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.50%,0.50%,0.50%
+,,USD,Medium,Existing Home Sales,5.57M,5.65M,5.70M
+,10:30am,USD,High,Crude Oil Inventories,-4.4M,-2.4M,-1.8M
+,2:00pm,USD,High,FOMC Meeting Minutes,,,
+,6:00pm,USD,Medium,FOMC Member Kaplan Speaks,,,
+,10:00pm,NZD,High,Annual Budget Release,,,
+Thu May 25 2017,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,4:00am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,4:30am,GBP,High,Second Estimate GDP q/q,0.2%,0.3%,0.3%
+,,GBP,Medium,Prelim Business Investment q/q,0.6%,0.3%,-0.9%
+,,GBP,Low,High Street Lending,40.8K,40.8K,40.9K
+,,GBP,Low,Index of Services 3m/3m,0.2%,0.3%,0.4%
+,All Day,All,High,OPEC Meetings,,,
+,8:30am,CAD,Low,Corporate Profits q/q,-7.4%,,3.6%
+,,USD,High,Unemployment Claims,234K,238K,233K
+,,USD,Low,Goods Trade Balance,-67.6B,-64.7B,-65.1B
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.3%,0.2%,0.1%
+,10:00am,USD,Medium,FOMC Member Brainard Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,75B,72B,68B
+,12:00pm,CAD,Low,Gov Council Member Leduc Speaks,,,
+,7:30pm,JPY,Low,National Core CPI y/y,0.3%,0.4%,0.2%
+,,JPY,Low,Tokyo Core CPI y/y,0.1%,0.0%,-0.1%
+,7:50pm,JPY,Low,SPPI y/y,0.7%,0.9%,0.8%
+Fri May 26 2017,Day 1,All,High,G7 Meetings,,,
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.4%,0.4%,0.0%
+,,USD,High,Prelim GDP q/q,1.2%,0.9%,0.7%
+,,USD,Medium,Durable Goods Orders m/m,-0.7%,-1.4%,0.9%
+,,USD,Low,Prelim GDP Price Index q/q,2.2%,2.3%,2.3%
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,97.1,97.6,97.7
+,,USD,Low,Revised UoM Inflation Expectations,2.6%,,2.6%
+Sat May 27 2017,Day 2,All,High,G7 Meetings,,,

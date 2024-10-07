@@ -1,0 +1,39 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 27 2015,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,6:50pm,JPY,Medium,Retail Sales y/y,-1.0%,-0.1%,1.8%
+,,JPY,Low,Prelim Industrial Production m/m,-1.0%,-0.4%,1.4%
+Mon Dec 28 2015,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+Tue Dec 29 2015,8:30am,USD,Medium,Goods Trade Balance,-60.5B,-60.9B,-58.4B
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,5.5%,5.6%,5.4%
+,10:00am,USD,High,CB Consumer Confidence,96.5,93.9,92.6
+Wed Dec 30 2015,2:00am,CHF,Low,UBS Consumption Indicator,1.66,,1.63
+,,GBP,Low,Nationwide HPI m/m,0.8%,0.4%,0.1%
+,3:00am,EUR,Medium,Spanish Flash CPI y/y,0.0%,0.1%,-0.3%
+,4:00am,EUR,Medium,M3 Money Supply y/y,5.1%,5.2%,5.3%
+,,EUR,Low,Private Loans y/y,1.4%,1.3%,1.2%
+,5:19am,EUR,Low,Italian 10-y Bond Auction,1.59|1.3,,1.36|1.7
+,10:00am,USD,Medium,Pending Home Sales m/m,-0.9%,0.6%,0.4%
+,10:30am,USD,Medium,Crude Oil Inventories,2.6M,-1.8M,-5.9M
+,All Day,JPY,Holiday,Bank Holiday,,,
+,7:30pm,AUD,Low,Private Sector Credit m/m,0.4%,0.6%,0.7%
+Thu Dec 31 2015,All Day,EUR,Holiday,German Bank Holiday,,,
+,4:37am,GBP,Low,Housing Equity Withdrawal q/q,-8.8B,-10.5B,-12.2B
+,8:30am,USD,High,Unemployment Claims,287K,274K,267K
+,9:45am,USD,Medium,Chicago PMI,42.9,50.4,48.7
+,10:30am,USD,Low,Natural Gas Storage,-58B,-54B,-32B
+,All Day,NZD,Holiday,Bank Holiday,,,
+,All Day,AUD,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+,8:00pm,CNY,High,Manufacturing PMI,49.7,49.9,49.6
+,,CNY,Medium,Non-Manufacturing PMI,54.4,,53.6
+Fri Jan 1 2015,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+Sat Jan 2 2015,,,No specified,,,,

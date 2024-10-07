@@ -1,0 +1,77 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 11 2019,All Day,JPY,Holiday,Bank Holiday,,,
+Mon Aug 12 2019,5:00am,CNY,Medium,New Loans,1060B,1275B,1660B
+,,CNY,Low,M2 Money Supply y/y,8.1%,8.5%,8.5%
+,2:00pm,USD,Low,Federal Budget Balance,-119.7B,-120.0B,-8.5B
+,6:45pm,NZD,Low,FPI m/m,1.1%,,-0.7%
+,6:50pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,7:50pm,JPY,Low,PPI y/y,-0.6%,-0.5%,-0.1%
+,9:30pm,AUD,Medium,NAB Business Confidence,4,,2
+,10:11pm,CNY,Low,Foreign Direct Investment ytd/y,7.3%,,7.2%
+Tue Aug 13 2019,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.1%,-0.1%,0.0%
+,1:59am,JPY,Low,Prelim Machine Tool Orders y/y,-33.0%,,-37.9%
+,2:00am,EUR,Low,German Final CPI m/m,0.5%,0.5%,0.5%
+,,EUR,Low,German WPI m/m,-0.3%,0.2%,-0.5%
+,4:30am,GBP,High,Average Earnings Index 3m/y,3.7%,3.7%,3.5%
+,,GBP,Low,Claimant Count Change,28.0K,42.0K,31.4K
+,,GBP,Low,Unemployment Rate,3.9%,3.8%,3.8%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-44.1,-27.8,-24.5
+,,EUR,Low,ZEW Economic Sentiment,-43.6,-21.7,-20.3
+,5:35am,GBP,Low,30-y Bond Auction,1.15|2.0,,1.42|1.8
+,6:00am,USD,Low,NFIB Small Business Index,104.7,104.9,103.3
+,8:30am,USD,High,CPI m/m,0.3%,0.3%,0.1%
+,,USD,High,Core CPI m/m,0.3%,0.2%,0.3%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.3%,,-0.5%
+,10:00am,USD,Low,Mortgage Delinquencies,4.53%,,4.42%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,13.9%,-1.0%,-7.8%
+,8:30pm,AUD,Medium,Westpac Consumer Sentiment,3.6%,,-4.1%
+,9:30pm,AUD,High,Wage Price Index q/q,0.6%,0.5%,0.5%
+,10:00pm,CNY,Medium,Fixed Asset Investment ytd/y,5.7%,5.9%,5.8%
+,,CNY,Medium,Industrial Production y/y,4.8%,6.0%,6.3%
+,,CNY,Low,Retail Sales y/y,7.6%,8.6%,9.8%
+,,CNY,Low,Unemployment Rate,5.3%,,5.1%
+Wed Aug 14 2019,2:00am,EUR,Medium,German Prelim GDP q/q,-0.1%,-0.1%,0.4%
+,2:45am,EUR,Low,French Final CPI m/m,-0.2%,-0.2%,-0.2%
+,3:30am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,4:30am,GBP,High,CPI y/y,2.1%,1.9%,2.0%
+,,GBP,Medium,PPI Input m/m,0.9%,0.6%,-0.8%
+,,GBP,Low,Core CPI y/y,1.9%,1.8%,1.8%
+,,GBP,Low,HPI y/y,0.9%,1.0%,0.9%
+,,GBP,Low,PPI Output m/m,0.3%,0.1%,-0.1%
+,,GBP,Low,RPI y/y,2.8%,2.8%,2.9%
+,5:00am,EUR,Low,Flash Employment Change q/q,0.2%,0.3%,0.4%
+,,EUR,Low,Flash GDP q/q,0.2%,0.2%,0.2%
+,,EUR,Low,Industrial Production m/m,-1.6%,-1.4%,0.8%
+,8:30am,USD,Low,Import Prices m/m,0.2%,0.0%,-1.1%
+,10:30am,USD,Low,Crude Oil Inventories,1.6M,-2.5M,2.4M
+,7:00pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,9:00pm,AUD,Low,MI Inflation Expectations,3.5%,,3.2%
+,9:30pm,AUD,High,Employment Change,41.1K,14.2K,-2.3K
+,,AUD,High,Unemployment Rate,5.2%,5.2%,5.2%
+Thu Aug 15 2019,12:30am,JPY,Low,Revised Industrial Production m/m,-3.3%,-3.6%,-3.6%
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,2:30am,CHF,Low,PPI m/m,-0.1%,-0.2%,-0.5%
+,4:30am,GBP,High,Retail Sales m/m,0.2%,-0.3%,0.9%
+,8:30am,USD,High,Core Retail Sales m/m,1.0%,0.4%,0.3%
+,,USD,High,Philly Fed Manufacturing Index,16.8,10.1,21.8
+,,USD,High,Retail Sales m/m,0.7%,0.3%,0.3%
+,,USD,Low,Empire State Manufacturing Index,4.8,2.1,4.3
+,,USD,Low,Prelim Nonfarm Productivity q/q,2.3%,1.4%,3.4%
+,,USD,Low,Prelim Unit Labor Costs q/q,2.4%,1.7%,-1.6%
+,,USD,Low,Unemployment Claims,220K,212K,211K
+,8:32am,CAD,Low,ADP Non-Farm Employment Change,73.7K,,-9.6K
+,9:15am,USD,Low,Capacity Utilization Rate,77.5%,77.8%,77.8%
+,,USD,Low,Industrial Production m/m,-0.2%,0.1%,0.2%
+,10:00am,USD,Low,Business Inventories m/m,0.0%,0.1%,0.3%
+,,USD,Low,NAHB Housing Market Index,66,66,65
+,10:30am,USD,Low,Natural Gas Storage,49B,60B,55B
+,4:00pm,USD,Low,TIC Long-Term Purchases,99.1B,22.9B,4.6B
+,6:30pm,NZD,Low,BusinessNZ Manufacturing Index,48.2,,51.1
+Fri Aug 16 2019,5:00am,EUR,Low,Trade Balance,17.9B,18.7B,19.6B
+,8:30am,CAD,Low,Foreign Securities Purchases,-3.98B,6.55B,10.28B
+,,USD,Medium,Building Permits,1.34M,1.27M,1.23M
+,,USD,Low,Housing Starts,1.19M,1.26M,1.24M
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,92.1,97.2,98.4
+,,USD,Low,Prelim UoM Inflation Expectations,2.7%,,2.6%
+Sat Aug 17 2019,,,No specified,,,,

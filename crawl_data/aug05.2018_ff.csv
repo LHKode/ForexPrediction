@@ -1,0 +1,85 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 5 2018,All Day,AUD,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.1%,,0.0%
+,,NZD,Low,ANZ Commodity Prices m/m,-3.2%,,-0.9%
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,1.5%,,-1.7%
+Mon Aug 6 2018,2:00am,EUR,Low,German Factory Orders m/m,-4.0%,-0.3%,2.6%
+,4:30am,EUR,Low,Sentix Investor Confidence,14.7,12.8,12.1
+,All Day,CAD,Holiday,Bank Holiday,,,
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,6:30pm,AUD,Low,AIG Construction Index,52.0,,50.6
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.5%,1.3%,1.1%
+,7:30pm,JPY,Low,Household Spending y/y,-1.2%,-1.2%,-3.9%
+,8:00pm,JPY,Low,Average Cash Earnings y/y,3.6%,1.7%,2.1%
+Tue Aug 7 2018,12:30am,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,1.50%,1.50%,1.50%
+,1:00am,JPY,Low,Leading Indicators,105.2%,105.4%,106.9%
+,2:00am,EUR,Low,German Industrial Production m/m,-0.9%,-0.5%,2.4%
+,,EUR,Low,German Trade Balance,19.3B,21.4B,20.4B
+,2:45am,EUR,Low,French Trade Balance,-6.2B,-5.6B,-6.0B
+,3:00am,CHF,Low,Foreign Currency Reserves,750B,,748B
+,3:30am,GBP,Medium,Halifax HPI m/m,1.4%,0.2%,0.9%
+,10:00am,CAD,Medium,Ivey PMI,61.8,64.2,63.1
+,,USD,Low,JOLTS Job Openings,6.66M,6.74M,6.66M
+,10:01am,USD,Low,IBD/TIPP Economic Optimism,58.0,57.2,56.4
+,10:15am,NZD,Medium,GDT Price Index,0.0%,,-1.7%
+,3:00pm,USD,Low,Consumer Credit m/m,10.2B,16.2B,24.3B
+,7:50pm,JPY,Low,BOJ Summary of Opinions,,,
+,,JPY,Low,Bank Lending y/y,2.0%,2.3%,2.2%
+,,JPY,Low,Current Account,1.76T,1.84T,1.85T
+,9:30pm,AUD,Low,Home Loans m/m,-1.1%,0.1%,1.0%
+,11:00pm,NZD,High,Inflation Expectations q/q,2.04%,,2.01%
+,11:01pm,AUD,High,RBA Gov Lowe Speaks,,,
+,11:05pm,CNY,Medium,Trade Balance,177B,229B,262B
+,11:14pm,CNY,Low,USD-Denominated Trade Balance,28.1B,39.1B,41.6B
+Wed Aug 8 2018,1:02am,JPY,Low,Economy Watchers Sentiment,46.6,47.8,48.1
+,5:36am,GBP,Low,10-y Bond Auction,1.46|2.2,,1.43|2.3
+,8:30am,CAD,Low,Building Permits m/m,-2.3%,-0.1%,4.8%
+,8:45am,USD,Medium,FOMC Member Barkin Speaks,,,
+,10:30am,USD,High,Crude Oil Inventories,-1.4M,-2.8M,3.8M
+,1:01pm,USD,Low,10-y Bond Auction,2.96|2.5,,2.86|2.6
+,5:00pm,NZD,High,Official Cash Rate,1.75%,1.75%,1.75%
+,,NZD,High,RBNZ Monetary Policy Statement,,,
+,,NZD,High,RBNZ Rate Statement,,,
+,6:00pm,NZD,High,RBNZ Press Conference,,,
+,7:01pm,GBP,Low,RICS House Price Balance,4%,4%,3%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,-8.8%,-1.2%,-3.7%
+,,JPY,Low,M2 Money Stock y/y,3.0%,3.1%,3.1%
+,9:29pm,CNY,Medium,CPI y/y,2.1%,2.0%,1.9%
+,,CNY,Low,PPI y/y,4.6%,4.4%,4.7%
+,11:35pm,JPY,Low,30-y Bond Auction,0.85|4.7,,0.70|5.0
+Thu Aug 9 2018,1:45am,CHF,Low,Unemployment Rate,2.6%,2.6%,2.6%
+,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,13.0%,,11.4%
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,8:13am,CAD,Low,Housing Starts,206K,220K,246K
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.0%,0.0%
+,,USD,High,PPI m/m,0.0%,0.2%,0.3%
+,,USD,Medium,Core PPI m/m,0.1%,0.2%,0.3%
+,,USD,Medium,Unemployment Claims,213K,220K,219K
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.1%,0.0%,0.0%
+,10:30am,USD,Low,Natural Gas Storage,46B,49B,35B
+,1:01pm,USD,Low,30-y Bond Auction,3.09|2.3,,2.96|2.3
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,51.2,,52.7
+,7:50pm,JPY,Medium,Prelim GDP q/q,0.5%,0.3%,-0.2%
+,,JPY,Low,PPI y/y,3.1%,2.9%,2.8%
+,,JPY,Low,Prelim GDP Price Index y/y,0.1%,0.0%,0.5%
+,9:30pm,AUD,High,RBA Monetary Policy Statement,,,
+Fri Aug 10 2018,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.5%,-0.2%,0.2%
+,2:45am,EUR,Low,French Industrial Production m/m,0.6%,0.5%,-0.2%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.2%,0.3%,0.2%
+,4:03am,EUR,Low,Italian Trade Balance,5.07B,3.41B,3.37B
+,4:30am,GBP,High,GDP m/m,0.1%,0.2%,0.3%
+,,GBP,High,Manufacturing Production m/m,0.4%,0.3%,0.6%
+,,GBP,High,Prelim GDP q/q,0.4%,0.4%,0.2%
+,,GBP,Medium,Goods Trade Balance,-11.4B,-12.0B,-12.5B
+,,GBP,Medium,Prelim Business Investment q/q,0.5%,0.3%,-0.4%
+,,GBP,Low,Construction Output m/m,1.4%,-0.2%,2.9%
+,,GBP,Low,Index of Services 3m/3m,0.5%,0.6%,0.4%
+,,GBP,Low,Industrial Production m/m,0.4%,0.4%,-0.2%
+,8:30am,CAD,High,Employment Change,54.1K,17.0K,31.8K
+,,CAD,High,Unemployment Rate,5.8%,5.9%,6.0%
+,,USD,High,CPI m/m,0.2%,0.2%,0.1%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.2%
+,9:06am,GBP,Low,NIESR GDP Estimate,0.5%,,0.4%
+,2:00pm,USD,Low,Federal Budget Balance,-76.9B,-76.5B,-74.9B
+Sat Aug 11 2018,,,No specified,,,,

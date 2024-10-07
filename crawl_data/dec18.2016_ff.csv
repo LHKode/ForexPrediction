@@ -1,0 +1,72 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 18 2016,4:00pm,NZD,Low,Westpac Consumer Sentiment,113.1,,108.0
+,4:45pm,NZD,Low,Building Consents m/m,2.6%,,-0.2%
+,6:50pm,JPY,Low,Trade Balance,0.54T,0.59T,0.47T
+,6:58pm,NZD,Medium,ANZ Business Confidence,21.7,,20.5
+,7:30pm,AUD,High,Mid-Year Economic and Fiscal Outlook,,,
+Mon Dec 19 2016,4:00am,EUR,High,German ifo Business Climate,111.0,110.7,110.4
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,9:45am,USD,Low,Flash Services PMI,53.4,55.2,54.6
+,10:33am,AUD,Low,CB Leading Index m/m,-0.4%,,0.5%
+,11:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,1:30pm,USD,High,Fed Chair Yellen Speaks,,,
+,4:45pm,NZD,Low,FPI m/m,-0.1%,,-0.8%
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,9:51pm,JPY,High,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+,,JPY,High,Monetary Policy Statement,,,
+Tue Dec 20 2016,1:30am,JPY,High,BOJ Press Conference,,,
+,2:00am,CHF,Low,Trade Balance,3.64B,3.57B,2.66B
+,,EUR,Low,German PPI m/m,0.3%,0.1%,0.7%
+,4:00am,EUR,Low,Current Account,28.4B,24.2B,27.7B
+,6:00am,GBP,Low,CBI Realized Sales,35,20,26
+,8:30am,CAD,Medium,Wholesale Sales m/m,1.1%,0.3%,-1.5%
+,9:00am,CNY,Low,CB Leading Index m/m,1.0%,,0.8%
+,9:05am,NZD,High,GDT Price Index,-0.5%,,3.5%
+,4:45pm,NZD,Medium,Trade Balance,-705M,-500M,-815M
+,,NZD,Low,Visitor Arrivals m/m,0.5%,,2.3%
+,6:30pm,AUD,Low,MI Leading Index m/m,0.0%,,0.1%
+,9:00pm,NZD,Low,Credit Card Spending y/y,4.1%,,10.1%
+,11:30pm,JPY,Low,All Industries Activity m/m,0.2%,0.1%,0.0%
+Wed Dec 21 2016,4:30am,GBP,Medium,Public Sector Net Borrowing,12.2B,11.5B,4.3B
+,8:56am,EUR,Low,Belgian NBB Business Climate,-0.2,-1.1,-1.8
+,9:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,9:58am,EUR,Low,Consumer Confidence,-5,-6,-6
+,10:00am,USD,Medium,Existing Home Sales,5.61M,5.52M,5.57M
+,10:30am,USD,High,Crude Oil Inventories,2.3M,-2.4M,-2.6M
+,4:45pm,NZD,High,GDP q/q,1.1%,0.8%,0.7%
+,,NZD,Medium,Current Account,-4.89B,-4.89B,-0.93B
+,6:06pm,GBP,Low,GfK Consumer Confidence,-7,-8,-8
+Thu Dec 22 2016,2:00am,EUR,Low,German Import Prices m/m,0.7%,0.2%,0.9%
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,5:00am,EUR,Low,Italian Retail Sales m/m,1.2%,0.4%,-0.5%
+,8:30am,CAD,High,CPI m/m,-0.4%,-0.1%,0.2%
+,,CAD,High,Core CPI m/m,-0.5%,-0.1%,0.2%
+,,CAD,High,Core Retail Sales m/m,1.4%,0.7%,0.3%
+,,CAD,Medium,Common CPI y/y,1.3%,,
+,,CAD,Medium,Median CPI y/y,1.9%,,
+,,CAD,Medium,Retail Sales m/m,1.1%,0.2%,0.8%
+,,CAD,Medium,Trimmed CPI y/y,1.6%,,
+,,USD,High,Core Durable Goods Orders m/m,0.5%,0.2%,0.8%
+,,USD,High,Final GDP q/q,3.5%,3.3%,3.2%
+,,USD,High,Unemployment Claims,275K,255K,254K
+,,USD,Medium,Durable Goods Orders m/m,-4.6%,-4.9%,4.6%
+,,USD,Low,Final GDP Price Index q/q,1.4%,1.4%,1.4%
+,9:00am,USD,Low,HPI m/m,0.4%,0.4%,0.6%
+,10:00am,USD,Medium,Core PCE Price Index m/m,0.0%,0.1%,0.1%
+,,USD,Medium,Personal Spending m/m,0.2%,0.4%,0.4%
+,,USD,Low,CB Leading Index m/m,0.0%,0.2%,0.1%
+,,USD,Low,Personal Income m/m,0.0%,0.3%,0.5%
+,10:30am,USD,Low,Natural Gas Storage,-209B,-201B,-147B
+,All Day,JPY,Holiday,Bank Holiday,,,
+Fri Dec 23 2016,2:00am,EUR,Low,German GfK Consumer Climate,9.9,9.8,9.8
+,2:45am,EUR,Low,French Consumer Spending m/m,0.4%,0.1%,0.8%
+,3:00am,CHF,Medium,KOF Economic Barometer,102.2,103.1,102.2
+,4:30am,GBP,High,Current Account,-25.5B,-28.3B,-22.1B
+,,GBP,Medium,Final GDP q/q,0.6%,0.5%,0.5%
+,,GBP,Low,Index of Services 3m/3m,1.0%,0.9%,1.0%
+,,GBP,Low,Revised Business Investment q/q,0.4%,0.9%,0.9%
+,8:30am,CAD,High,GDP m/m,-0.3%,0.1%,0.4%
+,10:00am,USD,Medium,New Home Sales,592K,575K,563K
+,,USD,Medium,Revised UoM Consumer Sentiment,98.2,98.2,98.0
+,,USD,Low,Revised UoM Inflation Expectations,2.2%,,2.3%
+Sat Dec 24 2016,,,No specified,,,,

@@ -1,0 +1,90 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Apr 15 2018,6:45pm,NZD,Low,FPI m/m,1.0%,,-0.5%
+,7:01pm,GBP,Low,Rightmove HPI m/m,0.4%,,1.5%
+Mon Apr 16 2018,1:52am,EUR,Low,German WPI m/m,0.0%,0.4%,-0.3%
+,3:15am,CHF,Medium,PPI m/m,-0.2%,0.4%,0.3%
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.2%,0.2%
+,,USD,High,Retail Sales m/m,0.6%,0.4%,-0.1%
+,,USD,Medium,Empire State Manufacturing Index,15.8,19.8,22.5
+,9:30am,GBP,Low,CB Leading Index m/m,-0.4%,,0.0%
+,10:00am,USD,Low,Business Inventories m/m,0.6%,0.6%,0.6%
+,,USD,Low,NAHB Housing Market Index,69,71,70
+,1:15pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,49.0B,52.3B,61.4B
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,10:00pm,CNY,High,GDP q/y,6.8%,6.8%,6.8%
+,,CNY,Medium,Fixed Asset Investment ytd/y,7.5%,7.7%,7.9%
+,,CNY,Medium,Industrial Production y/y,6.0%,6.4%,7.2%
+,,CNY,Medium,NBS Press Conference,,,
+,,CNY,Low,Retail Sales y/y,10.1%,9.7%,9.7%
+,,CNY,Low,Unemployment Rate,5.1%,,5.0%
+Tue Apr 17 2018,12:30am,JPY,Low,Revised Industrial Production m/m,2.0%,4.0%,4.1%
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.8%,3.0%,2.8%
+,,GBP,Medium,Claimant Count Change,11.6K,13.3K,15.1K
+,,GBP,Medium,Unemployment Rate,4.2%,4.3%,4.3%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-8.2,-0.8,5.1
+,,EUR,Low,Italian Trade Balance,3.10B,2.23B,-0.09B
+,,EUR,Low,ZEW Economic Sentiment,1.9,7.3,13.4
+,8:30am,CAD,Medium,Foreign Securities Purchases,3.96B,7.24B,5.63B
+,,CAD,Medium,Manufacturing Sales m/m,1.9%,1.0%,-1.3%
+,,USD,High,Building Permits,1.35M,1.33M,1.32M
+,,USD,Medium,Housing Starts,1.32M,1.27M,1.30M
+,9:15am,USD,Medium,Capacity Utilization Rate,78.0%,77.9%,78.1%
+,,USD,Medium,FOMC Member Williams Speaks,,,
+,,USD,Medium,Industrial Production m/m,0.5%,0.3%,1.1%
+,10:00am,USD,Medium,FOMC Member Quarles Speaks,,,
+,10:26am,NZD,Medium,GDT Price Index,2.7%,,-0.6%
+,5:40pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,7:50pm,JPY,Low,Trade Balance,0.12T,0.10T,-0.21T
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.2%,,0.4%
+Wed Apr 18 2018,4:30am,GBP,High,CPI y/y,2.5%,2.7%,2.7%
+,,GBP,Medium,PPI Input m/m,-0.1%,0.3%,-0.4%
+,,GBP,Medium,RPI y/y,3.3%,3.5%,3.6%
+,,GBP,Low,Core CPI y/y,2.3%,2.5%,2.4%
+,,GBP,Low,HPI y/y,4.4%,4.8%,4.7%
+,,GBP,Low,PPI Output m/m,0.2%,0.1%,0.0%
+,5:00am,EUR,Medium,Final CPI y/y,1.3%,1.4%,1.4%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,5:32am,EUR,Low,German 10-y Bond Auction,0.51|1.4,,0.60|1.3
+,10:00am,CAD,High,BOC Monetary Policy Report,,,
+,,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.25%,1.25%,1.25%
+,10:30am,USD,High,Crude Oil Inventories,-1.1M,-0.5M,3.3M
+,11:15am,CAD,High,BOC Press Conference,,,
+,2:00pm,USD,Low,Beige Book,,,
+,3:15pm,USD,Medium,FOMC Member Dudley Speaks,,,
+,4:15pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,6:45pm,NZD,High,CPI q/q,0.5%,0.4%,0.1%
+,9:30pm,AUD,High,Employment Change,4.9K,20.3K,-6.3K
+,,AUD,High,Unemployment Rate,5.5%,5.5%,5.5%
+,,AUD,Low,NAB Quarterly Business Confidence,7,,7
+Thu Apr 19 2018,4:00am,EUR,Low,Current Account,35.1B,32.3B,39.0B
+,4:30am,GBP,High,Retail Sales m/m,-1.2%,-0.5%,0.8%
+,4:44am,EUR,Low,Spanish 10-y Bond Auction,1.24|1.3,,1.15|1.5
+,5:36am,GBP,Low,10-y Bond Auction,1.60|2.4,,1.58|2.6
+,8:00am,USD,Medium,FOMC Member Brainard Speaks,,,
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,42.8K,,16.2K
+,,USD,Medium,Philly Fed Manufacturing Index,23.2,20.8,22.3
+,,USD,Medium,Unemployment Claims,232K,230K,233K
+,9:30am,USD,Medium,FOMC Member Quarles Speaks,,,
+,10:00am,USD,Low,CB Leading Index m/m,0.3%,0.3%,0.7%
+,10:30am,USD,Low,Natural Gas Storage,-36B,-23B,-19B
+,12:30pm,GBP,Medium,MPC Member Cunliffe Speaks,,,
+,6:45pm,USD,Medium,FOMC Member Mester Speaks,,,
+,7:30pm,JPY,Low,National Core CPI y/y,0.9%,0.9%,1.0%
+Fri Apr 20 2018,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.0%,0.1%,-0.4%
+,2:00am,EUR,Low,German PPI m/m,0.1%,0.2%,-0.1%
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,5:30am,GBP,Medium,MPC Member Saunders Speaks,,,
+,7:30am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,8:30am,CAD,High,CPI m/m,0.3%,0.4%,0.6%
+,,CAD,High,Core Retail Sales m/m,0.0%,0.4%,1.0%
+,,CAD,Medium,Common CPI y/y,1.9%,,1.9%
+,,CAD,Medium,Median CPI y/y,2.1%,,2.1%
+,,CAD,Medium,Retail Sales m/m,0.4%,0.4%,0.1%
+,,CAD,Medium,Trimmed CPI y/y,2.0%,,2.1%
+,,CAD,Low,Core CPI m/m,0.2%,,0.7%
+,10:00am,EUR,Low,Consumer Confidence,0,0,0
+,Day 1,All,Low,IMF Meetings,,,
+,11:15am,USD,Medium,FOMC Member Williams Speaks,,,
+Sat Apr 21 2018,Day 2,All,Low,IMF Meetings,,,

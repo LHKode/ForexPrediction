@@ -1,0 +1,96 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 9 2018,6:45pm,NZD,Low,Manufacturing Sales q/q,1.8%,,0.7%
+,7:50pm,JPY,Low,Bank Lending y/y,2.2%,2.0%,2.0%
+,,JPY,Low,Current Account,1.48T,1.56T,1.76T
+,,JPY,Low,Final GDP Price Index y/y,0.1%,0.1%,0.1%
+,,JPY,Low,Final GDP q/q,0.7%,0.7%,0.5%
+,9:30pm,CNY,Medium,CPI y/y,2.3%,2.1%,2.1%
+,,CNY,Low,PPI y/y,4.1%,4.1%,4.6%
+,11:05pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+Mon Sep 10 2018,1:02am,JPY,Low,Economy Watchers Sentiment,48.7,47.2,46.6
+,4:30am,EUR,Low,Sentix Investor Confidence,12.0,13.8,14.7
+,,GBP,High,GDP m/m,0.3%,0.2%,0.1%
+,,GBP,High,Manufacturing Production m/m,-0.2%,0.2%,0.4%
+,,GBP,Medium,Goods Trade Balance,-10.0B,-11.7B,-10.7B
+,,GBP,Low,Construction Output m/m,0.5%,-0.4%,1.4%
+,,GBP,Low,Index of Services 3m/3m,0.6%,0.5%,0.5%
+,,GBP,Low,Industrial Production m/m,0.1%,0.2%,0.4%
+,9:17am,GBP,Low,NIESR GDP Estimate,0.6%,,0.6%
+,12:15pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,16.6B,14.5B,8.5B
+,7:50pm,JPY,Low,M2 Money Stock y/y,2.9%,3.0%,2.9%
+,9:30pm,AUD,Medium,NAB Business Confidence,4,,7
+Tue Sep 11 2018,12:00am,JPY,Low,30-y Bond Auction,0.84|4.2,,0.85|4.7
+,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.1%,0.1%,-0.6%
+,1:30am,EUR,Low,French Final Private Payrolls q/q,0.1%,0.2%,0.2%
+,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,5.3%,,13.1%
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.6%,2.4%,2.4%
+,,GBP,Medium,Claimant Count Change,8.7K,6.9K,10.2K
+,,GBP,Medium,Unemployment Rate,4.0%,4.0%,4.0%
+,5:00am,EUR,Medium,German ZEW Economic Sentiment,-10.6,-13.5,-13.7
+,,EUR,Low,Final Employment Change q/q,0.4%,0.4%,0.4%
+,,EUR,Low,ZEW Economic Sentiment,-7.2,-10.9,-11.1
+,5:37am,GBP,Low,30-y Bond Auction,1.83|1.8,,1.94|2.1
+,5:51am,USD,Low,NFIB Small Business Index,108.8,108.1,107.9
+,8:13am,CAD,Low,Housing Starts,201K,213K,206K
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.6%,0.7%,0.7%
+,,USD,Low,JOLTS Job Openings,6.94M,6.68M,6.82M
+,7:50pm,JPY,Low,BSI Manufacturing Index,6.5,8.0,-3.2
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-3.0%,,-2.3%
+Wed Sep 12 2018,4:00am,EUR,Low,Italian Industrial Production m/m,-1.8%,-0.4%,0.3%
+,5:00am,CNY,Low,M2 Money Supply y/y,8.2%,8.6%,8.5%
+,,CNY,Low,New Loans,1280B,1350B,1450B
+,,EUR,Low,Industrial Production m/m,-0.8%,-0.5%,-0.8%
+,,EUR,Low,Italian Quarterly Unemployment Rate,10.7%,10.8%,11.0%
+,5:35am,EUR,Low,German 30-y Bond Auction,1.10|2.0,,0.94|1.6
+,8:30am,CAD,Low,Capacity Utilization Rate,85.5%,86.9%,83.7%
+,,USD,High,PPI m/m,-0.1%,0.2%,0.0%
+,,USD,Medium,Core PPI m/m,-0.1%,0.2%,0.1%
+,10:30am,USD,High,Crude Oil Inventories,-5.3M,-1.3M,-4.3M
+,12:45pm,USD,Medium,FOMC Member Brainard Speaks,,,
+,1:01pm,USD,Low,10-y Bond Auction,2.96|2.6,,2.96|2.5
+,2:00pm,USD,Low,Beige Book,,,
+,6:45pm,NZD,Low,FPI m/m,-0.5%,,0.7%
+,7:01pm,GBP,Low,RICS House Price Balance,2%,2%,4%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,11.0%,5.6%,-8.8%
+,,JPY,Low,PPI y/y,3.0%,3.1%,3.0%
+,9:00pm,AUD,Low,MI Inflation Expectations,4.0%,,4.0%
+,9:30pm,AUD,High,Employment Change,44.0K,16.5K,-4.3K
+,,AUD,High,Unemployment Rate,5.3%,5.3%,5.3%
+Thu Sep 13 2018,2:00am,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
+,2:45am,EUR,Low,French Final CPI m/m,0.5%,0.5%,0.5%
+,3:00am,CNY,Low,Foreign Direct Investment ytd/y,2.3%,,2.3%
+,3:15am,CHF,Low,PPI m/m,0.0%,0.0%,0.1%
+,7:00am,GBP,High,MPC Official Bank Rate Votes,0-0-9,0-0-9,9-0-0
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,Medium,Official Bank Rate,0.75%,0.75%,0.75%
+,,GBP,Low,Asset Purchase Facility,435B,435B,435B
+,,GBP,Low,MPC Asset Purchase Facility Votes,0-0-9,0-0-9,0-0-9
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Medium,NHPI m/m,0.1%,0.1%,0.1%
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,CPI m/m,0.2%,0.3%,0.2%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.2%
+,,USD,Low,Unemployment Claims,204K,210K,205K
+,10:30am,USD,Low,Natural Gas Storage,69B,65B,63B
+,1:00pm,USD,Medium,FOMC Member Bostic Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,3.09|2.3,,3.09|2.3
+,2:00pm,USD,Low,Federal Budget Balance,-214.1B,-169.8B,-76.9B
+,6:30pm,NZD,Medium,BusinessNZ Manufacturing Index,52.0,,51.2
+,10:00pm,CNY,Medium,Fixed Asset Investment ytd/y,5.3%,5.5%,5.5%
+,,CNY,Medium,Industrial Production y/y,6.1%,6.0%,6.0%
+,,CNY,Low,Retail Sales y/y,9.0%,8.8%,8.8%
+,,CNY,Low,Unemployment Rate,5.0%,,5.1%
+Fri Sep 14 2018,12:30am,JPY,Low,Revised Industrial Production m/m,-0.2%,-0.1%,-0.1%
+,5:00am,EUR,Low,Trade Balance,12.8B,16.3B,16.5B
+,6:00am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,USD,High,Core Retail Sales m/m,0.3%,0.5%,0.9%
+,,USD,High,Retail Sales m/m,0.1%,0.4%,0.7%
+,,USD,Low,Import Prices m/m,-0.6%,-0.2%,-0.1%
+,9:15am,USD,Low,Capacity Utilization Rate,78.1%,78.3%,77.9%
+,,USD,Low,Industrial Production m/m,0.4%,0.3%,0.4%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,100.8,96.7,96.2
+,,USD,Low,Business Inventories m/m,0.6%,0.5%,0.1%
+,,USD,Low,Prelim UoM Inflation Expectations,2.8%,,3.0%
+Sat Sep 15 2018,,,No specified,,,,

@@ -1,0 +1,80 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 11 2018,3:00am,CAD,Holiday,Daylight Saving Time Shift,,,
+,,USD,Holiday,Daylight Saving Time Shift,,,
+,7:50pm,JPY,Low,BSI Manufacturing Index,2.9,10.3,9.7
+Mon Mar 12 2018,1:58am,JPY,Low,Prelim Machine Tool Orders y/y,39.5%,,48.8%
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,1:01pm,USD,Low,10-y Bond Auction,2.89|2.5,,2.81|2.3
+,2:00pm,USD,Low,Federal Budget Balance,-215.2B,-222.3B,49.2B
+,5:45pm,NZD,Low,FPI m/m,-0.5%,,1.2%
+,7:45pm,NZD,High,RBNZ Gov Spencer Speaks,,,
+,7:50pm,JPY,Low,PPI y/y,2.5%,2.5%,2.7%
+,8:10pm,AUD,Medium,RBA Assist Gov Bullock Speaks,,,
+,8:30pm,AUD,Medium,NAB Business Confidence,9,,11
+,,AUD,Low,Home Loans m/m,-1.1%,-0.1%,-2.5%
+Tue Mar 13 2018,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.6%,-0.2%,0.0%
+,2:30am,EUR,Low,French Final Private Payrolls q/q,0.4%,0.3%,0.3%
+,5:00am,EUR,Low,Italian Quarterly Unemployment Rate,11.0%,11.0%,11.2%
+,6:00am,USD,Low,NFIB Small Business Index,107.6,107.1,106.9
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,GBP,High,Annual Budget Release,,,
+,,USD,High,CPI m/m,0.2%,0.2%,0.5%
+,,USD,High,Core CPI m/m,0.2%,0.2%,0.3%
+,10:15am,CAD,High,BOC Gov Poloz Speaks,,,
+,1:01pm,USD,Low,30-y Bond Auction,3.11|2.4,,3.12|2.3
+,5:45pm,NZD,Medium,Current Account,-2.77B,-2.45B,-4.83B
+,6:05pm,AUD,Medium,RBA Assist Gov Kent Speaks,,,
+,7:30pm,AUD,Low,Westpac Consumer Sentiment,0.2%,,-2.3%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,8.2%,5.3%,-11.9%
+,,JPY,Low,Monetary Policy Meeting Minutes,,,
+,10:00pm,CNY,High,Industrial Production y/y,7.2%,6.2%,6.2%
+,,CNY,Medium,Fixed Asset Investment ytd/y,7.9%,7.0%,7.2%
+,,CNY,Low,Retail Sales y/y,9.7%,9.9%,9.4%
+Wed Mar 14 2018,3:00am,EUR,Low,German Final CPI m/m,0.5%,0.5%,0.5%
+,4:00am,EUR,High,ECB President Draghi Speaks,,,
+,5:03am,EUR,Low,Italian Retail Sales m/m,-0.5%,-0.1%,-0.9%
+,6:00am,EUR,Low,Final Employment Change q/q,0.3%,0.3%,0.4%
+,,EUR,Low,Industrial Production m/m,-1.0%,-0.4%,0.4%
+,6:33am,EUR,Low,German 30-y Bond Auction,1.27|1.1,,1.33|1.5
+,8:30am,USD,High,Core Retail Sales m/m,0.2%,0.4%,0.1%
+,,USD,High,PPI m/m,0.2%,0.1%,0.4%
+,,USD,High,Retail Sales m/m,-0.1%,0.3%,-0.1%
+,,USD,Medium,Core PPI m/m,0.2%,0.2%,0.4%
+,10:00am,USD,Low,Business Inventories m/m,0.6%,0.6%,0.6%
+,10:30am,USD,High,Crude Oil Inventories,5.0M,2.2M,2.4M
+,5:45pm,NZD,High,GDP q/q,0.6%,0.8%,0.6%
+,8:00pm,AUD,Low,MI Inflation Expectations,3.7%,,3.6%
+,8:30pm,AUD,Low,RBA Bulletin,,,
+Thu Mar 15 2018,3:25am,CNY,Low,Foreign Direct Investment ytd/y,0.5%,,0.3%
+,3:45am,EUR,Low,French Final CPI m/m,0.0%,-0.1%,-0.1%
+,4:15am,CHF,Medium,PPI m/m,0.3%,0.2%,0.3%
+,4:30am,CHF,High,Libor Rate,-0.75%,-0.75%,-0.75%
+,,CHF,High,SNB Monetary Policy Assessment,,,
+,5:48am,EUR,Low,Spanish 10-y Bond Auction,1.36|1.3,,1.50|2.0
+,6:35am,GBP,Low,10-y Bond Auction,1.58|2.6,,1.29|2.4
+,8:30am,CAD,Low,ADP Non-Farm Employment Change,32.7K,,-2.3K
+,,USD,Medium,Empire State Manufacturing Index,22.5,14.9,13.1
+,,USD,Medium,Philly Fed Manufacturing Index,22.3,23.1,25.8
+,,USD,Medium,Unemployment Claims,226K,227K,230K
+,,USD,Low,Import Prices m/m,0.4%,0.3%,0.8%
+,10:00am,USD,Low,NAHB Housing Market Index,70,72,71
+,10:30am,USD,Low,Natural Gas Storage,-93B,-99B,-57B
+,4:00pm,USD,Low,TIC Long-Term Purchases,62.1B,35.9B,23.3B
+,5:30pm,NZD,Medium,BusinessNZ Manufacturing Index,53.4,,54.4
+,6:45pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+Fri Mar 16 2018,12:30am,JPY,Low,Revised Industrial Production m/m,-6.8%,-6.6%,-6.6%
+,3:00am,EUR,Low,German WPI m/m,-0.3%,0.2%,0.9%
+,5:30am,GBP,Low,FPC Statement,,,
+,6:00am,EUR,Medium,Final CPI y/y,1.1%,1.2%,1.2%
+,,EUR,Low,Final Core CPI y/y,1.0%,1.0%,1.0%
+,8:30am,CAD,Medium,Foreign Securities Purchases,5.68B,9.11B,-1.54B
+,,CAD,Medium,Manufacturing Sales m/m,-1.0%,-0.8%,-0.1%
+,,USD,High,Building Permits,1.30M,1.32M,1.38M
+,,USD,Medium,Housing Starts,1.24M,1.29M,1.33M
+,9:15am,USD,Medium,Capacity Utilization Rate,78.1%,77.7%,77.4%
+,,USD,Medium,Industrial Production m/m,1.1%,0.3%,-0.3%
+,9:30am,GBP,Low,CB Leading Index m/m,0.0%,,-0.2%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,102.0,99.2,99.7
+,,USD,Low,JOLTS Job Openings,6.31M,5.91M,5.81M
+,,USD,Low,Prelim UoM Inflation Expectations,2.9%,,2.7%
+Sat Mar 17 2018,,,No specified,,,,

@@ -1,0 +1,85 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 26 2019,Day 4,EUR,High,European Parliamentary Elections,,,
+,11:00pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+Mon May 27 2019,All Day,GBP,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,7:50pm,JPY,Low,SPPI y/y,0.9%,1.2%,1.1%
+Tue May 28 2019,1:00am,JPY,Low,BOJ Core CPI y/y,0.7%,0.7%,0.5%
+,1:45am,CHF,Low,GDP q/q,0.6%,0.3%,0.3%
+,2:00am,CHF,Low,Trade Balance,2.29B,2.98B,3.25B
+,,EUR,Low,German GfK Consumer Climate,10.1,10.4,10.2
+,,EUR,Low,German Import Prices m/m,0.3%,0.5%,0.0%
+,4:00am,EUR,Low,M3 Money Supply y/y,4.7%,4.4%,4.6%
+,,EUR,Low,Private Loans y/y,3.4%,3.3%,3.3%
+,4:30am,GBP,Low,High Street Lending,43.0K,39.3K,40.6K
+,9:00am,USD,Low,HPI m/m,0.1%,0.2%,0.4%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,2.7%,3.1%,3.0%
+,10:00am,USD,Medium,CB Consumer Confidence,134.1,130.1,129.2
+,5:00pm,NZD,High,RBNZ Financial Stability Report,,,
+,6:00pm,USD,Medium,Treasury Currency Report,,,
+,7:00pm,NZD,High,RBNZ Gov Orr Speaks,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,0.8%,,0.4%
+,8:00pm,JPY,Medium,BOJ Gov Kuroda Speaks,,,
+,9:00pm,NZD,High,ANZ Business Confidence,-32.0,,-37.5
+,9:10pm,NZD,High,RBNZ Gov Orr Speaks,,,
+Wed May 29 2019,2:45am,EUR,Low,French Consumer Spending m/m,0.8%,0.5%,-0.3%
+,,EUR,Low,French Prelim CPI m/m,0.2%,0.3%,0.3%
+,,EUR,Low,French Prelim GDP q/q,0.3%,0.3%,0.3%
+,3:00am,CHF,Low,KOF Economic Barometer,94.4,96.4,96.2
+,,EUR,Medium,German Buba President Weidmann Speaks,,,
+,3:55am,EUR,Low,German Unemployment Change,60K,-8K,-12K
+,4:00am,CHF,Low,Credit Suisse Economic Expectations,-14.3,,-7.7
+,,EUR,Low,ECB Financial Stability Review,,,
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.75%,1.75%,1.75%
+,,USD,Low,Richmond Manufacturing Index,5,6,3
+,6:45pm,NZD,Low,Building Consents m/m,-7.9%,,-7.4%
+,9:30pm,AUD,High,Building Approvals m/m,-4.7%,0.1%,-13.4%
+,,AUD,High,Private Capital Expenditure q/q,-1.7%,0.5%,1.3%
+,10:00pm,NZD,High,Annual Budget Release,,,
+,11:59pm,AUD,Low,HIA New Home Sales m/m,-11.8%,,-0.1%
+Thu May 30 2019,All Day,CHF,Holiday,Bank Holiday,,,
+,All Day,EUR,Holiday,French Bank Holiday,,,
+,All Day,EUR,Holiday,German Bank Holiday,,,
+,3:00am,EUR,Low,Spanish Flash CPI y/y,0.8%,1.2%,1.5%
+,5:25am,EUR,Low,Italian 10-y Bond Auction,2.60|1.3,,2.59|1.4
+,8:30am,CAD,Medium,Current Account,-17.3B,-18.1B,-16.6B
+,,USD,High,Prelim GDP q/q,3.1%,3.1%,3.2%
+,,USD,Low,Goods Trade Balance,-72.1B,-72.0B,-71.9B
+,,USD,Low,Prelim GDP Price Index q/q,0.8%,0.9%,0.9%
+,,USD,Low,Prelim Wholesale Inventories m/m,0.7%,0.2%,-0.1%
+,,USD,Low,Unemployment Claims,215K,216K,212K
+,10:00am,USD,Low,Pending Home Sales m/m,-1.5%,0.9%,3.9%
+,10:30am,USD,Low,Natural Gas Storage,114B,98B,100B
+,11:00am,USD,Low,Crude Oil Inventories,-0.3M,-0.9M,4.7M
+,12:00pm,USD,Medium,FOMC Member Clarida Speaks,,,
+,2:15pm,CAD,High,Gov Council Member Wilkins Speaks,,,
+,7:01pm,GBP,Low,GfK Consumer Confidence,-10,-12,-13
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,1.1%,1.2%,1.3%
+,,JPY,Low,Unemployment Rate,2.4%,2.4%,2.5%
+,7:50pm,JPY,Low,Prelim Industrial Production m/m,0.6%,0.2%,-0.6%
+,,JPY,Low,Retail Sales y/y,0.5%,1.0%,1.0%
+,8:49pm,CNY,Medium,Non-Manufacturing PMI,54.3,54.3,54.3
+,8:57pm,CNY,High,Manufacturing PMI,49.4,49.9,50.1
+,9:30pm,AUD,Low,Private Sector Credit m/m,0.2%,0.3%,0.3%
+Fri May 31 2019,12:59am,JPY,Low,Consumer Confidence,39.4,40.6,40.4
+,1:00am,JPY,Low,Housing Starts y/y,-5.7%,-0.8%,10.0%
+,2:00am,EUR,Low,German Retail Sales m/m,-2.0%,0.4%,0.0%
+,,GBP,Low,Nationwide HPI m/m,-0.2%,0.0%,0.3%
+,2:30am,CHF,Low,Retail Sales y/y,-0.7%,-0.8%,-0.7%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.2%,0.3%,1.0%
+,4:30am,GBP,Low,M4 Money Supply m/m,0.9%,0.4%,-0.5%
+,,GBP,Low,Mortgage Approvals,66K,64K,63K
+,,GBP,Low,Net Lending to Individuals m/m,5.2B,4.6B,5.0B
+,5:00am,EUR,Low,Italian Prelim CPI m/m,0.1%,0.2%,0.2%
+,8:30am,CAD,High,GDP m/m,0.5%,0.4%,-0.2%
+,,CAD,Medium,RMPI m/m,5.6%,2.3%,2.8%
+,,CAD,Low,IPPI m/m,0.8%,0.7%,1.3%
+,,USD,Medium,Core PCE Price Index m/m,0.2%,0.2%,0.1%
+,,USD,Medium,Personal Spending m/m,0.3%,0.2%,1.1%
+,,USD,Low,Personal Income m/m,0.5%,0.3%,0.1%
+,9:45am,USD,Medium,Chicago PMI,54.2,55.1,52.6
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,100.0,102.0,102.4
+,,USD,Low,Revised UoM Inflation Expectations,2.9%,,2.8%
+,12:00pm,USD,Medium,FOMC Member Williams Speaks,,,
+Sat Jun 1 2019,,,No specified,,,,

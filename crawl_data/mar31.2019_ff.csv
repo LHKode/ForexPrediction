@@ -1,0 +1,93 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Mar 31 2019,5:30pm,AUD,Low,AIG Manufacturing Index,51.0,,54.0
+,7:50pm,JPY,Low,Tankan Manufacturing Index,12,13,19
+,,JPY,Low,Tankan Non-Manufacturing Index,21,22,24
+,8:00pm,AUD,Low,MI Inflation Gauge m/m,0.4%,,0.1%
+,8:30pm,AUD,Low,NAB Business Confidence,0,,2
+,,JPY,Low,Final Manufacturing PMI,49.2,48.9,48.9
+,9:45pm,CNY,High,Caixin Manufacturing PMI,50.8,50.1,49.9
+,11:30pm,AUD,Low,HIA New Home Sales m/m,1.0%,,-1.8%
+Mon Apr 1 2019,1:30am,AUD,Low,Commodity Prices y/y,11.0%,,9.7%
+,2:30am,CHF,Low,Retail Sales y/y,-0.2%,0.3%,-0.2%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,50.9,49.8,49.9
+,3:30am,CHF,Low,Manufacturing PMI,50.3,53.6,55.4
+,3:45am,EUR,Low,Italian Manufacturing PMI,47.4,47.6,47.7
+,3:50am,EUR,Low,French Final Manufacturing PMI,49.7,49.8,49.8
+,3:55am,EUR,Low,German Final Manufacturing PMI,44.1,44.7,44.7
+,4:00am,EUR,Low,Final Manufacturing PMI,47.5,47.6,47.6
+,,EUR,Low,Italian Monthly Unemployment Rate,10.7%,10.5%,10.5%
+,4:30am,GBP,Medium,Final Manufacturing PMI,55.1,51.2,52.1
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.4%,1.5%,1.5%
+,,EUR,Medium,Core CPI Flash Estimate y/y,0.8%,0.9%,1.0%
+,,EUR,Low,Unemployment Rate,7.8%,7.8%,7.8%
+,8:30am,USD,High,Core Retail Sales m/m,-0.4%,0.4%,1.4%
+,,USD,High,Retail Sales m/m,-0.2%,0.3%,0.7%
+,9:30am,CAD,Low,Manufacturing PMI,50.5,,52.6
+,9:45am,USD,Low,Final Manufacturing PMI,52.4,52.5,52.5
+,10:00am,USD,High,ISM Manufacturing PMI,55.3,54.4,54.2
+,,USD,Low,Business Inventories m/m,0.8%,0.4%,0.8%
+,,USD,Low,Construction Spending m/m,1.0%,0.1%,2.5%
+,,USD,Low,ISM Manufacturing Prices,54.3,55.0,49.4
+,2:55pm,CAD,High,BOC Gov Poloz Speaks,,,
+,5:00pm,NZD,Medium,NZIER Business Confidence,-29,,-17
+,7:50pm,JPY,Low,Monetary Base y/y,3.8%,4.4%,4.6%
+,8:30pm,AUD,High,Building Approvals m/m,19.1%,-1.7%,2.3%
+,11:30pm,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,1.50%,1.50%,1.50%
+,11:35pm,JPY,Low,10-y Bond Auction,-0.06|5.1,,0.00|4.3
+Tue Apr 2 2019,2:30am,CHF,Low,CPI m/m,0.5%,0.4%,0.4%
+,3:00am,EUR,Low,Spanish Unemployment Change,-34.0K,-28.5K,3.3K
+,4:30am,AUD,High,Annual Budget Release,,,
+,,GBP,Low,Construction PMI,49.7,49.8,49.5
+,5:00am,EUR,Low,PPI m/m,0.1%,0.2%,0.3%
+,8:30am,USD,High,Core Durable Goods Orders m/m,0.1%,0.3%,-0.2%
+,,USD,Medium,Durable Goods Orders m/m,-1.6%,-1.1%,0.3%
+,All Day,USD,Low,Wards Total Vehicle Sales,17.5M,16.8M,16.6M
+,10:49am,NZD,Low,GDT Price Index,0.8%,,1.9%
+,All Day,USD,Low,Total Vehicle Sales,17.5M,16.7M,16.6M
+,5:30pm,AUD,Low,AIG Services Index,44.8,,44.5
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,0.9%,,0.7%
+,8:00pm,NZD,Low,ANZ Commodity Prices m/m,1.4%,,2.8%
+,8:30pm,AUD,High,Retail Sales m/m,0.8%,0.3%,0.1%
+,,AUD,Medium,Trade Balance,4.80B,3.71B,4.35B
+,9:45pm,CNY,Medium,Caixin Services PMI,54.4,52.3,51.1
+Wed Apr 3 2019,3:15am,EUR,Low,Spanish Services PMI,56.8,55.0,54.5
+,3:45am,EUR,Low,Italian Services PMI,53.1,50.9,50.4
+,3:50am,EUR,Low,French Final Services PMI,49.1,48.7,48.7
+,3:55am,EUR,Low,German Final Services PMI,55.4,54.9,54.9
+,4:00am,EUR,Low,Final Services PMI,53.3,52.7,52.7
+,4:30am,GBP,Medium,Final Services PMI,48.9,51.0,51.3
+,5:00am,EUR,Low,Retail Sales m/m,0.4%,0.2%,0.9%
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,129K,184K,197K
+,9:45am,USD,Low,Final Services PMI,55.3,54.8,54.8
+,10:00am,USD,Medium,ISM Services PMI,56.1,58.1,59.7
+,10:30am,USD,Low,Crude Oil Inventories,7.2M,-0.7M,2.8M
+,11:35pm,JPY,Low,30-y Bond Auction,0.54|4.6,,0.62|4.6
+Thu Apr 4 2019,2:00am,EUR,Low,German Factory Orders m/m,-4.2%,0.3%,-2.1%
+,4:30am,GBP,Low,Housing Equity Withdrawal q/q,-6.2B,-7.7B,-7.3B
+,4:58am,EUR,Low,Spanish 10-y Bond Auction,1.12|1.3,,1.10|1.5
+,5:00am,EUR,Low,French 10-y Bond Auction,0.39|2.1,,0.57|1.9
+,7:30am,EUR,Medium,ECB Monetary Policy Meeting Accounts,,,
+,,USD,Low,Challenger Job Cuts y/y,0.4%,,117.2%
+,8:30am,USD,Low,Unemployment Claims,202K,215K,212K
+,10:00am,CAD,Medium,Ivey PMI,54.3,51.4,50.6
+,10:30am,USD,Low,Natural Gas Storage,23B,2B,-36B
+,5:30pm,AUD,Low,AIG Construction Index,45.6,,43.8
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-0.8%,0.9%,-0.6%
+,,JPY,Low,Household Spending y/y,1.7%,1.9%,2.0%
+,All Day,CNY,Holiday,Bank Holiday,,,
+Fri Apr 5 2019,1:00am,JPY,Low,Leading Indicators,97.4%,97.3%,96.5%
+,2:00am,EUR,Low,German Industrial Production m/m,0.7%,0.6%,0.0%
+,2:45am,EUR,Low,French Trade Balance,-4.0B,-4.7B,-4.2B
+,3:00am,CHF,Low,Foreign Currency Reserves,756B,,739B
+,3:30am,GBP,Low,Halifax HPI m/m,-1.6%,-2.5%,6.0%
+,All Day,EUR,Low,Eurogroup Meetings,,,
+,8:30am,CAD,High,Employment Change,-7.2K,3.0K,55.9K
+,,CAD,High,Unemployment Rate,5.8%,5.8%,5.8%
+,,USD,High,Average Hourly Earnings m/m,0.1%,0.3%,0.4%
+,,USD,High,Non-Farm Employment Change,196K,172K,33K
+,,USD,High,Unemployment Rate,3.8%,3.8%,3.8%
+,3:00pm,USD,Low,Consumer Credit m/m,15.2B,17.2B,17.7B
+Sat Apr 6 2019,All Day,EUR,Low,ECOFIN Meetings,,,
+,10:00am,NZD,Holiday,Daylight Saving Time Shift,,,
+,12:00pm,AUD,Holiday,Daylight Saving Time Shift,,,

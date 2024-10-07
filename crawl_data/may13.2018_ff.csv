@@ -1,0 +1,86 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 13 2018,7:50pm,JPY,Low,PPI y/y,2.0%,2.0%,2.1%
+Mon May 14 2018,1:59am,JPY,Low,Prelim Machine Tool Orders y/y,22.0%,,28.1%
+,2:45am,USD,Medium,FOMC Member Mester Speaks,,,
+,11:00am,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,7:10pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,9:40pm,AUD,Medium,RBA Deputy Gov Debelle Speaks,,,
+,10:00pm,CNY,Medium,Fixed Asset Investment ytd/y,7.0%,7.4%,7.5%
+,,CNY,Medium,Industrial Production y/y,7.0%,6.4%,6.0%
+,,CNY,Low,Retail Sales y/y,9.4%,10.0%,10.1%
+,,CNY,Low,Unemployment Rate,4.9%,,5.1%
+,11:35pm,JPY,Low,30-y Bond Auction,0.75|4.4,,0.71|4.3
+Tue May 15 2018,12:30am,JPY,Low,Tertiary Industry Activity m/m,-0.3%,-0.2%,0.1%
+,2:00am,EUR,Medium,German Prelim GDP q/q,0.3%,0.4%,0.6%
+,2:45am,EUR,Low,French Final CPI m/m,0.2%,0.1%,0.1%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.3%,0.4%,0.4%
+,3:15am,CHF,Medium,PPI m/m,0.4%,0.3%,-0.2%
+,4:30am,GBP,High,Average Earnings Index 3m/y,2.6%,2.7%,2.8%
+,,GBP,Medium,Claimant Count Change,31.2K,13.3K,15.7K
+,,GBP,Medium,Unemployment Rate,4.2%,4.2%,4.2%
+,5:00am,EUR,Medium,Flash GDP q/q,0.4%,0.4%,0.4%
+,,EUR,Medium,German ZEW Economic Sentiment,-8.2,-8.0,-8.2
+,,EUR,Low,Industrial Production m/m,0.5%,0.6%,-0.9%
+,,EUR,Low,ZEW Economic Sentiment,2.4,2.0,1.9
+,8:30am,USD,High,Core Retail Sales m/m,0.3%,0.5%,0.4%
+,,USD,High,Retail Sales m/m,0.3%,0.4%,0.8%
+,,USD,Medium,Empire State Manufacturing Index,20.1,15.1,15.8
+,10:00am,USD,Low,Business Inventories m/m,0.0%,0.2%,0.6%
+,,USD,Low,NAHB Housing Market Index,70,70,68
+,10:19am,NZD,Medium,GDT Price Index,1.9%,,-1.1%
+,12:45pm,USD,Medium,FOMC Member Williams Speaks,,,
+,4:00pm,USD,Low,TIC Long-Term Purchases,61.8B,51.3B,49.0B
+,7:50pm,JPY,Medium,Prelim GDP q/q,-0.2%,0.0%,0.4%
+,,JPY,Low,Prelim GDP Price Index y/y,0.5%,0.3%,0.1%
+,8:30pm,AUD,Low,Westpac Consumer Sentiment,-0.6%,,-0.6%
+,9:30pm,AUD,High,Wage Price Index q/q,0.5%,0.6%,0.5%
+Wed May 16 2018,12:30am,JPY,Low,Revised Industrial Production m/m,1.4%,1.2%,1.2%
+,2:00am,EUR,Low,German Final CPI m/m,0.0%,0.0%,0.0%
+,5:00am,EUR,Medium,Final CPI y/y,1.2%,1.2%,1.2%
+,,EUR,Low,Final Core CPI y/y,0.7%,0.7%,0.7%
+,5:35am,EUR,Low,German 10-y Bond Auction,0.62|2.8,,0.51|1.4
+,8:00am,EUR,Medium,ECB President Draghi Speaks,,,
+,8:30am,CAD,Medium,Manufacturing Sales m/m,1.4%,1.1%,2.7%
+,,USD,High,Building Permits,1.35M,1.35M,1.38M
+,,USD,Medium,FOMC Member Bostic Speaks,,,
+,,USD,Medium,Housing Starts,1.29M,1.32M,1.34M
+,9:15am,USD,Medium,Capacity Utilization Rate,78.0%,78.4%,77.6%
+,,USD,Medium,Industrial Production m/m,0.7%,0.6%,0.7%
+,9:30am,GBP,Low,CB Leading Index m/m,-0.2%,,-0.3%
+,10:00am,USD,Medium,Mortgage Delinquencies,4.63%,,5.17%
+,10:30am,USD,High,Crude Oil Inventories,-1.4M,-1.1M,-2.2M
+,12:00pm,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,,CHF,High,SNB Chairman Jordan Speaks,,,
+,6:45pm,NZD,Low,PPI Input q/q,0.6%,0.3%,0.9%
+,,NZD,Low,PPI Output q/q,0.2%,0.2%,1.0%
+,7:50pm,JPY,Low,Core Machinery Orders m/m,-3.9%,-2.9%,2.1%
+,9:00pm,AUD,Low,MI Inflation Expectations,3.7%,,3.6%
+,9:30pm,AUD,High,Employment Change,22.6K,19.8K,-0.7K
+,,AUD,High,Unemployment Rate,5.6%,5.5%,5.5%
+,10:00pm,CNY,Low,Foreign Direct Investment ytd/y,0.1%,,0.5%
+,,NZD,High,Annual Budget Release,,,
+Thu May 17 2018,4:00am,EUR,Low,Italian Trade Balance,4.53B,3.74B,3.10B
+,4:57am,EUR,Low,Spanish 10-y Bond Auction,1.37|2.3,,1.29|2.0
+,8:30am,CAD,Medium,Foreign Securities Purchases,6.15B,3.00B,4.32B
+,,CAD,Low,ADP Non-Farm Employment Change,30.2K,,59.3K
+,,USD,Medium,Unemployment Claims,222K,216K,211K
+,8:32am,USD,Medium,Philly Fed Manufacturing Index,34.4,21.1,23.2
+,10:00am,USD,Low,CB Leading Index m/m,0.4%,0.4%,0.4%
+,10:30am,USD,Low,Natural Gas Storage,106B,105B,89B
+,12:00pm,GBP,Medium,MPC Member Haldane Speaks,,,
+,7:30pm,JPY,Low,National Core CPI y/y,0.7%,0.8%,0.9%
+Fri May 18 2018,2:00am,EUR,Low,German PPI m/m,0.5%,0.3%,0.1%
+,,EUR,Low,German WPI m/m,0.5%,0.2%,0.0%
+,3:00am,USD,Medium,FOMC Member Mester Speaks,,,
+,4:00am,EUR,Low,Current Account,32.0B,35.1B,36.8B
+,5:00am,EUR,Low,Trade Balance,21.2B,20.7B,20.9B
+,8:30am,CAD,High,CPI m/m,0.3%,0.3%,0.3%
+,,CAD,High,Core Retail Sales m/m,-0.2%,0.5%,0.0%
+,,CAD,Medium,Common CPI y/y,1.9%,,1.9%
+,,CAD,Medium,Median CPI y/y,2.1%,,2.1%
+,,CAD,Medium,Retail Sales m/m,0.6%,0.3%,0.5%
+,,CAD,Medium,Trimmed CPI y/y,2.1%,,2.0%
+,,CAD,Low,Core CPI m/m,0.1%,,0.2%
+,9:15am,USD,Medium,FOMC Member Brainard Speaks,,,
+Sat May 19 2018,,,No specified,,,,

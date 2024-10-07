@@ -1,0 +1,71 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 19 2021,7:01pm,GBP,Low,Rightmove HPI m/m,0.3%,,-0.3%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+Mon Sep 20 2021,2:00am,EUR,Low,German PPI m/m,1.5%,0.8%,1.9%
+,10:00am,USD,Low,NAHB Housing Market Index,76,74,75
+,All Day,CAD,High,Federal Election,,,
+,4:58pm,NZD,Low,Westpac Consumer Sentiment,102.7,,107.1
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,11:00pm,NZD,Low,Credit Card Spending y/y,-6.3%,,6.9%
+Tue Sep 21 2021,2:00am,CHF,Low,Trade Balance,5.06B,4.50B,5.30B
+,,GBP,Low,Public Sector Net Borrowing,19.8B,14.5B,6.2B
+,6:00am,GBP,Low,CBI Industrial Order Expectations,22,15,18
+,8:30am,CAD,Low,NHPI m/m,0.7%,0.8%,0.4%
+,,USD,Low,Building Permits,1.73M,1.60M,1.63M
+,,USD,Low,Current Account,-190B,-193B,-189B
+,,USD,Low,Housing Starts,1.62M,1.55M,1.55M
+,9:00am,CNY,Low,CB Leading Index m/m,0.8%,,0.4%
+,10:30am,AUD,Low,CB Leading Index m/m,0.3%,,0.6%
+,11:26am,NZD,Low,GDT Price Index,1.0%,,4.0%
+,8:30pm,AUD,Low,MI Leading Index m/m,-0.3%,,-0.1%
+,10:00pm,AUD,Low,RBA Assist Gov Bullock Speaks,,,
+,10:48pm,JPY,Medium,Monetary Policy Statement,,,
+,,JPY,Low,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Wed Sep 22 2021,2:30am,JPY,Medium,BOJ Press Conference,,,
+,10:00am,USD,Low,Existing Home Sales,5.88M,5.87M,6.00M
+,10:30am,USD,Medium,Crude Oil Inventories,-3.5M,-3.3M,-6.4M
+,2:00pm,USD,High,FOMC Economic Projections,,,
+,,USD,High,FOMC Statement,,,
+,,USD,Medium,Federal Funds Rate,<0.25%,<0.25%,<0.25%
+,2:30pm,USD,High,FOMC Press Conference,,,
+,4:00pm,EUR,Low,Consumer Confidence,-4,-6,-5
+,7:00pm,AUD,Low,Flash Manufacturing PMI,57.3,,52.0
+,,AUD,Low,Flash Services PMI,44.9,,42.9
+,All Day,JPY,Holiday,Bank Holiday,,,
+Thu Sep 23 2021,3:15am,EUR,Medium,French Flash Manufacturing PMI,55.2,57.1,57.5
+,,EUR,Medium,French Flash Services PMI,56.0,56.1,56.3
+,3:30am,CHF,High,SNB Monetary Policy Assessment,,,
+,,CHF,Medium,SNB Policy Rate,-0.75%,-0.75%,-0.75%
+,,EUR,High,German Flash Manufacturing PMI,58.5,61.3,62.6
+,,EUR,High,German Flash Services PMI,56.0,60.3,60.8
+,4:00am,EUR,Medium,Flash Manufacturing PMI,58.7,60.4,61.4
+,,EUR,Medium,Flash Services PMI,56.3,58.4,59.0
+,,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,CHF,High,SNB Press Conference,,,
+,,GBP,Medium,Flash Manufacturing PMI,56.3,59.0,60.3
+,,GBP,Medium,Flash Services PMI,54.6,55.0,55.0
+,7:00am,GBP,High,Asset Purchase Facility,875B,875B,875B
+,,GBP,High,MPC Asset Purchase Facility Votes,0-2-7,0-1-8,0-1-7
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,Medium,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-8
+,,GBP,Medium,Official Bank Rate,0.10%,0.10%,0.10%
+,8:30am,CAD,Medium,Core Retail Sales m/m,-1.0%,-1.5%,4.8%
+,,CAD,Medium,Retail Sales m/m,-0.6%,-1.2%,4.2%
+,,USD,Medium,Unemployment Claims,351K,322K,335K
+,9:45am,USD,Medium,Flash Manufacturing PMI,60.5,60.7,61.1
+,,USD,Medium,Flash Services PMI,54.4,55.1,55.1
+,10:00am,USD,Low,CB Leading Index m/m,0.9%,0.7%,0.8%
+,10:30am,USD,Low,Natural Gas Storage,76B,76B,83B
+,6:45pm,NZD,Low,Trade Balance,-2144M,110M,-397M
+,7:01pm,GBP,Low,GfK Consumer Confidence,-13,-7,-8
+,7:30pm,JPY,Low,National Core CPI y/y,0.0%,0.0%,-0.2%
+,8:30pm,JPY,Low,Flash Manufacturing PMI,51.2,52.5,52.7
+Fri Sep 24 2021,4:00am,EUR,Medium,German ifo Business Climate,98.8,99.0,99.6
+,6:00am,GBP,Low,CBI Realized Sales,11,35,60
+,8:56am,EUR,Low,Belgian NBB Business Climate,4.0,6.7,7.6
+,9:00am,GBP,Low,MPC Member Tenreyro Speaks,,,
+,10:00am,USD,High,Fed Chair Powell Speaks,,,
+,,USD,Low,New Home Sales,740K,712K,729K
+Sat Sep 25 2021,7:00am,USD,Medium,FOMC Member Williams Speaks,,,

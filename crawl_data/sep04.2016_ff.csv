@@ -1,0 +1,98 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 4 2016,All Day,All,Medium,G20 Meetings,,,
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-2.0%,,-1.6%
+,7:30pm,AUD,Low,AIG Services Index,45.0,,53.9
+,8:00pm,JPY,Low,Average Cash Earnings y/y,1.4%,0.5%,1.4%
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.2%,,-0.3%
+,,NZD,Low,ANZ Commodity Prices m/m,3.2%,,2.1%
+,9:30pm,AUD,Medium,Company Operating Profits q/q,6.9%,2.1%,-4.4%
+,,AUD,Low,ANZ Job Advertisements m/m,1.8%,,-0.8%
+,9:45pm,CNY,Medium,Caixin Services PMI,52.1,51.9,51.7
+,10:30pm,JPY,High,BOJ Gov Kuroda Speaks,,,
+Mon Sep 5 2016,All Day,All,Medium,G20 Meetings,,,
+,3:15am,EUR,Low,Spanish Services PMI,56.0,55.1,54.1
+,3:45am,EUR,Low,Italian Services PMI,52.3,51.8,52.0
+,3:50am,EUR,Low,French Final Services PMI,52.3,52.0,52.0
+,3:55am,EUR,Low,German Final Services PMI,51.7,53.3,53.3
+,4:00am,EUR,Low,Final Services PMI,52.8,53.1,53.1
+,4:30am,EUR,Low,Sentix Investor Confidence,5.6,5.1,4.2
+,,GBP,High,Final Services PMI,52.9,49.1,47.4
+,5:00am,EUR,Low,Retail Sales m/m,1.1%,0.5%,-0.1%
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.9%,,1.1%
+,9:30pm,AUD,Medium,Current Account,-15.5B,-20.2B,-14.9B
+,11:45pm,JPY,Low,30-y Bond Auction,0.50|3.1,,0.42|3.1
+Tue Sep 6 2016,12:30am,AUD,High,Cash Rate,1.50%,1.50%,1.50%
+,,AUD,High,RBA Rate Statement,,,
+,1:45am,CHF,Low,GDP q/q,0.6%,0.2%,0.3%
+,2:00am,EUR,Low,German Factory Orders m/m,0.2%,0.5%,-0.3%
+,3:15am,CHF,Low,CPI m/m,-0.1%,-0.1%,-0.4%
+,4:10am,EUR,Low,Retail PMI,51.0,,48.9
+,5:00am,EUR,Low,Revised GDP q/q,0.3%,0.3%,0.3%
+,5:33am,GBP,Low,10-y Bond Auction,0.69|1.7,,0.91|2.3
+,9:59am,USD,Low,IBD/TIPP Economic Optimism,46.7,48.6,48.4
+,10:00am,USD,High,ISM Services PMI,51.4,55.4,55.5
+,,USD,Low,Labor Market Conditions Index m/m,-0.7,,1.3
+,10:22am,NZD,High,GDT Price Index,7.7%,,12.7%
+,12:15pm,CHF,High,SNB Chairman Jordan Speaks,,,
+,6:45pm,NZD,Low,Manufacturing Sales q/q,2.2%,,-2.0%
+,7:30pm,AUD,Low,AIG Construction Index,46.6,,51.6
+,9:30pm,AUD,High,GDP q/q,0.5%,0.6%,1.0%
+Wed Sep 7 2016,1:00am,JPY,Low,Leading Indicators,100.0%,98.6%,99.2%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.5%,0.0%,1.1%
+,2:45am,EUR,Low,French Trade Balance,-4.5B,-3.7B,-3.5B
+,3:00am,CHF,Medium,Foreign Currency Reserves,627B,,616B
+,3:30am,GBP,Medium,Halifax HPI m/m,-0.2%,-0.3%,-1.1%
+,4:30am,GBP,High,Manufacturing Production m/m,-0.9%,-0.4%,-0.2%
+,,GBP,Low,Industrial Production m/m,0.1%,-0.3%,0.0%
+,5:33am,EUR,Low,German 10-y Bond Auction,-0.11|1.1,,-0.09|1.4
+,9:15am,GBP,High,Monetary Policy Report Hearings,,,
+,9:36am,GBP,Low,NIESR GDP Estimate,0.3%,,0.4%
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,0.50%,0.50%,0.50%
+,,CAD,Medium,Ivey PMI,52.3,55.5,57.0
+,,USD,Medium,FOMC Member George Speaks,,,
+,,USD,Medium,JOLTS Job Openings,5.87M,5.58M,5.64M
+,2:00pm,USD,Low,Beige Book,,,
+,6:55pm,AUD,Medium,RBA Deputy Gov Lowe Speaks,,,
+,7:01pm,GBP,Low,RICS House Price Balance,12%,5%,5%
+,7:50pm,JPY,Medium,Current Account,1.45T,1.59T,1.65T
+,,JPY,Medium,Final GDP q/q,0.2%,0.0%,0.0%
+,,JPY,Low,Bank Lending y/y,2.0%,,2.1%
+,,JPY,Low,Final GDP Price Index y/y,0.7%,0.8%,0.8%
+,9:30pm,AUD,High,Trade Balance,-2.41B,-2.65B,-3.25B
+,10:32pm,CNY,Medium,Trade Balance,346B,372B,343B
+,10:41pm,CNY,Low,USD-Denominated Trade Balance,52.1B,57.9B,52.3B
+Thu Sep 8 2016,1:00am,JPY,Low,Economy Watchers Sentiment,45.6,45.2,45.1
+,1:30am,EUR,Low,French Final Private Payrolls q/q,0.2%,0.2%,0.2%
+,7:45am,EUR,High,Main Refinancing Rate,0.00%,0.00%,0.00%
+,,EUR,High,Monetary Policy Statement,,,
+,8:30am,CAD,Medium,Building Permits m/m,0.8%,3.2%,-5.3%
+,,CAD,Medium,NHPI m/m,0.4%,0.2%,0.1%
+,,CAD,Low,Capacity Utilization Rate,80.0%,81.5%,81.4%
+,,EUR,High,ECB Press Conference,,,
+,,USD,High,Unemployment Claims,259K,264K,263K
+,10:30am,USD,Low,Natural Gas Storage,36B,44B,51B
+,11:00am,USD,High,Crude Oil Inventories,-14.5M,0.6M,2.3M
+,12:20pm,CAD,Medium,Gov Council Member Lane Speaks,,,
+,12:30pm,CAD,Low,Housing Starts,183K,191K,195K
+,3:00pm,USD,Low,Consumer Credit m/m,17.7B,15.7B,14.5B
+,7:50pm,JPY,Low,M2 Money Stock y/y,3.3%,3.3%,3.4%
+,9:30pm,AUD,Low,Home Loans m/m,-4.2%,-1.3%,1.7%
+,,CNY,Medium,CPI y/y,1.3%,1.7%,1.8%
+,,CNY,Medium,PPI y/y,-0.8%,-1.0%,-1.7%
+Fri Sep 9 2016,12:30am,JPY,Low,Tertiary Industry Activity m/m,0.3%,0.4%,0.7%
+,1:45am,CHF,Low,Unemployment Rate,3.4%,3.3%,3.3%
+,2:00am,EUR,Low,German Trade Balance,19.4B,21.2B,21.4B
+,2:45am,EUR,Low,French Gov Budget Balance,-80.8B,,-61.8B
+,,EUR,Low,French Industrial Production m/m,-0.6%,0.2%,-0.7%
+,4:30am,GBP,Medium,Goods Trade Balance,-11.8B,-11.7B,-12.9B
+,,GBP,Low,Construction Output m/m,0.0%,-1.0%,-1.0%
+,,GBP,Low,Consumer Inflation Expectations,2.2%,,2.0%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,8:15am,USD,Medium,FOMC Member Rosengren Speaks,,,
+,8:30am,CAD,High,Employment Change,26.2K,16.0K,-31.2K
+,,CAD,High,Unemployment Rate,7.0%,6.9%,6.9%
+,10:00am,USD,Low,Final Wholesale Inventories m/m,0.0%,0.1%,0.0%
+Sat Sep 10 2016,All Day,EUR,Medium,ECOFIN Meetings,,,

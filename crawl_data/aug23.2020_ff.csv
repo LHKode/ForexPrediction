@@ -1,0 +1,61 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 23 2020,6:45pm,NZD,Medium,Retail Sales q/q,-14.6%,-16.3%,-1.2%
+,6:53pm,NZD,Low,Core Retail Sales q/q,-13.7%,-15.0%,0.1%
+Mon Aug 24 2020,9:00am,CNY,Low,CB Leading Index m/m,0.7%,,1.0%
+,9:30pm,AUD,Low,Goods Trade Balance,3.30B,,7.74B
+Tue Aug 25 2020,1:00am,JPY,Low,BOJ Core CPI y/y,0.0%,0.1%,0.1%
+,2:00am,EUR,Low,German Final GDP q/q,-9.7%,-10.1%,-10.1%
+,4:00am,EUR,Low,German ifo Business Climate,92.6,92.5,90.4
+,6:00am,GBP,Low,CBI Realized Sales,-6,7,4
+,8:32am,CAD,Low,Corporate Profits q/q,-8.0%,,-38.4%
+,9:00am,EUR,Low,Belgian NBB Business Climate,-12.0,-11.7,-13.9
+,,USD,Low,HPI m/m,0.9%,0.3%,-0.2%
+,,USD,Low,S&P/CS Composite-20 HPI y/y,3.5%,3.6%,3.6%
+,9:59am,USD,Low,Richmond Manufacturing Index,18,10,10
+,10:00am,USD,Medium,CB Consumer Confidence,84.8,93.0,91.7
+,,USD,Low,New Home Sales,901K,787K,791K
+,1:30pm,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,6:45pm,NZD,Low,Trade Balance,282M,285M,475M
+,7:50pm,JPY,Low,SPPI y/y,1.2%,0.8%,0.9%
+,9:30pm,AUD,Medium,Construction Work Done q/q,-0.7%,-6.5%,0.7%
+Wed Aug 26 2020,4:00am,CHF,Low,Credit Suisse Economic Expectations,45.6,,42.4
+,5:06am,GBP,Low,10-y Bond Auction,0.32|2.7,,0.14|2.4
+,8:30am,USD,Medium,Core Durable Goods Orders m/m,2.4%,1.9%,3.6%
+,,USD,Medium,Durable Goods Orders m/m,11.2%,4.4%,7.6%
+,10:00am,CAD,Medium,Gov Council Member Wilkins Speaks,,,
+,10:30am,USD,Medium,Crude Oil Inventories,-4.7M,-3.4M,-1.6M
+,12:00pm,GBP,Low,MPC Member Haldane Speaks,,,
+,9:30pm,AUD,Medium,Private Capital Expenditure q/q,-5.9%,-8.2%,-2.1%
+Thu Aug 27 2020,12:30am,JPY,Low,All Industries Activity m/m,6.1%,6.3%,-4.1%
+,1:45am,CHF,Low,GDP q/q,-8.2%,-8.8%,-2.5%
+,4:00am,EUR,Low,M3 Money Supply y/y,10.2%,9.2%,9.2%
+,,EUR,Low,Private Loans y/y,3.0%,3.0%,3.0%
+,8:30am,CAD,Low,Current Account,-8.6B,-11.8B,-13.2B
+,,USD,Medium,Prelim GDP q/q,-31.7%,-32.5%,-32.9%
+,,USD,Medium,Unemployment Claims,1006K,1000K,1104K
+,,USD,Low,Prelim GDP Price Index q/q,-2.0%,-1.8%,-1.8%
+,9:10am,USD,High,Fed Chair Powell Speaks,,,
+,10:00am,USD,Medium,Pending Home Sales m/m,5.9%,2.5%,15.8%
+,10:30am,USD,Low,Natural Gas Storage,45B,39B,43B
+,11:15am,CAD,High,BOC Gov Macklem Speaks,,,
+,Day 1,All,High,Jackson Hole Symposium,,,
+,7:30pm,JPY,Low,Tokyo Core CPI y/y,-0.3%,0.3%,0.4%
+Fri Aug 28 2020,2:00am,EUR,Low,German GfK Consumer Climate,-1.8,1.0,-0.2
+,2:03am,EUR,Low,German Import Prices m/m,0.3%,0.2%,0.6%
+,2:45am,EUR,Low,French Consumer Spending m/m,0.5%,1.2%,10.3%
+,,EUR,Low,French Prelim CPI m/m,-0.1%,-0.2%,0.4%
+,,EUR,Low,French Prelim GDP q/q,-13.8%,-13.8%,-13.8%
+,3:00am,CHF,Medium,KOF Economic Barometer,110.2,90.3,86.0
+,5:20am,EUR,Low,Italian 10-y Bond Auction,1.11|1.3,,1.04|1.4
+,8:30am,CAD,Medium,GDP m/m,6.5%,5.2%,4.8%
+,,USD,Medium,Core PCE Price Index m/m,0.3%,0.5%,0.3%
+,,USD,Medium,Personal Spending m/m,1.9%,1.5%,6.2%
+,,USD,Low,Goods Trade Balance,-79.3B,-72.3B,-71.0B
+,,USD,Low,Personal Income m/m,0.4%,-0.3%,-1.0%
+,,USD,Low,Prelim Wholesale Inventories m/m,-0.1%,-1.0%,-1.4%
+,9:05am,GBP,High,BOE Gov Bailey Speaks,,,
+,9:45am,USD,Medium,Chicago PMI,51.2,51.0,51.9
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,74.1,72.8,72.8
+,,USD,Low,Revised UoM Inflation Expectations,3.1%,,3.0%
+,Day 2,All,High,Jackson Hole Symposium,,,
+Sat Aug 29 2020,,,No specified,,,,

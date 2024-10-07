@@ -1,0 +1,82 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 17 2017,6:50pm,JPY,Low,Trade Balance,0.36T,0.27T,0.35T
+,7:30pm,AUD,Low,New Motor Vehicle Sales m/m,0.1%,,0.0%
+,8:06pm,AUD,Medium,Mid-Year Economic and Fiscal Outlook,,,
+Mon Dec 18 2017,4:00am,EUR,Low,Italian Trade Balance,4.95B,3.23B,3.99B
+,5:00am,EUR,Medium,Final CPI y/y,1.5%,1.5%,1.5%
+,,EUR,Low,Final Core CPI y/y,0.9%,0.9%,0.9%
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,,GBP,Low,CBI Industrial Order Expectations,17,14,17
+,8:30am,CAD,Medium,Foreign Securities Purchases,20.81B,18.02B,16.69B
+,10:00am,USD,Low,NAHB Housing Market Index,74,70,69
+,4:00pm,NZD,Low,Westpac Consumer Sentiment,107.4,,112.4
+,7:00pm,NZD,High,ANZ Business Confidence,-37.8,,-39.3
+,7:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+Tue Dec 19 2017,1:45am,CHF,Low,SECO Economic Forecasts,,,
+,4:00am,EUR,Medium,German ifo Business Climate,117.2,117.6,117.6
+,8:30am,USD,High,Building Permits,1.30M,1.27M,1.32M
+,,USD,Medium,Current Account,-101B,-116B,-124B
+,,USD,Medium,Housing Starts,1.30M,1.25M,1.26M
+,9:18am,NZD,Medium,GDT Price Index,-3.9%,,0.4%
+,10:32am,AUD,Low,CB Leading Index m/m,0.3%,,0.2%
+,1:00pm,USD,Medium,FOMC Member Kashkari Speaks,,,
+,4:45pm,NZD,Medium,Current Account,-4.68B,-4.22B,-0.51B
+,,NZD,Medium,Trade Balance,-1193M,-495M,-843M
+,,NZD,Low,Visitor Arrivals m/m,2.5%,,2.1%
+,6:30pm,AUD,Low,MI Leading Index m/m,0.1%,,0.1%
+,9:00pm,NZD,Low,Credit Card Spending y/y,9.1%,,3.0%
+,11:30pm,JPY,Low,All Industries Activity m/m,0.3%,0.4%,-0.5%
+Wed Dec 20 2017,2:00am,EUR,Low,German PPI m/m,0.1%,0.2%,0.3%
+,4:00am,EUR,Low,Current Account,30.8B,33.4B,39.2B
+,6:00am,GBP,Low,CBI Realized Sales,20,21,26
+,8:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,8:15am,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,CAD,Low,Wholesale Sales m/m,1.5%,0.5%,-1.1%
+,9:00am,CHF,Low,SNB Quarterly Bulletin,,,
+,,CNY,Low,CB Leading Index m/m,1.8%,,1.3%
+,,EUR,Low,Belgian NBB Business Climate,0.1,2.0,1.6
+,10:00am,USD,Medium,Existing Home Sales,5.81M,5.53M,5.50M
+,10:30am,USD,High,Crude Oil Inventories,-6.5M,-3.6M,-5.1M
+,3:00pm,USD,High,President Trump Speaks,,,
+,4:45pm,NZD,High,GDP q/q,0.6%,0.6%,1.0%
+,6:05pm,GBP,Low,GfK Consumer Confidence,-13,-12,-12
+,9:46pm,JPY,High,Monetary Policy Statement,,,
+,,JPY,Medium,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+Thu Dec 21 2017,1:30am,JPY,High,BOJ Press Conference,,,
+,2:00am,CHF,Low,Trade Balance,2.63B,2.84B,2.45B
+,All Day,All,Medium,OPEC-JMMC Meetings,,,
+,4:30am,GBP,Medium,Public Sector Net Borrowing,8.1B,8.3B,7.2B
+,8:30am,CAD,High,CPI m/m,0.3%,0.2%,0.1%
+,,CAD,High,Core Retail Sales m/m,0.8%,0.4%,0.4%
+,,CAD,Medium,Common CPI y/y,1.5%,,1.6%
+,,CAD,Medium,Median CPI y/y,1.9%,,1.7%
+,,CAD,Medium,Retail Sales m/m,1.5%,0.3%,0.2%
+,,CAD,Medium,Trimmed CPI y/y,1.8%,,1.5%
+,,USD,High,Final GDP q/q,3.2%,3.3%,3.3%
+,,USD,Medium,Philly Fed Manufacturing Index,26.2,21.5,22.7
+,,USD,Medium,Unemployment Claims,245K,232K,225K
+,,USD,Low,Final GDP Price Index q/q,2.1%,2.1%,2.1%
+,8:32am,CAD,Low,Core CPI m/m,-0.1%,,0.3%
+,8:36am,CAD,Low,ADP Non-Farm Employment Change,59.2K,,5.4K
+,9:00am,USD,Low,HPI m/m,0.5%,0.4%,0.5%
+,10:00am,EUR,Low,Consumer Confidence,1,0,0
+,,USD,Low,CB Leading Index m/m,0.4%,0.4%,1.2%
+,10:30am,USD,Low,Natural Gas Storage,-182B,-160B,-69B
+Fri Dec 22 2017,2:00am,EUR,Low,German GfK Consumer Climate,10.8,10.7,10.7
+,,EUR,Low,German Import Prices m/m,0.8%,0.7%,0.6%
+,2:45am,EUR,Low,French Consumer Spending m/m,2.2%,1.4%,-2.1%
+,3:00am,CHF,Medium,KOF Economic Barometer,111.3,110.3,110.4
+,4:30am,GBP,High,Current Account,-22.8B,-21.5B,-25.8B
+,,GBP,Medium,Final GDP q/q,0.4%,0.4%,0.4%
+,,GBP,Low,Index of Services 3m/3m,0.3%,0.3%,0.4%
+,,GBP,Low,Revised Business Investment q/q,0.5%,0.2%,0.2%
+,8:30am,CAD,High,GDP m/m,0.0%,0.2%,0.2%
+,,USD,High,Core Durable Goods Orders m/m,-0.1%,0.5%,0.9%
+,,USD,Medium,Core PCE Price Index m/m,0.1%,0.1%,0.2%
+,,USD,Medium,Durable Goods Orders m/m,1.3%,2.1%,-0.8%
+,,USD,Medium,Personal Spending m/m,0.6%,0.5%,0.2%
+,,USD,Low,Personal Income m/m,0.3%,0.4%,0.4%
+,10:00am,USD,Medium,New Home Sales,733K,654K,624K
+,,USD,Medium,Revised UoM Consumer Sentiment,95.9,97.1,96.8
+,,USD,Low,Revised UoM Inflation Expectations,2.7%,,2.8%
+Sat Dec 23 2017,,,No specified,,,,

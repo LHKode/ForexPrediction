@@ -1,0 +1,103 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Sep 1 2019,6:30pm,AUD,Low,AIG Manufacturing Index,53.1,,51.3
+,6:45pm,NZD,Low,Overseas Trade Index q/q,1.6%,1.0%,1.0%
+,7:50pm,JPY,Low,Capital Spending q/y,1.9%,1.8%,6.1%
+,8:30pm,JPY,Low,Final Manufacturing PMI,49.3,49.5,49.5
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.0%,,0.3%
+,9:30pm,AUD,Medium,Company Operating Profits q/q,4.5%,2.1%,1.7%
+,,AUD,Low,ANZ Job Advertisements m/m,-2.8%,,0.8%
+,9:45pm,CNY,High,Caixin Manufacturing PMI,50.4,49.8,49.9
+Mon Sep 2 2019,2:30am,AUD,Low,Commodity Prices y/y,6.2%,,15.0%
+,,CHF,Low,Retail Sales y/y,1.4%,0.9%,0.7%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,48.8,48.6,48.2
+,3:30am,CHF,Low,Manufacturing PMI,47.2,45.6,44.7
+,3:45am,EUR,Low,Italian Manufacturing PMI,48.7,48.6,48.5
+,3:50am,EUR,Low,French Final Manufacturing PMI,51.1,51.0,51.0
+,3:55am,EUR,Low,German Final Manufacturing PMI,43.5,43.6,43.6
+,4:00am,EUR,Low,Final Manufacturing PMI,47.0,47.0,47.0
+,4:30am,GBP,Medium,Final Manufacturing PMI,47.4,48.0,48.0
+,All Day,CAD,Holiday,Bank Holiday,,,
+,All Day,USD,Holiday,Bank Holiday,,,
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,-0.5%,-0.4%,0.1%
+,7:50pm,JPY,Low,Monetary Base y/y,2.8%,2.9%,3.7%
+,9:30pm,AUD,High,Retail Sales m/m,-0.1%,0.2%,0.4%
+,,AUD,Medium,Current Account,5.9B,1.5B,-1.1B
+,11:35pm,JPY,Low,10-y Bond Auction,-0.27|3.6,,-0.15|3.8
+Tue Sep 3 2019,12:30am,AUD,High,Cash Rate,1.00%,1.00%,1.00%
+,,AUD,High,RBA Rate Statement,,,
+,2:30am,CHF,Low,CPI m/m,0.0%,-0.1%,-0.5%
+,3:00am,EUR,Low,Spanish Unemployment Change,54.4K,35.8K,-4.3K
+,4:30am,GBP,Low,Construction PMI,45.0,46.7,45.3
+,5:00am,EUR,Low,PPI m/m,0.2%,0.3%,-0.6%
+,9:30am,CAD,Low,Manufacturing PMI,49.1,,50.2
+,9:45am,USD,Low,Final Manufacturing PMI,50.3,50.0,49.9
+,10:00am,USD,High,ISM Manufacturing PMI,49.1,51.2,51.2
+,,USD,Low,Construction Spending m/m,0.1%,0.3%,-0.7%
+,,USD,Low,ISM Manufacturing Prices,46.0,47.6,45.1
+,10:22am,NZD,Low,GDT Price Index,-0.4%,,-0.2%
+,5:00pm,USD,Medium,FOMC Member Rosengren Speaks,,,
+,6:30pm,AUD,Low,AIG Services Index,51.4,,43.9
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,0.3%,,-1.4%
+,9:30pm,AUD,High,GDP q/q,0.5%,0.5%,0.5%
+,9:45pm,CNY,Medium,Caixin Services PMI,52.1,51.7,51.6
+Wed Sep 4 2019,3:15am,EUR,Low,Spanish Services PMI,54.3,53.0,52.9
+,3:45am,EUR,Low,Italian Services PMI,50.6,51.5,51.7
+,3:50am,EUR,Low,French Final Services PMI,53.4,53.3,53.3
+,3:55am,EUR,Low,German Final Services PMI,54.8,54.4,54.4
+,4:00am,EUR,Low,Final Services PMI,53.5,53.4,53.4
+,4:30am,GBP,Medium,Final Services PMI,50.6,51.0,51.4
+,4:50am,EUR,High,ECB President Lagarde Speaks,,,
+,5:00am,EUR,Low,Retail Sales m/m,-0.6%,-0.6%,1.2%
+,8:30am,CAD,High,Trade Balance,-1.1B,0.2B,-0.1B
+,,CAD,Low,Labor Productivity q/q,0.2%,0.1%,0.4%
+,,USD,Low,Trade Balance,-54.0B,-54.2B,-55.5B
+,9:15am,GBP,High,Monetary Policy Report Hearings,,,
+,9:25am,USD,Medium,FOMC Member Williams Speaks,,,
+,9:59am,USD,Low,IBD/TIPP Economic Optimism,50.8,55.4,55.1
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.75%,1.75%,1.75%
+,All Day,USD,Low,Wards Total Vehicle Sales,17.0M,16.8M,16.8M
+,12:30pm,USD,Medium,FOMC Member Bullard Speaks,,,
+,2:00pm,USD,Low,Beige Book,,,
+,3:15pm,USD,Medium,FOMC Member Evans Speaks,,,
+,9:30pm,AUD,Medium,Trade Balance,7.27B,7.20B,7.98B
+,11:35pm,JPY,Low,30-y Bond Auction,0.14|3.5,,0.29|3.5
+Thu Sep 5 2019,1:45am,CHF,Low,GDP q/q,0.3%,0.2%,0.4%
+,2:00am,EUR,Low,German Factory Orders m/m,-2.7%,-1.5%,2.7%
+,4:48am,EUR,Low,Spanish 10-y Bond Auction,0.18|1.7,,0.30|1.4
+,5:08am,EUR,Low,French 10-y Bond Auction,-0.36|1.6,,-0.10|2.5
+,6:00am,GBP,Low,10-y Bond Auction,0.55|1.9,,0.79|2.2
+,7:30am,USD,Low,Challenger Job Cuts y/y,39.0%,,43.2%
+,8:15am,USD,High,ADP Non-Farm Employment Change,195K,148K,142K
+,8:30am,USD,Low,Revised Nonfarm Productivity q/q,2.3%,2.2%,2.3%
+,,USD,Low,Revised Unit Labor Costs q/q,2.6%,2.5%,2.4%
+,,USD,Low,Unemployment Claims,217K,215K,216K
+,9:45am,USD,Low,Final Services PMI,50.7,51.0,50.9
+,10:00am,USD,Medium,ISM Services PMI,56.4,54.0,53.7
+,,USD,Low,Factory Orders m/m,1.4%,1.0%,0.5%
+,10:30am,GBP,Medium,MPC Member Tenreyro Speaks,,,
+,,USD,Low,Natural Gas Storage,84B,77B,60B
+,11:00am,USD,High,Crude Oil Inventories,-4.8M,-2.4M,-10.0M
+,11:45am,CAD,Medium,Gov Council Member Schembri Speaks,,,
+,12:00pm,CHF,High,SNB Chairman Jordan Speaks,,,
+,6:30pm,AUD,Low,AIG Construction Index,44.6,,39.1
+,7:30pm,JPY,Low,Average Cash Earnings y/y,-0.3%,0.1%,0.4%
+,,JPY,Low,Household Spending y/y,0.8%,0.9%,2.7%
+Fri Sep 6 2019,1:03am,JPY,Low,Leading Indicators,93.6%,93.2%,93.3%
+,2:00am,EUR,Low,German Industrial Production m/m,-0.6%,0.4%,-1.1%
+,2:45am,EUR,Low,French Trade Balance,-4.6B,-4.4B,-5.3B
+,3:00am,CHF,Low,Foreign Currency Reserves,767B,,768B
+,3:30am,GBP,Low,Halifax HPI m/m,0.3%,0.2%,0.4%
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.5%,0.4%,1.9%
+,4:30am,GBP,Low,Consumer Inflation Expectations,3.3%,,3.1%
+,5:00am,EUR,Low,Final Employment Change q/q,0.2%,0.2%,0.2%
+,,EUR,Low,Revised GDP q/q,0.2%,0.2%,0.2%
+,8:30am,CAD,High,Employment Change,81.1K,18.9K,-24.2K
+,,CAD,High,Unemployment Rate,5.7%,5.7%,5.7%
+,,USD,High,Average Hourly Earnings m/m,0.4%,0.3%,0.3%
+,,USD,High,Non-Farm Employment Change,130K,163K,159K
+,,USD,High,Unemployment Rate,3.7%,3.7%,3.7%
+,10:00am,CAD,Low,Ivey PMI,60.6,55.2,54.2
+,12:30pm,USD,High,Fed Chair Powell Speaks,,,
+Sat Sep 7 2019,11:00pm,CNY,Low,USD-Denominated Trade Balance,34.8B,44.3B,45.1B
+,11:01pm,CNY,Medium,Trade Balance,240B,300B,310B

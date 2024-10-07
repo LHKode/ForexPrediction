@@ -1,0 +1,63 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Aug 16 2015,7:01pm,GBP,Low,Rightmove HPI m/m,-0.8%,,0.1%
+,7:50pm,JPY,High,Prelim GDP q/q,-0.4%,-0.5%,1.0%
+,,JPY,Low,Prelim GDP Price Index y/y,1.6%,2.2%,3.4%
+Mon Aug 17 2015,3:15am,CHF,Medium,Retail Sales y/y,-0.9%,-0.6%,-1.8%
+,5:00am,EUR,Low,Trade Balance,21.9B,19.3B,21.3B
+,6:00am,EUR,Low,German Buba Monthly Report,,,
+,8:30am,CAD,Medium,Foreign Securities Purchases,8.51B,-5.95B,-5.46B
+,,USD,Medium,Empire State Manufacturing Index,-14.9,5.0,3.9
+,10:00am,USD,Low,NAHB Housing Market Index,61,62,60
+,4:00pm,USD,Low,TIC Long-Term Purchases,103.1B,23.0B,93.0B
+,9:30pm,AUD,High,Monetary Policy Meeting Minutes,,,
+,,AUD,Low,New Motor Vehicle Sales m/m,-1.3%,,3.9%
+Tue Aug 18 2015,4:30am,GBP,High,CPI y/y,0.1%,0.0%,0.0%
+,,GBP,Medium,PPI Input m/m,-0.9%,-1.8%,-1.8%
+,,GBP,Medium,RPI y/y,1.0%,1.0%,1.0%
+,,GBP,Low,Core CPI y/y,1.2%,0.8%,0.8%
+,,GBP,Low,ONS HPI y/y,5.7%,5.9%,5.6%
+,,GBP,Low,PPI Output m/m,-0.1%,-0.1%,-0.1%
+,8:30am,USD,High,Building Permits,1.12M,1.23M,1.34M
+,,USD,Medium,Housing Starts,1.21M,1.19M,1.20M
+,11:00am,NZD,High,GDT Price Index,14.8%,,-9.3%
+,6:45pm,NZD,Medium,PPI Input q/q,-0.3%,-0.5%,-1.1%
+,,NZD,Low,PPI Output q/q,-0.2%,-0.2%,-0.9%
+,7:50pm,JPY,Medium,Trade Balance,-0.37T,-0.16T,-0.28T
+,8:30pm,AUD,Low,MI Leading Index m/m,0.0%,,0.0%
+Wed Aug 19 2015,12:30am,JPY,Low,All Industries Activity m/m,0.3%,0.4%,-0.5%
+,4:00am,EUR,Low,Current Account,25.4B,19.2B,19.1B
+,8:30am,USD,High,CPI m/m,0.1%,0.2%,0.3%
+,,USD,High,Core CPI m/m,0.1%,0.2%,0.2%
+,10:30am,USD,Medium,Crude Oil Inventories,2.6M,-0.6M,-1.7M
+,1:46pm,USD,High,FOMC Meeting Minutes,,,
+Thu Aug 20 2015,2:00am,CHF,Medium,Trade Balance,3.74B,2.59B,3.51B
+,,EUR,Low,German PPI m/m,0.0%,-0.1%,-0.1%
+,2:45am,USD,Medium,FOMC Member Williams Speaks,,,
+,4:30am,GBP,High,Retail Sales m/m,0.1%,0.4%,-0.1%
+,4:43am,EUR,Low,Spanish 10-y Bond Auction,1.92|2.3,,1.98|1.7
+,6:00am,GBP,Low,CBI Industrial Order Expectations,-1,-10,-10
+,8:30am,CAD,Medium,Wholesale Sales m/m,1.3%,1.0%,-0.9%
+,,USD,High,Unemployment Claims,277K,272K,273K
+,10:00am,USD,High,Existing Home Sales,5.59M,5.45M,5.48M
+,,USD,High,Philly Fed Manufacturing Index,8.3,6.9,5.7
+,,USD,Low,CB Leading Index m/m,-0.2%,0.2%,0.6%
+,10:30am,USD,Low,Natural Gas Storage,53B,60B,65B
+,6:45pm,NZD,Low,Visitor Arrivals m/m,-2.7%,,-0.5%
+,9:35pm,JPY,Low,Flash Manufacturing PMI,51.9,52.1,51.2
+,9:45pm,CNY,High,Caixin Flash Manufacturing PMI,47.1,48.1,47.8
+,11:00pm,NZD,Low,Credit Card Spending y/y,9.7%,,6.6%
+Fri Aug 21 2015,2:00am,EUR,Low,German GfK Consumer Climate,9.9,10.2,10.1
+,3:00am,EUR,High,French Flash Manufacturing PMI,48.6,49.8,49.6
+,,EUR,Medium,French Flash Services PMI,51.8,52.1,52.0
+,3:30am,EUR,High,German Flash Manufacturing PMI,53.2,51.7,51.8
+,,EUR,Medium,German Flash Services PMI,53.6,53.7,53.8
+,4:00am,EUR,Medium,Flash Manufacturing PMI,52.4,52.3,52.4
+,,EUR,Medium,Flash Services PMI,54.3,54.1,54.0
+,4:30am,GBP,Medium,Public Sector Net Borrowing,-2.1B,-2.3B,8.6B
+,8:30am,CAD,High,Core CPI m/m,0.0%,0.0%,0.0%
+,,CAD,High,Core Retail Sales m/m,0.8%,0.6%,0.8%
+,,CAD,Medium,CPI m/m,0.1%,0.1%,0.2%
+,,CAD,Medium,Retail Sales m/m,0.6%,0.2%,0.9%
+,9:45am,USD,Medium,Flash Manufacturing PMI,52.9,53.9,53.8
+,10:00am,EUR,Low,Consumer Confidence,-7,-7,-7
+Sat Aug 22 2015,,,No specified,,,,

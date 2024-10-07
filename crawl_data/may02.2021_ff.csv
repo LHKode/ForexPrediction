@@ -1,0 +1,125 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun May 2 2021,6:30pm,AUD,Low,AIG Manufacturing Index,61.7,,59.9
+,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,AUD,Low,MI Inflation Gauge m/m,0.4%,,0.4%
+,9:30pm,AUD,Low,ANZ Job Advertisements m/m,4.7%,,7.8%
+Mon May 3 2021,2:00am,EUR,Low,German Retail Sales m/m,7.7%,2.9%,2.7%
+,2:30am,AUD,Low,Commodity Prices y/y,34.7%,,27.2%
+,3:15am,EUR,Low,Spanish Manufacturing PMI,57.7,59.1,56.9
+,3:30am,CHF,Low,Manufacturing PMI,69.5,66.4,66.3
+,3:45am,EUR,Low,Italian Manufacturing PMI,60.7,60.9,59.8
+,3:50am,EUR,Low,French Final Manufacturing PMI,58.9,59.2,59.2
+,3:55am,EUR,Low,German Final Manufacturing PMI,66.2,66.4,66.4
+,4:00am,EUR,Low,Final Manufacturing PMI,62.9,63.3,63.3
+,All Day,GBP,Holiday,Bank Holiday,,,
+,9:30am,CAD,Low,Manufacturing PMI,57.2,,58.5
+,9:45am,USD,Low,Final Manufacturing PMI,60.5,60.7,60.6
+,10:00am,USD,Medium,ISM Manufacturing PMI,60.7,65.0,64.7
+,,USD,Low,Construction Spending m/m,0.2%,1.7%,-0.6%
+,,USD,Low,ISM Manufacturing Prices,89.6,86.0,85.6
+,All Day,USD,Low,Wards Total Vehicle Sales,18.5M,17.5M,17.7M
+,2:00pm,USD,Low,Loan Officer Survey,,,
+,2:10pm,USD,Low,FOMC Member Williams Speaks,,,
+,2:20pm,USD,High,Fed Chair Powell Speaks,,,
+,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:30pm,AUD,Low,Trade Balance,5.57B,8.25B,7.60B
+Tue May 4 2021,12:30am,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,0.10%,0.10%,0.10%
+,2:45am,EUR,Low,French Gov Budget Balance,-60.1B,,-47.5B
+,3:00am,CHF,Low,SECO Consumer Climate,-7,-11,-15
+,4:30am,GBP,Low,Final Manufacturing PMI,60.9,60.7,60.7
+,,GBP,Low,M4 Money Supply m/m,0.6%,0.7%,0.8%
+,,GBP,Low,Mortgage Approvals,83K,86K,87K
+,,GBP,Low,Net Lending to Individuals m/m,11.3B,5.0B,5.3B
+,8:30am,CAD,Low,Building Permits m/m,5.7%,1.6%,3.1%
+,,CAD,Low,Trade Balance,-1.1B,0.5B,1.4B
+,,USD,Low,Trade Balance,-74.4B,-74.5B,-70.5B
+,9:52am,USD,Low,IBD/TIPP Economic Optimism,54.4,56.1,56.4
+,10:00am,USD,Low,Factory Orders m/m,1.1%,1.3%,-0.5%
+,10:20am,NZD,Low,GDT Price Index,-0.7%,,-0.1%
+,1:00pm,USD,Low,FOMC Member Daly Speaks,,,
+,5:00pm,NZD,Medium,RBNZ Financial Stability Report,,,
+,6:30pm,AUD,Low,AIG Construction Index,59.1,,61.8
+,6:45pm,NZD,High,Employment Change q/q,0.6%,0.3%,0.6%
+,,NZD,High,Unemployment Rate,4.7%,4.9%,4.9%
+,,NZD,Low,Labor Cost Index q/q,0.4%,0.3%,0.5%
+,All Day,JPY,Holiday,Bank Holiday,,,
+,All Day,CNY,Holiday,Bank Holiday,,,
+,9:00pm,NZD,Low,ANZ Commodity Prices m/m,2.3%,,6.1%
+,9:30pm,AUD,Low,Building Approvals m/m,17.4%,2.9%,20.1%
+Wed May 5 2021,2:30am,CHF,Low,CPI m/m,0.2%,0.2%,0.3%
+,3:00am,EUR,Low,Spanish Unemployment Change,-39.0K,-70.0K,-59.1K
+,3:15am,EUR,Low,Spanish Services PMI,54.6,50.0,48.1
+,3:45am,EUR,Low,Italian Services PMI,47.3,50.0,48.6
+,3:50am,EUR,Low,French Final Services PMI,50.3,50.4,50.4
+,3:55am,EUR,Low,German Final Services PMI,49.9,50.1,50.1
+,4:00am,EUR,Low,Final Services PMI,50.5,50.3,50.3
+,5:00am,EUR,Low,PPI m/m,1.1%,1.1%,0.5%
+,5:05am,GBP,Low,10-y Bond Auction,0.92|2.7,,0.89|3.0
+,8:15am,USD,Medium,ADP Non-Farm Employment Change,742K,872K,565K
+,9:30am,USD,Low,FOMC Member Evans Speaks,,,
+,9:45am,USD,Low,Final Services PMI,64.7,63.1,63.1
+,10:00am,USD,Medium,ISM Services PMI,62.7,64.2,63.7
+,10:30am,USD,Medium,Crude Oil Inventories,-8.0M,-1.9M,0.1M
+,3:00pm,USD,Low,FOMC Member Evans Speaks,,,
+,6:45pm,NZD,Low,Building Consents m/m,17.9%,,-19.3%
+,7:50pm,JPY,Low,Monetary Policy Meeting Minutes,,,
+,9:00pm,NZD,Medium,Prelim ANZ Business Confidence,7.0,,-2.0
+Thu May 6 2021,2:00am,EUR,Low,German Factory Orders m/m,3.0%,1.5%,1.4%
+,4:00am,EUR,Low,ECB Economic Bulletin,,,
+,4:30am,GBP,Medium,Final Services PMI,61.0,60.2,60.1
+,4:46am,EUR,Low,Spanish 10-y Bond Auction,0.43|1.6,,0.37|1.9
+,4:59am,EUR,Low,French 10-y Bond Auction,0.13|1.7,,0.00|1.7
+,5:00am,AUD,Low,RBA Deputy Gov Debelle Speaks,,,
+,,EUR,Low,Retail Sales m/m,2.7%,1.5%,4.2%
+,7:00am,GBP,High,Asset Purchase Facility,875B,875B,875B
+,,GBP,High,BOE Monetary Policy Report,,,
+,,GBP,High,MPC Asset Purchase Facility Votes,0-1-8,0-0-9,0-0-9
+,,GBP,High,Monetary Policy Summary,,,
+,,GBP,Medium,BOE Inflation Letter,,,
+,,GBP,Medium,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+,,GBP,Medium,Official Bank Rate,0.10%,0.10%,0.10%
+,7:15am,EUR,Medium,ECB President Lagarde Speaks,,,
+,7:30am,USD,Low,Challenger Job Cuts y/y,-96.6%,,-86.2%
+,8:00am,GBP,High,BOE Gov Bailey Speaks,,,
+,8:30am,USD,Medium,Unemployment Claims,498K,540K,590K
+,,USD,Low,Prelim Nonfarm Productivity q/q,5.4%,4.3%,-4.2%
+,,USD,Low,Prelim Unit Labor Costs q/q,-0.3%,-1.1%,6.0%
+,9:00am,USD,Low,FOMC Member Williams Speaks,,,
+,10:30am,USD,Low,Natural Gas Storage,60B,68B,15B
+,1:00pm,USD,Low,FOMC Member Bostic Speaks,,,
+,4:00pm,USD,Low,FOMC Financial Stability Report,,,
+,6:30pm,AUD,Low,AIG Services Index,61.0,,58.7
+,7:30pm,JPY,Low,Average Cash Earnings y/y,0.2%,-0.2%,-0.4%
+,7:50pm,JPY,Low,Monetary Base y/y,24.3%,21.4%,20.8%
+,9:30pm,AUD,Medium,RBA Monetary Policy Statement,,,
+,9:45pm,CNY,Low,Caixin Services PMI,56.3,54.2,54.3
+,11:00pm,NZD,Medium,Inflation Expectations q/q,2.05%,,1.89%
+,11:01pm,CNY,Low,Trade Balance,277B,130B,88B
+,11:02pm,CNY,Low,USD-Denominated Trade Balance,42.9B,28.0B,13.8B
+Fri May 7 2021,1:45am,CHF,Low,Unemployment Rate,3.1%,3.3%,3.3%
+,2:00am,EUR,Low,German Industrial Production m/m,2.5%,2.1%,-1.9%
+,,EUR,Low,German Trade Balance,14.3B,22.3B,18.9B
+,2:45am,EUR,Low,French Industrial Production m/m,0.8%,2.1%,-4.8%
+,,EUR,Low,French Prelim Private Payrolls q/q,0.3%,-0.2%,-0.1%
+,,EUR,Low,French Trade Balance,-6.1B,-5.4B,-5.1B
+,3:00am,CHF,Low,Foreign Currency Reserves,914B,,930B
+,4:00am,EUR,Low,Italian Retail Sales m/m,-0.1%,-0.6%,5.9%
+,4:30am,GBP,Low,Construction PMI,61.6,62.0,61.7
+,6:00am,EUR,Medium,ECB President Lagarde Speaks,,,
+,7:15am,GBP,Medium,MPC Member Broadbent Speaks,,,
+,8:30am,CAD,High,Employment Change,-207.1K,-160.5K,303.1K
+,,CAD,High,Unemployment Rate,8.1%,7.8%,7.5%
+,,USD,High,Average Hourly Earnings m/m,0.7%,0.0%,-0.1%
+,,USD,High,Non-Farm Employment Change,266K,990K,770K
+,,USD,High,Unemployment Rate,6.1%,5.8%,6.0%
+,9:00am,USD,Low,FOMC Member Barkin Speaks,,,
+,10:00am,CAD,Medium,Ivey PMI,60.6,67.0,72.9
+,,USD,Low,Final Wholesale Inventories m/m,1.3%,1.4%,1.4%
+,,USD,Low,Mortgage Delinquencies,6.38%,,6.73%
+,11:30am,USD,Low,President Biden Speaks,,,
+,12:30pm,USD,High,Treasury Sec Yellen Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,25.8B,19.5B,26.1B
+Sat May 8 2021,,,No specified,,,,

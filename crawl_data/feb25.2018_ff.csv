@@ -1,0 +1,110 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Feb 25 2018,,,No specified,,,,
+Mon Feb 26 2018,4:30am,GBP,Low,High Street Lending,40.1K,37.2K,36.1K
+,9:40am,EUR,High,ECB President Draghi Speaks,,,
+,10:00am,USD,Medium,New Home Sales,593K,655K,643K
+,1:00pm,GBP,Low,MPC Member Cunliffe Speaks,,,
+,3:15pm,USD,Medium,FOMC Member Quarles Speaks,,,
+,4:45pm,NZD,Medium,Trade Balance,-566M,-2710M,596M
+Tue Feb 27 2018,12:00am,JPY,Low,BOJ Core CPI y/y,0.8%,0.6%,0.7%
+,All Day,EUR,Medium,German Prelim CPI m/m,0.5%,0.5%,-0.7%
+,3:00am,EUR,Medium,Spanish Flash CPI y/y,1.1%,0.9%,0.6%
+,4:00am,EUR,Medium,M3 Money Supply y/y,4.6%,4.6%,4.6%
+,,EUR,Low,Private Loans y/y,2.9%,2.9%,2.9%
+,5:00am,EUR,Medium,German Buba President Weidmann Speaks,,,
+,5:16am,EUR,Low,Italian 10-y Bond Auction,2.06|1.4,,2.06|1.3
+,8:30am,USD,High,Core Durable Goods Orders m/m,-0.3%,0.4%,0.7%
+,,USD,High,Fed Chair Powell Testifies,,,
+,,USD,Medium,Durable Goods Orders m/m,-3.7%,-2.4%,2.8%
+,,USD,Low,Goods Trade Balance,-74.4B,-72.3B,-72.3B
+,,USD,Low,Prelim Wholesale Inventories m/m,0.7%,0.3%,0.4%
+,9:00am,USD,Low,S&P/CS Composite-20 HPI y/y,6.3%,6.3%,6.4%
+,9:03am,USD,Low,HPI m/m,0.3%,0.4%,0.5%
+,10:00am,USD,High,CB Consumer Confidence,130.8,126.2,124.3
+,,USD,Low,Richmond Manufacturing Index,28,15,14
+,4:00pm,CAD,Low,Annual Budget Release,,,
+,4:59pm,NZD,Low,Visitor Arrivals m/m,0.0%,,-2.8%
+,6:29pm,GBP,Low,GfK Consumer Confidence,-10,-10,-9
+,6:50pm,JPY,Low,Prelim Industrial Production m/m,-6.6%,-4.1%,2.9%
+,,JPY,Low,Retail Sales y/y,1.6%,2.3%,3.6%
+,7:00pm,NZD,High,ANZ Business Confidence,-19.0,,-37.8
+,7:01pm,GBP,Low,BRC Shop Price Index y/y,-0.8%,,-0.5%
+,7:30pm,AUD,Low,Private Sector Credit m/m,0.3%,0.4%,0.3%
+,7:52pm,CNY,Medium,Manufacturing PMI,50.3,51.2,51.3
+,,CNY,Medium,Non-Manufacturing PMI,54.4,,55.3
+Wed Feb 28 2018,12:00am,JPY,Low,Housing Starts y/y,-13.2%,-4.5%,-2.1%
+,2:00am,EUR,Low,German GfK Consumer Climate,10.8,10.8,11.0
+,2:45am,EUR,Low,French Consumer Spending m/m,-1.9%,0.5%,-1.2%
+,,EUR,Low,French Prelim CPI m/m,-0.1%,0.3%,-0.1%
+,,EUR,Low,French Prelim GDP q/q,0.6%,0.6%,0.6%
+,3:00am,CHF,Medium,KOF Economic Barometer,108.0,106.2,107.6
+,3:55am,EUR,Low,German Unemployment Change,-22K,-17K,-25K
+,4:00am,CHF,Medium,Credit Suisse Economic Expectations,25.8,,34.5
+,5:00am,EUR,Medium,CPI Flash Estimate y/y,1.2%,1.2%,1.3%
+,,EUR,Medium,Core CPI Flash Estimate y/y,1.0%,1.0%,1.0%
+,,EUR,Low,Italian Prelim CPI m/m,0.1%,0.3%,0.3%
+,5:34am,EUR,Low,German 10-y Bond Auction,0.67|1.2,,0.69|1.5
+,8:30am,CAD,Medium,RMPI m/m,3.3%,1.8%,-0.9%
+,,CAD,Low,IPPI m/m,0.3%,0.5%,-0.1%
+,,USD,High,Prelim GDP q/q,2.5%,2.5%,2.6%
+,,USD,Low,Prelim GDP Price Index q/q,2.3%,2.4%,2.4%
+,9:45am,USD,Medium,Chicago PMI,61.9,64.2,65.7
+,10:00am,USD,Medium,Pending Home Sales m/m,-4.7%,0.4%,0.0%
+,10:30am,USD,High,Crude Oil Inventories,3.0M,2.4M,-1.6M
+,4:30pm,AUD,Low,AIG Manufacturing Index,57.5,,58.7
+,4:45pm,NZD,Low,Overseas Trade Index q/q,0.8%,0.5%,1.3%
+,6:50pm,JPY,Low,Capital Spending q/y,4.3%,3.1%,4.2%
+,7:30pm,AUD,High,Private Capital Expenditure q/q,-0.2%,1.0%,1.9%
+,,JPY,Low,Final Manufacturing PMI,54.1,54.0,54.0
+,8:45pm,CNY,Medium,Caixin Manufacturing PMI,51.6,51.3,51.5
+,10:45pm,JPY,Low,10-y Bond Auction,0.06|4.5,,0.09|4.6
+Thu Mar 1 2018,12:00am,JPY,Low,Consumer Confidence,44.3,44.9,44.7
+,12:30am,AUD,Low,Commodity Prices y/y,-1.0%,,-1.1%
+,1:45am,CHF,Low,GDP q/q,0.6%,0.6%,0.7%
+,2:00am,GBP,Low,Nationwide HPI m/m,-0.3%,0.2%,0.8%
+,3:15am,CHF,Low,Retail Sales y/y,-1.4%,1.1%,0.7%
+,,EUR,Low,Spanish Manufacturing PMI,56.0,54.8,55.2
+,3:30am,CHF,Low,Manufacturing PMI,65.5,64.1,65.3
+,3:45am,EUR,Low,Italian Manufacturing PMI,56.8,57.9,59.0
+,3:50am,EUR,Low,French Final Manufacturing PMI,55.9,56.1,56.1
+,3:55am,EUR,Low,German Final Manufacturing PMI,60.6,60.3,60.3
+,4:00am,EUR,Low,Final Manufacturing PMI,58.6,58.5,58.5
+,,EUR,Low,Italian Monthly Unemployment Rate,11.1%,10.8%,10.9%
+,4:30am,GBP,High,Final Manufacturing PMI,55.2,55.1,55.3
+,,GBP,Medium,Net Lending to Individuals m/m,4.7B,5.4B,5.1B
+,,GBP,Low,M4 Money Supply m/m,1.5%,0.4%,-0.6%
+,,GBP,Low,Mortgage Approvals,67K,62K,62K
+,4:49am,EUR,Low,Spanish 10-y Bond Auction,1.50|2.0,,1.58|2.5
+,5:00am,EUR,Low,Unemployment Rate,8.6%,8.6%,8.6%
+,5:03am,EUR,Low,French 10-y Bond Auction,0.90|1.9,,0.98|2.0
+,8:30am,CAD,Medium,Current Account,-16.3B,-17.8B,-18.6B
+,,USD,Medium,Core PCE Price Index m/m,0.3%,0.3%,0.2%
+,,USD,Medium,Personal Spending m/m,0.2%,0.2%,0.4%
+,,USD,Medium,Unemployment Claims,210K,226K,220K
+,,USD,Low,Personal Income m/m,0.4%,0.3%,0.4%
+,9:30am,CAD,Low,Manufacturing PMI,55.6,,55.9
+,9:45am,USD,Low,Final Manufacturing PMI,55.3,55.9,55.9
+,10:00am,USD,High,Fed Chair Powell Testifies,,,
+,,USD,High,ISM Manufacturing PMI,60.8,58.7,59.1
+,,USD,Low,Construction Spending m/m,0.0%,0.3%,0.8%
+,,USD,Low,ISM Manufacturing Prices,74.2,70.5,72.7
+,All Day,USD,Low,Wards Total Vehicle Sales,17.0M,17.2M,17.1M
+,10:34am,USD,Low,Natural Gas Storage,-78B,-71B,-124B
+,11:00am,USD,High,President Trump Speaks,,,
+,All Day,USD,Low,Total Vehicle Sales,17.1M,17.2M,17.2M
+,4:45pm,NZD,Low,Building Consents m/m,0.2%,,-9.5%
+,6:30pm,JPY,Low,Tokyo Core CPI y/y,0.9%,0.8%,0.7%
+,,JPY,Low,Unemployment Rate,2.4%,2.8%,2.8%
+,6:50pm,JPY,Low,Monetary Base y/y,9.4%,9.2%,9.7%
+,7:30pm,AUD,Low,HIA New Home Sales m/m,-2.1%,,0.7%
+Fri Mar 2 2018,2:00am,EUR,Medium,German Retail Sales m/m,-0.7%,0.8%,-1.1%
+,,EUR,Low,German Import Prices m/m,0.5%,0.4%,0.3%
+,3:00am,EUR,Medium,Spanish Unemployment Change,-6.3K,-7.2K,63.7K
+,4:30am,GBP,High,Construction PMI,51.4,50.5,50.2
+,5:00am,EUR,Low,PPI m/m,0.4%,0.4%,0.1%
+,,GBP,High,BOE Gov Carney Speaks,,,
+,8:30am,CAD,High,GDP m/m,0.1%,0.1%,0.4%
+,8:43am,GBP,High,Prime Minister May Speaks,,,
+,10:00am,USD,Medium,Revised UoM Consumer Sentiment,99.7,99.4,99.9
+,,USD,Low,Revised UoM Inflation Expectations,2.7%,,2.7%
+Sat Mar 3 2018,,,No specified,,,,

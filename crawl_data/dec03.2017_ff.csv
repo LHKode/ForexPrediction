@@ -1,0 +1,103 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+Sun Dec 3 2017,6:50pm,JPY,Low,Monetary Base y/y,13.2%,13.2%,14.5%
+,7:00pm,AUD,Low,MI Inflation Gauge m/m,0.2%,,0.3%
+,7:30pm,AUD,Medium,Company Operating Profits q/q,-0.2%,0.3%,-3.3%
+,,AUD,Low,ANZ Job Advertisements m/m,1.5%,,1.5%
+Mon Dec 4 2017,12:00am,JPY,Low,Consumer Confidence,44.9,44.8,44.5
+,3:00am,EUR,Medium,Spanish Unemployment Change,7.3K,54.3K,56.8K
+,4:30am,EUR,Low,Sentix Investor Confidence,31.1,32.3,34.0
+,,GBP,High,Construction PMI,53.1,51.2,50.8
+,5:00am,EUR,Low,PPI m/m,0.4%,0.4%,0.5%
+,All Day,EUR,Medium,Eurogroup Meetings,,,
+,10:00am,USD,Medium,Factory Orders m/m,-0.1%,-0.3%,1.7%
+,5:30pm,AUD,Low,AIG Services Index,51.7,,51.4
+,7:00pm,NZD,Low,ANZ Commodity Prices m/m,-0.9%,,-0.3%
+,7:01pm,GBP,Low,BRC Retail Sales Monitor y/y,0.6%,,-1.0%
+,7:15pm,NZD,High,RBNZ Gov Spencer Speaks,,,
+,7:30pm,AUD,High,Current Account,-9.1B,-8.8B,-9.7B
+,,AUD,High,Retail Sales m/m,0.5%,0.3%,0.1%
+,8:45pm,CNY,Medium,Caixin Services PMI,51.9,51.5,51.2
+,10:30pm,AUD,High,RBA Rate Statement,,,
+,,AUD,Medium,Cash Rate,1.50%,1.50%,1.50%
+,10:45pm,JPY,Low,10-y Bond Auction,0.06|3.7,,0.06|4.6
+Tue Dec 5 2017,12:00am,JPY,Low,BOJ Core CPI y/y,0.5%,0.5%,0.5%
+,3:15am,EUR,Low,Spanish Services PMI,54.4,55.2,54.6
+,3:45am,EUR,Low,Italian Services PMI,54.7,53.4,52.1
+,3:50am,EUR,Low,French Final Services PMI,60.4,60.2,60.2
+,3:55am,EUR,Low,German Final Services PMI,54.3,54.9,54.9
+,4:00am,EUR,Low,Final Services PMI,56.2,56.2,56.2
+,4:30am,GBP,High,Final Services PMI,53.8,55.2,55.6
+,,GBP,Low,FPC Meeting Minutes,,,
+,5:00am,EUR,Low,Retail Sales m/m,-1.1%,-0.6%,0.8%
+,All Day,EUR,Low,ECOFIN Meetings,,,
+,8:30am,CAD,High,Trade Balance,-1.5B,-2.3B,-3.4B
+,,USD,Medium,Trade Balance,-48.7B,-46.2B,-44.9B
+,9:40am,NZD,Medium,GDT Price Index,0.4%,,-3.4%
+,9:45am,USD,Low,Final Services PMI,54.5,55.4,54.7
+,10:00am,USD,High,ISM Services PMI,57.4,59.2,60.1
+,7:30pm,AUD,High,GDP q/q,0.6%,0.7%,0.9%
+Wed Dec 6 2017,2:00am,EUR,Low,German Factory Orders m/m,0.5%,-0.2%,1.2%
+,3:15am,CHF,Low,CPI m/m,-0.1%,0.0%,0.1%
+,4:10am,EUR,Low,Retail PMI,52.4,,51.1
+,5:42am,EUR,Low,German 10-y Bond Auction,0.30|1.1,,0.36|1.2
+,8:15am,USD,High,ADP Non-Farm Employment Change,190K,189K,235K
+,8:30am,CAD,Medium,Labor Productivity q/q,-0.6%,-0.4%,-0.2%
+,,USD,Low,Revised Nonfarm Productivity q/q,3.0%,3.3%,3.0%
+,,USD,Low,Revised Unit Labor Costs q/q,-0.2%,0.2%,0.5%
+,9:59am,USD,Low,IBD/TIPP Economic Optimism,51.9,54.6,53.6
+,10:00am,CAD,High,BOC Rate Statement,,,
+,,CAD,High,Overnight Rate,1.00%,1.00%,1.00%
+,10:30am,USD,High,Crude Oil Inventories,-5.6M,-3.2M,-3.4M
+,5:30pm,AUD,Low,AIG Construction Index,57.5,,53.2
+,7:30pm,AUD,High,Trade Balance,0.11B,1.37B,1.60B
+,,AUD,Low,RBA Bulletin,,,
+,10:45pm,JPY,Low,30-y Bond Auction,0.85|4.4,,0.79|3.4
+Thu Dec 7 2017,12:00am,JPY,Low,Leading Indicators,106.1%,106.2%,106.4%
+,1:45am,CHF,Low,Unemployment Rate,3.0%,3.1%,3.1%
+,2:00am,EUR,Low,German Industrial Production m/m,-1.4%,0.9%,-0.9%
+,2:45am,EUR,Low,French Trade Balance,-5.0B,-4.7B,-4.6B
+,3:00am,CHF,Low,Foreign Currency Reserves,738B,,742B
+,3:30am,GBP,Medium,Halifax HPI m/m,0.5%,0.2%,0.3%
+,4:00am,EUR,Low,Italian Quarterly Unemployment Rate,11.2%,11.2%,11.2%
+,4:47am,EUR,Low,Spanish 10-y Bond Auction,1.41|1.5,,1.54|1.5
+,5:00am,EUR,Low,Revised GDP q/q,0.6%,0.6%,0.6%
+,5:03am,EUR,Low,French 10-y Bond Auction,0.36|1.9,,0.76|1.6
+,5:37am,GBP,Low,30-y Bond Auction,1.81|1.7,,1.87|2.0
+,7:30am,USD,Low,Challenger Job Cuts y/y,30.1%,,-3.0%
+,8:30am,CAD,Medium,Building Permits m/m,3.5%,1.7%,4.9%
+,,USD,High,Unemployment Claims,236K,239K,238K
+,10:00am,CAD,Medium,Ivey PMI,63.0,62.7,63.8
+,10:30am,USD,Low,Natural Gas Storage,2B,-5B,-33B
+,11:00am,EUR,High,ECB President Draghi Speaks,,,
+,3:00pm,USD,Low,Consumer Credit m/m,20.5B,17.4B,19.2B
+,4:45pm,NZD,Low,Manufacturing Sales q/q,0.5%,,3.4%
+,6:50pm,JPY,Medium,Final GDP q/q,0.6%,0.4%,0.3%
+,,JPY,Low,Bank Lending y/y,2.7%,2.8%,2.8%
+,,JPY,Low,Current Account,2.44T,1.93T,1.84T
+,,JPY,Low,Final GDP Price Index y/y,0.1%,0.1%,0.1%
+,7:00pm,JPY,Low,Average Cash Earnings y/y,0.6%,0.8%,0.9%
+,7:30pm,AUD,Medium,Home Loans m/m,-0.6%,-2.2%,-2.5%
+,10:13pm,CNY,Medium,Trade Balance,264B,238B,254B
+,10:36pm,CNY,Low,USD-Denominated Trade Balance,40.2B,34.9B,38.2B
+Fri Dec 8 2017,12:00am,JPY,Low,Economy Watchers Sentiment,55.1,52.1,52.2
+,All Day,EUR,Holiday,Italian Bank Holiday,,,
+,2:00am,EUR,Low,German Trade Balance,19.9B,22.0B,21.9B
+,2:45am,EUR,Low,French Gov Budget Balance,-77.1B,,-76.3B
+,,EUR,Low,French Industrial Production m/m,1.9%,-0.1%,0.8%
+,4:30am,GBP,High,Manufacturing Production m/m,0.1%,0.1%,0.7%
+,,GBP,Medium,Goods Trade Balance,-10.8B,-11.5B,-10.5B
+,,GBP,Low,Construction Output m/m,-1.7%,0.2%,-1.6%
+,,GBP,Low,Consumer Inflation Expectations,2.9%,,2.8%
+,,GBP,Low,Industrial Production m/m,0.0%,0.0%,0.7%
+,7:06am,GBP,Low,NIESR GDP Estimate,0.5%,,0.5%
+,8:13am,CAD,Low,Housing Starts,252K,214K,223K
+,8:30am,CAD,Low,Capacity Utilization Rate,85.0%,84.8%,84.3%
+,,USD,High,Average Hourly Earnings m/m,0.2%,0.3%,-0.1%
+,,USD,High,Non-Farm Employment Change,228K,198K,244K
+,,USD,High,Unemployment Rate,4.1%,4.1%,4.1%
+,10:00am,USD,Medium,Prelim UoM Consumer Sentiment,96.8,99.0,98.5
+,,USD,Low,Final Wholesale Inventories m/m,-0.5%,-0.4%,-0.4%
+,,USD,Low,Prelim UoM Inflation Expectations,2.8%,,2.5%
+,8:30pm,CNY,Medium,CPI y/y,1.7%,1.8%,1.9%
+,,CNY,Medium,PPI y/y,5.8%,5.8%,6.9%
+Sat Dec 9 2017,,,No specified,,,,
